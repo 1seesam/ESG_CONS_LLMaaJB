@@ -1,0 +1,40 @@
+=== DOKUMENT START: Ökodesign-Richtlinie und Energie-Label für die Gebäudetechnik.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Gebäudetechnik
+Ökodesign-Richtlinie undEnergie-Label für dieGebäudetechnik
+AUSWIRKUNG DER ERP-RICHTLINIE
+Die Ökodesign-Richtlinie bildet den europäischen Rechtsrahmen für die Festlegung von Anforderungen an
+die umweltgerechte Gestaltung energieverbrauchsrelevanter Produkte. Offiziell heißt sie Richtlinie
+2009/125/EG des Europäischen Parlaments und des Rates vom 21. Oktober 2009 zur Schaffung eines
+Rahmens für die Festlegung von Anforderungen an die umweltgerechte Gestaltung
+energieverbrauchsrelevanter Produkte – kurz ErP-Richtlinie oder auch Ecodesign-Richtlinie. Sie ist auch der
+Grund für das europaweite Glühlampenverbot.
+Die Richtlinie sieht Mindesteffizienzanforderungen und die Deklarierung für verschiedene Produktgruppen
+vor. Für die Gebäudetechnik bedeutet dies, dass Anlagen wie z.B. Heizkessel, Klimageräte oder
+Wärmepumpen Energielabel wie bereits der Kühlschrank oder die Waschmaschine tragen werden. Das
+Label informiert mit der Angabe einer Effizienzklasse (z.B. A++ für sehr gut) und einer Farbskala von Grün
+(sparsam) bis Rot (verschwenderisch) über den Energieverbrauch. Außerdem enthält es Angaben zum
+Wirkungsgrad und dem Schallleistungspegel.
+In den ersten Jahren, ab 2015, reicht die Skala von A++ bis G, ab August 2019 soll es dann noch
+sparsamere Heizgeräte geben. Die Skala verschiebt sich nach oben und reicht vom Label A+++ bis D. So
+kann dann z.B. eine Wärmepumpe mit Effizienzklasse A bis 2018 im grünen Bereich liegen, dann aber 2019
+nur noch im gelben.
+Wie bei allen Labels ist auch hier Vorsicht geboten und schon jetzt sagen Experten, dass die beste
+Effizienzklasse nicht automatisch die beste Lösung für die Wärme- und Energieversorgung eines Gebäudes
+beschreiben wird. Denn entscheidend ist das Zusammenspiel der gesamten Anlage, nicht nur die Effizienz
+einzelner Geräte.
+Eine Übersicht, welche Produktgruppen betroffen sind und für welche bereits die Ökodesign-Richtlinie
+anzuwenden ist, steht auf den Webseiten des Bundesministeriums für Umwelt, Naturschutz, Bau und
+Reaktorsicherheit (BMUB) und des Bundesministeriums für Wirtschaft und Energie (siehe Surftipps).
+
+--- PDF SEITE 2 ---
+SURFTIPPS
+http://www.bmwi.de/Redaktion/DE/Artikel/Industrie/eu-oekodesign-richtlinie.html
+http://www.bmwi.de/Redaktion/DE/Textsammlungen/Energie/energieverbrauchskennzeichnung-von-
+produkten.html
+→
+→
+
+=== DOKUMENT ENDE ===

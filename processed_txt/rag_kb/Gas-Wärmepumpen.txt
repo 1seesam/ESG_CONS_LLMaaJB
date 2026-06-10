@@ -1,0 +1,96 @@
+=== DOKUMENT START: Gas-Wärmepumpen.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Gas-Wärmepumpen
+Nach dem 2. Hauptsatz der Thermodynamik kann Wärme nicht von selbst von einem kälteren auf einen
+wärmeren Körper übergehen. Um die „kalte” Energie aus der Umwelt zu Heizzwecken nutzen, muss das
+Temperaturniveau dieser Energie angehoben werden. Maschinen, welche die Wärme mit einem Energiehub
+anheben oder „hoch pumpen”, heißen Wärmepumpe. Auf dem Markt am häufigsten vertreten sind die
+elektromotorischen Wärmepumpen. Eine weitere energieeffiziente Wärmepumpenart sind die Gas-
+Wärmepumpen, die als Antriebsenergie Erdgas oder Bio-Erdgas nutzen. Sie werden unterteilt in Gasmotor-
+Wärmepumpen, auch Gasklimageräte genannt, Absorptions-Wärmepumpen, Diffusions-Absorptions-
+Wärmepumpen und Adsorptions-Gaswärmepumpen.
+Bild: Robur, Friedrichshafen
+ Bild: Buderus, Wetzlar
+ Bild: Vaillant, Remscheid
+Gasmotor-Wärmepumpen
+Die Gasmotor-Wärmepumpe ist die engste Verwandte der verbreiteten Elektro-Wärmepumpe. Anstatt des
+Elektromotors wird der Verdichter (Kompressor) der Wärmepumpe jedoch von einem Gasmotor
+angetrieben. Analog zur Elektrowärmepumpe wird die Umgebungswärme mit Hilfe von Kältemittel vom
+tieferen zum höheren Temperaturniveau gepumpt (Energiehub). Im Kondensator (Verflüssiger) ändert das
+Kältemittel seinen Zustand von gasförmig nach flüssig. Es gibt dabei die aufgenommene Wärme aus der
+Umgebungsluft ab. Danach nimmt das flüssige Medium im Verdampfer die Umgebungswärme auf und wird
+dabei wieder gasförmig (verdampft). Wie ein Automotor gibt der Gasmotor auch Wärme ab, die ebenfalls
+zum Heizen verwendet wird. Der Gasmotor-Wärmepumpen-Prozess kann auch umgekehrt werden. Aus der
+gleichen Maschine wird dann eine Kältemaschine, die im Sommer zum Kühlen von Gebäuden genutzt
+werden kann.
+Absorptions-Wärmepumpe
+Auch bei der Absorptions-Wärmepumpe wird die Umgebungswärme über einen Arbeitsmedium-Kreislauf
+vom tieferen zum höheren Temperaturniveau gepumpt. Statt des mechanischen Verdichters
+(Motorwärmepumpen) besitzt sie einen thermischen Verdichter. Das Arbeitsmedium ist Ammoniak, das
+innerhalb der Maschine abwechselnd gasförmig und in Wasser gelöst ist. Den Kreislauf treibt ein
+Gasbrenner an. Er erhitzt die Ammoniak-Wasser-Lösung so lange, bis das Ammoniak als Gas aus dem
+Wasser austreibt. Das heiße Ammoniakgas strömt in den Kondensator, gibt seine Wärme als Heizenergie
+ab und wird wieder flüssig. Das flüssige Ammoniak fließt in den Verdampfer, nimmt Umgebungswärme auf
+und wird wieder gasförmig. Im danach folgenden Absorber löst sich das Ammoniakgas in Wasser und gibt
+
+--- PDF SEITE 2 ---
+dadurch die aufgenommene Wärme ab. Vom Absorber wird das Wasser-Ammoniak-Gemisch wieder in den
+Austreiber gepumpt, und der Kreislauf beginnt erneut. Auch bei der Absorptions-Gaswärmepumpe kann
+durch Umkehren des Kreislaufes gekühlt statt geheizt werden. Absorptions-Wärmepumpen dienen meist
+zur Beheizung und Klimatisierung großer Gebäude.
+Diffusions-Absorptions-Wärmepumpe (DAWP)
+Als Kältemittel für die Diffusions-Absorptions-Wärmepumpe wird Ammoniak, Wasser und Helium
+verwendet. Das Wärmepumpenaggregat benötigt keine mechanische Pumpe oder Kompressoren.
+Stattdessen setzt sich der DAWP-Prozess bei Wärmezufuhr von selbst in Bewegung. Die Arbeitsmedien
+zirkulieren im Gerät aufgrund von Dichte- und Konzentrationsunterschieden. Beim Kreisprozess verdunstet
+das Kältemittel Ammoniak im Verdampfer und diffundiert in eine Helium-Atmosphäre. Dabei nimmt das
+Kältemittel Energie aus der Umwelt auf. Das Helium dient dabei nur als druckausgleichendes Hilfsgas. Das
+Dampfgemisch aus Ammoniak und Helium strömt nach dem Verdampfer in einen Absorber. Hier wird das
+Kältemittel wieder in einer wässrigen Lösung vom Helium getrennt. Die dabei frei werdende Energie steht
+dem Heizsystem zur Verfügung. Das vom Kältemittel gereinigte Helium strömt danach wieder in den
+Verdampfer, wo es erneut Kältemittel aufnimmt. Die im Absorber mit Kältemittel angereicherte wässrige
+Lösung fließt in einen Austreiber. Über einen Gasgebläsebrenner kommt Wärme in den Austreiber. Das
+Ammoniak verdampft und trennt sich im nachfolgenden Rektifikator vom nicht mehr erwünschten Wasser.
+Das strömt in den Absorber zurück. Der Ammoniakdampf steigt in den Kondensator auf und gibt weitere
+Wärme ab. Nachfolgend beginnt der Kreislauf im Verdampfer von Neuem.
+Mit einem DAWP-Gerät ist es möglich, in einem modernen Einfamilienhaus bis zu 25 Prozent Energie im
+Vergleich zu einer Brennwertanlage einzusparen. In einer Kombination mit einem Gasbrennwertgerät ist die
+DAWP-Wärmepumpe Loganova GWP von Buderus die erste serienreife Heiztechnik dieser Art.
+Adsorptions-Wärmepumpen
+Adsorptionsmaschinen arbeiten meistens mit der Stoffkombination Silicagel/Wasser. Sie werden vereinzelt
+zur Klimatisierung eingesetzt. Ein Beispiel für ein Heizgerät ist die noch in der Entwicklung befindliche
+Zeolith-Gas-Wärmepumpe. Zeolith ist ein Mineral, das Wasserdampf ansaugt, an sich bindet (adsorbiert)
+und dabei Wärme bis etwa 300°C abgibt. In dem Gerät befinden sich eine Gas-Brennwertzelle, ein Zeolith-
+Modul sowie Solarkollektoren. Im oberen Teil der Wärmepumpe befindet sich das Sorptionsmittel Zeolith.
+Im unteren Teil ist ein weiterer Wärmetauscher (Kondensator/Verdampfer) angeordnet. Als Kältemittel ist
+Wasser enthalten. Das Zeolith-Modul ist hermetisch verschlossen und arbeitet im Unterdruck.
+Der Sorptionsprozess im Modul läuft in zwei Phasen ab: In der Ersten wird das Zeolith mithilfe des
+Gasbrenners auf ca 130°C erhitzt. Dabei desorbiert das Wasser und strömt als Dampf in den unteren Teil
+des Moduls. Hier kondensiert der Dampf und gibt dabei seine Kondensationswärme an den unteren
+Wärmetauscher bzw. das Heizsystem ab. Wenn das Zeolith trocken ist und sich das gesamte Wasser im
+unteren Teil des Moduls befindet, schaltet der Brenner aus und das Modul kühlt unter
+Umgebungstemperatur ab. In der zweiten Phase kommt die Umgebungswärme ins Spiel. Die
+solarthermisch erwärmte Sole aus den Kollektoren führt dem Verdampfer „kalte” Energie zu. Das Wasser
+verdampft dadurch im unteren Teil des Moduls. In den oberen Teil strömt Dampf und wird dort vom Zeolith
+adsorbiert. Die dabei frei werdende Adsorptionswärme wird ebenfalls genutzt. Wenn das Wasser
+vollständig verdampft ist, beginnt der Prozess erneut.
+FACHWISSEN ZUM THEMA
+
+--- PDF SEITE 3 ---
+SURFTIPPS
+http://asue.de/gaswaermepumpe-
+kaelte/broschueren/509994_marktuebersicht_gaswaermepumpen_2017-18_-_broschuere
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+Entwicklung der HeizungBrennwerttechnik
+Wärmepumpen und SolarenergieLuft/Wasser-Wärmepumpen
+Wärmepumpen und SolarenergieWärmepumpen: Technik und Funktionsweise
+Wärmepumpen und SolarenergieWärmepumpen: Wärmequellen und Arten
+→
+
+=== DOKUMENT ENDE ===

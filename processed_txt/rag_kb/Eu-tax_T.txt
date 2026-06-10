@@ -1,0 +1,1866 @@
+=== DOKUMENT START: Eu-tax_T.pdf ===
+
+--- PDF SEITE 1 ---
+VER ORDNUNG (EU) 2020/852 DES EUR OP ÄISCHEN P ARL AMENTS UND DES RA TES 
+v om 18. Juni 2020 
+über die Einr ichtung eines R ahmens zur Erleichter ung nachhaltiger Inv est itionen und zur Änder ung 
+der V erordnung (EU) 2019/2088 
+(T ext v on Bedeutung für den EWR) 
+D AS EUR OP ÄISCHE P ARL AMENT UND DER RA T DER EUR OP ÄISCHEN UNION — 
+ge stützt auf den V er trag über die Arbeitsweise der Europäischen U nion, insbesondere auf Ar tikel 114, 
+auf V orschlag der Europäischen K ommission, 
+nach Zuleitung des Entwurfs des Gesetzg ebungsakts an die nationalen P arlamente, 
+nach Stellun gnahme des Europäischen Wir tschaf ts- und Sozialausschusse s (
+1
+), 
+ge mäß dem ordentlic hen Gesetzg ebungsverfahren (
+2
+), 
+in Er wägung nachst ehender Gründe: 
+(1) Ar tikel 3 Absatz 3 des V er trags über die Europäische Union stellt auf die Er r ic htung eines Binnenmarkts ab, mit dem 
+unte r anderem auf der Gr undlag e eines ausgew oge nen Wir tsch af tswachst ums sowie eines hohen Maßes an 
+U mweltsc hutz und V erbesser ung der Um weltqualität auf die nach haltige Entwicklun g Europas hingewirkt wird. 
+(2) Am 25. Sept ember 2015 hat die VN-Generalversammlung einen neuen g lobalen R ahmen zur nachhal tigen 
+Entwicklung verabschied et : die Agen da 2030 für nac hhaltige Entwicklung (im Folgende n „ Agen da 2030“). Die 
+Agen da 2030 hat als Ker nstück die Ziele für nac hhaltige Entwick lung und dec kt die drei Dimensionen der 
+Nac hhaltigkeit ab: die wir tsc haf tliche , soziale und die Um weltdimension. Die Mitt eilung der K ommission vom 
+22. No vember 2016 mit dem Titel „ A uf dem W eg in eine nachhal tige Zukunf t“ verbindet diese Nac hhaltigkeitsziele 
+mit dem politischen R ahmen der U nion, um sic herzustellen, dass bei allen innen- und außenpoli tischen 
+Maßnahmen und Initiativen der U nion diese Ziele von Beginn an mitberücksichtigt werden. In seinen Sch lussf ol-
+ge r unge n vom 20. Juni 2017 hat der Rat die Entsc hlossenheit der U nion und ihrer Mitg liedstaaten bekräf tigt, die 
+Agen da 2030 v ollständig, k ohärent, umfassend, inte grativ und wirk sam, in enge r Zusammenarbeit mit den 
+P ar tner n und anderen Akt euren, umzusetzen. Die K ommission hat am 11. Dezember 2019 ihre Mitteilung „über 
+den europäischen Grünen Deal“ veröffentlic ht. 
+(3) Am 5. Oktober 2016 wurde das im R ahmen des R ahmenübereink ommens der V ereinten Nationen über 
+Klimaänder ungen ges chlossene Ü bereink ommen von P ar is von der Union g enehmigt (
+3
+). In Ar tik el 2 Absatz 1 
+Buchstab e c des Ü bereink ommens v on P ar is wird das Ziel festg elegt, entschlossener geg en Klimaänder ungen 
+vor zugehen, indem unt er anderem die Finanzmitt elf lüsse mit einem W eg hin zu einer hinsichtlic h der 
+T reibhausgase emissionsar men und klimaresiliente n Entwicklung in Einklang gebrac ht werden. In diesem 
+Zusammenhang hat der Europäische R at am 12. Dezember 2019 Schlussf olgerun g en zum Klimawandel 
+angeno mmen. V or diesem Hintergr und ste llt diese V erordnung einen wich tigen Sch r itt hin zum Ziel, bis 2050 eine 
+klimaneutrale Union zu er reichen, dar . 
+(4) Nac hhaltigkeit und der Ü bergang zu einer sic heren, klimaneutralen, klimaresilienten, ressourceneffi zient eren und 
+stärker kreislauf or ientier ten Wir tscha f t sind v on zentraler Bedeutung für die Sic her ung der langfr istigen 
+W ettbewerbsf ähigkeit der Wir tsch af t in der U nion. Nac hhaltigk eit steht seit vielen Jahren im Mittel punkt der 
+U nionspolitik, und ihre soziale und umwe ltpolitische Dimension wird im V er trag über die Europäische U nion und 
+im V er trag über die Arbeitsweise der Europäisch en Union (AEUV) anerkannt. 
+(
+1
+) ABl. C 62 vom 15.2.2019, S. 103. 
+(
+2
+) Standpunkt des Europäischen P arlaments vom 28. März 2019 (noch nicht im Amtsblatt veröff entlicht) und Standpunkt des Rates in 
+erster Lesung vom 15. Apr il 2020 (ABl. C 184 vom 3.6.2020, S. 1). Standpunkt des Europäischen P arlaments vo m 17. Juni 2020 
+(noch nicht im Amtsblatt veröffent licht). 
+(
+3
+) Besc hluss (EU) 2016/1841 des Rates vom 5. Oktober 2016 über den Abschluss des im Rahmen des Rahmenübereinko mmens der 
+V ereinten Nationen über Klimaänder ungen gesc hlossenen Ü bereink ommens vo n P ar is im Namen der Europäisc hen Uni on (ABl. L 282 
+vo m 19.10.2016, S. 1). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/13
+
+--- PDF SEITE 2 ---
+(5) Im Dezember 2016 beauf tragte die K ommission eine hochr angige Sachvers tändigengr uppe mit der A usarbeitung 
+einer übergeor dneten und umfassenden Strategie der U nion für ein nachhaltig es Finanzwesen. In dem am 31. Januar 
+2018 veröff entlicht en Ber icht der hochra ngigen Sachverständig engr uppe wird g ef order t, ein tec hnisch robust es 
+Klassifika tionssyst em auf Unionseb ene einzuführen, um Klarheit darüber zu schaff en, welc he Tätigkeit en als „grün“ 
+oder „nach haltig“ g elten sollen. 
+(6) In ihrer Mitt eilung vom 8. März 2018 veröffentli cht e die K ommission ihren Aktionsplan „Finanzier ung nac hhaltigen 
+W achst ums“, in dem eine ehrgeizi ge und umfassende Strateg ie für nachhal tige Finanzier ungen in die W eg e ge leitet 
+wurde. Eines der Ziele dieses Aktionsplans ist die Neuausr ich tung von Kapi talf lüssen hin zu nachhal tigen 
+Inv estitionen, um ein nach haltiges und integrativ es W achst um zu schaff en. Die Einführ ung eines einheitlichen 
+Klassifika tionssyst ems für nachhaltig e Tätigkei ten ist die wich tigste und dr ing lic hste Maßnahme, die im Aktionsplan 
+vor gesehen ist. Im Aktionsplan wird anerkannt, dass die V erlagerun g von Kapi talf lüssen hin zu nachhal tigeren 
+Tätigkei ten durch ein gemeinsames g anzheitliches V erständnis der ök ologisc hen Nac hhaltigk eit von Tätigkei ten und 
+Inv estitionen unt er mauer t werden muss. Als erst er Schritt würde den Anleger n anhand klarer Leitlinien über 
+Tätigkei ten, die zu umweltpoli tischen Zielen beitragen k önnen, Inf or mationshilf e darüber gebot en werden, mit 
+welc hen Inv estitionen ök ologisc h nachhal tige Wir tschaf tstätigkei ten finanzier t werden. W eit ere Leitlinien zu den 
+Tätigkei ten, die zu anderen Nachhaltigk eitszielen, einschließlic h sozialer Ziele, beitrage n, k önnten zu einem 
+späte ren Zeitpunkt erarbeitet werden. 
+(7) Ang esichts des systemisc hen Charakters der g lobalen U mweltpr obleme bedarf es eines system- und 
+zukunf tsor ientier ten Ansatzes für die ök ologisc he Nac hhaltigkeit, mit dem den zunehmenden negativen T rends wie 
+Klimawandel, V erlust an biologisch er Vielfalt, weltweit über mäßige Inanspr uchnahme v on Ressourcen, 
+Nahr ungsknappheit, Ozonabbau, V ersauer ung der Ozeane, V erschlec hter ung des Süßwassersystems und 
+Landsyst emwandel sowi e das Aufk ommen neuer Bedrohungen, einsc hließlich gef ährlicher Chemikalien und ihrer 
+k ombinier ten Wirkung en, beg egnet wird. 
+(8) Im Besc hluss 1386/2013/EU des Europäischen P arlaments und des R ate s (
+4
+) wurde eine verstärkte Finanzier ung 
+umwelt- und klimabezog ener A usgaben durc h den Pr ivatsektor g ef order t, insbesondere durc h die Sch affung v on 
+Anreizen und Methoden, mit denen Unt er nehmen dazu ange regt werden, die umwe ltbezogenen K osten ihres 
+U nter nehmens sowie die V or teile zu bemessen, die sic h aus der Nutzung v on U mweltd ienstleistungen ergeb en. 
+(9) U m die Nac hhaltigkeits ziele in der Union zu ver wirkliche n, müssen die Kapitalf lüsse hin zu nachhaltig en 
+Inv estitionen ge lenkt werden. Es ist von zentraler Bedeutung, das P otenzial des Binnenmarkts für die 
+V er wirklichung dieser Ziele v oll auszusc höpfen. In diesem Zusammenhang ist es entscheidend, Hinder nisse zu 
+beseitige n für die effi zient e Lenkung v on Kapital hin zu nachhal tigen Investitionen im Binnenmarkt und die 
+Entstehung neuer Hinder nisse zu ver meiden. 
+(10) Ang esichts des Ausm aßes der Herausf order ung und der K osten, die durch Untätigk eit oder verzöger tes Handeln 
+entsteh en, sollt e das Finanzsystem nac h und nach angepasst werden, in der es die Wir tschaft so unterstützt, dass 
+diese nac hhaltige funktionieren kann. Zu diesem Zweck muss ein nachhal tiges Finanzwesen zum Standard werden, 
+und müssen die Auswirkung en von Finanzprodukt en und Finanzdienstleistungen auf die Nac hhaltigkeit 
+berücksicht igt werden. 
+(11) Die Bereitste llung v on Finanzprodukt en, mit denen ök ologisc h nachhal tige Ziele ver f olgt werden, ist ein wirksames 
+Mitt el, um pr ivat e Investitionen in nach haltige Tätigkei ten zu lenk en. Anf order ungen an die V er marktung v on 
+Finanzprodukt en oder U nter nehmensanleihen als ök ologisc h nach haltige Investi tionen, einschließlic h der v on den 
+Mitg liedstaaten und der U nion f estgelegt en Anf order ungen , die die Finanzmarktte ilnehmer oder Emitten ten erfüllen 
+müssen, um nationale Kennzeic hnung en ver wenden zu dürfen, sollen das Anleger ver trauen und das Bewusstsein 
+für die Um weltauswirkung en dieser Finanzprodukt e oder Unt er nehmensanleihen stärken, die Sic htbarkeit erhöhen 
+und Bedenken in Bezug auf „Greenwas hing“ ausräumen. Im Sinne dieser V erordnung wird „Greenwas hing“ als die 
+Praxis bezeichn et, durch die die Bewerbung eines Finanzprodukts als umweltfreundlic h einen unfai ren 
+W ettbewerbsv or teil zu erlangen, obwo hl den gr undlegenden Um weltstandards nicht entsproch en wird. Derzeit 
+haben einig e Mitg liedstaaten bereits Kennzeic hnungssysteme eingeführ t. Diese beste henden Systeme ber uhen auf 
+verschied enen Klassif izier ungsystemen für ök ologisch nach haltige Wir tschaf tstätigke iten. V or dem Hint ergr und der 
+im Rahmen des Ü bereink ommens von P ar is und auf U nionsebene getroff enen politischen Zusag en dürf ten immer 
+(
+4
+) Besc hluss Nr . 1386/2013/EU des Europäischen Parlaments und des R at es vo m 20. November 2013 über ein allgemei nes Um weltakti-
+onsprogramm der Union für die Zeit bis 2020 „Gut leben innerhalb der Belastbarkeitsgrenzen unseres Planeten“ (ABl. L 354 vom 
+28.12.2013, S. 171). 
+DE Amtsblatt der Europäischen Uni on L 198/14                                                                                                                                         22.6.2020
+
+--- PDF SEITE 3 ---
+mehr Mitg liedstaat en Kennzeichnungssyst eme einführen oder andere Anf order ungen an Finanzmarkttei lnehmer 
+oder Emitten ten für die Bewerbung v on Finanzprodukt en oder Unt er nehmensanleihen, die als ök ologisc h 
+nach haltig ver marktet werden, festleg en. Dabei würden die Mitg liedstaate n ihre eigenen nationalen Klassif izie­
+r ungssystem e ver wenden, um zu bestimmen, welc he Investitionen als nach haltig eingestuf t werden. W enn solc he 
+nationalen Kennzeic hnungssystem e oder Anf order unge n unte rschiedlic he Kr it er ien ver wenden, anhand deren 
+Wir tsch af tstätigkeit en als ök ologisch nac hhaltig eing estuf t werden, so würde das Anleg er dav on abhalten, 
+grenzübersc hreitend zu inve stieren, da dadurch der V erg leich verschiedener Inv estitionsmög lichk eit en ersc hwer t 
+wird. Darüber hinaus müssten Wir tschaf tst eilnehmer , die Inv estitionen aus der ge samten Union anziehen möcht en, 
+in den untersc hiedlichen Mitg liedstaaten untersc hiedliche Kr ite r ien erfüllen, damit ihre Tätigkeit en als ök ologisc h 
+nach haltig eing estuf t werden k önnen. Ohne einheitlic he Kr it er ien würden daher höhere K osten und erheblic he 
+Neg ativanreize für Wir tschaf tst eilnehmer beim Zugang auf grenzübersc hreitende Kapi talmärkte für nac hhaltige 
+Inv estitionen entsteh en. 
+(12) Die Kr iter ien, anhand deren bestimmt wird, ob eine Wir tschaf tstätigkei t ök ologisc h als nac hhaltig einzustufen ist, 
+sollt en auf Unionsebene har monisier t werden, um Hinder nisse für das Funktionieren des Binnenmarkts im Hinblick 
+auf die Mobilisier ung v on Finanzmitt eln für nac hhaltige Projekt e zu beseitigen und das künf tige Auf tret en v on 
+Hinder nissen für solc he Projekte zu verhinder n. Eine derar tige Har monisier ung würde es den Wir tsch af ts­
+tei lnehmer n erleicht er n, grenzüberschreit end Finanzmittel für ihre ök ologisc h nach haltigen Tätigkeit en zu 
+mobilisieren, da ihre Wir tscha f tstätigkeit en dann anhand einheitlic her Kr it er ien bewer tet werden k önnten, um als 
+zugr unde liegende W er te für ök ologisch nachhaltig e Investitionen ausg ewählt zu werden. Eine derar tige 
+Har monisier ung würde somit grenzüberschreit ende nac hhaltige Investitionen innerhalb der U nion erleicht er n. 
+(13) Erläute r n die Finanzmarktteilnehmer den Anlegern nicht , inwi efer n die Tätigkeit en, in die sie investieren, zu 
+U mweltzielen beitragen , oder ziehen die Finanzmarktteilnehmer unt ersch iedliche K onzep te heran, um näher zu 
+bestimmen, was „ök ologisc h nac hhaltige“ Wir tschaftstät igke iten sind, so wird es für die Anleg er unver hältnismäßig 
+aufwendig, versc hiedene Finanzprodukt e zu prüfen und miteinander zu verg leichen. Es wurde festg este llt, dass 
+solc he Praktiken Anleg er dav on abhalt en, in ök ologisc h nac hhaltige Finanzprodukt e zu inve stieren. Mangelndes 
+Anleg er ver trauen wirkt sic h überdies deutlich negativ auf den Markt für nachhal tige Investitionen aus. Zudem hat 
+sich g ezeigt, dass nationale V orschr if ten und marktg estützte Initiativen, mit denen das Problem auf einzelstaatlich er 
+Ebene angeg angen werden soll, zu einer Zersplitter ung des Binnenmarkts führen. Lege n die Finanzmarkttei lnehmer 
+offen, inwief er n und in welc hem U mf ang die Finanzprodukte, die als „ök ologisc h nac hhaltig“ zur V erf ügung gest ellt 
+werden, in Aktivitäten inv estieren, die die Kr iter ien für ök ologisc h nac hhaltige Wir tschaftstät igke iten g emäß dieser 
+V erordnung erf üllen, und ver wenden die Finanzmarktteilnehmer unionsweit einheitliche Kr iter ien, so würde das 
+den Anleg er n helfen, Investitionsmög lichk eit en grenzüberschreit end miteinander zu verg leichen, und es würde 
+Anreize für Bet eiligungsunter nehmen sch affen, ihre Geschäft smodelle ök ologisch nachhaltig er zu gestalt en. Zudem 
+würden die Anleg er mit größerem V er trauen in ök ologisch nachhal tige Finanzprodukt e in der ges amten Uni on 
+inve stieren, was dazu beiträgt, das Funktionieren des Binnenmarkts zu verbesser n. 
+(14) U m die beste henden Hinder nisse für das Funktionieren des Binnenmarkts zu beseitige n, und um zu verhinder n, dass 
+solc he Hinder nisse in Zukunf t entstehen, sollte vor ges chr ieben werden, dass die Mitg liedstaat en und die U nion ein 
+ge meinsames K onzep t für ök ologisch nac hhaltige Inv estitionen ver wenden, wenn sie auf nationaler Ebene und auf 
+U nionsebene Anf order ungen an die Finanzmarkttei lnehmer oder Emittent en zum Zweck der Kennzeic hnung v on 
+Finanzprodukt en oder U nter nehmensanleihen, die als ök ologisch nac hhaltig ver marktet werden, einführen. U m 
+eine Marktfragmentier ung und die Beeinträcht igung von V erbraucher - und Anleg er inter essen inf olge 
+unte rschiedlic her V orst ellungen dav on, was ök ologisch nac hhaltige Wir tscha f tstätigkeit en sind, zu ver meiden, 
+sollt en sic h die nationalen Anf order ungen , die die Finanzmarkttei lnehmer oder Emitten ten erfül len müssen, um 
+Finanzprodukt e oder U nter nehmensanleihen als „ök ologisc h nac hhaltig“ zu bewerben, auf die einheitlichen 
+Kr iter ien für ök ologisch nach haltige Wir tschaf tstätigkei ten stützen. Zu diesen Finanzmarktte ilnehmer n und 
+Emitten ten zählen Finanzmarkttei lnehmer , die ök ologisc h nach haltige Finanzprodukt e bereitstellen, sowie 
+Nicht fi nanzunternehme n, die ök ologisch nach haltige U nte r nehmensanleihen ausgeben. 
+(15) Die Festlegung v on Kr ite r ien für ök ologisc h nach haltige Wir tschaf tstätigkei ten k önnte Wir tscha f tsteilnehmer , die 
+nicht unt er diese V erordnung f allen, dazu veranlassen, auf ihrer Intern etseit e freiwillig Inf or mationen über ihre 
+ök ologisch nac hhaltigen Wir tsch af tstätigkeit en zu veröff entlichen und offenzuleg en. Anhand dieser Inf or mationen 
+werden die Finanzmarkttei lnehmer und andere einsc hlägige Akteure auf den Finanzmärkten jene Wir tschaf ts­
+tei lnehmer einfac h er mitte ln k önnen, die ök ologisc h nac hhaltige Wir tscha f tstätigkeit en ausüben; aber die 
+betreffe nden Wir tsch af tsteilne hmer k önnten auf diese W eise auch leich ter Finanzmitt el für ihre ök ologisc h 
+nach haltigen Tätigkei ten mobilisieren. 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/15
+
+--- PDF SEITE 4 ---
+(16) Eine Klassifikation ök ologisc h nach haltiger Wir tschaf tstätigkei ten auf U nionsebene dürf te der Entwicklun g künf tige r 
+politischer Strategien der U nion zugunste n eines nachhaltig en Finanzwesens f örderlic h sein, auc h hinsic htlich der 
+Festlegung unionsweiter Standards für ök ologisc h nac hhaltige Finanzprodukte und schli eßlich der Einführ ung v on 
+Kennzeic hnungen, mit denen die Einhaltung dieser Standards in der ge samten Union f ör mlic h anerkannt wird. 
+Diese Klassifika tion dürf te ebenf alls die Gr undlage für weit ere wir tsch af tliche und regulatori sche Maßnahm bilden. 
+Zur Bestimmung des Grads der ök ologisc hen Nachhaltigk eit von Investi tionen bedar f es einheitlic her recht licher 
+Anf order ungen , die auf einheitlic hen Kr it er ien für ök ologisc h nach haltige Wir tsch af tstätigkei ten ber uhen und auf 
+die sich künf tige Rechts vorsc hr if ten der Union stützen k önnen, mit denen die V erlagerun g v on Investitionen hin zu 
+ök ologisch nachhal tigen Wir tschaftstät igke iten erleicht er t werden soll. 
+(17) Im Zusammenhang mit der V er wirklichung der Nac hhaltigk eitsziele in der U nion haben politische Entscheidung en 
+wie die Sch affung eines Europäische n Fonds für strateg isch e Inv estitionen wirk sam dazu beigetrag en, neben 
+öffentlic hen Ausg aben auc h pr ivate Inv estitionen hin zu nac hhaltigen Investitionen zu lenken. In der V erordnung 
+(EU) 2015/1017 des Europäisch en P arlaments und des Rates (
+5
+) wurde fe stgelegt, dass 40 % der im R ahmen des 
+Europäischen Fonds für strateg ische Investitionen durc hgefüh r ten Infrastr uktur - und Innovatio nsprojekte zum 
+Klimaschut zziel beitragen sollen. Gemeinsame Kr it er ien zur Bestimmung der Nac hhaltigk eit v on Wir tschaftstä­
+tigkeit en, einschließ lich deren Auswirkung en auf die U mwelt, k önnten die Gr undlage für künf tige ähnliche 
+Initiativen der U nion zur Mobilisier ung von Inv estitionen bilden, mit denen klimarelevante oder andere 
+U mweltziele verfo lgt werden. 
+(18) Zur W ahr ung der Anleger inte ressen sollten Fondsver walter und institutionelle Anleger , die Finanzprodukt e anbiet en, 
+offenleg en, auf welc he W eise und in welc hem U mf ang sie die Kr it er ien für ök ologisc h nach haltige Wir tsch af tstä­
+tigkeit en anwe nden, um die ök ologisc he Nachhaltigk eit ihrer Inv estitionen zu er mitteln. Die offe ngelegt en 
+Inf or mationen sollt en es den Anleger n er mög lichen, nach zuvollziehen, wie hoch der prozentuale Anteil der 
+Inv estitionen, die in dem Finanzprodukt zugr unde liegen , in die ök ologisch nach haltigen Wir tscha f tstätigkeit en an 
+der Gesamtheit der Inv estitionen ist, die dem Finanzprodukt zugr unde liege n und somit den Anleg er n er mög lichen, 
+nach zuvollziehen, inwi eweit die Investition als ök ologisch nachhal tig gilt. Gehen die Investitionen, die dem 
+Finanzprodukt zugr unde liegen , in eine Wir tschaf tstätigkei t, die zur Er reichun g eines U mweltziels beiträgt, so sollt e 
+in den off enzulegenden Inf or mationen angeg eben werden, zu welchem U mweltziel oder zu welc hen Um weltzielen 
+die dem Finanzprodukt zugr unde liegen de Inv estition beiträgt, sowie fer ner , wie und in welchem Um fang mit den 
+dem Finanzprodukt zugr unde liege nden Investitionen ök ologisc h nac hhaltige Wir tschaftstät igke iten finanzier t 
+werden, und sollt e Einzelheiten zu den jeweilig en Ant eilen von er mög lichende n Tätigkei ten und Ü bergangstä­
+tigkeit en einsch ließen. Die K ommission sollt e präzisieren, welc he Inf or mationen in diesem Zusammenhang 
+offenzuleg en sind. Die nationalen zuständigen Behörden sollt en anhand dieser Inf or mationen leic ht über prüfen 
+k önnen, ob die Offenleg ungspf licht en eingehalt en werden, und deren Einhaltung ge mäß den ge ltenden nationalen 
+Rechts vorsc hr if ten durch setzen. W enn Finanzmarkttei lnehmer die Kr it er ien für ök ologisch nach haltige 
+Inv estitionen nicht berüc k sic htigen, sollt en sie eine entsprec hende Erklär ung abgeben. Um die U mg ehung der 
+Offe nlegungspf lich t zu verhinder n, sollt e diese Pf lich t auc h dann gelt en, wenn Finanzprodukt e mit ök ologischen 
+Merkmalen bewor ben werden, einsch ließlich solcher , die im weit esten Sinne auf den Um weltschut z abzielen. 
+(19) Die in der v orliegenden V erordnung fe stgelegt en Offenlegungspf licht en ergänzen die nachhal tigkeitsbezog enen 
+Offe nlegungsvorsc hr if te n der V erordnung (EU) 2019/2088 des Europäischen P arlaments und des R ate s (
+6
+). U m die 
+T ransparenz zu erhöhen und einen objektiven V erg leich smaßstab für Endanleger bereitzustellen , anhand dessen die 
+Finanzmarkttei lnehmer den Anteil an Inv estitionen, mit denen ök ologisc h nac hhaltige Wir tsch af tstätigkeit en 
+fi nanzier t werden, angeb en, werden mit der v orliegenden V erordnung die V orschr if ten zur T ransparenz in 
+vor ver trag liche n Off enlegungen und regelmäßig en Ber icht en, die in der V erordnung (EU) 2019/2088 festg elegt 
+sind, ergän zt. Die Begr iffsbestimmung „nachhaltig e Investition“ in der V erordnung (EU) 2019/2088 umf asst 
+Inv estitionen in ök ologisc h nach haltige Wir tsch af tstätigkei ten im Sinne der vor liegenden V erordnung. Darüber 
+hinaus wird in der V erordnung (EU) 2019/2088 eine Inv estition nur dann als nac hhaltige Inv estition erac htet, wenn 
+diese kei ne der f estgelegt en Ziele der genannt en V erordnung „erheblich beeinträchtigt“. 
+(
+5
+) V erordnung (EU) 2015/1017 des Europäischen Parlaments und des R at es vo m 25. Juni 2015 über den Europäisc hen Fonds für 
+strateg ische Invest itionen, die europäische Plattf or m für Investitionsberatung und das europäische Invest itionsvorhaben por tal sowi e 
+zur Änder ung der V erordnungen (EU) Nr . 1291/2013 und (EU) Nr . 1316/2013 — der Europäische Fonds für strategisc he 
+Invest itionen(ABl. L 169 vom 1.7.2015, S. 1). 
+(
+6
+) V erordnung (EU) 2019/2088 des Europäischen Parlaments und des Rates vom 27. November 2019 über nachhaltigk eitsbezogene 
+Off enlegungspf licht en im Finanzdienstleistungssekt or (ABl. L 317 vo m 9.12.2019, S. 1). 
+DE Amtsblatt der Europäischen Uni on L 198/16                                                                                                                                         22.6.2020
+
+--- PDF SEITE 5 ---
+(20) U m die Zuverlässigk eit, K ohärenz und V erg leichb arkeit v on nac hhaltigkeitsbezog enen Offe nlegungspf lich ten im 
+Finanzdienstleistungssekt or zu g ewährleisten, sollt en bei Offenleg ungen im Zusammenhang mit der vor liegenden 
+V erordnung die best ehenden Nac hhaltigk eitsindikatoren so weit herangezog en werden, wie es in der Entsc hließung 
+des Europäischen P arlaments über ein nach haltiges Finanzwesen vom 29. Mai 2018 (
+7
+) vor gesc hlag en wurde. In 
+diesem Zusammenhang sollt en die tec hnischen Bewer tungskr it er ien so weit wie mög lich auf den in der V erordnung 
+(EU) 2019/2088 g enannten Nac hhaltigkeitsindikat oren ber uhen. 
+(21) W as Wir tschaftstät igke iten von U nter nehmen, die nac h der v orliegenden V erordnung nicht zur Offe nlegung v on 
+Inf or mationen ver pf licht et sind, anbelangt, so k önnte es A usnahmefälle ge ben, in denen Finanzmarkttei lnehmer die 
+relevanten Inf or mationen nach ver nünf tigem Er messen nicht besc haffen k önnen, die erforderlic h sind, um die 
+Ang leic hung an die tec hnisc hen Bewer tungskr it er ien, die g emäß dieser V erordnung festg elegt wurden, zuverlässig 
+zu bestimmen. In solc hen A usnahmefällen und nur für die Wir tscha f tstätigkeit en, für die kei ne vollständig en, 
+zuverlässig en und zeitnahen Inf or mationen beschaff t werden k onnten, sollt en Finanzmarktteilnehmer ergän zende 
+Bewer tungen und Schät zungen auf der Gr undlage v on Inf or mationen aus anderen Quellen heranziehen k önnen. 
+Solc he Bewer tungen und Schätzung en sollten nur für begrenzte und spezifische T eile der benötigten Dat enelemente 
+ersatzweise herangezog en und umsic htig ausg elegt werden. Um sicherzust ellen, dass die Offenlegung für Anleg er 
+klar und nicht ir reführend ist, sollt en Finanzmarkttei lnehmer die Gr undlage für ihre Schlussf olgerun g en sowie die 
+Gründe dafür , war um zum Zweck e der Offe nlegung für Endanleger solche ergänzenden Bewer tunge n und 
+Schätz ungen herangezog en werden müssen, schlüss ig darlege n. 
+(22) In ihrer Mitt eilung v om 20. Juni 2019 über „Leitlinien für die nichtfinanzielle Ber icht erstattung: Ergänzung zur 
+Ber ich terstattung über klimabezog ene Inf or mationen“ empfiehlt die K ommission, dass bestimmt e große 
+U nter nehmen, auf der Gr undlag e des durch diese V erordnung g eschaff enen R ahmens, über bestimmte wich tigste 
+klimabezog ene Leistungsindikatoren Ber ic ht erstatten. Insbesondere Angaben dieser großen Nicht- 
+Finanzunte r nehmen über den Anteil der Umsatzerlöse der Inv estitionsausgaben (CapEx) oder der Betr iebsausgaben 
+(OpEx), die mit ök ologisch nachhal tigen Wir tschaftstät igke iten verbunden sind, sowie über wicht igste Leistungsin-
+dikatore n, die auf große Finanzunt er nehmen zug eschnitt en sind, sind für Anleg er nützlich, die an U nter nehmen 
+inter essier t sind, deren Produkt e und Dienstleistungen wesentlich zur Er reichun g eines der in dieser V erordnung 
+fe stgelegt en U mweltziele beitragen . Es ist daher angebrac ht, die jährlic he V eröffen tlichung solc her wichtigst er 
+Leistungsindikatore n durch diese großen Unt er nehmen vor zuschreibe n und diese Anf order ung in delegier te n 
+Rechts akten, insbesondere in Bezug auf große Finanzunte r nehmen, näher zu definieren. Es wäre zwar un verhält-
+nismäßig aufwendig, eine solc he Anf order ung auf kleinere Unt er nehmen auszuweiten, doch k önnen kleinere 
+U nter nehmen freiwillig besch ließen, solc he Inf or mationen zu veröff entlichen. 
+(23) Damit die ök ologisc he Nac hhaltigkeit einer Wir tschaf tstätigkei t bestimmt werden kann, sollte eine v ollständige Liste 
+von U mweltzielen ausg earbeitet werden. Die sechs Um weltziele, welc he diese V erordnung abdeck en sollte, lauten: 
+Klimaschut z, Anpass ung an den Klimawandel, nac hhaltige Nutzung und Schutz von W asser - und Meeresressourcen, 
+Ü bergang zu einer Kreislaufwir tschaft, V er meidung und V er minder ung der Um weltversc hmutzung, und Schut z und 
+Wiederherste llung der Biodiversität und der Ök osysteme. 
+(24) Eine Wir tschaf tstätigkei t, mit der das Um weltziel des Klimaschutzes verfo lgt wird, sollt e wesentlich dazu beitragen , 
+die T reibhausga semissionen zu stabilisieren, indem sie ver mieden oder ver r inge r t werden oder der Speic her ung v on 
+T reibhausgasen verstärkt wird. Die Wir tschaftstät igke it sollt e gemäß dem langfr istig en T em peraturziel des 
+Ü bereink ommens von P ar is st ehen. Dieses Um weltziel sollte entsprechend dem einsch lägigen U nionsrecht, 
+einschließ lich der Richtlinie 2009/31/EG des Europäische n Parlaments und des R ates (
+8
+), ausgelegt werden. 
+(25) Eine Wir tschaf tstätigkei t, mit der das Um weltziel der Anpassung an den Klima wandel ver f olgt wird, sollt e wesentlic h 
+dazu beitragen , die nac hteilig en Auswirkung en des derzeitigen oder künf tigen Klimas oder die Gefahr nacht eilig er 
+Aus wirkungen auf die Tätigke it selbst oder Mensc hen, die Natur oder V er möge nswer te zu ver r ing er n oder zu 
+ver meiden. Dieses U mweltziel sollte entsprechend dem einsc hlägigen U nionsrecht und dem Sendai-Rah men für 
+Kat astrophen vor sorge 2015-2030 ausg elegt werden. 
+(
+7
+) ABl. C 76 vom 9.3.2020, S. 23. 
+(
+8
+) Ric htlinie 2009/31/EG des Europäischen Pa rlaments und des R at es vom 23. Apr il 2009 über die geologisc he Speicherung von 
+K ohlendio xid und zur Änder ung der Richtlinie 85/337/EW G des R at es sowie der Richtlinien 2000/60/EG, 2001/80/EG, 2004/35/EG, 
+2006/12/EG und 2008/1/EG des Europäischen P arlaments und des Rates sowi e der V erordnung (EG) Nr . 1013/2006 (ABl. L 140 vo m 
+5.6.2009, S. 114). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/17
+
+--- PDF SEITE 6 ---
+(26) Das Um weltziel der nachhaltig en Nutzung und des Schutz es der W asser - und Meeresressourcen sollte entsprechend 
+den einsc hlägigen Rech tsvorsc hr if ten der Union ausg elegt werden, einschließlic h der V erordnung (EU) 
+Nr . 1380/2013 des Europäischen P arlaments und des Rates (
+9
+) und der Rich tlinien 2000/60/EG (
+10
+), 2006/7/EG (
+11
+), 
+2006/118/EG (
+12
+), 2008/56/EG (
+13
+) und 2008/105/EG (
+14
+) des Europäischen P arlaments und des R ates , der 
+Richt linien 91/271/EW G (
+15
+), 91/676/EW G (
+16
+) und 98/83/EG (
+17
+) des R ates und des Besc hlusses (EU) 2017/848 der 
+K ommission (
+18
+) sowie der Mitteilung en der K ommission vom 18. Juli 2007 mit dem Tit el „ Antwor ten auf die 
+Herausf order ung von W asserknappheit und Dür re in der Europäischen Uni on“, v om 14. No vember 2012 mit dem 
+Titel „Ein Bluepr int für den Schut z der europäisch en W asser ressourcen“, sowie vom 11. März 2019 mit dem Tite l 
+„Strat egischer Ansatz der Europäischen Union für Arzneimittel in der U mwelt“. 
+(27) Das Um weltziel des Ü bergangs zu einer Kreislaufwir tschaf t sollt e entsprec hend den einschlägig en Rech tsvorsc hr if ten 
+der Union im Bereic h Kreislaufwir tschaf t, Abfa ll und Chemikalien ausg elegt werden, einschließlic h der 
+V erordnungen (EG) Nr . 1013/2006 (
+19
+), (EG) Nr . 1907/2006 (
+20
+) und (EU) 2019/1021 (
+21
+) des Europäische n 
+P arlaments und des Rates, der Richtlinien, 94/62/EG (
+22
+), 2000/53/EG (
+23
+), 2006/66/EG (
+24
+), 2008/98/EG (
+25
+), 
+2010/75/EU, (
+26
+) 2011/65/EU (
+27
+), 2012/19/EU (
+28
+)„ (EU) 2019/883 (
+29
+) und (EU) 2019/904 (
+30
+) des Europäisch en 
+(
+9
+) V erordnung (EU) Nr . 1380/2013 des Europäischen P arlaments und des Rates vom 11. Dezember 2013 über die Gemeinsame 
+Fisch ereipolitik und zur Änder ung der V erordnungen (EG) Nr . 1954/2003 und (EG) Nr . 1224/2009 des R at es sowie zur Aufhebung 
+der V erordnungen (EG) Nr . 2371/2002 und (EG) Nr . 639/2004 des Rates und des Beschlusses 2004/585/EG des Rates (ABl. L 354 
+vo m 28.12.2013, S. 22). 
+(
+10
+) Richtlinie 2000/60/EG des Europäischen Pa rlaments und des R at es vom 23. Oktober 2000 zur Sc haffung eines Ordnungsrahmens für 
+Maßnahmen der Gemeinschaft im Bereich der W asser politik (ABl. L 327 vom 22.12.2000, S. 1). 
+(
+11
+) Richtlinie 2006/7/EG des Europäischen Parlaments und des R ates vom 15. Febr uar 2006 über die Qualität der Badegewässer und 
+deren Bewir tschaftun g und zur Aufhebung der Ric htlinie 76/160/EW G (ABl. L 64 vo m 4.3.2006, S. 37). 
+(
+12
+) Richtlinie 2006/118/EG des Europäisc hen P arlaments und des R at es vom 12. Dezember 2006 zum Sc hutz des Gr undwassers vo r 
+V erschmutzung und V erschlec hteru ng (ABl. L 372 vom 27.12.2006, S. 19). 
+(
+13
+) Richtlinie 2008/56/EG des Europäischen Parlaments und des Rates vo m 17. Juni 2008 zur Sc haffung eines Ordnungsrahmens für 
+Maßnahmen der Gemeinschaft im Bereich der Meeresumwel t (Meeresstrategie-Rahmenr ichtlinie) (ABl. L 164 vom 25.6.2008, S. 19). 
+(
+14
+) Richtlinie 2008/105/EG des Europäischen Parlaments und des R at es vom 16. Dezember 2008 über Um weltqualitätsnor men im 
+Bereich der W asser politik und zur Änder ung und anschließ enden Auf hebung der Richtlinien des Rates 82/176/EW G, 83/513/EW G, 
+84/156/EW G, 84/491/EW G und 86/280/EW G sowie zur Änder ung der Richtlinie 2000/60/EG des Europäisc hen P arlaments und des 
+R ates (ABl. L 348 vom 24.12.2008, S. 84). 
+(
+15
+) Richtlinie 91/271/EW G des R ates vom 21. Mai 1991 über die Behandlung vo n k ommunalem Abwasser (ABl. L 135 vom 30.5.1991, 
+S. 40). 
+(
+16
+) Richtlinie 91/676/EW G des Rates vom 12. Dezember 1991 zum Schutz der Gewässer vor V er unreinigung durch Nitrat aus 
+landwir tschaftlichen Quellen (ABl. L 375 vom 31.12.1991, S. 1). 
+(
+17
+) Richtlinie 98/83/EG des R ates vo m 3. November 1998 über die Qualität von W asser für den menschlic hen Gebrauch (ABl. L 330 vo m 
+5.12.1998, S. 32). 
+(
+18
+) Beschluss (EU) 2017/848 der K ommission vom 17. Mai 2017 zur Festlegung der Kr it er ien und methodisc hen Standards für die 
+Beschreibung eines guten Um weltzustands von Meeresgewässern und von Spezifik ationen und standardisier ten V erfahren für die 
+Ü ber wac hung und Bewer tung so wie zur Au fhebung des Beschlusses 2010/477/EU (ABl. L 125 vo m 18.5.2017, S. 43). 
+(
+19
+) V erordnung (EG) Nr . 1013/2006 des Europäischen P arlaments und des Rates vom 14. Juni 2006 über die V erbr ingung vo n Abfällen 
+(ABl. L 190 vom 12.7.2006, S. 1). 
+(
+20
+) V erordnung (EG) Nr . 1907/2006 des Europäischen P arlaments und des Rates vom 18. Dezember 2006 zur Registr ier ung, Bewer tung, 
+Zulassung und Besc hränkung chemisc her Stoff e (REA CH), zur Sc haffung einer Europäischen Agentu r für chemi sche St offe, zur 
+Änder ung der Richtlinie 1999/45/EG und zur Au fhebung der V erordnung (EW G) Nr . 793/93 des Rates, der V erordnung (EG) 
+Nr . 1488/94 der K ommission, der Ric htlinie 76/769/EW G des R at es sowie der Richtlinien 91/155/EW G, 93/67/EW G, 93/105/EG 
+und 2000/21/EG der K ommission (ABl. L 396 vo m 30.12.2006, S. 1) mit Änder ungen. 
+(
+21
+) V erordnung (EU) 2019/1021 des Europäisc hen P arlaments und des R ates vom 20. Juni 2019 über persistent e org anische Sc hadstoff e 
+(ABl. L 169 vom 25.6.2019, S. 45). 
+(
+22
+) Richtlinie 94/62/EG des Europäischen P arlaments und des Rates vom 20. Dezember 1994 über V er pack ungen und 
+V er pack ungsabfälle (ABl. L 365 vo m 31.12.1994, S. 10). 
+(
+23
+) Richtlinie 2000/53/EG des Europäisc hen P arlaments und des Rates vom 18. Sept ember 2000 über Altfahrzeug e (ABl. L 269 vom 
+21.10.2000, S. 34). 
+(
+24
+) Richtlinie 2006/66/EG des Europäischen Parlaments und des Rates vom 6. Sep tember 2006 über Batterien und Akkumulatoren sowie 
+Altbatter ien und Altakkumulatoren und zur Aufhebung der Richtlinie 91/157/EW G (ABl. L 266 vom 26.9.2006, S. 1). 
+(
+25
+) Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates vo m 19. November 2008 über Abf älle und zur Au fhebung 
+bestimmter Ric htlinien (ABl. L 312 vo m 22.11.2008, S. 3). 
+(
+26
+) Richtlinie 2010/75/EU des Europäischen Parlaments und des R at es vom 24. November 2010 über Industr ieemissionen (int egr ier te 
+V er meidung und V er minder ung der Um weltversc hmutzung) (ABl. L 334 vom 17.12.2010, S. 17). 
+(
+27
+) Richtlinie 2011/65/EU des Europäisc hen Parlaments und des R at es vo m 8. Juni 2011 zur Besc hränkung der V er wendung bestimmter 
+gef ährlicher St offe in Elektro- und Elektronikg eräten (ABl. L 174 vom 1.7.2011, S. 88). 
+(
+28
+) Richtlinie 2012/19/EU des Europäischen Parlaments und des Rates vo m 4. Juli 2012 über Elektro- und Elektronik -Altgerä te (ABl. 
+L 197 vo m 24.7.2012, S. 38). 
+(
+29
+) Richtlinie (EU) 2019/883 des Europäischen P arlaments und des Rates vom 17. Apr il 2019 über Hafena uffang einr ic htungen für die 
+Entladung von Abfä llen von Sc hiffen, zur Änder ung der Richtlinie 2010/65/EU und zur Aufhebu ng der Richtlinie 2000/59/EG (ABl. 
+L 151 vo m 7.6.2019, S. 116). 
+(
+30
+) Richtlinie (EU) 2019/904 des Europäischen Parlaments und des Rates vom 5. Juni 2019 über die V er r ingeru ng der Auswirkung en 
+bestimmter Kunstst offprodukte auf die Um welt (ABl. L 155 vo m 12.6.2019, S. 1). 
+DE Amtsblatt der Europäischen Uni on L 198/18                                                                                                                                         22.6.2020
+
+--- PDF SEITE 7 ---
+P arlaments und des R at es, der Richt linie 1999/31/EG des R ates (
+31
+), der V erordnung (EU) Nr . 1357/2014 der 
+K ommission (
+32
+) und der Besc hlüsse 2000/532/EG (
+33
+) und 2014/955/EU (
+34
+) der K ommission sowie entsprec hend 
+den Mitteilung en der K ommission vom 2. Dezember 2015 mit dem Titel „Den Kreislauf schlie ßen — Ein 
+Aktionsplan der EU für die Kreislaufwir tschaft“ und v om 16. Januar 2018 mit dem Titel „Eine Europäische Strategie 
+für Kunstst offe in einer Kreislaufwir tschaft“. 
+(28) Eine Wir tschaf tstätigkei t kann auf verschied ene W eise wesentlich zum U mweltziel eines Ü bergangs zu einer 
+Kreislaufwir tsch af t beitragen . Sie kann beispielsweise die Haltbarkeit, Reparatur f ähigkeit, Nac hrüstbark eit oder 
+Wieder ver wendbark eit von Produkt en verbesser n oder den Ressourcen verbrauch durch Produktg estaltung und 
+Aus wahl von Mate r ialien, Um funktionier ung, Demontage und Abbau im Gebäude- und Bausekto r ver r inge r n, 
+insbesondere um die V er wendung von Baumat er ialien zu ver r inger n und deren Wieder ver wendung zu f örder n. Sie 
+kann wesentlic h zum U mweltziel des Ü bergangs zu einer Kreislaufwir tscha f t durch die Entwicklung von Gesc häf ts­
+modellen des T yps „Produkt als Dienstleistung“ und v on kreislaufg erecht en W er tschöpfungsk ette n, w obei das Ziel 
+ist, Nutzen und W er t von Produkten, K ompon ent en und Materi alien so lange wie mög lich auf dem höchst en Stand 
+zu halte n, beitragen. Jede V er r inger ung des Gehalts an g efährlic hen St offen in Materialie n und Produkt en während 
+des g esamten Lebenszyklus sollt e, unt er anderem indem sie durch sicherere Alt er nativen ersetzt werden, zumindest 
+den Anf order ungen des U nionsrechts g enügen. Eine Wir tscha f tstätigkeit kann auch wesentlic h zum Um weltziel des 
+Ü bergang s zu einer Kreislaufwir tschaft beitragen , indem sie die Entstehung von Lebensmittelabf ällen in Produktion, 
+V erarbeitung, Herstellung oder V er tr ieb von Lebensmitteln ver r ing er t. 
+(29) Die Um weltziele der V er meidung und V er minder ung der U mweltvers chmutzung sollt e entsprechend den 
+einschlägig en Rech tsvorsc hr if ten der Union ausg elegt werden, einschließlic h der Rich tlinien 2000/60/EG, 
+2004/35/EG (
+35
+), 2004/107/EG (
+36
+), 2006/118/EG, 2008/50/EG (
+37
+), 2008/105/EG, 2010/75/EU, (EU) 
+2016/802 (
+38
+) und (EU) 2016/2284 (
+39
+) des Europäische n Parlaments und des R ates . 
+(30) Die Um weltziele des Schutze s und der Wiederherste llung der Biodiversität und der Ök osysteme sollt e entsprec hend 
+den einsch lägigen Rechtsv orschr if ten der U nion ausg elegt werden, einschließ lich der V erordnung en (EU) 
+Nr . 995/2010 (
+40
+), (EU) Nr . 511/2014 (
+41
+) und (EU) Nr . 1143/2014 (
+42
+) des Europäischen P arlaments und des Rates, 
+der Richtlinie 2009/147/EG des Europäische n Parlaments und des R ates (
+43
+), der V erordnung (EG) Nr . 338/97 des 
+R ate s (
+44
+), der Ric htlinien 91/676/EW G und 92/43/EW G (
+45
+) des R ates und der Mitt eilungen der K ommission vom 
+(
+31
+) Richtlinie 1999/31/EG des Rates vom 26. Apr il 1999 über Abfalldeponien (ABl. L 182 vo m 16.7.1999, S. 1). 
+(
+32
+) V erordnung (EU) Nr . 1357/2014 der K ommission vom 18. Dezember 2014 zur Ersetzung von Anhang III der Ric htlinie 2008/98/EG 
+des Europäischen P arlaments und des Rates über Abfälle und zur Au fhebung bestimmter Ric htlinien (ABl. L 365 vom 19.12.2014, 
+S. 89). 
+(
+33
+) Entscheidung 2000/532/EG der K ommission vom 3. Mai 2000 zur Ersetzung der Entschei dung 94/3/EG über ein Abfallverzeic hnis 
+gemäß Ar tikel 1 Buchstab e a der Richtlinie 75/442/EW G des Rates über Abf älle und der Entsc heidung 94/904/EG des R at es über ein 
+V erzeichnis gef ährlicher Abf älle im Sinne von Ar tikel 1 Absatz 4 der Richtlinie 91/689/EW G über gef ährliche Abfälle (ABl. L 226 
+vom 6.9.2000, S. 3). 
+(
+34
+) Beschluss 2014/955/EU der K ommission vom 18. Dezember 2014 zur Änder ung der Entschei dung 2000/532/EG über ein Abfallv er -
+zeichnis gemäß der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates (ABl. L 370 vom 30.12.2014, S. 44). 
+(
+35
+) Richtlinie 2004/35/EG des Europäischen P arlaments und des Rates vo m 21. Apr il 2004 über Um welthaf tung zur V er meidung und 
+Sanier ung von Um weltsc häden (ABl. L 143 vom 30.4.2004, S. 56). 
+(
+36
+) Richtlinie 2004/107/EG des Europäischen Parlaments und des R at es vo m 15. Dezember 2004 über Arsen, Kadmiu m, Quecksilber , 
+Nick el und polyzyklische aromatische K ohlenwasserst off e in der Luft (ABl. L 23 vom 26.1.2005, S. 3). 
+(
+37
+) Richtlinie 2008/50/EG des Europäisc hen Parlaments und des R at es vom 21. Mai 2008 über Luf tqualität und saubere Luf t für Europa 
+(ABl. L 152 vom 11.6.2008, S. 1). 
+(
+38
+) Richtlinie (EU) 2016/802 des Europäisc hen Parlaments und des Rates vom 11. Mai 2016 über eine V er r ingerung des Schwef elgeha lts 
+bestimmter f lüssiger Kraf t- oder Brennstoff e (ABl. L 132 vom 21.5.2016, S. 58). 
+(
+39
+) Richtlinie (EU) 2016/2284 des Europäisc hen P arlaments und des R at es vom 14. Dezember 2016 über die Reduktion der nationalen 
+Emissionen bestimmter Luftschadstoff e, zur Änder ung der Ric htlinie 2003/35/EG und zur Aufhebung der Ric htlinie 2001/81/EG 
+(ABl. L 344 vom 17.12.2016, S. 1). 
+(
+40
+) V erordnung (EU) Nr . 995/2010 des Europäischen Parlaments und des R at es vom 20. Oktober 2010 über die V er pf licht ungen von 
+Marktteilnehmer n, die Holz und Holzerzeugnisse in V erkehr br ingen (ABl. L 295 vom 12.11.2010, S. 23). 
+(
+41
+) V erordnung (EU) Nr . 511/2014 des Europäisc hen P arlaments und des Rates vo m 16. Apr il 2014 über Maßnahmen für die Nutzer zur 
+Einhaltung der V orsch r if ten des Protok olls von Nago ya über den Zugang zu gen etischen Ressourcen und die ausgew ogene und 
+gerec ht e Aufteilung der sich aus ihrer Nutzung ergebenden V or teile in der Uni on (ABl. L 150 vom 20.5.2014, S. 59). 
+(
+42
+) V erordnung (EU) Nr . 1143/2014 des Europäischen Parlaments und des R at es vom 22. Oktober 2014 über die Prävention und das 
+Management der Einbr ingung und Au sbreitung invasiver geb ietsfremder Ar ten (ABl. L 317 vom 4.11.2014, S. 35). 
+(
+43
+) Richtlinie 2009/147/EG des Europäisc hen Parlaments und des Rates vom 30. Novem ber 2009 über die Erhaltung der wildlebenden 
+V og elar ten (ABl. L 20 vo m 26.1.2010, S. 7). 
+(
+44
+) V erordnung (EG) Nr . 338/97 des R at es vom 9. Dezember 1996 über den Sc hutz von Ex emplaren wildlebender Tier - und 
+Pf lanzenar ten durch Ü ber wac hung des Handels (ABl. L 61 vom 3.3.1997, S. 1). 
+(
+45
+) Richtlinie 92/43/EW G des R at es vo m 21. Mai 1992 zur Erhaltung der natürlic hen Lebensräume sowie der wildlebenden Tiere und 
+Pf lanzen (ABl. L 206 vo m 22.7.1992, S. 7). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/19
+
+--- PDF SEITE 8 ---
+21. Mai 2003 mit dem Titel „Rec htsdurchsetzung, P olitikg estaltung und Handel im Forstsektor (FLEGT)“, vom 
+3. Mai 2011 mit dem Titel „Lebensversicher ung und Naturkapital: Eine Biodiversitätsstrategie der EU für das Jahr 
+2020“, vom 6. Mai 2013 mit dem Tite l „Grüne Infrastr uktur (GI) — A ufwer tung des europäischen Naturkapitals“, 
+vom 26. Febr uar 2016 mit dem Titel „ Aktionsplan der EU zur Bekäm pfung des illegal en Ar ten handels“ und vom 
+23. Juli 2019 mit dem Tite l „Intensivier ung der EU-Maßnahmen zum Schutz und zur Wiederherste llung der Wälder 
+in der W elt“. 
+(31) Eine Wir tschaf tstätigkei t kann auf versch iedene W eise wesentlich zum Um weltziel des Schutze s und der Wiederher­
+stellun g der Biodiversität und der Ök osyste me beitrage n, unter anderem durch Schutz, Erhaltung oder Wiederher­
+stellun g der Biodiversität und der Ök osystem e, und damit auch durch V erbesser ung der Ök osystemdienstleistung en. 
+Solc he Dienstleistungen sind in vier Kategor ien aufget eilt, nämlich V ersorgungsleistungen wie die Bereitstellu ng v on 
+Lebensmittel und W asser , Regulier ungsleistungen wie Klima und Krankheite n; Unt erstützungsdienste wie Nährsto ff­
+kreisläufe und Sauerstoff erzeugung; kulturelle Dienstleistungen wie das zur V erfügungstellen geistig er W er te und 
+Erholungswer t. 
+(32) Zum Zweck e dieser V erordnung sollt e der Begr iff „nachh altige W aldbewir tsch af tung“ so ausg elegt werden, dass die 
+Praktiken und Nutzung von Wälder n und W aldf läc hen berüc k sich tigt werden, die dazu beitragen , die Biodiversität 
+zu f örder n oder die Degradation v on Ök osystem en, Entwaldung und V erlust von Lebensraum aufzuhalte n oder zu 
+verhinder n, dass berücksichtigt wird, dass die Pf leg e und Nutzung v on Wälder n und W aldf läc hen in einer Ar t und 
+Intensi tät erfolg t, die ihre biologische Vielfalt, ihre Produktivität, ihre V er jüngungsf ähigkeit, ihre Vitalität und ihre 
+Fähigke it, ge gen wär tig und in Zukunf t wic htige ök ologisc he, wir tsch af tliche und soziale Funktionen auf lokaler , 
+nationaler und g lobaler Ebene zu erfüllen, erhält und anderen Ök osystemen kei nen Schad en zufügt, was der 
+Begr iffsbestimmung in der Entsc hließung H1 der zweiten Minist erk onfer enz zum Schutz der Wälder in Europa vom 
+16.–17. Juni 1993 in Helsinki über „ Allgemeine Leitlinien für die nachhal tige Bewir tsch af tung der Wälder in Europa“ 
+entspr ich t ; und dass die V erordnung en (EU) Nr . 995/2010, (EU) 2018/841 des Europäische n Parlaments und des 
+R ate s (
+46
+) und die Rich tlinie (EU) 2018/2001 des Europäische n P arlaments und des R ates (
+47
+) und die Mitt eilung der 
+K ommission v om 20. Sept ember 2013 mit dem Titel: „Eine neue EU- W aldstrategie : für Wälder und den 
+f orstbasier ten Sekt or berücksichtigt werden. 
+(33) Für die Zweck e der vor liegenden V erordnung wird der Begr iff „Energieeff izienz“ im weit eren Sinn ver wendet und 
+sollt e so ausg elegt werden, dass die einschlägig en Rechts vorsc hr if ten der U nion berücksichtig t werden, 
+einschließ lich der Richtlinie (EU) 2017/1369 des Europäischen Parlaments und des R ates (
+48
+) und der Richtlinien 
+2012/27/EU (
+49
+) und (EU) 2018/844 (
+50
+) des Europäische n P arlaments und des Rates sowi e der gemäß der Richtlinie 
+2009/125/EG des Europäischen P arlaments und des Rates (
+51
+) angenommenen Durchfüh r ungsmaßnahmen. 
+(34) Für jedes Um weltziel sollt en einheitliche Kr it er ien f estgelegt werden, anhand deren geprüft wird, ob eine 
+Wir tsch af tstätigkeit wesentlic h zu dem betreff enden Ziel beiträgt. Eines der im R ahmen der einheitlic hen Kr it er ien 
+zu berüc k sic htigenden Elemente sollte sein, dass eine erhebliche Beeinträchtigung der in der vor liegenden 
+V erordnung festg elegten Um weltziele ver mieden wird. Dadurch soll ver mieden werden, dass Investitionen als 
+ök ologisch nach haltig betrac hte t werden, wenn sie in Wir tsch af tstätigkeit en f ließen, deren umweltsc hädig ende 
+Aus wirkungen größer sind als ihr Beitrag zu einem U mweltziel. Solche Kr ite r ien sollt en dem Lebenszyklus der 
+durch diese Wir tschaftstät igke it bereitges tellt en Produkt e und Dienstleistunge n — zusätzlic h zu den U mweltaus­
+wirkungen der Tätigkei t selbst —, einsc hließlich v on Erk enntnissen aus vor handenen Lebenszyklusanalysen, 
+Rechn ung tragen, insbesondere indem ihre Produktion, ihre V er wendung und das Ende ihrer Lebensdauer 
+berücksicht igt werden. 
+(
+46
+) V erordnung (EU) 2018/841 des Europäisc hen Parlaments und des Rates vom 30. Mai 2018 über die Einbeziehung der Emissionen 
+und des Abbaus vo n T reibhausgasen aus Landnutzung, Landnutzungsänder ungen und Forstwir tschaft in den Rahmen für die Klima- 
+und Energiepolitik bis 2030 und zur Änder ung der V erordnung (EU) Nr . 525/2013 und des Beschlusses Nr . 529/2013/EU (ABl. 
+L 156 vo m 19.6.2018, S. 1). 
+(
+47
+) Richtlinie (EU) 2018/2001 des Europäischen P arlaments und des Rates vom 11. Dezember 2018 zur Förder ung der Nutzung vo n 
+Energie aus er neuerbaren Quellen (ABl. L 328 vo m 21.12.2018, S. 82). 
+(
+48
+) V erordnung (EU) 2017/1369 des Europäischen P arlaments und des Rates vom 4. Juli 2017 zur Festlegung eines Rahmens für die 
+Energieverbrauchsk ennzeichnung und zur Aufhebung der Ric htlinie 2010/30/EU (ABl. L 198 vom 28.7.2017, S. 1). 
+(
+49
+) Richtlinie 2012/27/EU des Europäisc hen Parlaments und des R at es vom 25. Oktober 2012 zur Energieeffi zienz, zur Änder ung der 
+Richtlinien 2009/125/EG und 2010/30/EU und zur Aufhebung der Richtlinien 2004/8/EG und 2006/32/EG (ABl. L 315 vom 
+14.11.2012, S. 1). 
+(
+50
+) Richtlinie (EU) 2018/844 des Europäischen Parlaments und des Rates v om 30. Mai 2018 zur Änder ung der Richtlinie 2010/31/EU über 
+die Gesamtenergieeffizienz von Gebäuden und der Rich tlinie 2012/27/EU über Energieeffizienz (ABl. L 156 vom 19.6.2018, S. 75). 
+(
+51
+) Richtlinie 2009/125/EG des Europäischen Parlaments und des R at es vom 21. Oktob er 2009 zur Sc haffung eines Rahmens für die 
+Festlegung von Anf order ungen an die umwelt gerec ht e Gestaltung energieverbrauchsrelevant er Produkte (ABl. L 285 vom 
+31.10.2009, S. 10). 
+DE Amtsblatt der Europäischen Uni on L 198/20                                                                                                                                         22.6.2020
+
+--- PDF SEITE 9 ---
+(35) U nter Hin weis auf die gemeinsame V er pf licht ung des Europäischen P arlaments, des Rates und der K ommission, die 
+in der europäischen Säule sozialer Recht e veranke r ten Gr undsätze zur Förder ung v on nach haltigem und 
+integrativ em W achst um umzusetzen, und in Anerkennung der Bedeutung internationaler Mindeststandards für 
+Mensc henrecht e und Arbeitsrecht e sollt e eine Bedingung dafür , dass Wir tschaf tstätigkei ten als ök ologisch 
+nach haltig betracht et werden, die Einhaltung von Mindestschut zvorsc hr if ten sein. Aus diesem Gr und sollt en 
+Wir tsch af tstätigkeit en nur dann als ök ologisch nac hhaltig eing estuf t werden, wenn sie ge mäß den OECD-Leitsätzen 
+für multinationale U nter nehmen und den Leitpr inzipien der V ereinten Nationen für Wir tschaf t und 
+Mensc henrecht e einschließlic h der Erklär ung über die gr undleg enden Pr inzipien und Recht e bei der Arbeit durch die 
+Internatio nale Arbeitsorgan isation (IA O), der acht Ker narbeitsnor men der IA O und der Intern ationalen Char ta der 
+Mensc henrecht e durch geführ t werden. In den Ker narbeitsnor men der IA O werden Menschen- und Arbeitneh­
+mer rec hte def inier t, die die U nte r nehmen acht en sollt en. Einige dieser intern ationalen Standards sind in der Char ta 
+der Gr undrecht e der Europäischen U nion veranker t, insbesondere das V erbot v on Sklaverei und Zwangsarbeit sowi e 
+der Gr undsatz der Nich tdiskr iminier ung. Dieser Mindestsch utz lässt geg ebenenfalls die Anwen dung von im 
+U nionsrecht f estgelegt en strenge ren Anf order ungen in Bezug auf U mwelt, Gesundheit, Sich erheit sowi e soziale 
+Nac hhaltigkeit unberühr t. Bei der Einhaltung dieses Mindestschutzes sollt en sic h die Unt er nehmen an den 
+Gr undsatz „ V er meidung erheblicher Beeinträch tigungen“ gemäß der V erordnung (EU) 2019/2088 halten und die 
+tec hnische n Regulier ungsstandards gemäß jener V erordnung zur Präzisier ung dieses Gr undsatzes berüc k sich tigen. 
+(36) U m die K ohärenz zwisc hen der vor liegenden V erordnung und der V erordnung (EU) 2019/2088 zu wahren, sollt e 
+mit der vorlieg enden V erordnung die V erordnung (EU) 2019/2088 dahin ge hend geänder t werden, dass die, durc h 
+die V erordnung en (EU) Nr . 1093/2010 (
+52
+), (EU) Nr . 1094/2010 (
+53
+) und (EU) Nr . 1095/2010 (
+54
+) des Europäische n 
+P arlaments und des R ate s eing er icht ete n Europäischen Aufsi chtsbehörden (zusammen „Europäisc he A ufsichts­
+behörden“) bevo llmächtigt werden, gemeinsam te chnisc he Regulier ungsstandards auszuarbeit en, mit denen die 
+Einzelheite n zu Inhalt und Darstellun g der Inf or mationen im Zusammenhang mit dem Gr undsatz „ V er meidung 
+erheblich er Beeinträch tigungen“ näher f estgelegt werden. Diese tec hnischen Regulier ungsstandards sollt en mit 
+Inhalt, Methoden und Darst ellung v on Indikatore n der Nachhaltigk eit für nacht eilig e Auswirkung en nach 
+V erordnung (EU) 2019/2088 in Einklang stehen. Wir tschaf tstätigkei ten sollten auc h mit den Gr undsätzen in 
+Einklang stehen, die in der europäischen Säule sozialer Recht e, den OECD-Leitsätzen für multinationale 
+U nter nehmen, den Leitpr inzipien der V ereinten Nationen für Wir tschaf t und Mensc henrecht e einsc hließlich der 
+Erklär ung der IA O über die gr undlege nden Pr inzipien und Recht e bei der Arbeit, der acht Ker narbeitsnor men der 
+IA O und der Inte r nationalen Char ta der Menschenrec hte veranke r t sind. 
+(37) Die V erordnung (EU) 2019/2088 sollt e weit er g eänder t werden, um die Europäisch en A ufsichtsbehörden zu 
+bevo llmächtig en, über den Gemeinsamen Auss chuss Entwürfe tec hnische r Regulier ungsstandards zur Erg änzung 
+auszuarbeit en, um die V orschr if ten über die T ransparenz zur Förder ung ök ologisc her Merkmale sowi e ök ologisc h 
+nach haltiger Investitionen in vor ver trag liche n Offenlegung en und regelmäßig en Ber ich ten zu ergän zen. 
+(38) Ang esichts der spezifischen tec hnisch en Details, die für die Bewer tung der Um weltauswirkung en einer Wir tschaf ts­
+tätigke it er f orderlich sind, und des raschen W andels in Wissenschaf t und T echnologie sollten die Kr iter ien für 
+ök ologisch nachhal tige Wir tschaf tstätigkei ten in diesen Bereic hen regelmäßi g ange passt werden, um solc he 
+Änder ungen widerzuspiegeln . Damit die Kr iter ien auf der Gr undlage wissensc haf tlic her Erkenntnisse und der 
+Beiträge von Sachverständig en und einschlägig en Inter essenträge r n auf dem neuesten Stand sind, sollten die 
+Bedingunge n dafür , dass ein wesentlicher Beitrag g eleistet oder eine erhebliche Beeinträchtigung ver ursac ht wird, für 
+verschied ene Wir tsc haf tstätigkei ten detaillier ter spezifizier t und regelm äßig aktualisier t werden. Zu diesem Zweck 
+sollt e die K ommission ausgehend v on den tec hnischen Beiträgen einer Multi-Stakeholder -Plattf or m für ein 
+nach haltiges Finanzwesen detaillier te und kalibr ier te tec hnische Bewer tungskr iter ien für die versch iedenen 
+Wir tsch af tstätigkeit en festleg en. 
+(39) Da es einig e Wir tsch af tstätigkei ten gibt, die sich negativ auf die Um welt auswirken, kann ein wesentlich er Beitrag zu 
+einem oder mehreren Um weltzielen auch dar in best ehen, dass solche nega tiven A uswirkungen ver r inger t werden. 
+Für derar tige Wir tsch af tstätigkei ten sollt en tec hnische Bewer tungskr ite r ien f estgelegt werden, die auf eine 
+wesentlich e V erbesser ung der U mweltleistung — unt er anderem im V erg leich zum Branchendurc hschnit t — 
+(
+52
+) V erordnung (EU) Nr . 1093/2010 des Europäischen P arlaments und des Rates vom 24. November 2010 zur Er r ic htung einer 
+Europäischen Aufsi chtsbehörde (Europäische Bankenaufsic htsbehörde), zur Änder ung des Beschlusses Nr . 716/2009/EG und zur 
+Aufhebung des Beschlusses 2009/78/EG der K ommission (ABl. L 331 vo m 15.12.2010, S. 12). 
+(
+53
+) V erordnung (EU) Nr . 1094/2010 des Europäischen P arlaments und des Rates vom 24. November 2010 zur Er r ic htung einer 
+Europäischen Aufsic htsbehörde (Europäische Aufsic htsbehörde für das V ersicherungswesen und die betr iebliche Alters versorgung), 
+zur Änder ung des Beschlusses Nr . 716/2009/EG und zur Aufhebung des Beschlusses 2009/79/EG der K ommission (ABl. L 331 vo m 
+15.12.2010, S. 48). 
+(
+54
+) V erordnung (EU) Nr . 1095/2010 des Europäischen P arlaments und des Rates vom 24. November 2010 zur Er r ic htung einer 
+Europäischen Aufsic htsbehörde (Europäische W er tpapier - und Marktaufsich tsbehörde), zur Änder ung des Besc hlusses 
+Nr . 716/2009/EG und zur Aufhebung des Besc hlusses 2009/77/EG der K ommission (ABl. L 331 vom 15.12.2010, S. 84). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/21
+
+--- PDF SEITE 10 ---
+abste llen, g leichzeitig jedoch während der Lebensdauer der fi nanzier ten Wir tschaf tstätigke it umweltsc hädliche — 
+einschließ lich k ohlenstof fi nt ensiver — Lock -in-Effekt e verhinder n. Diese Kr iter ien sollt en auch die langfr istig en 
+Aus wirkungen einer bestimmt en Wir tschaftstät igke it berücksichtig en. 
+(40) Eine Wir tschaf tstätigkei t sollt e nicht als ök ologisch nachhal tig gelt en, wenn die von ihr ver ursac hten Um weltsch äden 
+ihren Nutzen für die Um welt übersteig en. In den tec hnische n Bewer tungskr ite r ien sollt en die Mindestanf order ungen 
+fe stgelegt werden, die erfor derlich sind, um eine erhebliche Beeinträch tigung anderer Ziele zu ver meiden, unt er 
+anderem indem auf g emäß dem U nionsrecht f estgelegt en Mindestanf order unge n aufg ebaut wird. Die K ommission 
+sollt e bei der Festlegung und Aktualisier ung der tec hnische n Bewer tungskr it er ien sic herstellen, dass diese Kr iter ien 
+auf ver fügbaren wissensc haf tlic hen Nac hweisen ber uhen, unt er Berüc k sich tigung von Er wägungen im 
+Zusammenhang mit dem Lebenszyklus, einschließ lich v orhandener Lebenszyklusanalysen, erarbeite t und 
+regelmäßi g aktualisier t werden. Lässt sic h ein Risik o nicht mit hinreichender Sic herheit anhand einer 
+wissensc haf tlich en Bewer tung bestimmen, so sollte das V orsorg epr inzip gemäß Ar tikel 191 AEUV gelt en. 
+(41) Bei der Festlegung und Aktualisier ung der tec hnisch en Bewer tungskr ite r ien für das Um weltziel Klimasc hutz sollt e 
+die K ommission den laufenden und notwendig en Ü bergang hin zu einer klimaneutralen Wir tschaf t ge mäß 
+Ar tikel 10 Absatz 2 der v orliegende n V erordnung berücksichtig en und Anreize für diesen schaff en. Neben der 
+Nutzung klimaneutraler Energie und mehr Investitionen in Wir tschaf tstätigkei ten und Sektoren, die bereits „CO
+2
+- 
+ar m“ sind, erf order t der Ü bergang eine erhebliche V er r inge r ung der T reibhausgasemiss ionen bei anderen 
+Wir tsch af tstätigkeit en und Sektoren, für die es kei ne tec hnisch und wir tschaf tlich durchführbaren CO
+2
+-ar men 
+Alte r nativen gibt. Bei diesen Ü berga ngswir tschaf tstätigkei ten sollte dav on ausg ega ngen werden, dass sie einen 
+wesentlich en Beitrag zum Klimaschutz leist en, wenn ihre T reibhausgase missionen erheblich unt er dem Sekt or - oder 
+dem Branche ndurchsc hnitt liegen, wenn sie die Entwicklung und den Einsatz CO
+2
+-ar mer Alter nativen nicht 
+behinder n und wenn sie nicht zu Loc k -in-Effekt en bei V er mögenswer te n führen, die mit dem Ziel der 
+Klimaneutralität unvereinbar sind, wobei die wir tsch af tliche Lebensdauer dieser V er möge nswer te zu 
+berücksicht igen ist. Die tec hnischen Bewer tungskr iter ien für diese Ü berg angswir tschaf tstätigkei ten sollten 
+sich erstellen, dass diese Ü bergangs tätigkeit en eine g laubwürdig e Entwicklun g in Ric htung Klimaneutralität haben 
+und sollt en in regelmäßig en Abständen entsprec hend ange passt werden. 
+(42) Es sollte dav on ausg ega ngen werden, dass eine Wir tschaftstät igke it einen wesentlichen Beitrag zu einem oder 
+mehreren der in dieser V erordnung genannt en Um weltziele leist et, indem sie unmitt elbar er mög lic hend darauf 
+hinwi rkt, dass andere Tätigkeit en einen wesentlichen Beitrag zu einem oder mehreren dieser Ziele leisten. Solc he 
+er mög lich enden Tätigke iten sollt en nicht zu Lock -in-Effek ten bei V er möge nswer ten führen, die den langfr istig en 
+U mweltzielen abträg lich sind, w obei die wir tschaftliche Lebensdauer dieser V er möge nswer te zu berüc k sic htigen ist, 
+und sollt e auf der Gr undlage von Er wägungen im Zusammenhang mit dem Lebenszyklus eine erheblic he positive 
+Aus wirkung auf die Um welt haben. 
+(43) Bei der Festlegung und Aktualisier ung der tec hnischen Bewer tungskr ite r ien sollt e die K ommission das einschlägig e 
+U nionsrecht berücksicht igen, dar unte r die V erordnungen (EG) Nr . 1221/2009 (
+55
+) und (EG) Nr . 66/2010 (
+56
+) des 
+Europäischen P arlaments und des Rates sowie der Empf ehlung 2013/179/EU der K ommission (
+57
+) und der 
+Mitt eilung der K ommission v om 16. Juli 2018 mit dem Titel „ V ergabe öff entlicher A uf träge für eine bessere 
+U mwelt“. U m unnötige Unstimmigk eit en im Zusammenhang mit bereits für andere Zweck e best ehenden 
+Klassifika tionen v on Wir tschaf tstätigkei ten zu ver meiden, sollt e die K ommission auch die statistische n 
+Klassifika tionen des Sektors Um weltgüt er und -dienstleistung en berüc k sic htigen, d. h. die Klassif ikation der 
+U mweltsc hutzaktivitäten (CEP A) und die Klassifikation der Ressourcenmanagem entaktivitäten (CReMA) der 
+V erordnung (EU) Nr . 538/2014 des Europäisch en Parlaments und des Rates (
+58
+). Die K ommission sollte bei der 
+Festlegung und Aktualisier ung der tec hnisc hen Bewer tungskr ite r ien die best ehenden U mweltindikat oren und 
+Ber ich terstattungsrahmen, die unt er anderem v on der K ommission und dem Europäische n Um weltamt entwick elt 
+wurden, sowie die best ehenden internationalen Standards, wie sie unt er anderem von der OECD entwick elt wurden, 
+berücksicht igen. 
+(
+55
+) V erordnung (EG) Nr . 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige T eilnahme 
+von Orga nisationen an einem Gemeinschaft ssyst em für Um weltmanagemen t und Um weltbetr iebsprüfung und zur Aufhebung der 
+V erordnung (EG) Nr . 761/2001, sowie der Besc hlüsse der K ommission 2001/681/EG und 2006/193/EG (ABl. L 342 vom 
+22.12.2009, S. 1). 
+(
+56
+) V erordnung (EG) Nr . 66/2010 des Europäischen Pa rlaments und des Rates vo m 25. November 2009 über das EU-U mweltzeic hen 
+(ABl. L 27 vo m 30.1.2010, S. 1). 
+(
+57
+) Empf ehlung 2013/179/EU der K ommission vo m 9. Apr il 2013 für die Anwendung gemeinsamer Methoden zur Messung und 
+Offenlegung der Um weltleistung vo n Produkten und Organisationen (ABl. L 124 vo m 4.5.2013, S. 1). 
+(
+58
+) V erordnung (EU) Nr . 538/2014 des Europäisc hen Parlaments und des Rates vom 16. Apr il 2014 zur Änder ung der V erordnung (EU) 
+Nr . 691/2011 über europäische umwelt ök onomische Gesamtrechnung en (ABl. L 158 vo m 27.5.2014, S. 113). 
+DE Amtsblatt der Europäischen Uni on L 198/22                                                                                                                                         22.6.2020
+
+--- PDF SEITE 11 ---
+(44) Zudem sollte die K ommission bei der Festlegung und Aktualisier ung der tec hnisch en Bewer tungskr it er ien die 
+Besonderheiten des Infrastr uktursektors berüc k sic htigen und sollt e den ök ologischen , sozialen und wir tsch af tliche n 
+externen Effekt en im Rahmen einer K oste n-Nutzen-Analyse Rech nung trage n. Hierbei sollt e die K ommission 
+einschlägig e Rechtsv orschr if ten der Union, unte r anderem die Rich tlinien 2001/42/EG (
+59
+)‚ 2011/92/EU (
+60
+)‚ 
+2014/23/EU (
+61
+), 2014/24/EU (
+62
+) und 2014/25/EU (
+63
+) des Europäischen Parlaments und des R ate s, die gelt enden 
+Nor men und Methodik wie auc h die Arbeit intern ationaler Organisationen wie der OECD berücksichtig en. V or 
+diesem Hintergr und sollt en die te chnisc hen Bewer tungskr iter ien dazu beitragen, dass g eeignete Steue r ungsrahmen 
+ge f örder t werden, die — nach Maßgabe der von den V ereinten Nationen unt erstützten Gr undsätze für verantwor ­
+tungsvo lle Investitionen — Fakt oren aus den Bereic hen Um welt, Soziales und Unt er nehmensführ ung in allen 
+Phasen des Projektlebenszyklus einbinden. 
+(45) Die tec hnischen Bewer tungskr ite r ien sollt en gewährleist en, dass die relevanten Wir tsch af tstätigkeit en innerhalb 
+eines bestimmt en Sekt ors als ök ologisc h nachhal tig ange sehen werden k önnen und g leich behandelt werden, wenn 
+sie im selben Maße zu einem oder mehreren der in dieser V erordnung fe stgelegt en U mweltziele beitragen. Die 
+poten zielle Fähigkeit, einen Beitrag zu diesen U mweltzielen zu leisten, kann je nach Sektor var iieren, was sich in den 
+Kr iter ien widerspiegeln sollt e. Innerhalb der einzelnen Sekt oren sollten diese Kr ite r ien jedoch bestimmt e 
+Wir tsch af tstätigkeit en nicht in unangemessener W eise ge genüber anderen Wir tschaf tstätigke iten benacht eilig en, 
+sof er n beide im selben U mfang zu den U mweltzielen beitragen . 
+(46) Bei der Festlegung und Aktualisier ung tec hnische r Bewer tungskr iter ien für ök ologisc h nac hhaltige Tätigke iten sollt e 
+die K ommission prüfen , ob durc h die Festlegung dieser Kr ite r ien eine W er teverfall von V er mögenswer te n, 
+uneinheitliche Anreize oder sonstige nacht eilig e A uswirkungen auf die Finanzmärkte entsteh en würden. 
+(47) U m zu ver meiden, dass den Wir tsc haf tste ilnehmer n über mäßig hohe Bef olgungsk osten entstehen, sollt e die 
+K ommission tec hnisc he Bewer tungskr it er ien f estlegen, die ausreich ende Recht sklarheit bieten, praktikabel und 
+leich t anzuwenden sind und deren Bef olgung im Rahmen eines angemessenen K osten-Nutzen- V erhältnisses 
+über prüf t werden kann, ohne dass ein über mäßiger V er waltungsaufwand entsteht. T echn isch e Bewer tungskr it er ien 
+k önnten die Durc hführ ung einer Lebenszyklusanalyse er f order n, sofer n das praktikabel und notwendig ist. 
+(48) Damit g ewährleistet ist, dass die Inv estitionen zu den Wir tschaf tstätigkei ten gelenkt werden, die die größte n 
+positiven Aus wirkungen auf die U mweltziele haben, sollt e die K ommission pr ior itär für jene Wir tscha f tstätigkeit en 
+tec hnische Bewer tungskr it er ien f estlegen, die poten ziell den größt en Beitrag zur Er reichun g der U mweltziele leist en. 
+(49) Es sollt en geeignet e tec hnische Bewer tungskr iter ien für den V erk ehrssekt or f estgelegt werden, auc h für rollendes 
+Material. Diese Bewer tungskr it er ien sollten berücksichtig en, dass der V erkehrssekt or , einschließ lich des 
+internati onalen Seeverke hrs, fast 26 % der ge samten T reibhausgas emissionen in der U nion ver ursac ht. Wie dem 
+Aktionsplan „Finanzier ung nachhaltig en W achstums“ zu entnehmen ist, entfallen etwa 30 % des zusätzlichen 
+jährlich en Inv estitionsbedarf s für nachhal tige Entwicklung in der U nion auf den V erk ehrssektor , beispielsweise 
+durch den Ausbau der Elektr ifizier ung oder durch die U nte rstützung beim Ü bergang zu umweltfre undlicheren 
+V erkehrsträg er n im Zug e der Förder ung von V erkehrsverlag er ung und besseres V erkehrsmanag ement. 
+(50) Es ist von besonderer Bedeutung, dass die K ommission bei der Entwicklun g der tec hnischen Bewer tungskr it er ien 
+angeme ssene K onsultationen durchführ t, die in Einklang mit der Agen da für bessere Rechtse tzung ste hen. Am 
+V er f ahren zur Festlegung und Aktualisier ung der tec hnisch en Bewer tungskr it er ien sollt en die einschlägig en 
+Inter essenträger bete iligt werden, und die Beratung durc h Sach verständige, die über nachg ewiesene Kenntnisse und 
+Erfahr ung in den betreffenden Bereich en verf üg en, sollte ebenfalls einf ließen. Zu diesem Zweck sollt e die 
+K ommission eine Plattf or m für ein nachhal tiges Finanzwesen (im Folgenden „Plattf or m“) einr icht en. Die Plattf or m 
+(
+59
+) Richtlinie 2001/42/EG des Europäischen P arlaments und des R ates vo m 27. Juni 2001 über die Prüfung der Um weltauswirkungen 
+bestimmter Pläne und Programme (ABl. L 197 vo m 21.7.2001, S. 30). 
+(
+60
+) Richtlinie 2011/92/EU des Europäischen Parlaments und des Rates vom 13. Dezember 2011 über die Um weltver träg lichk eitsprüfung 
+bei bestimmten öff entlichen und pr ivaten Projekten (ABl. L 26 vom 28.1.2012, S. 1). 
+(
+61
+) Richtlinie 2014/23/EU des Europäischen P arlaments und des Rates vom 26. Febr uar 2014 über die K onzessionsvergabe (ABl. L 94 
+vom 28.3.2014, S. 1). 
+(
+62
+) Richtlinie 2014/24/EU des Europäischen P arlaments und des R ates vom 26. Febr uar 2014 über die öffentlic he Auft ragsvergabe und 
+zur Au fhebung der Richtlinie 2004/18/EG (ABl. L 94 vo m 28.3.2014, S. 65). 
+(
+63
+) Richtlinie 2014/25/EU des Europäischen Parlaments und des R at es vom 26. Febr uar 2014 über die V ergabe von Auftr ägen durch 
+Auft raggeber im Bereich der W asser -, Energie- und V erkehrsversorgung sowie der P ostdienste und zur Aufhebung der Ric htlinie 
+2004/17/EG (ABl. L 94 vo m 28.3.2014, S. 243). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/23
+
+--- PDF SEITE 12 ---
+sollt e sic h aus Sachver ständigen aus dem öffentlic hen sowie dem pr ivat en Sektor zusammensetzen. Zu den 
+Sachver ständigen des öffentlic hen Sekt ors sollt en V er tret er der Europäischen U mweltag entur , der Europäischen 
+Aufsi chtsbehö rden und der Europäischen Investitionsbank sowi e der Age ntur der Europäischen Union für 
+Gr undrec hte zählen. Zu den Sach verständigen aus dem Pr ivatsektor sollt en Finanzmarkt und Nicht fi nanzmarkt­
+tei lnehmer sowie U nte r nehmen, die einsch lägige Branche n repräsentieren, und P ersonen mit Exper te nwissen im 
+Bereich Rechnungslegung und Ber ich terstattung zählen. Die Plattf or m sollt e auc h Sachverständig e umf assen, die die 
+Zivilgesellsc haf t repräsentieren, auc h Exper ten im Bereich Um welt, Soziales, Arbeitswelt und U nte r nehmensführ ung. 
+Die Finanzmarkttei lnehmer sollten dazu angeha lten werden, die K ommission zu unt er r icht en, wenn sie der 
+Auff assung sind, dass eine Wir tschaftstät igke it, die nicht die tec hnisc hen Bewer tungskr it er ien er füllt oder für die 
+noch kei ne derar tige n Kr it er ien fe stgelegt w orden sind, als ök ologisch nac hhaltig eracht et werden sollte, um der 
+K ommission bei der Bewer tung zu helfen , ob die tec hnisch en Bewer tungskr iter ien zu ergänzen oder zu 
+aktualisieren sind. 
+(51) Die Plattf or m sollt e gemäß den g eltenden hor izontalen V orsc hr if te n für die Einsetzung und Arbeitsweise v on 
+Exper te ngr uppen der K ommission eing er icht et werden, auch im Hinblick auf das Auswahlverfahren. Das 
+Aus wahlver f ahren sollt e darauf abzielen, ein hohes Maß an Exper ten wissen, geografische Ausg ewog enheit und ein 
+ausg ewog enes V erhältnis von Frauen und Männer n sowie eine ausgew oge ne V er tretung des einsch lägigen Know- 
+hows unter Berücksichtigung der spezifi sche n Aufg aben der Plattf or m zu gewährleist en. Während des 
+Aus wahlver f ahrens sollt e die K ommission nach Maßgabe der hor izontalen V orschr if ten eine Bewer tung 
+vornehm en, um f estzustellen, ob poten zielle Interessenk onf likt e best ehen, und sollte geg ebenenfalls g eeignete 
+Maßnahmen zur Bewältigung solc her K onf likte ergreifen . 
+(52) Die Plattf or m sollt e die K ommission zur Entwicklung, Analyse und Prüfung der tec hnisch en Bewer tungskr it er ien 
+beraten , einschließ lich zu den potenziellen Auswirkung en auf die Bewer tung von V er mög enswer ten , die als 
+ök ologisch nachhaltig e V er mög enswer te angesehen werden. Darüber hinaus sollt e die Plattf or m die K ommission in 
+der Frage beraten, ob die tec hnisch en Bewer tungskr it er ien g eeignet sind, um künf tig im R ahmen weit erer 
+politischer Initiativen der Union zur Förder ung nac hhaltiger Investi tionen angewandt zu werden, und in der Frage, 
+welc he R olle Standards für die Nac hhaltigk eitsrechnungslegung und -ber icht erstattung bei der Anwendung der 
+tec hnische n Bewer tungskr it er ien spielen k önnten. Die Plattf or m sollte die K ommission bei der Entwicklung weit erer 
+Maßnahmen zur V erbesser ung der Dat en ver fügbarkei t und -qualität beraten , w obei dem Ziel, unnötige n 
+V er waltungsaufwand zu ver meiden, Rechn ung zu tragen ist und auf andere Nachhaltigk eitsziele, einsc hließlich 
+sozialer Ziele, sowi e das Funktionieren des Mindestschutzes und dessen mög lich er weise erforderlic hen Erg änzung 
+einzugehe n ist. 
+(53) Die K ommission sollt e die beste hende Sach verständigengr uppe der Mitg liedstaat en für nac hhaltiges Finanzwesen 
+weit erf ühren und ihr einen f or mellen Status verleihen. Die A ufgabe dieser Sac hverständigengru ppe wird u. a. dar in 
+beste hen, die K ommission hinsic htlich der Ang emessenheit der tec hnisc hen Bewer tungskr it er ien und des Ansatzes 
+der Plattf or m zur Entwicklun g dieser Kr ite r ien zu beraten. Zu diesem Zweck sollt e die K ommission die 
+Mitg liedstaaten im W ege rege lmäßiger Sitzungen der Sachver ständigengr uppe der Mitg liedstaate n für nac hhaltiges 
+Finanzwesen auf dem Laufende n halt en. 
+(54) U m die in dieser V erordnung fe stgelegt en Anf order ungen genauer f estzulegen und insbesondere detaillier te und 
+kalibr ier te tec hnisc he Bewer tungskr it er ien für verschiede ne Wir tschaf tstätigkei ten festzuleg en und zu aktualisieren, 
+anhand deren bestimmt wird, was als „wesentlic her Beitrag“ und was als „erheblic he Beeinträch tigung im Hinblick 
+auf die U mweltziele“ gilt, sollt e der K ommission die Befugnis über tragen werden, gemäß Ar tik el 290 AEUV 
+Rechts akte hinsic htlich der erf orderlichen Inf or mationen zur Erf üllung der Offenleg ungspf licht en gemäß der 
+vor liegenden V erordnung und hinsic htlich der tec hnische n Bewer tungskr iter ien zu erlassen. Es ist von besonderer 
+Bedeutung, dass die K ommission im Zuge ihrer V orbereitungsarbeit angem essene K onsultationen, auc h auf der 
+Ebene von Sach verständigen, wie etwa über die Plattf or m und die Sac hverständigengru ppe der Mitg liedstaate n für 
+nach haltiges Finanzwesen, durchführ t, die mit den Gr undsätzen in Einklang stehen, die in der Interin stitutionellen 
+V ereinbar ung v om 13. Apr il 2016 über bessere Recht setzung (
+64
+) niederg elegt wurden. U m insbesondere für eine 
+g leich berechtigt e Beteiligung an der V orbereitung delegier ter Rechts akte zu sorgen , erhalt en das Europäische 
+P arlament und der Rat alle Dokumente zur g leichen Zeit wie die Sac hverständigen der Mitg liedstaaten, und ihre 
+Sachver ständigen haben system atisch Zuga ng zu den Sitzungen der Sach verständigengr uppen der K ommission, die 
+mit der V orbereitung der delegier ten Rechts akte befasst sind. 
+(
+64
+) ABl. L 123 vo m 12.5.2016, S. 1. 
+DE Amtsblatt der Europäischen Uni on L 198/24                                                                                                                                         22.6.2020
+
+--- PDF SEITE 13 ---
+(55) Die vor liegende V erordnung ergänzt die in der V erordnung (EU) 2019/2088 f estgelegt en Offe nlegungspf lich ten. U m 
+eine ordnungsgemäße und wirk same Ü ber wachun g der Einhaltung der v orliegenden V erordnung durc h die 
+Finanzmarkttei lnehmer sich erzustellen, sollt en die Mitg liedstaaten sic h auf die zuständigen Behörden stützen, die 
+ge mäß der V erordnung (EU) 2019/2088 benannt sind. U m die Einhaltung durc hzusetzen, sollt en die 
+Mitg liedstaaten V orschr if ten zu Maßnahmen und Sanktionen f estlegen, die wirksam, verhältnismäßig und 
+abschr eck end sein sollt en. Die nationalen zuständig en Behörden und die Europäischen Aufsi chtsbehörden sollt en 
+die gemäß den V erordnungen (EU) Nr . 600/2014 (
+65
+), (EU) Nr . 1286/2014 (
+66
+) und (EU) 2019/1238 (
+67
+) des 
+Europäischen P arlaments und des R ate s f estgelegt en Produktinter ventionsbefugnisse auc h in Bezug auf 
+missbräuch liche V erkaufspraktiken oder ir reführende Offe nlegungen v on Inf or mationen im Zusammenhang mit 
+der Nac hhaltigk eit, einsc hließlich der Inf or mationspf licht en g emäß der v orliegende n V erordnung, ausüben. 
+(56) U m eine effi zient e und nachhaltig e Org anisation der Arbeits- und Sitzungsg epf logenheit en sow ohl bezüg lich der 
+Plattf or m als auch der Sachverständig engr uppe der Mitg liedstaaten für nachhaltig es Finanzwesen zu gewährleist en 
+und um eine breite Beteiligung und eine effi zient e Interaktion innerhalb der Gr uppen, deren U ntergr uppen, der 
+K ommission und der Interessenträg er zu er mög liche n, sollte die verstärkte Nutzung digitaler einschließ lich vir tueller 
+T echn ologien geg ebenenfalls in Er wägung g ezogen werden. 
+(57) Damit den relevanten Beteiligt en g enügend Zeit eing eräumt wird, sich mit den Kr iter ien dieser V erordnung für 
+ök ologisch nachhaltig e Wir tschaf tstätigke iten ver traut zu machen und ihre Anwe ndung vorzubereit en, sollt en die 
+in dieser V erordnung f estgelegt en V er pf lich tungen für jedes U mweltziel zwöl f Monate nach Festlegung der 
+einschlägig en tec hnische n Bewer tungskr iter ien anwe ndbar werden. 
+(58) Die Bestimmung dieser V erordnung, die sic h auf v or dem Inkraf ttrete n dieser V erordnung bestehende Reg elungen für 
+Steue ranreize auf der Gr undlag e von Zer tifik ate n bezieht, berühr t nicht die in den V er trägen fe stgelegt en jeweilige n 
+Zuständigke iten der Union und der Mitg liedstaaten für Steuer v orschr if ten . 
+(59) Die Anwe ndung dieser V erordnung sollt e rege lmäßig über prüf t werden, um unt er anderem zu beur tei len: die 
+For tschritte im Hinblick auf die Entwicklun g tec hnisc her Bewer tungskr it er ien für ök ologisch nach haltige 
+Wir tsch af tstätigkeit en; die geg ebenenfalls notwendig e Ü berarbeitung und Erg änzung jener Kr iter ien für die 
+Einstufung einer Wir tschaf tstätigkei t als ök ologisc h nach haltig; die Wirksam ke it des Klassifizier ungssyste ms für 
+ök ologisch nac hhaltige Wir tsch af tstätigkei ten, wenn es dar um g eht, pr ivat e Investitionen hin zu solc hen Tätigkeit en 
+zu lenken, und insbesondere im Hinblick auf die Eigen kapitalf lüsse hin zu pr ivaten U nte r nehmen und anderen 
+Rechts trägern ; und die W eit erentwicklung des derzeitigen Klassif izier ungssyst ems einsc hließlich der Ausweitung 
+ihres Anwen dungsbereichs über ök ologisc h nac hhaltige Wir tschaf tstätigkei ten hinaus auf Wir tsch af tstätigkeit en, die 
+die Um welt erheblic h beeinträch tigen, sowie auf andere Nac hhaltigk eitsziele, einsc hließlich sozialer Ziele. 
+(60) Da die Ziele dieser V erordnung von den Mitg liedstaat en nicht ausreichend ver wirklicht werden k önnen, sonder n 
+vielmehr weg en der Notwendigkeit, auf Unionsebene einheitliche Kr iter ien für ök ologisc h nac hhaltige Wir tschaf tstä­
+tigkeit en einzuführen, auf U nionsebene besser zu ver wirkliche n sind, kann die U nion gemäß dem in Ar tikel 5 des 
+V er trags über die Europäische Union veranker ten Subsidiar itätspr inzip tätig werden. Entsprech end dem in 
+demselben Ar tik el g enannten Gr undsatz der V erhältnismäßigkeit g eht diese V erordnung nicht über das für die 
+V er wirklichung dieser Ziele erfor derliche Maß — 
+HABEN FOLGENDE VER ORDNUNG ERL ASSEN: 
+KAPITEL I 
+GEGENST AND, ANWENDUNGSBEREICH UND BEGRIFFSBESTIMMUNGEN 
+Ar tikel 1 
+Gegenst and und Anw endungsbereich 
+(1) Diese V erordnung enthält die Kr iter ien zur Bestimmung, ob eine Wir tsch af tstätigkei t als ök ologisc h nach haltig 
+einzustufen ist, um damit den Grad der ök ologischen Nachhaltigk eit einer Inv estition er mitteln zu k önnen. 
+(
+65
+) V erordnung (EU) Nr . 600/2014 des Europäischen P arlaments und des Rates vo m 15. Mai 2014 über Märkte für Finanzinstr umente 
+und zur Änder ung der V erordnung (EU) Nr . 648/2012 (ABl. L 173 vom 12.6.2014, S. 84). 
+(
+66
+) V erordnung (EU) Nr . 1286/2014 des Europäischen Pa rlaments und des Rates vom 26. November 2014 über Basisinf or mationsblätter 
+für ver pack te Anlageprodukt e für Kleinanleger und V ersicherungsanlageprodukte (PRIIP) (ABl. L 352 vo m 9.12.2014, S. 1). 
+(
+67
+) V erordnung (EU) 2019/1238 des Europäisc hen Parlaments und des Rates vom 20. Juni 2019 über ein Paneuropäisc hes Pr ivates 
+Pensionsprodukt (PEPP) (ABl. L 198 vom 25.7.2019, S. 1). 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/25
+
+--- PDF SEITE 14 ---
+(2) Diese V erordnung gilt für 
+a) von den Mitg liedstaaten oder der U nion verabschied ete Maßnahmen zur Festlegung von Anf order ungen an 
+Finanzmarkttei lnehmer oder Emitten ten im Zusammenhang mit Finanzprodukt en oder U nte r nehmensanleihen, die als 
+ök ologisch nachhaltig bereitges tellt werden; 
+b) Finanzmarkttei lnehmer , die Finanzprodukte bereitstell en; 
+c) Unt er nehmen, für die die V er pf lichtung gilt, eine nicht fi nanzielle Erklär ung oder eine k onsolidier te nichtfinanzielle 
+Erklär ung nach Ar tik el 19a bzw . Ar tikel 29a der Rich tlinie 2013/34/EU des Europäische n P arlaments und des R ate s (
+68
+) 
+zu veröff entlichen. 
+Ar tikel 2 
+Beg r iff sbestimmungen 
+Für die Zweck e dieser V erordnung bezeichn et der Ausdruck 
+1. „ök ologisc h nach haltige Inv estition“ eine Inv estition, in eine oder mehrere Wir tschaf tstätigkei ten , die ge mäß dieser 
+V erordnung als ök ologisch nachhal tig g elten; 
+2. „Finanzmarktt eilnehmer“ einen Finanzmarkttei lnehmer im Sinne des Ar tikels 2 Nummer 1 der V erordnung (EU) 
+2019/2088; dar unter fä llt auc h der Herst eller eines Altersv orsorg eprodukts, wenn ein Mitg liedstaat besc hlossen hat, 
+die g enannte V erordnung g emäß ihres Ar tikel s 16 auf diesen Hersteller anzuwenden; 
+3. „Finanzprodukt“ ein Finanzprodukt im Sinne des Ar tik els 2 Nummer 12 der V erordnung (EU) 2019/2088; 
+4. „Emittent“ einen Emitte nten im Sinne des Ar tik els 2 Buchst abe h der V erordnung (EU) 2017/1129 des Europäischen 
+Parlaments und des R ate s (
+69
+); 
+5. „Klimaschutz“ die V org ehensweise, den Anstieg der durchsc hnittlic hen Erdt emperatur deutlich unt er 2 °C zu halten 
+und Anstrengungen zu seiner Begrenzung auf 1,5 °C über dem vori ndustr iellen Niveau zu unter nehmen, wie im 
+Ü bereink ommen v on P ar is f estgelegt ; 
+6. „ Anpass ung an den Klimawandel“ den V org ang der Anpassung an den tatsäch lichen und den er war tet en Klimawandel 
+und dessen A uswirkungen; 
+7. „ T reibhausga s“ ein in Anhang I der V erordnung (EU) Nr . 525/2013 des Europäische n P arlaments und des R ates (
+70
+) 
+aufgeführ tes T reibhausgas; 
+8. „ Abfallhi erarchie“ die in Ar tikel 4 der Rich tlinie 2008/98/EG festg elegte Abfallhierarc hie; 
+9. „Kreislaufwir tschaf t“ ein Wir tschaf tssyste m, bei dem der W er t von Produkten, Mate r ialien und anderen Ressourcen in 
+der Wir tschaft so lange wie mög lich erhalt en bleibt und ihre eff iziente Nutzung in Produktion und V erbrauch 
+verbesser t wird, w odurch die A uswirkungen ihrer Nutzung auf die Um welt reduzier t und das Abfallaufk ommen sowi e 
+die Freisetzung g ef ährlicher Stoff e in allen Phasen ihres Lebenszyklus minimier t werden, auc h durch Anwen dung der 
+Abfallhi erarchie; 
+10. „Sc hadstoff e“ Stoff e, Erschütt er ungen , Wär me, Lär m, Licht oder andere K ontaminant en in Luf t, W asser oder Boden, die 
+der menschli c hen Gesundheit oder der U mwelt schad en, die zu einer Schäd igung von Sachwer ten oder zu einer 
+Beeinträchtigung oder Störung von Annehmlich keit en und anderen legitimen Nutzungen der Um welt führen k önnen; 
+11. „Boden“ die oberste Schi c ht der Erdkr uste, die sich zwisc hen dem Gr undgest ein und der Oberf läc he befindet und die 
+aus Mineralpar tik eln, org anische m Material, W asser , L uf t und lebenden Org anismen beste ht ; 
+(
+68
+) Richtlinie 2013/34/EU des Europäisc hen Parlaments und des Rates vom 26. Juni 2013 über den Jahresabschl uss, den k onsolidier ten 
+Abschluss und damit verbundene Ber ic hte von Unt er nehmen bestimmter Rechtsf or men und zur Änder ung der Richtlinie 
+2006/43/EG des Europäisc hen Parlaments und des Rates und zur Au fhebung der Richtlinien 78/660/EW G und 83/349/EW G des 
+R ates (ABl. L 182 vom 29.6.2013, S. 19). 
+(
+69
+) V erordnung (EU) 2017/1129 des Europäischen Parlaments und des R at es vom 14. Juni 2017 über den Prospekt, der beim öff entlichen 
+Angebot von W er tpapieren oder bei deren Zulassung zum Handel an einem gereg elten Markt zu veröffentlic hen ist und zur 
+Aufhebung der Richtlinie 2003/71/EG (ABl. L 168 vo m 30.6.2017, S. 12). 
+(
+70
+) V erordnung (EU) Nr . 525/2013 des Europäischen Pa rlaments und des R ates vom 21. Mai 2013 über ein Syst em für die Ü ber wac hung 
+von T reibhausgasemissionen sowie für die Ber icht erstattung über diese Emissionen und über andere klimaschutzrelevant e 
+Inf or mationen auf Ebene der Mitg liedstaaten und der Union und zur Aufhebu ng der Entsc heidung Nr . 280/2004/EG (ABl. L 165 vo m 
+18.6.2013, S. 13). 
+DE Amtsblatt der Europäischen Uni on L 198/26                                                                                                                                         22.6.2020
+
+--- PDF SEITE 15 ---
+12. „ V ersc hmutzung“ 
+a) die durch mensch liches Handeln direkt oder indirekt bewirkt e Zuführ ung von Schadst off en in L uf t, W asser oder 
+Boden; 
+b) im Bereich der Meeresumwe lt V erschmutzung im Sinne des Ar tikel s 3 Nummer 8 der Rich tlinie 2008/56/EG; 
+c) im Bereich der W asser umwelt V ersc hmutzung im Sinne des Ar tik els 2 Nummer 33 der Ric htlinie 2000/60/EG; 
+13. „Ök osystem “ ein k omplex es dynamisches Wirkungsg efüge v on Pf lanzen-, Tier - und Mikroorg anismengemeinsc haf te n 
+und ihrer abiotisch en Um welt, die eine funktionelle Einheit bilden; 
+14. „Ök osystem dienstleistungen“ die direkt en und indirekt en Beiträge von Ök osysteme n zu den wir tschaf tlich en, sozialen, 
+kulturellen und sonstigen V or tei len, die Menschen aus diesen Ök osystemen ziehen; 
+15. „Biodiversität“ die Vielfalt unt er lebenden Org anismen jeder Herkunf t, dar unte r Land-, Meeres- und sonstige aquatisc he 
+Ök osysteme und die ök ologischen K omplex e, zu denen sie g ehören das umfasst auc h die Vielfalt innerhalb der Ar ten , 
+zwisch en verschiedenen Ar ten und die Vielfalt der Ök osysteme ; 
+16. „guter Zustand“ in V erbindung mit einem Ök osystem dass sich das Ök osystem in einem gut en phy sikalischen, 
+chemisc hen und biologische n Zustand bef indet oder v on gut er phy sikalischer , c hemische r und biologische r Qualität 
+ist, das in der Lage ist, sich selbst zu reproduzieren oder sich selbst zu regeneri eren, und bei dem die Ar te nzusam­
+mensetzung, die Ök osystemstr uktur und die ök ologisc hen Funktionen nicht beeinträchtigt sind; 
+17. „Energieeff izienz“ eine effizientere Energienutzung entlang der ge samten Energieversorgungske tte v on der Erzeugung 
+bis zum Endverbrauch; 
+18. „Meeresge wässer“ Meeresgewässer im Sinne des Ar tik els 3 Nummer 1 der Ric htlinie 2008/56/EG; 
+19. „Oberf lächeng ewässer“ Oberf läc henge wässer im Sinne des Ar tik els 2 Nummer 1 der Ric htlinie 2000/60/EG; 
+20. „Gr undwasser“ Gr undwasser im Sinne des Ar tikels 2 Nummer 2 der Richt linie 2000/60/EG; 
+21. „guter U mweltzustand“ den gut en Um weltzustand im Sinne des Ar tikel s 3 Nummer 5 der Rich tlinie 2008/56/EG; 
+22. „guter Zustand“ 
+a) im Fall von Oberf lächen gewässern , sow ohl ein „gute s ök ologisches P otenzial“ im Sinne des Ar tik els 2 Nummer 22 
+der Ric htlinie 2000/60/EG als auc h einen „guten chemisc hen Zustand des Oberf läc hengewässers“ gemäß Ar tikel 2 
+Nummer 24 jener Ric htlinie; 
+b) im Fal l von Gr undwasser , sow ohl „einen „gut en c hemische n Zustand des Gr undwassers“ im Sinne des Ar tik els 2 
+Nummer 25 der Rich tlinie 2000/60/EG als auc h einen „gut en meng enmäßigen Zustand“ g emäß Ar tik el 2 
+Nummer 28 jener Ric htlinie; 
+23. „gutes ök ologisc hes P otenzial“ ein gutes ök ologisc hes P otenzial im Sinne des Ar tik els 2 Nummer 23 gemäß der 
+Richtlinie 2000/60/EG; 
+KAPITEL II 
+ÖK OLOGISCH NA CH HAL TIGE WIRTSCHAFTST Ä TIGKEITEN 
+Ar tikel 3 
+Kr iter ien für ök ologisch nachhaltige Wir tschaf ts tätigkeiten 
+Zum Zweck e der Er mittlung des Grades der ök ologisc hen Nac hhaltigk eit einer Inv estition gilt eine Wir tsch af tstätigkei t als 
+ök ologisch nachhal tig, wenn diese Wir tsch af tstätigkei t : 
+a) gemäß den Ar tikeln 10 bis 16 einen wesentlich en Beitrag zur V er wirklichung eines oder mehrerer der Um weltziele des 
+Ar tikels 9 leist et ; 
+b) nicht zu einer in Ar tik el 17 bestimmt en erheblic hen Beeinträcht igung eines oder mehrerer der U mweltziele des 
+Ar tikels 9 führ t ; 
+c) unte r Einhaltung des in Ar tikel 18 festg elegten Mindestschutz es ausg eübt wird; 
+d) tec hnischen Bewer tungskr it er ien, die die K ommission gemäß Ar tik el 10 Absatz 3, Ar tik el 11 Absatz 3, Ar tik el 12 
+Absatz 2, Ar tikel 13 Absatz 2, Ar tikel 14 Absatz 2 und Ar tik el 15 Absatz 2 f estgelegt hat, entspr ic ht. 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/27
+
+--- PDF SEITE 16 ---
+Ar tikel 4 
+Anw endung der Kr iter ien für ök ologisch nachhaltige Wir tschaf ts tätigkeiten bei öffentlichen Maßnahmen, 
+Nor men und Kennzeichnungen 
+Die Mitg liedstaat en und die Union bestimmen anhand der Kr iter ien des Ar tikels 3, ob eine Wir tschaf tstätigkei t als eine 
+ök ologisch nach haltige Wir tschaf tstätigke it für die Zweck e aller Maßnahmen einzustuf en ist, mit denen für Finanzmarkt­
+tei lnehmer oder Emittent en Anf order ungen an Finanzprodukte oder Unt er nehmensanleihen f estgelegt werden, die als 
+„ök ologisc h nachhaltig“ bereitgest ellt werden. 
+Ar tikel 5 
+T ransparenz in v or v er traglichen Informa tionen und regelmäßigen Ber ichten bei ök ologisch nachhaltigen 
+Inv estitionen 
+Wird mit einem Finanzprodukt im Sinne des Ar tikels 9 Absätze 1, 2 oder 3 der V erordnung (EU) 2019/2088 in eine 
+Wir tsch af tstätigkeit inv estier t, die zu einem U mweltziel im Sinne des Ar tik els 2 Nummer 17 der genannt en V erordnung 
+beiträgt, so umfassen die ge mäß Ar tikel 6 Absatz 3 und Ar tikel 11 Absatz 2 der genannt en V erordnung offenzuleg enden 
+Inf or mationen Folgendes : 
+a) die Inf or mationen über das Um weltziel oder die Um weltziele ge mäß Ar tik el 9 der v orliegende n V erordnung, zu dessen 
+bzw . deren Er reichun g die dem Finanzprodukt zugr unde liegende Inv estition beiträgt ; und 
+b) eine Beschreibung, wie und in welchem Umf ang die dem Finanzprodukt zugr unde lieg enden Investitionen solche in 
+Wir tschaftstätigkeite n sind, die gemä ß Ar tik el 3 der vo rliegenden V erordnung als ök ologisc h nac hhaltig einzustuf en sind. 
+In der Besc hreibung g emäß Absatz 1 Buchsta be b des vor liegen den Ar tik els ist der Ant eil der Inv estitionen in ök ologisch 
+nach haltige Wir tschaftstät igke iten, die für das Finanzprodukt ausg ewählt wurden, einschließlic h Einzelheit en zu den 
+Anteil en der in Ar tik el 16 beziehungsweise Ar tikel 10 Absatz 2 g enannten er mög lichenden Tätigkei ten und der Ü bergangs­
+tätigke iten, als Prozentsatz aller für das Finanzprodukt ausg ewählte n Inv estitionen anzug eben. 
+Ar tikel 6 
+T ransparenz in v or v er traglichen Inf or mationen und regelmäßigen Ber ichten bei Finanzprodukten, mit denen 
+ök ologische Merkmale bew orben w erden 
+W erden mit einem Finanzprodukt nach Ar tik el 8 Absatz 1 der V erordnung (EU) 2019/2088 ök ologisc he Merkmale 
+beworb en, so gilt Ar tikel 5 der vor liegenden V erordnung entsprechend. 
+Den gemäß Ar tik el 6 Absatz 3 und Ar tik el 11 Absatz 2 der V erordnung (EU) 2019/2088 offenzuleg enden Inf or mationen 
+wird die f olge nde Erklär ung beige fügt : 
+„Der Gr undsatz „ V er meidung erheblich er Beeinträchtigung en“ find et nur bei denjenigen dem Finanzprodukt zugr unde 
+liegen den Investitionen Anwen dung, die die EU-Kr ite r ien für ök ologisch nac hhaltige Wir tschaftsakt ivitäte n 
+berücksicht igen. 
+Die dem verbleibenden T eil dieses Finanzprodukts zugr unde liegen den Investitionen berücksichtig en nicht die EU-Kr it er ien 
+für ök ologisc h nac hhaltige Wir tschaf tsaktivität en.“ 
+Ar tikel 7 
+T ransparenz in v or v er traglichen Inf or mationen und regelmäßigen Ber ichten bei anderen Finanzprodukten 
+Fällt ein Finanzprodukt nicht unter Ar tikel 8 Absatz 1 oder Ar tikel 9 Absatz 1, 2 oder 3 der V erordnung (EU) 2019/2088, 
+so wird den Inf or mationen, die gemäß den Bestimmung en der in Ar tik el 6 Absatz 3 und Ar tik el 11 Absatz 2 jener 
+V erordnung ge nannten sekt oralen Rech tsvorsc hr if te n off enzulegen sind, die f olge nde Erklär ung beigefüg t : 
+„Die diesem Finanzprodukt zugr unde liegen den Investitionen berücksicht igen nicht die EU-Kr it er ien für ök ologisc h 
+nach haltige Wir tschaf tsaktivität en.“ 
+DE Amtsblatt der Europäischen Uni on L 198/28                                                                                                                                         22.6.2020
+
+--- PDF SEITE 17 ---
+Ar tikel 8 
+T ransparenz in nichtf inanziellen Erklär ungen bei Unter nehmen 
+(1) Jedes Unt er nehmen, das ver pf licht et ist, nichtfinanzielle Angab en nach Ar tik el 19a oder Ar tikel 29a der Richt linie 
+2013/34/EU zu veröffentli chen, nimmt in seine nichtfinanzielle Erklär ung oder k onsolidier te nichtfinanzielle Erklär ung 
+Ang aben darüber auf, wie und in welc hem Um fang die Tätigkei ten des U nte r nehmens mit Wir tsch af tstätigkeit en 
+verbunden sind, die als ök ologisch nach haltige Wir tschaf tstätigkei ten ge mäß Ar tikel 3 und Ar tik el 9 der vorlieg enden 
+V erordnung einzustufen sind. 
+(2) Insbesondere g eben Nich t-Finanzunter nehmen Folgendes an: 
+a) den Ante il ihrer Um satzerlöse, der mit Produkt en oder Dienstleistungen, erzielt wird, die mit Wir tschaf tstätigkei ten 
+verbunden sind, die als ök ologisc h nachhaltig e ge mäß Ar tikel 3 und Ar tikel 9 einzustufe n sind; und 
+b) den Anteil ihrer Investi tionsausgaben und, sowei t zutreffend, den Anteil der Betr iebsausgaben im Zusammenhang mit 
+V er mögensg eg enständen oder Prozessen, die mit Wir tschaf tstätigkei ten verbunden sind, die als ök ologisc h nach haltig 
+gemäß Ar tikel 3 und Ar tikel 9 einzustufe n sind. 
+(3) V eröffen tlicht ein Unt er nehmen nichtfinanzielle Ang aben nac h Ar tikel 19a oder Ar tikel 29a der Richtlinie 
+2013/34/EU in einem g esonder ten Ber icht gemäß Ar tikel 19a Absatz 4 oder Ar tik el 29a Absatz 4 der Rich tlinie 
+2013/34/EU, so werden die in den Absätzen 1 und 2 des vor liegenden Ar tik els g enannten Ang aben in dem g esonder ten 
+Ber ich t veröff entlicht. 
+(4) Die K ommission erlässt ge mäß Ar tik el 23 einen delegier ten Rechtsakt zur Erg änzung der Absätze 1 und 2 des 
+vor liegenden Ar tik els, in dem der Inhalt und die Darstellun g der gemäß den genannt en Absätzen zu mach enden Angaben, 
+einschließ lich der Methode näher erläut er t wird, die anzuwenden ist, um diesen Absätzen zu entsprechen, und trägt dabei 
+den Besonderheiten sow ohl der Finanzunt er nehmen als auch der Nic ht-Finanzunter nehmen und den tec hnische n 
+Bewer tungskr it er ien Rechn ung, die ge mäß der vor liegen den V erordnung erlassen wurden. Die K ommission erlässt diesen 
+delegier ten Recht sakt bis zum 1. Juni 2021. 
+Ar tikel 9 
+Umw eltziele 
+Für die Zweck e der vor liegenden V erordnung gilt Folge ndes als Um weltziel: 
+a) Klimaschut z; 
+b) Anpassung an den Klimawande l; 
+c) die nac hhaltige Nutzung und Schutz von W asser - und Meeresressourcen; 
+d) der Ü bergang zu einer Kreislaufwir tsch af t ; 
+e) V er meidung und V er minder ung der U mweltversc hmutzung; 
+f) der Schut z und Wiederherst ellung der Biodiversität und der Ök osystem e. 
+Ar tik el 10 
+W esentlicher Beitrag zum Klimaschutz 
+(1) Eine Wir tschaf tstätigkei t wird als ein wesentlicher Beitrag zum Klimaschut z eingestuf t, wenn sie wesentlic h dazu 
+beiträgt, die T reibhausgas k onzentrationen in der Atmosphäre auf einem Niveau zu stabilisieren, das eine gef ährliche 
+anthropog ene Störung des Klimasystems verhinder t, indem im Einklang mit dem langfr istigen T emperaturziel des 
+Ü bereink ommens von P ar is T reibhausgasemissionen ver mieden oder ver r ing er t werden oder die Speicherun g v on 
+T reibhausgasen verstärkt wird, einschließ lich durc h Prozess- oder Produktinnovationen, durc h: 
+a) Erzeugung, Ü ber tragung, Speic her ung, V er tei lung oder Nutzung er neuerbarer Energien ge mäß der Richtlinie (EU) 
+2018/2001, unt er anderem durch den Einsatz innovativer T echn ologien mit P oten zial für erheblic he zukünf tige 
+Einspar ungen oder durch eine notwendige Netzverstärkung oder -er weit er ung; 
+b) Steig er ung der Energieeffizienz; hier v on ausgenommen sind die in Ar tikel 19 Absatz 3 ge nannten Tätigke iten zur 
+Stromerzeugung; 
+c) Aus bau sauberer oder klimaneutraler Mobilität ; 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/29
+
+--- PDF SEITE 18 ---
+d) U mstellung auf die Nutzung er neuerbarer Mate r ialien nachhal tiger Herkunf t ; 
+e) verstärkte Nutzung umweltver träg licher T echn ologien der C O
+2
+-Absch eidung und -Nutzung (CCU) bzw . der CO
+2
+- 
+Absc heidung und -Speicherun g (CCS), die Nettoemissionsminder ungen bei T reibhausgase n bewirken; 
+f) Stärkung von CO
+2
+-Senken auf dem Land, unt er anderem durch V erhinder ung von Entwaldung und W aldschädigung, 
+durch Wiederherstellung v on Wälder n, durc h nach haltige Bewir tscha f tung und Wiederherst ellung von A c kerf lächen, 
+Grünf lächen und Feuchtg ebieten, durc h A uff orstung und durch regenerat ive Landwir tschaf t ; 
+g) Einr ichtung der Energieinfrastr uktur , die für die Er mög lichu ng der Dekarbonisier ung der Energiesysteme er f orderlich ist ; 
+h) Erzeugung sauberer und effi zient er Kraf tstoff e aus er neuerbaren oder C O
+2
+-neutralen Quellen; oder 
+i) Er mög lichung jeder der in den Buchsta ben a bis h dieses Absatzes g enannten Tätigkeit en gemäß Ar tik el 16. 
+(2) Für die Zweck e von Absatz 1 leist et eine Wir tschaftstät igke it, für die es ke ine tec hnologisch und wir tschaftlich 
+durch führbare CO
+2
+-ar me Alt er native gibt, einen wesentlich en Beitrag zum Klimasc hutz, wenn sie den Ü bergang zu einer 
+klimaneutralen Wir tscha f t unte rstützt, im Einklang mit dem W eg hin zur Begrenzung des T emperaturanstiegs auf 1,5 °C 
+ge genüber dem v or industr iellen Niveau, auc h durch die schri ttweise Einste llung v on T reibhausgase missionen, insbesondere 
+aus fest en f ossilen Brennstoff en, und wenn diese Wir tschaf tstätigkei t 
+a) T reibhausgasemissionswer te aufweist, die den best en Leistungen des Sektors oder der Industr ie entsprechen, 
+b) die Entwick lung und Einführ ung CO
+2
+-ar mer Alt er nativen nicht behinder t, und 
+c) in Anbetracht der wir tsch af tliche n Lebensdauer v on CO
+2
+-inten siven V er mög enswer ten nicht zu Lock -in-Effek ten bei 
+diesen V er mög enswer ten führ t. 
+Für den Zweck dieses Absatzes und die Festlegung tec hnischer Bewer tungskr it er ien g emäß Ar tikel 19 bewer tet die 
+K ommission den poten ziellen Beitrag und die Durc hführbarkeit aller relevante n best ehenden T echn ologien. 
+(3) Die K ommission erlässt g emäß Ar tik el 23 einen delegier ten Rechtsakt, um 
+a) zur Ergänzung der Absätze 1 und 2 des vor liegenden Ar tikels tec hnische Bewer tungskr iter ien fe stzulegen, anhand deren 
+bestimmt wird unter welc hen Bedingungen dav on auszugehen ist, dass eine bestimmt e Wir tschaftstät igke it einen 
+wesentlich en Beitrag zum Klimasch utz leist et ; und 
+b) zur Erg änzung von Ar tikel 17 tec hnische Bewer tungskr iter ien für jedes relevante U mweltziel festzuleg en, anhand deren 
+bestimmt wird ob eine Wir tsch af tstätigkeit , für die gemäß Buchst abe a des vorlieg enden Absatzes tec hnische 
+Bewer tungskr it er ien f estgelegt werden, eines oder mehrere dieser Ziele erheblich beeinträchtigt. 
+(4) V or dem Erlass des delegier te n Rechts akts nac h Absatz 3 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m zu den in Absatz 3 dieses Ar tikels genannt en te chnisc hen Bewer tungskr it er ien. 
+(5) Die K ommission legt die in Absatz 3 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(6) Die K ommission erlässt den in Absatz 3 ge nannten delegier ten Recht sakt bis zum 31. Dezember 2020, um seine 
+Anwen dung ab dem 1. Januar 2022 zu g ewährleisten. 
+Ar tik el 11 
+W esentlicher Beitrag zur Anpassung an den Klima wandel 
+(1) Eine Wir tschaf tstätigkei t wird dann als einen wesentlichen Beitrag zur Anpassung an den Klimawandel leist end 
+eing estuf t, wenn sie 
+a) Anpassungs lösungen umfasst, die entweder das Risik o der nach teilig en Aus wirkungen des geg enwär tige n und des 
+er war te ten künf tige n Klimas auf die Wir tschaftstät igke it selbst erheblich ver r inge r n oder diese nacht eilig en 
+Auswirkung en erheblich ver r ing er n, ohne das Risik o nacht eilig er Auswirk ungen auf Mensc hen, Natur oder 
+V er mögenswer te zu erhöhen; oder 
+b) Anpassungs lösungen biete t, die zusätzlich zur Erfüllung der Anf order ungen des Ar tik els 16 wesentlich dazu beitrage n, 
+das Risik o der nach teilig en Auswirkung en des g egen wär tigen und des er war tet en künf tigen Klimas auf Mensc hen, 
+Natur oder V er mögenswer te zu ver meiden oder zu ver r ing er n, ohne das Risik o nach teilig er Auswirk ungen auf 
+Mensc hen, Natur oder V er mög enswer te zu erhöhen. 
+DE Amtsblatt der Europäischen Uni on L 198/30                                                                                                                                         22.6.2020
+
+--- PDF SEITE 19 ---
+(2) Die in Absatz 1 Buchstabe a genannt en Anpassungslösung en werden bewer te t und unter Heranziehung der besten 
+verf ügbaren Klimaprognosen nach Pr ior ität en gereiht ; sie müssen mindestens Folg endes ver meiden oder ver r inger n: 
+a) die standor t- und k ont extspezif isch en nacht eilig en Auswirk ungen des Klimawandels auf die Wir tschaf tstätigkei t ; oder 
+b) die etwaig en nach teilig en A uswirkungen des Klimawandels auf die Um welt, in der die Wir tschaf tstätigkei t stattfi ndet. 
+(3) Die K ommission erlässt einen delegier ten Rechtsakt g emäß Ar tikel 23, um 
+a) in Erg änzung der Absätze 1 und 2 des v orliegenden Ar tikels te chnisc he Bewer tungskr ite r ien fe stzulegen, anhand deren 
+bestimmt wird, unte r welchen Bedingung en da von auszug ehen ist, dass eine bestimmt e Wir tschaftstät igke it einen 
+wesentlich en Beitrag zur Anpass ung an den Klimawandel leist et ; und 
+b) in Erg änzung des Ar tik els 17 te chnisc he Bewer tungskr it er ien für jedes relevante U mweltziel fe stzulegen, anhand deren 
+bestimmt wird, ob eine Wir tschaftstät igke it, für die ge mäß Buchs tabe a des v orliegenden Absatzes tec hnische 
+Bewer tungskr it er ien f estgelegt w orden sind, eines oder mehrere dieser Ziele erheblich beeinträchtigt . 
+(4) V or dem Erlass des delegier te n Rechts akts nac h Absatz 3 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m zu den in Absatz 3 dieses Ar tikels genannt en te chnisc hen Bewer tungskr it er ien. 
+(5) Die K ommission legt die in Absatz 3 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(6) Die K ommission erlässt den in Absatz 3 ge nannten delegier ten Recht sakt bis zum 31. Dezember 2020, um seine 
+Anwen dung ab dem 1. Januar 2022 zu g ewährleisten. 
+Ar tik el 12 
+W esentlicher Beitrag zur nachhaltigen Nutzung und zum Schutz v on W asser - und Meeresressourcen 
+(1) Eine Wir tschaftstät igk eit leistet einen wesentlich en Beitrag zur nac hhaltigen Nutzung und zum Schutz von W asser - 
+und Meeresressourcen, wenn sie entweder wesentlic h zur Er reichun g des gute n Zustands v on Gewässer n, einsch ließlich 
+Oberf läc henwasser und Gr undwasserk ör per , oder zur V er meidung der V ersc hlecht er ung v on Gewässer n, wenn sie sich 
+bereits in gute m Zustand bef inden, oder zur Er reichung des guten Um weltzustands v on Meeresg ewässer n oder zur 
+V er meidung einer V ersc hlecht er ung v on Meeresgewässer n, die sie sic h bereits in gute m U mweltzusta nd bef inden, beiträgt 
+durch : 
+a) Schutz der U mwelt vor den nacht eilig en A uswirkungen der Einleitung v on städtisch em und industr iellem Abwasser , 
+unte r anderem vor zunehmend besorgniser regende n K ontaminanten wie Arzneimitt el und Mikroplastik, indem 
+beispielsweise die sach gerec hte Sammlung, Behandlung und Entsorgung k ommunaler und industr ieller Abwässer 
+sich ergest ellt wird; 
+b) Schutz der menschli chen Gesundheit vor den nac hteilig en Auswirkung en einer V er unreinigung v on W asser für den 
+menschlic hen V erbrauch, indem sich ergest ellt wird, dass es frei v on Mikroorganismen, P arasiten und St offen ist, die 
+eine poten zielle Gef ährdung der menschlic hen Gesundheit darstellen , und indem der Zugang der Bevölk er ung zu 
+sauberem T r inkwasser W asser für den mensch lichen V erbrauch für alle, insbesondere für benac hteiligt e Gr uppen und 
+R andgr uppen, verbesser t oder aufrech terhalt en wird; 
+c) V erbesser ung der W asserbewir tschaftun g und der W assereffizie nz, auc h durc h den Schutz und die V erbesser ung des 
+Zustands aquatisc her Ök osystem e, durc h Förder ung der nachhal tigen Nutzung von W asser mithilfe eines langfr istigen 
+Schutze s v on ver fügbaren W asser ressourcen unte r anderem durc h Nutzung v on Maßnahmen wie der 
+Wieder ver wendung von W asser durc h die Sicherst ellung der schr ittweisen V er r inge r ung von Schad stoff emissionen in 
+Oberf läc hengewässer und Gr undwässer , dabei einen Beitrag zur V er r ing er ung der Aus wirkungen v on 
+Ü bersc hwemmung en und Dür ren leistend, oder jede andere Tätigkei t, die den Zustand von Gewässer n in qualitativer 
+und quantitativer Hinsicht sch ützt oder verbesser t ; 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/31
+
+--- PDF SEITE 20 ---
+d) Gewährleistung der nachhal tigen Nutzung der Dienstleistungen v on mar inen Ök osystemen oder Leistung v on Beiträgen 
+zum gut en U mweltzust and von Meeresg ewässer n, unter anderem durch Schutz, Erhaltung oder Wiederherste llung der 
+Meeresumwelt und durc h V er meidung oder V er r inger ung von Einträgen in die Meeresumwe lt ; oder 
+e) Er mög lichung jeder der in Buchs taben a bis d dieses Absatzes aufgeführ ten Tätigkei ten ge mäß Ar tikel 16. 
+(2) Die K ommission erlässt g emäß Ar tik el 23 einen delegier ten Rechtsakt, um 
+a) in Erg änzung des Absatzes 1 des vorlieg enden Ar tik els tec hnische Bewer tungskr it er ien f estzulegen, anhand deren 
+bestimmt wird, unte r welchen Bedingung en da von auszug ehen ist, dass eine bestimmt e Wir tschaftstät igke it einen 
+wesentlich en Beitrag zur nachhaltig en Nutzung und zum Sch utz v on W asser - und Meeresressourcen leist et ; und 
+b) in Erg änzung des Ar tik els 17 te chnisc he Bewer tungskr it er ien für jedes relevante U mweltziel fe stzulegen, anhand deren 
+bestimmt wird, ob eine Wir tschaftstät igke it, für die ge mäß Buchs tabe a des v orliegenden Absatzes tec hnische 
+Bewer tungskr it er ien f estgelegt werden, eines oder mehrere dieser Ziele erheblich beeinträchtigt. 
+(3) V or dem Erlass des delegier te n Rechts akts nac h Absatz 2 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m in Bezug auf die in Absatz 2 dieses Ar tik els g enannten tec hnischen Bewer tungskr iter ien. 
+(4) Die K ommission legt die in Absatz 2 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(5) Die K ommission erlässt den in Absatz 2 ge nannten delegier ten Recht sakt bis zum 31. Dezember 2021, um seine 
+Anwen dung ab dem 1. Januar 2023 zu g ewährleisten. 
+Ar tik el 13 
+W esentlicher Beitrag zum Ü bergang zur Kreislaufwir tschaf t 
+(1) Eine Wir tschaf tstätigkei t leist et einen wesentlich en Beitrag zum Ü bergang zu einer Kreislaufwir tschaf t einschließ lich 
+Abfallv er meidung, Wieder ver wendung und Recy cling, wenn sie: 
+a) die natürlich er Ressourcen, einschließ lich beschaff ter biobasier te r und anderer R ohstoff e nac hhaltiger Herkunf t, in der 
+Produktion, effi ziente r nutzt, unter anderem durch 
+i) einen reduzier ten Einsatz v on Pr imär rohst offen oder eine Steig er ung der V er wendung v on Nebenprod ukten und 
+Sekundär rohst offen; oder 
+ii) Ressourcen- und Energieeff izienzmaßnahmen; 
+b) die Haltbarke it, Reparatur f ähigke it, Nachrüstbark eit oder Wieder ver wendbark eit von Produkten, insbesondere bei den 
+Entwicklun gs- und Fer tigungstätigkei ten , verbesser t ; 
+c) die Recy clingfähi gkeit von Produkten, einschließ lich der der in diesen Produkten enthaltenen einzelnen Materialie n, 
+unte r anderem durch die Ersetzung oder eing eschr änkte V er wendung v on nicht wieder ver wendbaren Produkt en und 
+Materialie n, insbesondere bei den Entwick lungs- und Fer tigungstätigkeit en, verbesser t ; 
+d) den an gef ährlichen Stoff en wesentlich ver r inge r t und besonders besorgniser regender Stoff e in Mate r ialien und 
+Produkt en während ihres gesamt en Lebenszyklus gemäß den im U nionsrecht fe stgelegt en Zielen ersetzt, unt er anderem 
+durch Ersetzung dieser Stoff e durch sich erere Alt er nativen und durc h Gewährleistung der Rückverf olgbarkei t ; 
+e) die Nutzung von Produkten, unt er anderem durc h Wieder ver wendung, Design für Lang lebigkeit, Um funktionier ung, 
+Demontage, Wiederaufa rbeitung, Moder nisier ung und Reparatur sowie ge meinsame Nutzung von Produkten, 
+verlänger t ; 
+f) Sekundär rohstoff e verstärkt nutzt und ihre Qualität steig er t, unt er anderem durch eine hochwe r tiges Recy cling v on 
+Abfällen; 
+g) die Abf allerzeugung, einschließ lich der Erzeugung v on Abf all bei der Gewinnung v on Mineralien sowie bei Bau und 
+Abr iss von Gebäuden, ver mieden oder ver r inger t ; 
+DE Amtsblatt der Europäischen Uni on L 198/32                                                                                                                                         22.6.2020
+
+--- PDF SEITE 21 ---
+h) die Wieder ver wendung und das Recy cling von Abfällen verstärkt vor bereitet ; 
+i) die Infrastr uktur für die Abf allbewir tsch af tung, die für die V er meidung, die V orbereitung für die Wieder ver wendung 
+und das Recy cling erfor derlich ist, stärker ausbaut, wobei g leic hzeitig ge währleistet wird, dass die wiederge wonnenen 
+Materialie n als hochwe r tige Sekundär rohstoff e für die Produktion unte r V er meidung eines Down cy cling recy celt 
+werden; 
+j) die Abfallverbrennung mög lichst ver r ing er t und die Abfallbeseitigung, einschließ lich der Deponier ung, ver meidet, 
+ge mäß den Gr undsätzen der Abfallhi erarchie; 
+k) Abfall ver meidet oder ver r inger t, oder 
+l) jede der in den Buchstaben a bis k dieses Absatzes ge nannten Tätigke iten g emäß Ar tik el 16 f örder t. 
+(2) Die K ommission erlässt g emäß Ar tik el 23 einen delegier ten Rechtsakt, um 
+a) in Erg änzung des Absatzes 1 dieses Ar tik els tec hnische Bewer tungskr iter ien festzuleg en, anhand deren f estgest ellt wird, 
+unte r welchen Bedingung en dav on auszug ehen ist, dass eine bestimmt e Wir tschaftstät igke it einen wesentlichen Beitrag 
+zum Ü bergang zu einer kreislauf or ientier ten Wir tschaf t leistet ; und 
+b) in Erg änzung des Ar tik els 17 te chnisc he Bewer tungskr it er ien für jedes relevante U mweltziel fe stzulegen, anhand deren 
+fe stgest ellt wird, ob dav on auszug ehen ist, dass eine Wir tschaftstät igke it, für die gemäß Buchstab e a des v orliegende n 
+Absatzes tec hnische Bewer tungskr it er ien f estgelegt werden, eines oder mehrere dieser Ziele erheblich beeinträchtigt. 
+(3) V or dem Erlass des delegier te n Rechts akts nac h Absatz 2 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m zu den in Absatz 2 des vor liegenden Ar tikels ge nannten tec hnisc hen Bewer tungskr it er ien 
+(4) Die K ommission legt die in Absatz 2 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(5) Die K ommission erlässt den in Absatz 2 ge nannten delegier ten Recht sakt bis zum 31. Dezember 2021, um seine 
+Anwen dung ab dem 1. Januar 2023 zu g ewährleisten. 
+Ar tik el 14 
+W esentlicher Beitrag zur V er meidung und V er minder ung der Umw eltv erschmutzung 
+(1) Eine Wir tschaf tstätigke it leist et einen wesentlich en Beitrag zur V er meidung und V er minder ung der Um weltver­
+schmutz ung, wenn sie wesentlic h zum Schutz vor U mweltversc hmutzung beiträgt durch: 
+a) V er meidung oder , sof er n nicht durchführbar , V er r inger ung von Emissionen, mit A usnahme von T reibhausg asen, in Luft, 
+W asser oder Boden; 
+b) V erbesser ung der L uf t-, W asser - oder Bodenqualität in den Gebiet en, in denen die Wir tschaftstät igke it stattfi ndet, bei 
+g leich zeitiger Minimier ung aller nacht eilig en Auswirkung en auf die menschli che Gesundheit und die U mwelt oder 
+Risiken solc her Aus wirkungen; 
+c) V er meidung oder Minimier ung nacht eilig er Auswirkung en auf die menschli che Gesundheit und die U mwelt bei der 
+Herstellun g, V er wendung oder Beseitigung von Chemikalien; 
+d) Beseitigung von Abfä llen und sonstigen Schadst offen; oder 
+e) Er mög lichung jeder der in Buchs taben a bis d des vor liegenden Absatzes ge nannten Tätigke iten ge mäß Ar tikel 16. 
+(2) Die K ommission erlässt g emäß Ar tik el 23 einen delegier ten Rechtsakt, um 
+a) zur Ergänzung des Absatzes 1 des vor liegenden Ar tikels tec hnische Bewer tungskr ite r ien f estzulegen, anhand deren 
+bestimmt wird, unte r welchen Bedingung en da von auszug ehen ist, dass eine bestimmt e Wir tschaftstät igke it einen 
+wesentlich en Beitrag zur V er meidung und V er minder ung der U mweltvers chmutzung leist et ; und 
+b) zur Erg änzung von Ar tikel 17 tec hnische Bewer tungskr iter ien für jedes relevante U mweltziel festzuleg en, anhand deren 
+bestimmt wird, ob eine Wir tschaftstät igke it, für die ge mäß Buchs tabe a des v orliegenden Absatzes tec hnische 
+Bewer tungskr it er ien f estgelegt werden, eines oder mehrere dieser Ziele erheblich beeinträchtigt. 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/33
+
+--- PDF SEITE 22 ---
+(3) V or dem Erlass des delegier te n Rechts akts nac h Absatz 2 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m zu den in Absatz 2 dieses Ar tikels genannt en te chnisc hen Bewer tungskr it er ien 
+(4) Die K ommission legt die in Absatz 2 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(5) Die K ommission erlässt den in Absatz 2 delegier ten Rechtsakt bis zum 31. Dezember 2021, um seine Anwen dung 
+ab dem 1. Januar 2023 zu ge währleisten. 
+Ar tik el 15 
+W esentlicher Beitrag zum Schutz und zur Wiederherstellung der Biodiv ersität und der Ök osysteme 
+(1) Eine Wir tsch af tstätigkei t leist et einen wesentlic hen Beitrag zum Schutz und zur Wiederherst ellung der Biodiversität 
+und der Ök osysteme, wenn sie wesentlic h zum Schut z, zur Erhaltung oder zur Wiederherst ellung der Biodiversität oder 
+zur Er reichun g des gut en Zustands von Ök osysteme n oder zum Schutz v on Ök osystem en, die sich bereits in gut em 
+Zustand bef inden, beiträgt durch: 
+a) Erhaltung der Natur und der Biodiversität, einschließ lich der Er reichun g eines günstigen Erhaltungszustands v on 
+natürliche n und natur nahen Lebensräumen und Ar ten oder der V er meidung einer V ersch lecht er ung, wenn sie sich 
+bereits in einem günstige n Erhaltungszustand bef inden, des Schutzes und der Wiederherste llung v on te r restr isc hen, 
+mar inen und anderen aquatischen Ök osystemen, um ihren Zustand und ihre Fähigke it zur Erbr ingung v on Ök osystem­
+dienstleistungen zu verbesser n; 
+b) nachhal tige Landnutzung und -bewir tschaf tung, einschließ lich eines angem essenen Schutze s der Biodiversität in Böden, 
+Neutralität geg enüber der Landdegradation Bodendegradier ung und Sanier ung schad stoffbelast eter Standor te; 
+c) nachhal tige landwir tschaf tlich e V erfahren, einschließlic h solcher , die dazu beitragen, Biodiversität zu f örder n oder 
+Bodendegradier ung und die Degradier ung anderer Ök osysteme , Entwaldung oder V erlust von Lebensraum aufzuhalte n 
+oder zu verhinder n; 
+d) nachhal tige W aldbewir tschaf tung, einsch ließlich Handhabung und Nutzung von Wälder n und W aldf läc hen, die dazu 
+beitragen , die Biodiversität zu f örder n oder die Degradation von Ök osystem en, Entwaldung und V erlust v on 
+Lebensraum aufzuhalten oder zu verhinder n; oder 
+e) Er mög lichung jeder der unte r Buchs taben a bis d dieses Absatzes genannt en Tätigkei ten ge mäß Ar tikel 16. 
+(2) Die K ommission erlässt g emäß Ar tik el 23 einen delegier ten Rechtsakt, um 
+a) in Erg änzung des Absatzes 1 des vorlieg enden Ar tik els tec hnische Bewer tungskr it er ien f estzulegen, anhand deren 
+bestimmt wird, unte r welchen Bedingung en da von auszug ehen ist, dass eine bestimmt e Wir tschaftstät igke it einen 
+wesentlich en Beitrag zum Schutz und zur Wiederherste llung der Biodiversität und der Ök osysteme leistet ; und 
+b) in Erg änzung von Ar tikel 17 tec hnische Bewer tungskr ite r ien für jedes relevante Um weltziel festzuleg en, anhand deren 
+bestimmt wird, ob eine Wir tschaftstät igke it, für die ge mäß Buchs tabe a des v orliegenden Absatzes tec hnische 
+Bewer tungskr it er ien f estgelegt werden, eines oder mehrere dieser Ziele erheblich beeinträchtigt. 
+(3) V or dem Erlass des delegier te n Rechts akts nac h Absatz 2 des vorlieg enden Ar tik els k onsultier t die K ommission die in 
+Ar tikel 20 genannt e Plattf or m zu den in Ar tikel 20 genannt en tec hnische n Bewer tungskr ite r ien. 
+(4) Die K ommission legt die in Absatz 2 des vorlieg enden Ar tikels g enannten tec hnische n Bewer tungskr ite r ien in einem 
+einzige n delegier ten Rechtsakt f est und trägt dabei den Anf order ungen des Ar tik els 19 Rechn ung. 
+(5) Die K ommission erlässt den in Absatz 2 ge nannten delegier ten Recht sakt bis zum 31. Dezember 2021, um seine 
+Anwen dung ab dem 1. Januar 2023 zu g ewährleisten. 
+Ar tik el 16 
+Er möglichende Tätigkeiten 
+Eine Wir tscha f tstätigkeit leist et einen wesentlic hen Beitrag zu einem oder mehreren der in Ar tik el 9 ge nannten 
+U mweltziele, indem sie es unmittelbar anderen Tätigke iten er mög licht , einen wesentlich en Beitrag zu einem oder mehreren 
+dieser Ziele leisten, und wenn diese Wir tschaftstät igke it 
+a) in Anbetracht der wir tschaf tlich en Lebensdauer von V er möge nswer ten, die den langfr istigen Um weltzielen abträg lich 
+sind, nicht zu Lock -in-Effekt en bei diesen V er mögenswer te n führ t ; und 
+b) auf der Gr undlage von Lebenszyklusüberlegungen wesentlich e positive Auswirk ungen auf die U mwelt hat. 
+DE Amtsblatt der Europäischen Uni on L 198/34                                                                                                                                         22.6.2020
+
+--- PDF SEITE 23 ---
+Ar tik el 17 
+Erhebliche Beeinträchtigung der Umw eltziele 
+(1) Für die Zweck e des Ar tik els 3 Buchs tabe b gilt eine Wir tsc haf tstätigkei t — unter Berücksichtigung des Lebenszyklus 
+der durc h eine Wir tsc haf tstätigkei t bereitges tellt en Produkte und Dienstleistungen, dar unte r auc h von Erkenn tnissen aus 
+vor handenen Lebenszyklusanalysen, — als erheblich beeinträchtig end für 
+a) den Klimasc hutz, wenn diese Tätigkeit zu erheblic hen T reibhausgasemissionen führ t ; 
+b) die Anpas sung an den Klima wandel, wenn diese Tätigkei t die nac hteilig en Auswirkung en des derzeitigen und des 
+er war te ten zukünf tigen Klimas auf die Tätigkeit selbst oder auf Mensc hen, die Natur oder V er mög enswer te verstärkt ; 
+c) die nac hhaltige Nutzung und den Sch utz der W asser - und Meeresressourcen, wenn diese Tätigkeit 
+i) den gute n Zustand oder das gute ök ologische P oten zial v on Gewässer n, einsch ließlich Oberf läc henge wässer n und 
+Gr undwässer n; oder 
+ii) den gut en Um weltzustand von Meeresgewässer n schäd igt ; 
+d) die Kreislaufwir tschaf t, einsch ließlich Abf allver meidung und Recy cling, wenn 
+i) diese Tätigkei t zu einer erheblich en Ineffi zienz bei der Materialnut zung oder der unmitte lbaren oder mittelbar en 
+Nutzung natürliche r Ressourcen wie nicht er neuerbaren Energiequellen, R ohstoff en, W asser und Boden in einer 
+oder mehreren Phasen des Lebenszyklus v on Produkt en führ t, unt er anderem bei Haltbarke it, Reparatur f ähigke it, 
+Nac hrüstbarke it, Wieder ver wendbark eit oder Recy clingfähigk eit der Produkte; 
+ii) diese Tätigkei t zu einer deutlichen Zunahme bei der Erzeugung, V erbrennung oder Beseitigung v on Abfällen — mit 
+A usnahme der V erbrennung von nicht recy celbaren gef ährlichen Abfällen — führ t, oder 
+iii) die langfr istig e Abfallbeseitigung eine erhebliche und langfr istige Beeinträcht igung der Um welt ver ursac hen kann; 
+e) die V er meidung und V er minder ung der Um weltversc hmutzung, wenn diese Tätigkeit — im V erg leich zur Lage vor 
+Beginn der Tätigke it — zu einem erheblichen Anstieg der Schad stof femissionen in Luft, W asser oder Boden führ t ; oder 
+f) den Sch utz und die Wiederherste llung der Biodiversität und der Ök osysteme, wenn diese Tätigkei t 
+i) den gut en Zustand und die Widerstandsf ähigkeit v on Ök osystem en erheblich schädigt, oder 
+ii) den Erhaltungszustand der Lebensräume und Ar ten , einsch ließlich der jenige n v on Unionsint eresse, schäd igt. 
+(2) Bei der Bewer tung einer Wir tschaf tstätigkei t anhand der Kr it er ien des Absatzes 1 ist sow ohl den U mweltaus­
+wirkungen der Tätigkeit selbst als auc h den Um weltauswirkung en der durc h diese Tätigke it bereitge stellt en Produkt e und 
+Dienstleistungen während ihres ge samten Lebenszyklus zu berücksichtig en, insbesondere durch Beachtung der 
+Herste llung, der V er wendung und des Endes der Lebensdauer dieser Produkt e und Dienstleistungen. 
+Ar tik el 18 
+Mindestschutz 
+(1) Bei dem in Ar tikel 3 Buchstabe c ge nannten Mindestsch utz handelt es sic h um V erfahren, die v on einem eine 
+Wir tsch af tstätigkeit ausübenden U nter nehmen durc hgeführ t werden, um sicherzust ellen, dass die OECD-Leitsätze für 
+multinationale Unt er nehmen und die Leitpr inzipien der V ereinten Nationen für Wir tsch af t und Menschenrec hte, 
+einschließ lich der Gr undpr inzipien und Recht e aus den acht Ker nübereink ommen, die in der Erklär ung der Inte r nationalen 
+Arbeitsorgan isation über gr undlege nde Pr inzipien und Rech te bei der Arbeit festg elegt sind, und aus der Intern ationalen 
+Char ta der Mensc henrecht e, bef olgt werden. 
+(2) Bei der U msetzung der V er f ahren ge mäß Absatz 1 des v orliegende n Ar tik els halten sic h die U nter nehmen an den 
+Gr undsatz „ V er meidung erheblich er Beeinträchtigung en“ nach Ar tikel 2 Nummer 17 der V erordnung (EU) 2019/2088. 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/35
+
+--- PDF SEITE 24 ---
+Ar tik el 19 
+Anforder ungen an technische Bew er tungskr iter ien 
+(1) Die gemäß Ar tik el 10 Absatz 3, Ar tikel 11 Absatz 3, Ar tik el 12 Absatz 2, Ar tik el 13 Absatz 2, Ar tikel 14 Absatz 2 
+und Ar tik el 15 Absatz 2 fe stgelegt en tec hnisch en Bewer tungskr ite r ien müssen 
+a) die wich tigsten pote nziellen Beiträge zu dem jeweilig en Um weltziel unt er W ahr ung des Gr undsatzes der T echnologie­
+neutralität nennen und dabei sow ohl die kurzfr istig en als auc h die langfr istig en A uswirkungen einer bestimmten 
+Wir tsch af tstätigkeit berücksicht igen; 
+b) die Mindestanf order ungen angebe n, die erfüll t sein müssen, um eine erhebliche Beeinträchtigung auc h nur eines 
+einschlägig en U mweltziele zu ver meiden, und dabei sow ohl die kurzfr istig en als auc h die langfr istig en A uswirkungen 
+einer bestimmt en Wir tsch af tstätigkei t berüc k sich tigen; 
+c) quantitativer Ar t sein und Schwellen wer te enthalt en, sowei t das mög lich ist, und ander nfalls qualitativer Ar t sein; 
+d) ge gebenenf alls auf Kennzeic hnungs- und Zer tif izier ungssystemen der Union, auf Unionsme thoden für die Bewer tung 
+des ök ologischen Fußabdr ucks und auf statistischen Klassifizier ungssystem en der U nion aufbauen und dabei 
+einschlägig e best ehende U nionsvorsc hr if ten berücksicht igen; 
+e) Nac hhaltigkeitsindikat oren nach Ar tik el 4 Absatz 6 der V erordnung (EU) 2019/2088, ver wenden, sowei t das 
+durch führbar ist ; 
+f) sich auf schlüssi ge wissenschaftli c he Erkenntnisse und auf das in Ar tikel 191 AEUV veranker te V orsorgepr inzip stützen; 
+g) dem Lebenszyklus sowie den Erk enntnissen aus vorhandenen Lebenszyklusanalysen Rech nung tragen, indem sow ohl 
+die U mweltauswirkung der Wir tschaf tstätigkei t selbst als auc h die U mwelt einwirkung en der durch sie bereitge stellt en 
+Produkt e und Dienstleistunge n berücksicht igt werden, insbesondere durch Beac htung der Herstellung, der V er wendung 
+und des Endes der Lebensdauer dieser Produkt e und Dienstleistungen; 
+h) Ar t und Umf ang der Wir tschaftstät igke it berücksichtig en, dar unte r auch die Frage , 
+i) ob es sich um eine er mög lichende Tätigkei t t nach Ar tik el 16 handelt ; 
+ii) ob es sich um eine Ü bergangstätigk eit nach Ar tikel 10 Absatz 2 handelt ; 
+i) die potenziellen A uswirkungen des Ü bergangs zu einer nachhal tigeren Wir tschaf t auf den Markt berücksichtig en, 
+einschließ lich des Risik os, dass bestimmte V er mögenswer te inf olge des Ü berg angs wer tlos werden, sowie des Risik os, 
+widersprüchlic he Anreize für nach haltige Inv estitionen zu schaff en; 
+j) alle relevante n Wir tschaftstät igke iten innerhalb eines bestimmt en Sekt ors abdeck en und sicherst ellen, dass diese 
+Tätigkei ten g leic h behandelt werden, wenn sie in g leic hem Maße zur Er reichun g der U mweltziele des Ar tikel s 9 der 
+vor liegenden V erordnung beitragen , um eine W ettbewerbsverzer r ung auf dem Markt zu ver meiden; und 
+k) einfac h anzuwenden sein und so f estgelegt werden, dass die Ü ber prüfung ihrer Einhaltung erleicht er t wird. 
+Fer ner ist in den tec hnischen Bewer tungskr ite r ien klar und deutlich anzugebe n, ob die Wir tschaftstät igke it einer der 
+unte r Buchstabe h g enannten Kategor ien angeh ör t. 
+(2) Die in Absatz 1 genannt en te chnisc hen Bewer tungskr it er ien umf assen auch Kr ite r ien für Tätigke iten im 
+Zusammenhang mit dem Ü bergang zu sauberer Energie, der mit dem W eg hin zur Begrenzung des T emp eraturanstiegs auf 
+1,5 °C g egenüber dem v or industr iellen Niveau vereinbar ist, insbesondere mit Energieeffizienz und er neuerbaren Energien, 
+sowei t diese Tätigkei ten wesentlich zur Er reichung mindestens eines der U mweltziele beitragen . 
+(3) Die in Absatz 1 ge nannten tec hnische n Bewer tungskr it er ien müssen sich erstellen, dass Stromerzeugungstätigkeit en, 
+bei denen fest e f ossile Brennstoff e ver wendet werden, nicht als ök ologisch nachhal tige Wir tsch af tstätigkei ten gelt en. 
+(4) Die in Absatz 1 genannt en te chnisc hen Bewer tungskr it er ien umf assen auch Kr ite r ien für Tätigke iten im 
+Zusammenhang mit dem Ü bergang zu sauberer oder klimaneutraler Mobilität, auch durch V erk ehrsverlag er ung, Effizienz­
+maßnahmen und alternati ve Kraf tst offe, sowei t diese wesentlich zur Er reichung mindestens eines der U mweltziele 
+beitragen . 
+DE Amtsblatt der Europäischen Uni on L 198/36                                                                                                                                         22.6.2020
+
+--- PDF SEITE 25 ---
+(5) Die K ommission über prüf t die in Absatz 1 g enannten tec hnische n Bewer tungskr ite r ien rege lmäßig und passt die 
+ge mäß dieser V erordnung erlassenen delegier ten Rechtsa kte g egebenenf alls an wissenschaftli c he und tec hnische 
+Entwicklung en an. 
+In diesem Zusammenhang bewer tet die K ommission vor der Änder ung oder Ersetzung eines delegier ten Rechtsa kts die 
+U msetzung dieser Kr iter ien unter Berücksicht igung des Erg ebnisses ihrer Anwen dung durch Finanzmarktte ilnehmer und 
+ihre A uswirkungen auf die Kapi talmärkte, einschließlic h der Lenkung v on Inv estitionen hin zu ök ologisc h nachhaltig en 
+Wir tsch af tstätigkeit en. 
+U m sic herzustellen, dass die in Ar tik el 10 Absatz 2 ge nannten Wir tschaf tstätigkei ten beim Ü bergang zu einer 
+klimaneutralen Wir tschaf t auf einem damit vereinbaren g laubwürdig en W eg bleiben, über prüf t die K ommission die 
+tec hnische n Bewer tungskr it er ien für diese Tätigke iten mindestens alle drei Jahre und änder t g egebenenf alls den in 
+Ar tikel 10 Absatz 3 ge nannten delegier ten Rechtsakt entsprechend den wissensc haf tlic hen und tec hnologisch en 
+Entwicklung en. 
+Ar tik el 20 
+Plattfo r m für ein nachhaltiges F inanzw esen 
+(1) Die K ommission r ich tet eine Plattf or m für ein nachhaltig es Finanzwesen (im Folgenden „Plattf or m“) ein. Diese setzt 
+sich in ausg ewog ener W eise aus f olgende n Gr uppen zusammen: 
+a) V er tret er : 
+i) der Europäischen Um weltag entur , 
+ii) der ESAs, 
+iii) der Europäischen Investi tionsbank und des Europäischen Investi tionsf onds, 
+iv) der Agentur der Europäischen Uni on für Gr undrech te; 
+b) Sachvers tändigen, die einschlägig e pr ivate Int eressenträger ver treten, unte r anderem Finanz- und Nicht f inanzmarkt­
+tei lnehmer und U nter nehmen, die einsch lägige Wir tschaf tszweig e repräsentieren, und P ersonen mit Exper ten wissen im 
+Bereich Rechn ungslegung und Ber icht erstattung; 
+c) Sachvers tändigen, die die Zivilgesellsc haf t repräsentieren, auc h Personen mit Exper ten wissen im Bereich Um welt, 
+Soziales, Arbeitswelt und Unt er nehmensführ ung; 
+d) ad personam er nannt en Sach verständigen, die nach weislich über Kenntnisse und Erfahr ungen in den von dieser 
+V erordnung er f asste n Bereichen verf üg en; 
+e) Sachvers tändigen, die die akademische W elt einschließlic h Universit äten, Forschungs instituten und anderen 
+wissensch af tliche n Einr ichtung en repräsentieren, auc h Personen mit umf assendem Fac hwissen. 
+(2) Die Plattf or m 
+a) berät die K ommission zu den in Ar tikel 19 genannt en tec hnische n Bewer tungskr iter ien sowie zu einer geg ebenenfalls 
+erforderlic hen Aktualisier ung dieser Kr iter ien; 
+b) analysier t die A uswirkungen der tec hnischen Bewer tungskr it er ien in For m v on poten ziellen K osten und Nutzen ihrer 
+Anwen dung; 
+c) unte rstützt die K ommission bei der Prüfung von Anfrag en v on Inter essenträger n in Bezug auf die Aus arbeitung oder 
+Änder ung tec hnische r Bewer tungskr iter ien für eine bestimmt e Wir tschaf tstätigke it ; 
+d) berät die K ommission — sowei t angemessen — zur mög lichen R olle v on Standards für die Nachhaltigk eitsrech ­
+nungslegung und -ber ic hterstattung bei der Förder ung der Anwen dung der tec hnischen Bewer tungskr it er ien; 
+e) beobacht et bei Kapitalf lüssen in nac hhaltige Inv estitionen auf Ebene der U nion und der Mitg liedstaat en und erstattet der 
+K ommission regelmäßig darüber Ber icht; 
+f) berät die K ommission zu der mög lich er weise erforderlic hen Entwicklung weit erer Maßnahmen zur V erbesser ung der 
+Dat enverfügbarkeit und -qualität ; 
+g) berät die K ommission zur Nutzbarke it der tec hnisc hen Bewer tungskr it er ien unter Berücksicht igung der Notwendigkeit, 
+unnötigen V er waltungsaufwand zu ver meiden; 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/37
+
+--- PDF SEITE 26 ---
+h) berät die K ommission zu einer geg ebenenfalls erf orderlichen Änder ung dieser V erordnung; 
+i) berät die K ommission zu der Bewer tung und Entwicklun g von politische n Maßnahmen, die auf ein nach haltiges 
+Finanzwesen ausger ich tet sind, dar unt er auch zu Frage n der P olitikk ohärenz; 
+j) berät die K ommission zu dem Eing ehen auf andere Nac hhaltigkeitsziele, einschließ lich sozialer Ziele; 
+k) berät die K ommission zur Anwendung des Ar tikels 18 und einer mög liche r weise erforderlic hen Ergänzung der 
+Anf order ungen des g enannten Ar tikels. 
+(3) Die Plattf or m berücksichtig t die Ansicht en eines breiten Spektr ums von Inter essenträger n. 
+(4) Den V orsitz der Plattf or m führ t die K ommission, und die Plattf or m wird entsprec hend den hor izontalen Regeln der 
+K ommission über die Einsetzung und die Arbeitsweise von Sachver ständigengr uppen k onstituier t. In diesem 
+Zusammenhang kann die K ommission ad hoc Sachverständig e mit besonderem Fac hwissen einladen. 
+(5) Die Plattf or m nimmt ihre A ufgaben gemäß dem Gr undsatz der T ransparenz wahr . Die K ommission veröff entlicht die 
+Protok olle der Sitzunge n der Plattf or m sowie andere einschlägig e Dokument e auf der Internets eit e der K ommission. 
+(6) Fal ls Finanzmarkttei lnehmer der Ansic ht sind, dass eine Wir tschaf tstätigkei t, die nicht den gemäß dieser V erordnung 
+fe stgelegt en te chnisc hen Bewer tungskr it er ien entspr ic ht, oder für die noch keine solc hen te chnisc hen Bewer tungskr it er ien 
+fe stgelegt w orden sind, als ök ologisch nach haltig g elten sollt e, k önnen sie die Plattf or m dav on in Kenntnis setzen. 
+Ar tik el 21 
+Zust ändige Behörden 
+(1) Die Mitg liedstaat en tragen dafür Sorge, dass die in Ar tikel 14 Absatz 1 der V erordnung (EU) 2019/2088 g enannten 
+zuständige n Behörden die Einhaltung der Anf order ungen der Ar tikel 5, 6 und 7 der v orliegenden V erordnung durch die 
+Finanzmarkttei lnehmer über wachen. Die Mitg liedstaate n st ellen sicher , dass ihre zuständig en Behörden sämtlic he 
+Aufsi chts- und Er mittlungsbefugnisse erhalt en, die notwendig sind, um ihre Aufg aben ge mäß der vorlieg enden 
+V erordnung zu erfüllen. 
+(2) Für die Zweck e dieser V erordnung arbeite n die zuständigen Behörden zusammen und über mitteln einander 
+unver züg lich die Inf or mationen, die für die W ahr nehmung ihrer Aufg aben gemäß dieser V erordnung von Bedeutung sind. 
+Ar tik el 22 
+Maßnahmen und Sanktionen 
+Die Mitg liedstaat en leg en die V orsch r if ten für Maßnahmen und Sanktionen bei V erst ößen geg en die Ar tik el 5, 6 und 7 fest. 
+Die vorg esehenen Maßnahmen und Sanktionen müssen wirk sam, verhältnismäßig und abschr eck end sein. 
+Ar tik el 23 
+Ausübung der Befugnisüber tragung 
+(1) Die Befugnis zum Erlass delegier ter Rechts akte wird der K ommission unt er den in diesem Ar tik el f estgelegt en 
+Bedingunge n über tragen. 
+(2) Die Befugnis zum Erlass delegier ter Rechts akte gemäß Ar tik el 8 Absatz 4, Ar tik el 10 Absatz 3, Ar tikel 11 Absatz 3, 
+Ar tikel 12 Absatz 2, Ar tik el 13 Absatz 2, Ar tik el 14 Absatz 2 und Ar tik el 15 Absatz 2 wird der K ommission auf 
+unbestimmte Zeit ab dem 12. Juli 2020 über tragen. 
+(3) Die Befugnisüber tragung g emäß Ar tik el 8 Absatz 4, Ar tik el 10 Absatz 3, Ar tik el 11 Absatz 3, Ar tik el 12 Absatz 2, 
+Ar tikel 13 Absatz 2, Ar tikel 14 Absatz 2 und Ar tik el 15 Absatz 2 kann v om Europäischen P arlament oder vom R at 
+jederzeit wider r uf en werden. Der Beschluss über den Wider r uf beendet die Ü ber tragung der in diesem Beschluss 
+angeg ebenen Befugnis. Er wird am T ag nach seiner V eröffentlic hung im Amtsblatt der Eur opäischen Union oder zu einem im 
+Besch luss über den Wider r uf angeg ebenen späteren Zeitpunkt wirk sam. Die Gültigkeit von delegier ten Rechts akten, die 
+bereits in Kraf t sind, wird von dem Besch luss über den Wider r uf nicht berühr t. 
+DE Amtsblatt der Europäischen Uni on L 198/38                                                                                                                                         22.6.2020
+
+--- PDF SEITE 27 ---
+(4) Die K ommission holt vor der Annahme und während der A usarbeitung delegier ter Rechtsakt e das ges amte 
+erforderlic he Fac hwissen ein, unter anderem durch K onsultation der Sach verständigen der in Ar tikel 24 ge nannten 
+Sachver ständigengr uppe der Mitg liedstaat en für nach haltiges Finanzwesen. V or dem Erlass eines delegier ten Rechts akts 
+handelt die K ommission g emäß den in der Interin stitutionellen V ereinbar ung vom 13. Apr il 2016 über bessere 
+Rechts etzung enthalte nen Gr undsätzen und V erfahren. 
+(5) Sobald die K ommission einen delegier ten Rechtsakt erlässt, über mittelt sie ihn g leic hzeitig dem Europäische n 
+P arlament und dem R at. 
+(6) Ein delegier ter Recht sakt, der gemäß Ar tikel 8 Absatz 4, Ar tik el 10 Absatz 3, Ar tik el 11 Absatz 3, Ar tikel 12 
+Absatz 2, Ar tik el 13 Absatz 2, Ar tik el 14 Absatz 2 und Ar tikel 15 Absatz 2 erlassen wurde, tr itt nur in Kraf t, wenn weder 
+das Europäische P arlament noch der R at innerhalb einer Fr ist von vier Monat en nach Ü ber mittlung dieses Rech tsakts an das 
+Europäische Parlament und den Rat Einwän de erhoben haben oder wenn v or Ablauf dieser Fr ist sow ohl das Europäische 
+P arlament als auc h der R at der K ommission mitg eteilt haben, dass sie keine Einwän de erheben werden. Auf Initiative des 
+Europäischen P arlaments oder des R ates wird diese Fr ist um zwei Monat e verlänge r t. 
+Ar tik el 24 
+Sachv erst ändigeng r uppe der Mitgliedst aaten für nachhaltiges F inanzw esen 
+(1) Eine Sachverständig engr uppe der Mitg liedstaate n für nachhal tiges Finanzwesen (im Folgenden „Sachv erständi­
+ge ngr uppe der Mitg liedstaaten“) berät die K ommission über die Ange messenheit der tec hnischen Bewer tungskr it er ien und 
+des Ansatzes, den die Plattf or m zur Ausarbeitung der Kr it er ien gemäß Ar tik el 19 verfo lgt. 
+(2) Die K ommission unte r r ich tet die Mitg liedstaaten im W eg e von Sitzunge n der Sachvers tändigengr uppe der 
+Mitg liedstaaten, um einen raschen Gedank enaustausch zwischen den Mitg liedstaaten und der K ommission zu erleicht er n, 
+insbesondere was die wichtigst en Ergebnisse der Plattf or m anbelangt, wie z. B. neue tec hnische Bewer tungskr it er ien oder 
+wesentlich e Aktualisier unge n derselben oder Entwürfe von Ber ic hten. 
+KAPITEL III 
+SCHLUSSBESTIMMUNGEN 
+Ar tik el 25 
+Änder ung der V erordnung (EU) 2019/2088 
+Die V erordnung (EU) 2019/2088 wird wie f olgt geä nder t : 
+1. Folgende r Ar tik el wird eingefügt: 
+„ Ar tikel 2a 
+Gr undsatz der V er meidung erheblicher Beeinträchtigungen 
+(1) Die durc h die V erordnung en (EU) Nr . 1093/2010, (EU) Nr . 1094/2010 und (EU) Nr . 1095/2010 des 
+Europäischen P arlaments und des R at es eing er ich tet en Europäischen Aufsic htsbehörden arbeit en mithilfe des 
+Gemeinsamen Aussc husses Entwürfe tec hnisc her Regulier ungsstandards aus, um die Einzelheite n zu Inhalt und 
+Darstellun g der Inf or mationen in Zusammenhang mit dem Gr undsatz der V er meidung erheblicher Beeinträcht igungen 
+ge mäß Ar tik el 2 Nummer 17 der vorlieg enden V erordnung näher fe stzulegen, die Inhalt, Methoden und Darstellun g 
+von Nachhaltigk eits-Indikatore n für nacht eilig e Auswirkung en nach Ar tikel 4 Absätze 6 und 7 der vor liegenden 
+V erordnung entsprechen. 
+(2) Die Europäische n Aufsi chtsbehörde n über mitteln der K ommission die in Absatz 1 ge nannten Entwür f e 
+tec hnische r Regulier ungsstandards bis zum 30. Dezember 2020. 
+(3) Der K ommission wird die Befugnis über tragen, diese V erordnung durc h Annahme der in Absatz 1 des 
+vor liegen den Ar tik els g enannten te chnisc hen Regulier ungsstandards g emäß den Ar tik eln 10 bis 14 der V erordnungen 
+(EU) Nr . 1093/2010, (EU) Nr . 1094/2010 und (EU) Nr . 1095/2010 zu ergän zen.“ 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/39
+
+--- PDF SEITE 28 ---
+2. Ar tikel 8 wird wie f olgt geä nder t : 
+a) Folgende r Absatz wird eingefügt: 
+„(2a) Ste llen Finanzmarktteilnehmer ein Finanzprodukt nac h Ar tik el 6 der V erordnung (EU) 2020/852 des 
+Europäischen P arlaments und des R ates (*) bereit, so nehmen sie die nach Ar tik el 6 der V erordnung (EU) 2020/852 
+vor gesc hr iebenen Inf or mationen in die gemäß Ar tikel 6 Absätze 1 und 3 der v orliegenden V erordnung 
+offenzuleg enden Inf or mationen auf.“ 
+_____________ 
+(*) V erordnung (EU) 2020/852 des Europäischen P arlaments und des R ate s vom 18. Juni 2020 über die Einr ich tung 
+eines R ahmens zur Erleic hte r ung nachhal tiger Inv estitionen und der Änder ungsverordnung (EU 2019/2088 
+(ABl. L 198 vom 22.6.2020, S. 13)“ 
+b) Absatz 3 Unt erabsatz 1 erhält f olge nde Fass ung: 
+„3. Die Europäischen A ufsichts behörden arbeit en über den Gemeinsamen Auss chuss Entwür fe te chnisc her 
+Regulier ungsstandards aus, um die Einzelheite n zu Inhalt und Darstellung der nac h den Absätzen 1 und 2 des 
+vor liegenden Ar tikels offenzuleg enden Inf or mationen näher fe stzulegen. 
+c) Folgende r Absatz wird angefügt: 
+„(4) Die Europäischen A ufsichtsbehörden arbeiten über den Gemeinsamen Aussc huss Entwür f e tec hnisc her 
+Regulier ungsstandards aus, um die Einzelheiten zu Inhalt und Darstellung der in Absatz 2a des vor liegenden 
+Ar tikels ge nannten Inf or mationen näher f estzulegen. 
+Bei der Ausarbeitung der in U nterabsatz 1 des vorlieg enden Absatzes genannt en Entwür f e tec hnischer Regulier ungs­
+standards berüc k sich tigen die Europäisch en A ufsichtsbehörden die versch iedenen Ar ten v on Finanzprodukt en, ihre 
+Merkmale und die Unt ersch iede zwisc hen ihnen sowie das Ziel, dass Offenlegung en zutreffe nd, redlich, klar , nicht 
+ir reführend, einfac h und knapp sein müssen, und erst ellen, soweit zur Er reichun g dieses Ziels erfor derlich, 
+Änder ungsentwür f e der in Absatz 3 des vorlieg enden Ar tikels ge nannten tec hnischen Regulier ungsstandards. Die 
+Entwür f e tec hnischer Regulier ungsstandards tragen den in Ar tik el 27 Absatz 2 Buchs taben a und b der V erordnung 
+(EU) 2020/852 ge nannten Zeitpunkt en des Geltungsbeginns für die Um weltziele des Ar tik els 9 der g enannten 
+V erordnung Rechn ung. 
+Die Europäischen Aufsi chtsbehörden leg en der K ommission die in U nterabsatz 1 g enannten Entwür f e tec hnische r 
+Regulier ungsstandards: 
+a) für die in Ar tik el 9 Buchs taben a und b der V erordnung (EU) 2020/852 genannt en Um weltziele bis zum 1. Juni 
+2021, und 
+b) für die in Ar tik el 9 Buchsta ben c bis f der V erordnung (EU) 2020/852 g enannten U mweltziele bis zum 1. Juni 
+2022 v or . 
+Der K ommission wird die Befugnis über trage n, diese V erordnung durc h Annahme der in Unt erabsatz 1 des 
+vor liegenden Absatzes genannt en tec hnisch en Regulier ungsstandards gemäß den Ar tikel n 10 bis 14 der 
+V erordnungen (EU) Nr . 1093/2010, (EU) Nr . 1094/2010 und (EU) Nr . 1095/2010 zu ergänzen.“ 
+3. Ar tikel 9 wird wie f olgt geä nder t : 
+a) Folgende r Absatz wird eingefügt: 
+„(4a) Finanzmarkttei lnehmer nehmen die nach Ar tik el 5 der V erordnung (EU) 2020/852 erforderlic hen 
+Inf or mationen in die g emäß Ar tik el 6 Absätze 1 und 3 der v orliegenden V erordnung offenzuleg enden 
+Inf or mationen auf.“ 
+b) Absatz 5 Unt erabsatz 1 erhält f olge nde Fass ung: 
+„5. Die Europäischen A ufsichts behörden arbeit en über den Gemeinsamen Auss chuss Entwür fe te chnisc her 
+Regulier ungsstandards aus, um die Einzelheit en zu Inhalt und Darst ellung der nach den Absätzen 1 bis 4 des 
+vor liegenden Ar tikels offenzuleg enden Inf or mationen näher fe stzulegen.“ 
+c) Folgende r Absatz wird angefügt: 
+„(6) Die Europäischen A ufsichtsbehörden arbeiten über den Gemeinsamen Aussc huss Entwür f e tec hnisc her 
+Regulier ungsstandards aus, um die Einzelheiten zu Inhalt und Darstellung der Inf or mationen nach Absatz 4a des 
+vor liegenden Ar tikels näher f estzulegen. 
+DE Amtsblatt der Europäischen Uni on L 198/40                                                                                                                                         22.6.2020
+
+--- PDF SEITE 29 ---
+Bei der Ausarbeitung der in U nterabsatz 1 des vorlieg enden Absatzes genannt en Entwür f e tec hnischer Regulier ungs­
+standards berüc k sic htigen die Europäischen Aufsi c htsbehörden die verschiedenen Ar ten v on Finanzprodukt en, 
+ihre/deren? Ziele ge mäß Absatz 4a und die Unt ersch iede zwisc hen ihnen, sowi e das Ziel, dass Offe nlegungen 
+zutreffend, redlic h, klar , nicht ir reführend, einfac h und knapp sein müssen, und erst ellen, sowei t zur Er reichung 
+dieses Ziels erfor derlich, die in Absatz 5 g enannten Änder ungsentwür f e der tec hnisc hen Regulier ungsstandards. Die 
+Entwür f e tec hnischer Regulier ungsstandards tragen den in Ar tik el 27 Absatz 2 Buchs taben a und b der V erordnung 
+(EU) 2020/852 ge nannten Zeitpunkt en des Geltungsbeginns für die Um weltziele des Ar tik els 9 der g enannten 
+V erordnung Rechn ung. 
+Die Europäischen Aufsi chtsbehörden leg en der K ommission die in U nterabsatz 1 g enannten Entwür f e tec hnische r 
+Regulier ungsstandards 
+a) für die in Ar tik el 9 Buchst aben a und b der V erordnung (EU) 2020/852 ge nannten U mweltziele bis zum 
+1. Juni 2021 und 
+b) für die in Ar tikel 9 Buchstab en c bis f der V erordnung (EU) 2020/852 g enannten U mweltziele bis zum 
+1. Juni 2022 v or . 
+Der K ommission wird die Befugnis über trage n, diese V erordnung durc h Annahme der in Unt erabsatz 1 des 
+vor liegenden Absatzes genannt en tec hnisch en Regulier ungsstandards gemäß den Ar tikel n 10 bis 14 der 
+V erordnungen (EU) Nr . 1093/2010, (EU) Nr . 1094/2010 und (EU) Nr . 1095/2010 zu ergänzen.“ 
+4. Ar tikel 11 wird wie f olgt geänder t : 
+a) In Absatz 1 werden f olgende Buchstaben ange fügt : 
+„c) für ein Finanzprodukt, für das Ar tik el 5 der V erordnung (EU) 2020/852 gilt, die Inf or mationen gemäß jenem 
+Ar tik el; 
+d) für ein Finanzprodukt, für das Ar tik el 6 der V erordnung (EU) 2020/852 gilt, die Inf or mationen gemäß jenem 
+Ar tik el.“ 
+b) Absatz 4 Unt erabsatz 1 erhält f olge nde Fass ung: 
+„4. Die Europäischen A ufsichts behörden arbeit en über den Gemeinsamen Auss chuss Entwür fe te chnisc her 
+Regulier ungsstandards aus, in denen die Einzelheiten zu Inhalt und Darstellung der Inf or mationen nach Absatz 1 
+Buchstab en a und b näher f estgelegt werden.“ 
+c) Folgende r Absatz wird angefügt: 
+„(5) Die Europäischen A ufsichtsbehörden arbeiten über den Gemeinsamen Aussc huss Entwür f e tec hnisc her 
+Regulier ungsstandards aus, um die Einzelheite n zu Inhalt und Darstellun g der Inf or mationen nach Absatz 1 
+Buchstab en c und d näher f estzulegen. 
+Bei der Ausarbeitung der in U nterabsatz 1 des vorlieg enden Absatzes genannt en Entwür f e tec hnischer Regulier ungs­
+standards berüc k sich tigen die Europäisch en A ufsichtsbehörden die versch iedenen Ar ten v on Finanzprodukt en, ihre 
+Merkmale und Ziele und die Unt ersc hiede zwisc hen ihnen und erstellen erfor derlichenf alls Änder ungsentwürfe der 
+in Absatz 4 des v orliegenden Ar tik els ge nannten tec hnische n Regulier ungsstandards. Die Entwürfe tec hnische r 
+Regulier ungsstandards tragen den in Ar tikel 27 Absatz 2 Buchstaben a und b der V erordnung (EU) 2020/852 
+fe stgelegt en Zeitpunkt en des Geltungsbeginns für die Um weltziele des Ar tikels 9 der g enannten V erordnung 
+Rechn ung. Die Europäischen A ufsichtsbehörden aktualisieren die tec hnischen Regulier ungsstandards unt er 
+Berücksicht igung rec htlicher und tec hnische r Entwicklun gen. 
+Die Europäischen Aufsi chtsbehörden leg en der K ommission die in U nterabsatz 1 g enannten Entwür f e tec hnische r 
+Regulier ungsstandards 
+a) für die in Ar tik el 9 Buchst aben a und b der V erordnung (EU) 2020/852 ge nannten U mweltziele bis zum 
+1. Juni 2021 und 
+b) für die in Ar tikel 9 Buchstab en c bis f der V erordnung (EU) 2020/852 g enannten U mweltziele bis zum 
+1. Juni 2022 v or . 
+Der K ommission wird die Befugnis über trage n, diese V erordnung durc h Annahme der in Unt erabsatz 1 des 
+vor liegenden Absatzes genannt en tec hnisch en Regulier ungsstandards gemäß den Ar tikel n 10 bis 14 der 
+V erordnungen (EU) Nr . 1093/2010, (EU) Nr . 1094/2010 und (EU) Nr . 1095/2010 zu ergänzen.“ 
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/41
+
+--- PDF SEITE 30 ---
+5. Ar tikel 20 Absatz 3 erhält f olge nde Fassung: 
+„(3) Abweich end v on Absatz 2 des v orliegenden Ar tik els g elten: 
+a) Ar tikel 4 Absätze 6 und 7, Ar tik el 8 Absatz 3, Ar tik el 9 Absatz 5, Ar tikel 10 Absatz 2, Ar tikel 11 Absatz 4, 
+Ar tikel 13 Absatz 2 ab dem 29. Dezember 2019; 
+b) Ar tikel 2a Ar tikel 8 Absatz 4, Ar tikel 9 Absatz 6, Ar tikel 11 Absatz 5 ab dem 12. Juli 2020; 
+c) Ar tikel 8 Absatz 2a und Ar tikel 9 Absatz 4a 
+i) für die in Ar tikel 9 Buchstabe a und b der V erordnung (EU) 2020/852 genannt en U mweltziele ab dem 
+1. Januar 2022; 
+ii) für die in Ar tikel 9 Buchsta ben c bis f der V erordnung (EU) 2020/852 g enannten Um weltziele ab dem 
+1. Januar 2023. 
+d) Ar tikel 11 Absätze 1, 2 und 3 gelt en ab dem 1. Januar 2022.“ 
+Ar tik el 26 
+Ü ber prüfung 
+(1) Die K ommission veröffe ntlicht spät estens am 13. Juli 2022 und danach alle drei Jahre einen Ber icht über die 
+Anwen dung dieser V erordnung. In diesem Ber ich t wird Folgendes bewer tet: 
+a) die For tsch r itt e bei der Durchführ ung dieser V erordnung bei der Entwicklung tec hnische r Bewer tungskr it er ien für 
+ök ologisch nachhaltig e Wir tsch af tstätigkeit en; 
+b) die geg ebenenfalls notwendige Ü berarbeitung und Erg änzung der in Ar tik el 3 fe stgelegt en Kr it er ien für die Einstufung 
+einer Wir tschaf tstätigkei t als ök ologisc h nac hhaltig; 
+c) die V er wendung der Begr iffsbestimmung für ök ologisch nach haltige Investitionen im U nionsrecht und auf Ebene der 
+Mitg liedstaaten, einschließ lich der Bestimmung en, die für die Einführ ung v on Mechanism en zur Ü ber prüfung der 
+Einhaltung der in der v orliegenden V erordnung f estgelegt en Kr it er ien er f orderlich sind; 
+d) die Wirksamkeit der Anwendung der tec hnischen Bewer tungskr it er ien g emäß dieser V erordnung auf die Lenkung 
+pr ivater Inv estitionen hin zu ök ologisc h nachhaltig en Wir tschaftstät igke iten, insbesondere der Kapitalf lüsse — 
+einschließ lich Eigen kapital — in pr ivat e U nter nehmen und andere Rechtst räger , sow ohl durch Finanzprodukt e, die 
+unte r diese V erordnung f allen als auc h durch andere Finanzprodukt e; 
+e) der Zug ang v on Finanzmarktteilnehmern im Sinne dieser V erordnung und v on Anleger n zu zuverlässig en, rasc hen und 
+über prüfbaren Inf or mationen und Dat en über pr ivat e U nte r nehmen und andere Rech tsträger , einsc hließlich 
+Unt er nehmen, in die inv estier t wird, innerhalb und außerhalb des Anwen dungsbereichs dieser V erordnung, und in 
+beiden Fällen hinsic htlich Eigen - und Fremdkapital, w obei der damit verbundene V er waltungsaufwand zu 
+berücksicht igen ist, sowie die V erfahren zur Ü ber prüfung der Dat en, die zur Bestimmung des Grades der Ang leichung 
+an die te chnisc hen Bewer tungskr it er ien und zur Gewährleistung v on deren Einhaltung erforderlic h sind; 
+f) die Anwe ndung der Ar tik el 21 und 22. 
+(2) Die K ommission veröff entlicht spätest ens am 31. Dezember 2021 einen Ber icht, in dem die Bestimmung en, die für 
+die A usweitung des Anwen dungsbereichs dieser V erordnung über ök ologisc h nach haltige Wir tschaf tstätigkei ten hinaus 
+notwendig wären, und die erforderlic hen Bestimmung en erläuter t werden, um Folge ndes abzudec ken: 
+a) ök ologisch Wir tschaftstät igke iten, die ke ine erheblichen A uswirkungen auf die ök ologische Nac hhaltigk eit haben, sowi e 
+Wir tscha f tstätigkeit en, die die ök ologisc he Nac hhaltigkeit erheblich beeinträchtig en, sowie die Ü ber prüfung der 
+Ange messenheit besonderer Offe nlegungspf lich ten im Zusammenhang mit Ü bergangs tätigkeit en und er mög lichenden 
+Tätigkei ten; und 
+b) andere Nac hhaltigk eitsziele wie soziale Ziele. 
+(3) Die K ommission bewer tet spätest ens am 13. Juli 2022 die Wirk samk eit der Beratungsverfahren für die Ausarbeitung 
+der tec hnische n Bewer tungskr ite r ien dieser V erordnung. 
+DE Amtsblatt der Europäischen Uni on L 198/42                                                                                                                                         22.6.2020
+
+--- PDF SEITE 31 ---
+Ar tik el 27 
+Inkraf ttreten und Anw endung 
+(1) Diese V erordnung tr itt am zwanzigste n T ag nach ihrer V eröffe ntlichung im Amtsblatt der Eur opäischen Union in Kraf t. 
+(2) Die Ar tikel 4, 5, 6 und 7 sowi e Ar tik el 8 Absätze 1, 2 und 3 finden Anwendung: 
+a) ab dem 1. Januar 2022 auf die U mweltziele nac h Ar tikel 9 Buchsta ben a und b; 
+b) ab dem 1. Januar 2023 auf die U mweltziele nac h Ar tikel 9 Buchsta ben c bis f. 
+(3) Ar tik el 4 gilt nicht für Steueranreize auf Gr undlage v on Zer tifik aten, die v or Inkraf ttreten dieser V erordnung 
+beste hen und mit denen Anf order ungen an Finanzprodukt e festg elegt werden, die zur Finanzier ung nachhal tiger Projekte 
+dienen sollen. 
+Diese V erordnung ist in allen ihren T eilen verbindlich und gilt unmitte lbar in jedem 
+Mitg liedstaat. 
+Gesc hehen zu Brüssel, am 18. Juni 2020. 
+Im Namen des Eur opäischen P arlaments 
+Der Pr äsident 
+D. M. SASSOLI 
+Im Namen des R ates 
+Die Pr äsidentin 
+N. BRNJA C     
+DE Amtsblatt der Europäischen Uni on 22.6.2020                                                                                                                                         L 198/43
+
+=== DOKUMENT ENDE ===

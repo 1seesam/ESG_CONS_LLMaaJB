@@ -1,0 +1,28 @@
+=== DOKUMENT START: Rohrnetzberechnung.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Rohrnetzberechnung
+BEMESSUNG VON LEITUNGSQUERSCHNITTEN
+Das Rohrnetz in heiz- und raumlufttechnischen Anlagen hat die Aufgabe, die Wasserströme auf die
+verschiedenen Funktionsbereiche zu verteilen. Um die Leitungsquerschnitte so zu dimensionieren, dass
+jedem Heizkörper die vorgesehene Heizwassermenge zugeführt wird, sollte im Rahmen der
+Anlagenplanung unbedingt eine Rohrnetzberechnung erfolgen. Bei der Berechnung dürfen keine zu hohen
+Strömungsgeschwindigkeiten gewählt werden, damit im Betrieb keine Strömungsgeräusche entstehen und
+sich die Druckverluste in Grenzen halten, um den Energiebedarf der Umwälzpumpen auf geringem Niveau
+zu halten.
+Als Richtwerte für Strömungsgeschwindigkeiten gelten 0,3 bis 1,5 m/s in den Hauptverteilleitungen und 0,5
+m/s in den Heizkörperanschlussleitungen, mittlere Druckgefälle betragen 50 Pa/m bis 100 Pa/m bis hin zu
+200 Pa/m (Druckgefälle pro Meter Rohr) bei großen Anlagen.
+Rohrnetzberechnungen werden heute mit geeigneten Berechnungsprogrammen ausgeführt, wobei als
+Ergebnis ebenfalls die Einstellwerte für Heizkörper- und Strangregulierventile ausgewiesen werden.
+FACHWISSEN ZUM THEMA
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+Heizleitungen/ Zubehör
+Rohrnetzsysteme
+
+=== DOKUMENT ENDE ===

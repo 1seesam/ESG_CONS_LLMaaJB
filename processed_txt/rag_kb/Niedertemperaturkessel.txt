@@ -1,0 +1,33 @@
+=== DOKUMENT START: Niedertemperaturkessel.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Niedertemperaturkessel
+FÜR FLÜSSIGE UND/ODER GASFÖRMIGE BRENNSTOFFE
+Niedertemperaturkessel sind als Wärmeerzeuger für die Verbrennung von flüssigen und/oder gasförmigen
+Brennstoffen geeignet. Sie kommen überwiegend mit Heizöl oder Gas zum Einsatz. Heizöl bildet bei der
+Verbrennung weniger Wasserdampf als Erdgas, entsprechend geringer ist der energetische Zugewinn durch
+Brennwertnutzung. Niedertemperaturkessel werden temperaturveränderlich zwischen (theoretisch)
+Raumtemperatur und maximal etwa 80°C betrieben. Die Leistungsbandbreite geht als Guss- oder
+Stahlkonstruktion von etwa 17 kW bis zu mehreren Tausend kW.
+Durch konstruktive Maßnahmen, z.B. spezielle interne Wasserleittechniken (Thermostream-Prinzip) wird die
+schädliche Kondensatbildung vermieden, so dass sie auch mit niedrigen Heizkreistemperaturen betrieben
+werden können. Dadurch reduzieren sich die Wärmeverluste des Kessels im Vergleich zu Kesseln, die
+ständig auf einer Mindesttemperatur gehalten werden müssen. Wegen ihrer niedrigen
+Oberflächentemperaturen eignen sich vor allem Flächenheizungen für Niedertemperaturheizungen.
+Ein guter Niedertemperaturkessel hat, bezogen auf den Brennwert, einen Jahres-Nutzungsgrad von bis zu
+96%. Die Verluste ergeben sich durch Abgas- und Wärmeverluste. Eine weitere Verbesserung des
+Wirkungsgrades lässt sich mit Brennwertkesseln erzielen.
+FACHWISSEN ZUM THEMA
+HeizkesselBrennwertkessel
+HeizkesselBrennwerttechnik
+HeizkesselGas-Brennwertkessel
+
+--- PDF SEITE 2 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+
+=== DOKUMENT ENDE ===

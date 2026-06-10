@@ -1,0 +1,2787 @@
+=== DOKUMENT START: 2024-02_KAD_ETS2-KSF.pdf ===
+
+--- PDF SEITE 1 ---
+STUDIE 2/2024 
+ 
+   
+CO2-Preis in Deutschland 
+Umsetzung des ETS II und des  
+Klima-Sozialfonds in Deutschland 
+Autor*innen 
+ 
+FÖS: Swantje Fiedler, Florian Peiseler, Michael Maier 
+unter Mitarbeit von Simon Meemken und Paulin Zahn 
+ 
+Öko-Institut: Johanna Cludius, Jakob Graichen, Katja Schumacher, Sienna Healy  
+ 
+Februar 2024
+
+--- PDF SEITE 2 ---
+Umsetzung ETS II in Deutschland  •  Seite 2 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Über das FÖS 
+Das Forum Ökologisch -Soziale Marktwirtschaft e.V. (FÖS) ist ein überparteilicher und unabhängiger politischer 
+Think Tank. Wir setzen uns seit 1994 für eine Weiterentwicklung der sozialen Marktwirtschaft zu einer ökologisch -
+sozialen Marktwirtschaft ein und sin d gegenüber Entscheidungsträger* innen und Multiplikator *innen Anstoßge-
+ber wie Konsensstifter. Zu diesem Zweck werden eigene Forschungsvorhaben durchgeführt, konkrete Konzepte 
+entwickelt und durch Konferenzen, Hintergrundgespräche und Beiträge in die Debatte um eine moderne Umwelt-
+politik eingebracht. Das FÖS setzt sich für eine kontinuierliche ökologische Finanzreform ein, die die ökologische 
+Zukunftsfähigkeit ebenso nachhaltig verbessert wie die Wirtschaftskraft. 
+Über das Öko- Institut 
+Das Öko-Institut ist eine der europaweit führenden, unabhängigen Forschungs - und Beratungseinrichtungen für 
+eine nachhaltige Zukunft. Seit der Gründung im Jahr 1977 erarbeitet das Institut Grundlagen und Strategien, wie die 
+Vision einer nachhaltigen Entwicklung global, national und lokal umgesetzt werden kann. 
+An den drei Standorten Freiburg, Darmstadt und Berlin beschäftigt das Institut rund 200 Mitarbeitende, darunter 
+140 Wissenschaftlerinnen und Wissenschaftler. Jährlich bearbeiten sie mehr als 450 nationale und internationale 
+Projekte in folgenden Arbeitsgeb ieten: Chemikalien -management und Technologiebewertung; Energie und 
+Klima; Immissions- und Strahlenschutz; Landwirtschaft und Biodiversität; Nachhaltigkeit in Konsum, Mobilität, Res-
+sourcenwirtschaft und Unternehmen; Nukleartechnik und Anlagensicherheit sowie Recht, Politik und Governance. 
+Auf Basis einer wertorientierten wissenschaftlichen Forschung berät das Öko-Institut Entscheidungsträger aus Po-
+litik, Wirtschaft und Zivilgesellschaft. Seit seiner Gründung arbeitet das Institut interdisziplinär und transdisziplinär 
+– mit Partnerinnen und Partnern aus Wirtschaft, Wissenschaft und Zivilgesellschaft – in kooperativen Vorhaben und 
+Netzwerkstrukturen, wo dies von den Fragestellungen her sinnvoll ist. Zu den wichtigsten Auftraggebern gehören 
+Ministerien auf Bundes- und Landesebene, Unter -nehmen sowie die Europäische Union. Darüber hinaus ist das 
+Institut für Nicht-Regierungsorganisationen und Umweltverbände tätig. 
+Das Öko-Institut ist ein gemeinnütziger Verein. Das Institut finanziert seine Arbeit in erster Linie über Drittmittel für 
+Projekte. Darüber hinaus bilden Beiträge und Spenden von rund 2.000 Mitgliedern die Grundlage für eine unab-
+hängige Forschung. Der Jahresumsatz betrug 2022 laut Planungen rund 21 Millionen Euro. 
+Auftraggebende Organisationen 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       
+ 
+ 
+                                                                                                             
+ 
+ 
+ 
+Bildnachweise  
+Foto Titelseite: Markus Spiske auf Unsplash
+
+--- PDF SEITE 3 ---
+Umsetzung ETS II in Deutschland  •  Seite 3 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Umsetzung ETS II  in Deutschland
+ 
+Inhaltsverzeichnis 
+Abkürzungsverzeichnis......................................................................................................................................................... 4 
+Zusammenfassung der Ergebnisse ..................................................................................................................................... 5 
+1 Überführung des nEHS in ETS II .................................................................................................................................  8 
+1.1 Zusammenspiel und Übergang von nEHS und ETS II ..................................................................................................... 9 
+1.1.1 Übersicht über zentrale Unterschiede .................................................................................................................................. 9 
+1.1.2 Prognose von Angebot und Nachfrage .............................................................................................................................. 10 
+1.1.3 Szenarien zur Entwicklung des CO2-Preises ..................................................................................................................... 13 
+1.2 Umsetzungsoptionen für Deutschland ................................................................................................................................ 15 
+1.2.1 Geltungsbereich ............................................................................................................................................................................ 15 
+1.2.2 Nationale Mechanismen zur Preisstabilisierung ......................................................................................................... 16 
+2 Mittelverwendung ....................................................................................................................................................... 21 
+2.1 Aufkommen im Rahmen des ETS II ........................................................................................................................................ 21 
+2.2 Übersicht über die Vorgaben zur Mittelverwendung ................................................................................................... 23 
+2.3 Ausgestaltung des Klima-Sozialfonds in Deutschland .................................................................................................  24 
+2.3.1 Zielgruppe: Definition vulnerabler Gruppen................................................................................................................ 24 
+2.3.2 Eignung bestehender Maßnahmen für den KSF ....................................................................................................... 27 
+2.4 Klimageld als eine Option für die Mittelverwendung .................................................................................................... 29 
+2.5 Maßnahmen zur Dekarbonisierung mit dem Fokus auf vulnerable Haushalte .................................................. 36 
+3 Ausblick ......................................................................................................................................................................... 40 
+Literaturverzeichnis ........................................................................................................................................................... 42 
+Anhang .................................................................................................................................................................................. 45
+
+--- PDF SEITE 4 ---
+Umsetzung ETS II in Deutschland  •  Seite 4 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+ABKÜRZUNGSVERZEICHNIS  
+BEG Bundesförderung für effiziente Gebäude 
+BEHG Bundesemissionshandelsgesetz 
+BIP Bruttoinlandsprodukt 
+BMF Bundesfinanzministerium  
+CCS Carbon Capture and Storage 
+CPS Carbon Price Support 
+DNSH Do No Significant Harm 
+EED Energieeffizienz-Richtlinie 
+EHRL Emissionshandelsrichtlinie 
+EPAH Energy Poverty Advisory Hub 
+EPOV Energy Poverty Observatory 
+ESR Effort Sharing Regulation 
+EStG Energiesteuergesetz 
+ETS I EU-Emissionshandelssystem I (vom engl. Emissions Trading System) 
+ETS II EU-Emissionshandelssystem II (vom engl. Emissions Trading System) 
+EU Europäische Union 
+GEG Gebäudeenergiegesetz 
+KSF Klima-Sozialfonds 
+KSG Klimaschutzgesetz 
+KTF Klima- und Transformationsfonds 
+LuftVStG Luftverkehrsteuergesetz 
+MSR Marktstabilitätsreserve 
+NECPs National Energy and Climate Plans 
+nEHS bzw. nEHSt Nationales Emissionshandelssystem 
+SCF Social Climate Fund 
+THG Treibhausgas 
+UBA Umweltbundesamt
+
+--- PDF SEITE 5 ---
+Umsetzung ETS II in Deutschland  •  Seite 5 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+ZUSAMMENFASSUNG DER ERGEBNISSE  
+Bei der Umsetzung des geplanten EU-Emissionshandels im Bereich Gebäude und Verkehr (im Folgenden ETS II –  
+abgeleitet aus dem englischen Begriff Emission Trading System und nach dem ETS I das zweite europäische Emis-
+sionshandelssystem) ergeben sich eine Reihe von Fragen zur g enauen Ausgestaltung in Deutschland. Im Folgen-
+den werden die zentralen Ergebnisse dieser Studie zum Geltungsbereich und zur Verwendung der Einnahmen zu-
+sammengefasst. Ein besonderer Fokus liegt dabei auf der Nutzung nationaler Spielräume und der Umsetzung von 
+Maßnahmen zur Entlastung besonders betroffener Gruppen. 
+ 
+Zusammenspiel und Übergang  von nationalem 
+Emissionshandel und ETS II 
+ Der nationale Emissionshandel  in Deutschland  
+und das ETS II ähneln sich stark. Ein zentraler Un-
+terschied ist das  Ambitionsniveau: Im nationalen 
+Emissionshandel müssen die Emissionen bis 
+2030 um acht Prozentpunkte gegenüber der Re-
+ferenzperiode 2016 bis 2018 stärker sinken als im 
+ETS II. Zudem gibt es für die Verwendung der Er-
+löse aus dem ETS II konkretere Vorgaben und ei-
+nen stärkeren Fokus auf soziale Aspekte.  
+ Historische und für die Zukunft geschätzte Emis-
+sionen in den  ETS II- Sektoren liegen deutlich 
+über dem  Niveau, das durch Zertifikate gedeckt 
+ist – dem sogenannten Cap. Die geplante jährli-
+che Cap- Reduktion ist über fünf Mal stärker als 
+die historischen Reduktionsraten. Viele der Maß-
+nahmen im „Fit For 55“ -Paket für die ETS II-Sek-
+toren werden  aber erst mittelfristig zu erhebli-
+chen Emissionsreduktionen führen. So wird es im 
+ETS II zumindest anfangs vermutlich zu einer er-
+heblichen Knappheit an Zertifikaten  kommen – 
+und damit verbunden zu hohen CO2-Preisen.  
+ Mit dem ETS II wird auch eine Marktstabilitätsre-
+serve als preisdämpfende Maßnahme eingeführt, 
+falls es zu großen Preissteigerungen kommt . Bei 
+einem hohen Emissionsniveau wirkt diese Maß-
+nahme allerdings nur schwach und wird einen ho-
+hen CO2-Preis nicht signifikant dämpfen können. 
+ Für den Übergang vom nationalen in den europä-
+ischen Emissionshandel empfehlen wir für 
+Deutschland die Wahl der Opt -in-Option: Alle 
+Sektoren, die aktuell vom n ationalen Emissions-
+handel betroffen sind, aber nicht im ETS II einge-
+plant sind, werden zusätzlich in das ETS II  in 
+Deutschland aufgenommen. Das hat vor allem 
+den Vorteil, dass aktuelle CO
+2-Preissignale in 
+Deutschland nicht wieder „verloren“ gehen. 
+ Zur Vermeidung eines Preisschocks und für bes-
+sere Planbarkeit empfehlen wir die frühzeitige 
+Anhebung des nationalen CO2-Preispfads schon 
+vor Einführung des ETS II. Dies sollte  sozial flan-
+kiert werden . Dadurch stehen auch schon früh-
+zeitig mehr Mittel für  Investitionen in Klima-
+schutz und soziale Ausgleichsmaßnahmen zur 
+Verfügung. 
+ Wir empfehlen zudem die Umsetzung eines nati-
+onalen CO 2-Mindestpreises. Dadurch können  
+das politische Risiko einer eventuellen  Aufwei-
+chung des ETS II-Preisniveaus verringert und das 
+Ambitionsniveau zur Erreichung der nationalen 
+und europäischen Klimaschutzziele  abgesichert 
+werden. Zudem gibt ein Mindestpreis den Bür-
+ger*innen und Unternehmen Orientierung zur 
+Planung von (CO2-neutralen) Investitionen. Ein 
+Mindestpreis lässt sich  beispielsweise über die 
+Energiesteuer umsetzen. Die genaue Höhe 
+hängt dabei vo m Ambitionsniveau in Kombina-
+tion mit weiteren Klimaschutzmaßnahmen ab  
+und kann in dieser Studie nicht abschließend be-
+ziffert werden. Er sollte sich perspektivisch an den 
+tatsächlichen Klimaschadenskosten von rund 
+240 Euro im Jahr 2030 orientieren.  
+ 
+Verwendung der Einnahmen 
+ Wie hoch sind die Einnahmen?  Die Einnahmen 
+aus der Versteigerung von Emissionsrechten, die 
+Deutschland im Rahmen des ETS II zustehen, 
+hängen größtenteils vom CO 2-Preisniveau ab. 
+Die Mittel aus dem Klima -Sozialfonds sind für 
+den Zeitraum von 2027 bis 2032 auf ein Volumen 
+von 5,3 Mrd. Euro festgelegt . Die restlichen Ein-
+nahmen sind deutlich höher und liegen in diesem 
+Zeitraum schätzungsweise bei 48,5 Mrd. Euro , 
+wenn sich ein  CO2-Preis von 50 Euro/t CO 2 
+ergibt. Bei 100 Euro/t CO2  liegen sie bei ca. 111,4 
+Mrd. Euro. 
+ Was geschieht mit den Einnahmen? Die Ein-
+nahmen aus dem ETS II werden grundsätzlich 
+über zwei Kanäle verteilt: Ein Teil fließt in den 
+Klima-Sozialfonds, der besonders betroffene 
+Haushalte und Kleinstunternehmen unterstüt-
+zen soll. Der andere Teil geht an die Mitgliedstaa-
+ten. Dabei ist der Umfang des Klima -Sozialfonds 
+fix und nicht abhängig von steigenden CO2-Prei-
+sen. Um die Ziele des Klima -Sozialfonds gerade 
+bei höheren CO2-Preisen verstärkt zu fördern, ist 
+ein konstanter Anteil der Einnahmen essenziell. 
+Der Klima-Sozialfonds sollte daher durchgehend 
+mindestens 25  % der Gesamteinnahmen betra-
+gen.  
+ Die ETS II- Richtlinie und die Verordnung zum 
+Klima-Sozialfonds enthalten einige Vorgaben
+
+--- PDF SEITE 6 ---
+Umsetzung ETS II in Deutschland  •  Seite 6 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+zur Verwendung der Einnahmen. Grundsätzlich 
+sollen sie für klimafreundliche Zwecke verwendet 
+werden. Im Fokus stehen dabei durch das  ETS II 
+besonders belastete Gruppen (Haushalte und 
+Unternehmen). Die Mittel aus dem Klima-Sozial-
+fonds sind dabei klarer beschränkt als die übrigen 
+Einnahmen.  
+ Während der Klima -Sozialfonds Anhaltspunkte 
+zur Definition der vulnerable n Gruppen bietet, 
+steht die Entscheidung noch aus, welche Indika-
+toren und Daten genutzt werden sollen, um  zu 
+bestimmen, ob ein Haushalt in diese Gruppen 
+fällt. Empfohlen wird eine Kombination aus meh-
+reren Indikatoren, um die verschieden en Ursa-
+chen von Energie- und Mobilitätsarmut zu erfas-
+sen. Für Energiearmut spielt die Kombination aus 
+hoher Energiekostenbelastung, schlechter Ener-
+gieeffizienz des Gebäudes und niedrigem Ein-
+kommen die entscheidende Rolle. In dieser Kom-
+bination sind in Deutschland im Jahr 2022 3,1 Mio. 
+Haushalte als vulnerabel bezüglich des Wärme-
+energiebedarfs beziehungsweise als energiearm 
+anzusehen. Die Festlegung von Indikatoren für 
+Mobilitätsarmut ist komplexer und steht noch 
+aus. 
+ Die Einnahmen aus dem bestehenden nationa-
+len Emissionshandelssystem  werden bisher im 
+Rahmen des Klima - und Transformationsfonds  
+für verschied ene Programme verwendet. Einige 
+Bereiche bieten sich dabei grundsätzlich auch für 
+die zukünftigen Einnahmen im ETS II an, wie bei-
+spielsweise die Förderung energieeffizienter Ge-
+bäude oder klimaneutrale r Mobilität. Um sie im 
+Rahmen des Klima -Sozialfonds zu finanzieren,  
+müsste der Fokus aber stärker auf vulnerable 
+Haushalte gelegt werden.  
+ Die Finanzierung eines Klimagelds  stellt eine 
+Möglichkeit der Einnahmenverwendung dar  
+und ist im Rahmen des ETS II grundsätzlich mög-
+lich. Welche rechtlichen Restriktionen gelten, 
+hängt davon ab, ob es aus dem Klima-Sozialfonds 
+oder den übrigen Einnahmen finanziert wird. Eine 
+Finanzierung aus dem Klima-Sozialfonds darf nur 
+vulnerablen Haushalten (und Kleinstunterneh-
+men) zugutekommen. Außerdem dürfen nur 37,5 
+% des Gelds für vorübergehende Einkommens-
+unterstützung genutzt werden. Ob das Budget  
+für einen Ausgleich der CO 2-Kosten ausreicht, 
+hängt von der Höhe des CO2-Preises und der De-
+finition der Gruppe der vulnerablen Haushalte ab.  
+ Für eine Finanzierung des Klimagelds bietet sich 
+aufgrund des größeren Topfes und der weniger 
+strengen Vorgaben eher der Teil der übrigen Ein-
+nahmen an (nicht der Klima -Sozialfonds). Die 
+Richtlinie nennt zwei Verwendungszwecke, 
+die grundsätzlich anwendbar wären (Art. 10 Abs. 
+3). Als „Klimadividende“ ( ebd. Lit. Hb) müsste 
+eine positive Umweltwirkung nachgewiesen wer-
+den, als „soziale Maßnahme“ ( ebd. Lit. Ha) wäre 
+zu klären, ob das Klimageld sozial gestaffelt oder 
+auf bestimmte Einkommensgruppen begrenzt 
+werden müsste. In beiden Fällen ist noch offen, 
+wie die Europäische Kommission die rechtlichen 
+Vorgaben auslegen wird. Daher ist  an dieser 
+Stelle keine abschließende Bewertung möglich , 
+welche Einsch ränkungen bei der Umsetzung zu 
+berücksichtigen sind. 
+ Die Verteilungswirkung von CO
+2-Preis und Kli-
+mageld in der Gesellschaft hängt stark davon ab, 
+wer wie schnell seinen Verbrauch reduziert und 
+wie hoch das Klimageld ist.  Minderungswirkun-
+gen, die durch andere Maßnahmen oder Mittel-
+verwendungen bei einzelnen Gruppen bewirkt 
+werden, spielen eine wichtige Rolle für das 
+Wechselspiel von CO
+2-Preis und Klimageld. Un-
+sere Ergebnisse ze igen, dass ein CO 2-Preis in je-
+dem Fall von Maßnahmen begleitet werden muss, 
+die die Reduktion der Energieverbräuche in den 
+unteren Einkommensgruppen fördern. 
+ Damit ein „Klimageld für alle“  die einkommens-
+schwächsten 10 bis 20 % gegenüber einer Situa-
+tion ohne CO2-Preis nicht schlechter stellt, müss-
+ten die gesamten Einnahmen aus Emissionen pri-
+vater Haushalte dafür aufgewendet werden  
+(etwa 50 % der Gesamtemissionen im ETS II). Bei 
+einem CO2-Preis von 100 Euro/t sind dies 9 Mrd. 
+Euro/Jahr (bzw. 7,5 Mrd. Euro bei Besteuerung 
+des Klimagelds).  
+ Um alternativ auch bei Verwendung eines kleine-
+ren Teils der Einnahmen  eine Nettoentlastung 
+bei den unteren Einkommensgruppen zu errei-
+chen, m üsste das Klimageld stärker auf vul-
+nerable Haushalte fokussiert werden.  
+ Ein Lock-in von vulnerablen Haushalten in fos-
+siler Energienutzung muss vermieden werden  
+und kann die Akzeptanz des Instruments der 
+CO
+2-Bepreisung (ob mit oder ohne Klimageld) 
+gefährden. Ein Klimageld allein wird nicht ausrei-
+chen, Investitionen in klimafreundliche Techno-
+logien und Emissionsminderungen  zu ermögli-
+chen. Um vulnerable Haushalte vor Preissteige-
+rungen zu schützen, die Resilienz zu steigern und 
+die Teilhabe am Klimaschutz zu ermöglichen, 
+müssen weitere Maßnahmen umgesetzt werden, 
+die gezielt die Dekarbonisierung in den vulnerab-
+len Gruppen unterstützen.  
+ Zu den Maßnahmen, die die Zielgruppe treffsi-
+cher unterstützen, zum Klimaschutz beitragen  
+und durch den Klima -Sozialfonds finanziert 
+werden könnten, gehören insbesondere:
+
+--- PDF SEITE 7 ---
+Umsetzung ETS II in Deutschland  •  Seite 7 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+ Unterstützung investive r Maßnahmen im 
+Gebäudebereich für vulnerable Gruppen  
+(beispielsweise Fenstertausch oder Kel-
+lerdeckendämmung).  
+ Im Verkehrs bereich wären es beispiels-
+weise ein soziales Deutschlandticket in 
+Verbindung mit dem Ausbau des ÖPNV 
+und einer Mobilitätsgarantie.  Ebenso das 
+aktuell viel zitierte  Social-Leasing 1  und 
+eine Kaufprämie für gebrauchte E- Autos 
+gezielt für vulnerable Gruppen.  
+ In Anbetracht der knappen finanziellen Mittel, 
+die Deutschland durch den Klima-Sozialfonds 
+zur Verfügung stehen, sollte unbedingt eine (an-
+teilige) Finanzierung durch die (restlichen) natio-
+nalen Auktionseinnahmen aus dem ETS II erwo-
+gen werden. Darüber hinaus sollten die Maßnah-
+men für vulnerable Gruppen  grundsätzlich auch 
+aus den Einnahmen des ETS I und auch den rest-
+lichen generellen Haushaltsmitteln finanziert 
+werden. 
+ 
+  
+ 
+ 
+1  Siehe bspw. https://www.tagesschau.de/wirt-
+schaft/weltwirtschaft/frankreich-elektroautos-
+social-leasing-100.html.
+
+--- PDF SEITE 8 ---
+Umsetzung ETS II in Deutschland  •  Seite 8 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+1 Überführung des nEHS in ETS  II 
+Im Rahmen des Kommissionspakets der Europäischen Union (EU) „Fit For 55“ wird ab 2027 (ggf. ab 2028) ein zwei-
+ter europäischer Emissionshandel (ETS II – abgeleitet aus dem englischen Begriff Emission Trading System) für Ge-
+bäude, Straßenverkehr, Industrie und Energieanlagen außerhalb des bestehenden europäischen Emissionshandels 
+(ETS, im Folgenden auch ETS I genannt) eingeführt (siehe auch folgende Textbox für Hintergründe). Dieser Schritt 
+stellt einen bedeutenden Meilenstein in der europäischen Klimapolitik dar und soll das Erreichen der EU-Klimaziele 
+in den Sektoren Gebäude und Verkehr sicherstellen. Er führt erstmalig einen einheitlichen EU-weiten CO2-Preis in 
+den Sektoren Gebäude und Verkehr ein. In diesem Zusammenhang sind allerdings zentrale Fragen zur genauen 
+Ausgestaltung des ETS II noch offen.  
+Textbox 1: Emissionshandelssysteme in Deutschland und der EU 
+Die allgemeine Funktion von Emissionshandelssystemen ist die Begrenzung  von Treibhausgas (THG)-Emissionen 
+durch deren Bepreisung. Dabei werden Zertifikate gehandelt, die zum Ausstoß von Emissionen berechtigen  – bei-
+spielsweise berechtigt ein Zertifikat zum Ausstoß von einer Tonne CO2-Emissionen2 (siehe bspw. EU-Kommission 
+2023a).  
+In der EU besteht seit 2005 ein Emissionshandelssystem. Zusätzlich soll ab 2027 das ETS II als weiteres System auf 
+europäischer Ebene eingeführt werden. Während im ETS I Anlagen im Energiesektor, der verarbeitenden Industrie 
+sowie Teile der Luftfahrt und künftig auch die Schifffahrt betroffen sind, schließt das ETS II die Bereiche Gebäude, 
+Straßenverkehr sowie weitere Sektoren ein (siehe auch EU-Richtlinie 2003/87).  
+In Deutschland gilt seit dem Jahr 2021 neben dem ETS I bereits ein nationales Emissionshandelssystem (nEHS), das 
+im Bundesemissionshandelsgesetz (BEHG) geregelt  ist. Es erfasst fast alle CO2-Emissionen aus der Nutzung von 
+fossilen Brennstoffen außerhalb des ETS I und deckt den Geltungsbereich des zukünftigen ETS II ab. Nun stellt sich 
+die Frage, wie der Übergang vom einen in das andere System gestaltet wird. 
+ 
+Funktionsweise des europäischen Emissionshandels 
+Das ETS I ist ein sogenanntes Cap and Trade-System. Jährlich wird eine Höchstzahl an Zertifikaten herausgegeben 
+(Cap). Die Zertifikate können von den Unternehmen ersteigert und anschließend untereinander gehandelt werden 
+(Trade). Bisher wird im ETS I ein bestimmter Anteil der Zertifikate kostenlos zugeteilt. Dies wird jedoch durch die 
+jüngste Reform des ETS I sukzessive abgebaut und ist beim neuen ETS II von Beginn an nicht vorgesehen. Das Cap 
+beider ETS ist so ausgestaltet, dass sich das Angebot an Zertifikaten über die Zeit verknappt (siehe auch den fol-
+genden Abschnitt 1.1), um Marktteilnehmer *innen zur Emissionsreduktion zu bewegen . Somit ist das Angebot im 
+ETS politisch festgelegt. Ein wesentlicher Unterschied der beiden europäischen Systeme besteht darin, dass das 
+ETS I als Downstream-System (die betroffenen Unternehmen als Verursacher bezahlen den Zertifikatspreis) gestal-
+tet ist, während das ETS II als Upstream-System (die Brennstofflieferantenzahlen den Preis  und geben ihn an die 
+Kund*innen weiter) ausgestaltet ist (EU-Kommission 2023a). 
+Die Höhe  des CO 2-Preises hängt dabei vor allem von  der Gesamtmenge an Zertifikaten und  den CO 2-Vermei-
+dungskosten, wie für CO2-neutrale Produktionstechnologien oder Verkehrsmittel, ab. Je nach ihrer Höhe werden 
+weitere Klimaschutzmaßnahmen wirtschaftlicher und die Nachfrage nach Zertifikaten reduziert sich , sodass das 
+Cap eingehalten wird. Auf diese Weise tragen die ETS zur Erreichung der EU -Klimaziele bei (für Details, siehe u. a. 
+Abschnitt 1.1.3). Die Festlegung des Cap-Verlaufs durch die Politik legt so den Beitrag der erfassten Emissionsquel-
+len zur Erreichung der nationalen/europäischen Klimaziele fest. 
+ 
+Deutscher Emissionshandel (noch) kein Handelssystem 
+Im Vergleich zum europäischen System ist der nEHS bisher nicht als Handelssystem ausgestaltet. Stattdessen wer-
+den Zertifikate zur Berechtigung zum Ausstoß von Emissionen zu einem Fixpreis (und ohne Cap) verkauft. Ab 2026 
+ist dann der Übergang in einen Handel mit Preisober - beziehungsweise -untergrenze (sogenannter Preiskorridor) 
+geplant (§ 10 BEHG).  
+ 
+ 
+ 
+2  Das ETS II sowie der deutsche nationale Emissionshandel umfassen nur CO2-Emissionen. Im ETS I sind zusätzlich andere 
+Treibhausgase erfasst, allerdings spielen sie nur eine sehr untergeordnete Rolle.
+
+--- PDF SEITE 9 ---
+Umsetzung ETS II in Deutschland  •  Seite 9 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Einerseits besteht die Notwendigkeit, die konkrete Umsetzung des ETS II in Deutschland zu klären, da in den rele-
+vanten Bereichen bereits ein nationaler Brennstoffemissionshandel existiert  (Abschnitte 1.1 und 1.2). Ein weiterer 
+zentraler Aspekt betrifft die Verwendung der Einnahmen aus dem ETS II , um die finanzielle Belastung der Bür-
+ger*innen gezielt und effektiv zu mindern  (Abschnitt 2). Dabei gilt es, Gestaltungsspielräume innerhalb des euro-
+päischen Regelwerks zu identifizieren und optimal zu nutzen. 
+1.1 Zusammenspiel und Übergang von nEHS und ETS II 
+Trotz der in vielen Bereichen ähnlichen Ausgestaltung von nEHS und ETS II bestehen Unterschiede und Heraus-
+forderungen, die beim Übergang zu bewerkstelligen sind. In diesem Abschnitt gehen wir zunächst auf die zentralen 
+Unterschiede der beiden Systeme ein (Abschnitt 1.1.1). Anschließend stellen wir Prognosen von Angebot und Nach-
+frage dar, die die zu erwartende Knappheit der Zertifikate verdeutlicht (Abschnitt 1.1.2). Abschließend beschreiben 
+wir verschiedene aktuelle Szenarien zur Abschätzung des zu erwartenden CO2-Preisniveaus (Abschnitt 1.1.3). 
+1.1.1 Übersicht über zentrale Unterschiede 
+Tabelle 1 vergleicht die wesentlichen Designelemente des deutschen nEHS  und de s neuen ETS II in der EU. 3 In 
+mehreren zentralen Elementen sind die beiden Systeme sehr ähnlich zueinander. Beide decken CO 2-E-missionen 
+aus der Verbrennung fossiler Kraftstoffe außerhalb des ETS I ab. Dabei ist der Anwendungsbereich des nEHS leicht 
+größer: Zusätzlich zum ETS II sind noch kleinere Quellen wie Dieselloks, der Energieverbrauch in der Landwirtschaft 
+oder bauwirtschaftlicher Verkehr im nEHS erfasst. In den Jahren 2016 bis 2018, der Referenzperiode für die Berech-
+nung des Caps in beiden Systemen, waren die Emissionen Deutschlands im Geltungsbereich  des nEHS um 2,2 % 
+(7 Mt CO2) höher als i m Geltungsbereich des ETS  II. Verpflichtet sind in beiden Fällen die Inverkehrbringer der 
+Brennstoffe wie z.B. Heizöllieferanten, d.h. es handelt sich um Upstream-Systeme.  
+Die wesentlichen Unterschiede sind das Ambitionsniveau, Preisbildung und Mengensteuerung sowie die Verwen-
+dung der Einnahmen. Das Ambitionsniveau des nEHS orientiert sich am deutschen Ziel für das Jahr 2030 von 50 % 
+weniger THG-Emissionen gegenüber 2005 in der Klimaschutzverordnung (Effort Sharing Regulation, ESR) , das 
+ETS II am EU-weiten ESR-Ziel von einer Minderung von 40  %. Verglichen mit den durchschnittlichen Emissionen 
+der Jahre 2016 bis 2018 müssen die Emissionen im ETS  II im Jahr 2030 8  Prozentpunkte weniger stark gemindert 
+werden, als unter dem nEHS. Bei der Preisbildung ist das deutsche ETS de facto bis 2026 eine CO2-Steuer mit fes-
+ten Preisen (bzw. einem Preiskorridor in 2026). Vom Staat werden unbegrenzt viele Zertifikate zu dem Preis ver-
+kauft, unabhängig von der Höhe des Caps. Erst ab dem Jahr 2027 startet nach aktueller Gesetzeslage die freie 
+Preisbildung am Markt mit einem festem Cap. Im ETS II beginnt die freie Preisbildung sofort ab Beginn im Jahr 2027. 
+Dafür gibt es auf europäischer Ebene aber eine Mengensteuerung, die auf drei unterschiedliche Arten ausgelöst 
+werden kann, um auf hohe Preise und ein Über-/Unterangebot von Zertifikaten reagieren zu können: 
+ Marktungleichgewicht: Sollte die Differenz zwischen ausgegebenen Zertifikaten und Emissionen über/unter 
+bestimmten Schwellenwerten liegen, werden von der Marktstabilitätsreserve (MSR) 100 Mio. Zertifikate zu-
+rückgehalten/ausgeschüttet. 
+ CO2-Preis: Sollte der CO2-Preis für mindestens zwei Monate höher als 45 Euro sein, werden 20 Mio. Zertifikate 
+durch die MSR ausgeschüttet. Auch wenn der Preis für drei Monate mindestens doppelt beziehungsweise drei-
+fach so hoch wie in den sechs Monaten davor ist, werden 50 beziehungsweise 150 Mio. Zertifikate ausgeschüt-
+tet. Pro Zeitraum von 12 Monaten kann nur einer dieser Mechanismen ausgelöst werden. 
+ Politische Steuerung: Die Kommission kann per Durchführungsrechtsakt ermöglichen, dass ein zweites Mal in-
+nerhalb einer 12-Monatsperiode einer der preisabhängigen Mechanismen ausgelöst werden kann. 
+ 
+Eine zentrale Begrenzung aller drei Steuerungsmechanismen ist das Jahr 2030: D ie MSR wird zu B eginn mit 
+600 Mio. Zertifikaten gefüllt, die zusätzliche zum Cap sind . Diese Zertifikate verlieren Ende 2030 ihre Gültigkeit, 
+falls sie noch in der MSR liegen. Ab dem Jahr 2031 kann es entsprechend keine weiteren Ausschüttungen mehr 
+geben. Nur zusätzliche Zertifikate, die die MSR zurückhält, stehen ab 2031 noch zur Verfügung. Dieser Fall ist aber 
+sehr unwahrscheinlich (s.u.).  Um in den Anfangsjahren des ETS II ein ausreichendes Angebot an Zertifikaten zu ha-
+ben, wir die Auktionsmenge im ersten Jahr um 30% erhöht. Diese Mengen werden später wieder von den Auktions-
+mengen abgezogen (Frontloading). 
+ 
+ 
+3  Für eine detaillierte Beschreibung und Analyse des ETS II siehe Öko-Institut (2024).
+
+--- PDF SEITE 10 ---
+Umsetzung ETS II in Deutschland  •  Seite 10 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Ein direkter Vergleich der Auktionsmengen in beiden Systemen ist schwierig: D ie Menge, die Deutschland im ETS 
+II versteigern kann, hängt von den Preisannahmen ab. In einem ersten Schritt werden genug Zertifikate versteigert, 
+um den Klima-Sozialfonds (KSF im Folgenden, auch Social Climate Fund bzw. SCF) zu füllen. Die danach verblei-
+benden Zertifikate werden entsprechend der historischen Emissionsanteile an die Mitgliedstaaten verteilt. Die Kos-
+ten für die Zertifikate werden in ungefähr gleichen Teilen von Privathaushalten und Unternehmen  getragen: Der 
+Pkw-Verkehr und die Wohngebäude sind für knapp 50 % der Emissionen im ETS II/nEHS verantwortlich.  
+Im ETS II gibt es für die Mittel, die in den KSF fließen, wie auch für die restlichen Mittel klare Vorgaben zu  deren 
+Verwendung (für Details siehe Abschnitt 2.2). Im Vergleich dazu werden die Mittel aus dem nEHS aktuell vollständig 
+im Klima- und Transformationsfonds ( KTF) verwendet (siehe Abschnitt 2.3.2 ). Deren Verwendung ist dabei nicht 
+explizit festgelegt, sondern ist Teil der Haushaltsverhandlungen. Grundsätzlich ist das Ziel des KTF aber, Klima-
+schutz zu betreiben oder die Mittel an Bürger*innen zurückzuverteilen (siehe bspw. Öko-Institut u. a. 2022). 
+Tabelle 1: Vergleich von nEHS und ETS II  
+nEHS ETS II 
+Anwendungsbereich ETS II zzgl. weiterer Energieverbrauche, 
+u. a. Landwirtschaft, Schienenverkehr, 
+bauwirtschaftlicher Verkehr 
+Straßenverkehr, Gebäude, Feuerungsanlagen 
+außerhalb des ETS I 
+Gase CO2 CO2 
+Minderungsziel ggü. 
+Durchschnitt 2016-18 
+-29 % in 2027 bis -46 % in 2030 -25 % in 2027 bis -38 % in 2030 
+Preisbildung Festpreis bzw. Preiskorridor bis 2026, 
+danach freie Preisbildung 
+Freie Preisbildung, aber mehrere Steuerungs-
+mechanismen nach absoluter Höhe und Preis-
+steigerung 
+Mengensteuerung Bis 2026 unbegrenztes Angebot, da-
+nach keine Mengensteuerung 
+Marktstabilitätsreserve, Frontloading aus 
+2029-31 nach 2027 
+Auktionsmengen 236 Mio in 2027 bis 180 Mio in 2030 246 Mio. in 2027 bis 200 Mio in 2030 (vor 
+KSF) 
+Einnahmen 2027-2030 42 Mrd. Euro beim CO2-Preis von 50 
+Euro/tCO2 
+35 Mrd. Euro beim CO2-Preis von 50 
+Euro/tCO2  
+(zzgl. 5,3 Mrd. Euro aus KSF) 
+Verwendung der Ein-
+nahmen 
+KTF (siehe Abschnitt 2.3.2), Klima-
+schutz/Energiewende/Transformation 
+KSF, restliche Einnahmen gehen an die Mit-
+gliedstaaten (siehe Abschnitt 2), Fokus auf Kli-
+maschutz und Soziales  
+Verpflichtete Inverkehrbringer Inverkehrbringer 
+Quelle: Eigene Darstellung, Öko-Institut (2024). 
+1.1.2 Prognose von Angebot und Nachfrage  
+Das ETS II erfordert von den beteiligten Sektoren eine jährliche Emissionsreduktion, die deutlich über den histori-
+schen Minderungsraten liegt. Zwischen 2005 und 2021 sanken die betroffenen Emissionen EU-weit im Schnitt um 
+11 Mt CO2/a. Um den Cap zu Beginn des ETS II zu treffen, müssten die Emissionen ab 2022 schon um 50 Mt CO2/a 
+sinken. Mit Beginn des ETS II sinkt der Cap dann um 63 Mt CO2/a (Abbildung 1). Verglichen damit sinken die Emis-
+sionen der ETS II- Sektoren in den Mit -weiteren-Maßnahmen-Projektionen der 27 Mitgliedstaaten nur um 
+32 Mt CO2/a, ungefähr halb so schnell wie der Cap.
+
+--- PDF SEITE 11 ---
+Umsetzung ETS II in Deutschland  •  Seite 11 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Abbildung 1: Historische und notwendige jährliche Emissionsänderung in der ETS II-Abgrenzung 
+ 
+Quelle: Eigene Berechnungen, Öko-Institut mit Zahlen aus Öko-Institut (2024), EEA u.a. (2023).  
+ 
+Abbildung 2 zeigt eine andere Visualisierung des Sachverhalts: D ie Emissionsprojektion der Mitgliedstaaten liegt 
+deutlich über dem ETS II-Cap. Die Mitgliedstaaten erwarten also deutlich höhere Emissionen als durch Zertifikate 
+abgedeckt werden kann. Eine Fortschreibung des Trends würde zu noch höheren Differenzen führen. Diese Emis-
+sionsprojektionen berücksichtigen aber noch nicht die volle Wirkung des ETS  II: Verpflichtete wären nicht in der 
+Lage, Emissionszertifikate für ihre Emissionen einzureichen. Als Folge würde der CO 2-Preis sehr stark ansteigen, 
+sodass durch die hohen Preise die Emissionen sinken würden. Auch die MSR kann diese Knappheit nicht ausglei-
+chen. Frühestens im September 2028 beginnt sie mit der Ausschüttung von Zertifikaten, bis Ende 2030 könnten 
+maximal 233 Mio. Zertifikate zusätzlich in den Markt gegeben werden - gerade einmal 20 % der kumulierten Lücke 
+zwischen Cap und Projektion der Mitgliedstaaten in den Jahren 2027 bis 2032. In diesem Szenario würde der Preis 
+sehr wahrscheinlich über 45 Euro liegen und die MSR weitere Zertifikate ausschütten . Abbildung 2 zeigt deshalb 
+zusätzlich die Auswirkung, wenn dieser Mechanismus zwei Mal pro Jahr ausgelöst würde, die höchste mögliche 
+Ausschüttung. Auch in diesem Szenario wäre das kumulierte Defizit bis 2032 noch 800  Mio. Zertifikate , d.h. d er 
+CO
+2-Preis wäre weiterhin sehr hoch.  
+-150
+-100
+-50
+0
+50
+100
+150
+Emissionsänderung zum Vorjahr [Mt CO2]
+Historisch 2022-2027 ETS 2 Projektion MS
+
+--- PDF SEITE 12 ---
+Umsetzung ETS II in Deutschland  •  Seite 12 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Abbildung 2: Historische Emissionen, Projektionen, Cap und Flexibilitätsmechanismen im ETS II 
+ 
+Quelle : Eigene Berechnungen, Öko-Institut mit Zahlen aus Öko-Institut (2024), TP Bericht. 
+ 
+Es ist unklar, ob  die weiteren Preissteuerungsmechanismen, die bei sehr schnellen Preisanstiegen greifen sollen, 
+wirken können. Selbst bei starken Preisanstiegen ist die Anforderung, dass der mittlere CO2-Preis über drei Monate 
+mindestens doppelt/dreifach so hoch ist wie der Mittelwert der sechs  Monate davor, nur schwer zu erfüllen. Zum 
+Vergleich: Im ETS I wäre das Kriterium der Preisverdoppelung beziehungsweise Preisverdreifachung in der gesam-
+ten Historie seit 2005 nie ausgelöst worden (Öko-Institut 2024). Bei der verwendeten Projektion der Mitgliedstaa-
+ten wäre auch im Fall, dass dieser Trigger erreicht wird und weitere 50 beziehungsweise 150 Mio. Zertifikate in den 
+Markt gelangen, das Defizit noch erheblich. Selbst wenn alle Zertifikate, mit der die MSR anfangs ausgestattet wird, 
+ausgeschüttet würden, betrüge das Defizit bis Ende 2032 noch 554 Mio. Zertifikate. 
+Auch wenn die hier gezeigten Projektionen der Mitgliedstaaten aus dem Jahr 2023 sind, berücksichtigen viele Län-
+der offensichtlich noch nicht das ETS II in ihren Berechnungen. Die Kommission ging in ihrer Folgenabschätzung 
+zur Einführung des ETS II (2021) davon aus, dass die Kombination aus Regulierung, CO2-Preis und weiteren Anrei-
+zen zu einer Emissionsentwicklung führen wird, in der der Cap genau erreicht wird. Die sehr unterschiedlichen 
+Preisszenarien für das ETS II im folgenden Abschnitt basieren im Wesentlichen auf unterschiedlichen Annahmen 
+zur Lenkungswirkung des CO2-Preises selbst sowie der Wirkung der weiteren Politiken und Maßnahmen. 
+Textbox 2: Lenkungswirkung des CO2-Preises 
+Ein CO2-Preis soll über drei verschiedene Mechanismen zu einer Reduktion der Emissionen führen: 
+1. Verhaltensänderung: Durch die gestiegenen Kosten für (fossile) Energieträger werden Anreize zu mehr Spar-
+samkeit gesetzt, zum Beispiel  indem manche Zimmer nicht geheizt werden oder die Raumt emperatur redu-
+ziert wird. 
+2. Brennstoffwechsel: Falls möglich, wird ein Anreiz zur Verwendung weniger emissionsintensiver Brennstoffe ge-
+setzt. Zum Beispiel könnte durch vermehrte Nutzung eine s Holzkamins auf die gestiegenen Kosten von 
+Gas/Heizöl reagiert werden. 
+3. Investitionsmaßnahmen: Investitionen wie die Sanierung der Gebäudehülle oder der Einbau einer Wärme-
+pumpe werden durch einen CO2-Preis ökonomisch effizienter. 
+ 
+Von diesen drei Mechanismen kann die erste in der Regel  sofort ohne weitere Anforderungen umgesetzt werden.  
+Dies wäre die erste Reaktion auf einen kurzfristig en und starken Preisanstieg. So ist der Umsatz der Tankstellen in 
+Deutschland im März 2022, dem ersten Monat nach dem Angriffskrieg Russlands, als Reaktion auf die Preissprünge 
+für Benzin und Diesel um 11,5  % gegenüber dem Vormonat gesunken  (Destatis 2022). In den Sektoren des ETS II 
+und insb esondere den Privathaushalten ist die Möglichkeit des Brennstoffwechsels oft sehr begrenzt: I n 
+-800
+-300
+200
+700
+1 200
+1 700
+2005 2007 2009 2011 2013 2015 2017 2019 2021 2023 2025 2027 2029 2031
+Emissionen/Cap [Mt CO2]
+Cap MSR
+Preissteuerung (40 Mt/a) Kumuliertes Defizit (MS Projektion)
+Historische Emissionen Lineare Interpolation
+MS Projektion
+
+--- PDF SEITE 13 ---
+Umsetzung ETS II in Deutschland  •  Seite 13 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Wohnungen und in Städten gibt es nur wenige Kamine und ein Wechsel zu Biogas ist nur in manchen Orten mög-
+lich. Der dritte Mechanismus erfordert die notwendigen finanziellen Ressourcen, ausreichendes Wissen und ist teil-
+weise auch durch einen Mangel an Angebot begrenzt. So können zum Beispiel nur eine bestimmte Anzahl an Häu-
+sern pro Jahr energetisch saniert werden, selbst wenn die Nachfrage deutlich höher wäre.  
+Die Modelle zur Berechnung des CO2-Preises im ETS II versuchen die hier dargestellten Reaktionen im Zusammen-
+spiel mit den weiteren Politiken und Maßnahmen zu quantifizieren. So sollen Nachfrageelastizitäten die Verhal-
+tensänderung abbilden und ein Vergleich der Gesamtkosten inklusive  Förderprogrammen die Wirtschaftlichkeit 
+von Investitionen prüfen. Gleichzeitig ist gerade im Privatsektor die ökonomische Effizienz oft nicht der ausschlag-
+gebende Grund für Investitionen: In der Regel wäre zum Beispiel ein effizienter Kleinwagen sowohl in Anschaffung 
+als auch Verbrauch deutlich günstiger als die typischen Autos auf deutschen Straßen. Auch andere Faktoren wie  
+Unsicherheiten über zukünftige Preisentwicklungen, fehlendes Wissen, das Mieter-Vermieter-Dilemma, etablierte 
+Routinen im Handwerk und in der Energieberat ung können dazu führen, dass eigentlich sinnvolle Maßnahmen 
+nicht getroffen werden. 
+1.1.3 Szenarien zur Entwicklung des CO2-Preises 
+Der aktuelle CO2-Preis im deutschen nEHS liegt bei 4 5 Euro pro tCO2 und soll jährlich weiter angehoben werden 
+(2025 auf 55 Euro4 und 2026 mit einem Preiskorridor von 55 bis 65 Euro) (§ 10 BEHG). Da ab 2027 im ETS II keine 
+fixen Preise gelten, stellt sich die Frage nach den erwartbaren Preisniveaus und deren Auswirkungen auf die fossilen 
+Brennstoffpreise. Ein CO 2-Preisanstieg um 10 Euro/tCO 2 erhöht beispielsweise den Erdgaspreis um 0,2 ct/kWh, 
+Benzin um 2,4  ct/l, Diesel und Heizöl um 2,7 ct/l (Preise ohne Mehrwertsteuer ). Während das bei dem heutigen 
+CO2-Preis noch im Bereich der üblichen Preisschwankungen am Markt liegt, sind die Preiseffekte bei höheren CO2-
+Preisniveaus deutlich relevanter.  
+Wie die Ergebnisse der unten dargestellten Studien zur zukünftigen CO2-Preisentwicklung im Bereich Wärme und 
+Verkehr zeigen, wird der Preis vor allem davon abhängig sein, welche zusätzlichen Klimaschutzmaßnahmen umge-
+setzt werden. Das ETS II ist dabei ein Teil eines Maßnahmenpakets und wird parallel zur schon existierenden  ESR5 
+eingeführt (für eine ausführliche Diskussion des Zusammenspiels zwischen ETS und ESR, siehe bspw. Ecologic Insti-
+tut u. a. 2022). Ein niedriger Preis wäre dann zu erwarten, wenn eine Vielzahl unterschiedlicher Maßnahmen zusätz-
+lich beschlossen wird, die zum Rückgang der THG-Emissionen beitragen. Der Emissionsrückgang würde bewirken, 
+dass die Nachfrage nach Zertifikaten und somit auch der CO2-Preis zurückgeht. Im Gegensatz dazu würde ein stär-
+kerer Fokus auf den Emissionshandel im Instrumentenmix und eine geringere Anzahl an zusätzlichen Klimaschutz-
+maßnahmen zu einem hohen Preisniveau führen. Der Grund dafür ist, dass die Menge an emittierten Zertifikaten 
+auf die Emissionsziele der EU abgestimmt ist. Somit nimmt das Angebot Jahr für Jahr ab . Dies führt je nach Len-
+kungswirkung und Anpassungsreaktionen auf der Nachfrageseite zu zunehmender Knappheit und zu einem Preis-
+druck nach oben. Die Lenkungswirkung hängt unter anderem  vom Wirtschaftlichkeitskalkül der Akteure ab. Je 
+nach CO2-Vermeidungskosten werden Maßnahmen durch den CO2-Preis wirtschaftlich und eher durchgeführt. Je 
+höher der Preis, umso mehr lohnt sich eine Investition z.B.  für eine Wärmepumpe oder Gebäudesanierung . Damit 
+reduziert sich die Nachfrage nach Zertifikaten und der Preisanstieg kann begrenzt werden. Tabelle 2 gibt dabei ei-
+nen Überblick über die unterschiedlichen Einschätzungen zur CO2-Preisentwicklung unter dem ETS II aus diversen 
+Quellen.  
+  
+ 
+ 
+4  Durch die Haushaltseinigung im Dezember 2023 wurde beschlossen, dass der CO2-Preis in den Jahren 2024 und 2025 
+wieder auf das Niveau des Preispfads der großen Koalition angehoben wird. Somit ergibt sich 2024 eine Erhöhung von 
+35 auf 45 Euro und 2025 von 45 auf 55 Euro. Um diese Änderungen festzuhalten, wird § 10 BEHG geändert (Deutscher 
+Bundestag 2024). 
+5  Die ESR legt für die einzelnen EU-Mitgliedstaaten ein nationales Ziel für die THG-Reduktion für die Sektoren Verkehr, 
+Gebäude, Landwirtschaft, kleine Industrie und Abfallwirtschaft fest. Die Reduktionsziele liegen je nach Land zwischen 10 
+und 50 % unter dem Referenzwert von 2005 und wurden anhand des jeweiligen Bruttoinlandsprodukts (BIP) pro Kopf 
+festgelegt. Die ESR ist, gleich wie auch ETS II, Teil des Instrumentenmixes, der für die Erreichung der EU-Klimaziele sor-
+gen soll (EU-Kommission 2023b).
+
+--- PDF SEITE 14 ---
+Umsetzung ETS II in Deutschland  •  Seite 14 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Tabelle 2: Überblick über vorliegende Schätzungen zur CO2-Preisentwicklung im ETS II 
+Preisniveau 2030 
+(Euro/tCO2) 
+Quelle Ansatz 
+48 – 80 EU-Kommission (2021) Weitere effektive Klimaschutzmaßnahmen werden ange-
+nommen 
+126 PIK (2023) Reformszenario, bei dem neue Reformen („Fit For 55“-Paket) 
+mit einbezogen werden 
+180 Cambridge Econometrics (2021) E3ME Model, basierend auf 2015 Preisen 
+175 – 350 Abrell u.a. (2022) CO2-Preise sind die einzigen politischen Maßnahmen zum 
+Klimaschutz 
+200 – 300 MCC (2023) Annahme, dass flankierende Maßnahmen bei Gebäude und 
+Verkehr ausbleiben 
+297 IfW Kiel (2023) General equilibrium model DART 
+ 
+Die EU-Kommission schließt in ihren Szenarien zur CO2-Preisentwicklung erwartete Entwicklungen bei der Einfüh-
+rung von Klima - und Energiemaßnahmen mit ein. Dabei wird ein Preis von 48 Euro/t bis 80  Euro/t im Jahr 2030 
+und von 360 Euro/t bis 430 Euro/t im Jahr 2050 prognostiziert. In dem Szenario mit dem niedrigeren Preisen wer-
+den mehr begleitenden Maßnahmen wie Energiesteuern und Förderprogramme angenommen als in dem Szenario 
+mit höheren Preisen. Im Zusammenhang mit diesen Prognosen wird aber auch erwähnt, dass diese an das Erreichen 
+gewisser Ziele beispielsweise in den Bereichen Energie effizienz und erneuerbare Energien geknüpft sind (EU-
+Kommission 2021). 
+Einige Studien gehen in ihren Vorhersagen für das Jahr 2030 von weitaus höheren CO2-Preisen aus. Das ist nicht 
+nur auf unterschiedliche Modellierungsansätze und Annahmen zurückzuführen, sondern auch darauf, dass sie 
+nicht so viele komplementäre Maßnahmen annehmen, wie die Berechnungen der EU-Kommission. 
+ Das Potsdam Institut für Klimafolgenforschung veröffentlichte ein Papier , in dem die Reformen durch das „Fit 
+for 55“-Paket der EU berücksichtigt werden. Dabei kommt man auf einen simulierten CO2-Preis von 126 Euro/t 
+(PIK 2023). 
+ Cambridge Econometrics (2021)  verwendete das E3ME- Modell und entwickelte zwei Szenarien , um die Aus-
+wirkungen von zwei unterschiedlichen  Wegen zur Erreichung einer Emissionsreduktion von 55 % der Treib-
+hausgasemissionen im Jahr 2030 im Verkehrs- und Gebäudesektor. Das dabei relevanteste Szenario ist das mit 
+einem parallelen ETS für den Verkehrs- und Gebäudebereich (wie das ETS II geplant ist). Dieses wird in den Sze-
+narien allerdings schon im Jahr 2025 eingeführt. Um in den relevanten Sektoren eine Reduktion der THG-Emis-
+sionen um 40 % bis 2030 zu erreichen, ist demnach ein CO2-Preis von 180 Euro/t (Preise basieren auf dem Jahr 
+2015) notwendig. 
+ In einer Studie im Rahmen des  Ariadne-Projekts (Abrell u. a. 2022) werden vier verschiedene Modelle zur Un-
+tersuchung der Kostenaufteilung zwischen den EU-ETS und den ESR-Sektoren verwendet. Die Modelle unter-
+scheiden sich in unterschiedlichen Dimensionen wie etwa technische Entwicklungen, Energieeffizienzpotenzi-
+ale und politische Maßnahmen. In allen Szenarien wird das Reduktionsziel der THG um 55  % gegenüber 1990 
+implementiert. Sie unterscheiden sich je nach Allokation des Emissionsbudgets zwischen den ETS - und ESR-
+Budgets. Sie nehmen dabei bei  beiden Systemen einen Emissionshandel an, wodurch sich zwei unterschiedli-
+che CO 2-Preise ergeben. Für den Fall, dass der Emissionshandel das einzige Instrument zur Erreichung der 
+Emissionsziele ist, ergeben sich Preise zwischen 130 und 210 Euro/t im ETS I und 175 bis 375 Euro/t für die ener-
+giebezogenen ESR-Emissionen. Die Spannbreite ergibt sich dabei durch die Unterschiede in der Technologie-
+entwicklung und Basisannahmen der unterschiedlichen Modelle. In dieser Studie wird ETS II noch nicht konkret 
+berücksichtigt. Allerdings kann argumentiert werden, dass diese Annahmen auch für ETS II relevant sind, da sie 
+ebenfalls für den Handel von Emissionszertifikaten getätigt wurden und die prognostizierten Preise in etwa im 
+Einklang mit dem Gesamtbild der anderen Vorhersagen stehen. 
+ Weiter sagt eine Studie von MCC (2022) Preise zwischen 200  Euro/t und 300 Euro/t im Jahr 2030 und 370 
+Euro/t bis 670 Euro/t im Jahr 2045 voraus. Hinter diesen hohen Preisen steht die Annahme, dass keine anderen 
+weitreichenden und effektiven Klimaschutzmaßnahmen umgesetzt werden.
+
+--- PDF SEITE 15 ---
+Umsetzung ETS II in Deutschland  •  Seite 15 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+ Das IfW Kiel (2023) nutzte das DART-Modell, um sein ETS II-Szenario zu entwerfen. Das Modell berücksichtig 
+dabei nahezu die gleichen Sektoren wie ETS II, ist allerdings nicht ganz deckungsgleich, da auch die Bereiche 
+Schifffahrt und Luftverkehr miteinbezogen werden. Aufgrund fehlender Informationen werden die ESR -Ziele 
+zwischen ETS II-Sektoren und übrigen Sektoren anhand der Emissionsanteile mit dem Basisjahr 2014 aufgeteilt. 
+Unter diesen Voraussetzungen ergibt sich aus dem Modell ein CO2-Preis in Höhe von 297 Euro/t im Jahr 2030. 
+Dieser Preis bezieht sich auf die Vermeidungskosten zur Erreichung des ETS II-Reduktionsziels von 43 % im Ver-
+gleich zu 2005 (die CO2-Preise beziehen sich auf das Niveau von 2022). 
+ 
+Abschließend kann festgehalten werden, dass von den hier vorgestellten Preisszenarien keines als das Wahrschein-
+lichste betrachtet werden kann. Sie geben lediglich einen Rahmen vor, in dem sich der CO 2-Preis bewegen kann . 
+Das tatsächliche Preisniveau hängt, wie bereits zuvor betont , insbesondere von der Wirksamkeit der zusätzlichen 
+Klimaschutzmaßnahmen sowie der politischen Einflussnahme der jeweiligen Akteur *innen ab (für eine ausführli-
+chere Diskussion, siehe Kapitel 1.2.2). Die bisher absehbare Lücke zwischen Emissionsprojektionen der Mitglied-
+staaten und dem ETS II -Cap deuten aber darauf hin, dass der Preis deutlich über dem heutigen Niveau des 
+nEHS liegen wird. 
+1.2 Umsetzungsoptionen für Deutschland 
+In diesem Abschnitt wird die Frage diskutiert, wie das ETS II in Deutschland umgesetzt werden kann (Abschnitt 1.2.1). 
+Darüber hinaus gehen wir auf potenzielle Begleitmechanismen zur Stabilisierung des CO 2-Preisniveaus sowie das 
+Zusammenspiel des CO2-Preises mit anderen Energiepreiskomponenten ein (Abschnitt 1.2.2).  
+1.2.1 Geltungsbereich 
+Vor allem für Länder, die bereits ein bestehendes CO 2-Bepreisungssystem haben, ergeben sich durch die Einfüh-
+rung des ETS II eine Reihe von zusätzlichen Anwendungsoptionen. Diese wirken sich in unterschiedlicher Art und 
+Weise auf den Geltungsbereich des ETS II aus. Konkret werden die Option zu einem Opt-in beziehungsweise Opt-
+out sowie die Einführung eines nationalen Mindestpreises diskutiert. 
+ 
+Opt-in 
+Die Opt-in-Option ermöglicht es Ländern, weitere noch nicht i m ETS berücksichtigte (Teil -)Sektoren in das euro-
+päische System miteinzubeziehen und somit den Anwendungsrahmen auszuweiten. Für Deutschland ist das inso-
+fern relevant, da nicht alle Emissionen, die unter dem nEHS berücksichtigt werden, auch im ETS II bepreist werden 
+(siehe Abschnitt 1.1.1).  Hierfür müssen verschiedene Kriterien, wie etwa die Auswirkungen auf den Binnenmarkt , 
+mögliche Wettbewerbsverzerrungen sowie die Verlässlichkeit des Überwachungs- und Berichterstattungsverfah-
+rens, erfüllt werden (Art. 30j Abs. 1 Emissionshandelsrichtlinie ( EHRL)). Bei der Opt-in-Option werden für die rele-
+vanten Sektoren zusätzliche Zertifikate zur Versteigerung bereitgestellt. Die Verwendung der daraus entstehenden 
+Einnahmen kann von den jeweiligen Mitgliedstaaten (im Gegensatz zu den Einnahmen aus den von ETS II betroffe-
+nen Sektoren) selbstständig festgelegt werden (Art. 30j Abs. 2 EHRL). 
+Für Deutschland sprechen wir die Empfehlung aus, von der Opt -in-Option Gebrauch zu machen. Das hat den 
+Vorteil, dass der Anwendungsbereich des ETS II vergrößert wird. Damit werden jene Sektoren, die unter dem nEHS 
+nicht aber im ETS II berücksichtigt werden, weiterhin bepreist. A us ökologischer Sicht ist es erstrebenswert, dass 
+Sektoren, die bereits heute mit einem CO 2-Preis belegt sind, diesen Anreiz nicht wieder verlieren. Zusä tzlich wer-
+den weitere Einnahmen für Deutschland generiert.  Darüber hinaus ist Deutschland besser vorbereitet, falls in Zu-
+kunft weitere Vorgaben seitens der EU bezüglich  des Emissionshandels beziehungsweise einer möglichen Erwei-
+terung des ETS II verfasst werden.  
+Das Argument des sogenannten Carbon Leakage – also der Verlagerung von Emissionen in andere Mitgliedstaaten, 
+die keinen CO2-Preis in den zusätzlichen Sektoren haben – ist bei der Opt-in-Option zu bedenken. Allerdings sind 
+die nicht vom ETS II erfassten Sektoren (wie z. B. Schienenverkehr oder Bau, siehe Abschnitt 1.1.1) nicht anfällig für 
+diesen Effekt. Ob Carbon Leakage im landwirtschaftlichen Sektor möglich ist, bleibt noch zu prüfen. 
+Zusätzlich wäre eine Weiterführung des nationalen Emissionshandelssystems aufgrund der zuvor beschriebenen 
+geringen Anzahl der nicht erfassten Sektoren eher unverhältnismäßig. Zusammen mit den  oben dargestellten Ar-
+gumenten ist das ein weiterer Grund dafür, diese Sektoren durch die Opt-in-Option in das europäische System mit 
+aufzunehmen.
+
+--- PDF SEITE 16 ---
+Umsetzung ETS II in Deutschland  •  Seite 16 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Opt-out 
+Eine weitere Variante besteht in einem sogenannten Opt-out für Mitgliedstaaten mit einer eigenen CO 2-Steuer. 
+Hier können Mitgliedstaaten vorübergehend bis zum Ende des Jahres 2030 ihr nationales System beibehalten und 
+nicht zum ETS II wechseln. Hierfür existiert allerdings eine Reihe von Anforderungen, die seitens der Mitgliedstaa-
+ten erfüllt werden müssen. Die womöglich relevanteste Voraussetzung ist dabei, dass der nationale CO2-Steuersatz 
+den durchschnittlichen Versteigerungspreis in den relevanten Sektoren überschreiten muss. Darüber hinaus  müs-
+sen betroffene Unternehmen beispielsweise auch ihren Pflichten bezüglich  der Überwachung, Ber ichterstattung 
+und Prüfung der Emissionen gemäß den EU-Anforderungen nachkommen (Kapitel IVa, Art. 30e Abs. 3 EHRL). 
+Ein positiver Effekt der Opt- out-Option wäre eine zeitliche Verschiebung des Aufwands zur Anpassung an das 
+neue EU -System. Demnach verbleibt mehr Zeit, sich auf die veränderten Rahmenbedingungen vorzubereiten. 
+Wichtigster Vorteil wäre, dass damit das  deutliche höhere Ambitionsniveau des nEHS g egenüber dem ETS II bis 
+2030 fortgeführt würde (Agora Energiewende/Agora Verkehrswende 2023) . Mit dem Jahr 2031 kann  dann in ein 
+schon über mehrere Jahre erprobtes System eingestiegen werden. Darüber hinaus bleibt man bei der Gestaltung 
+des CO 2-Preises weitgehend unabhängig (sofern sich der Preis über dem EU -Durchschnittspreis befindet) und 
+kann somit eine verbesserte Planungssicherheit auf nationaler Ebene gewährleisten.  
+Für Deutschland ist die Opt-out-Option nicht praktikabel. Sie bezieht sich auf CO2-Steuern und nicht auf Emis-
+sionshandelssysteme, wie es das nEHS mit freier Preisbildung ab 2027 sein soll. Selbst wenn das nEHS das ETS II bis 
+2030 ersetzen könnte ( nationaler CO2-Preis erfüllt die juristischen Voraussetzungen einer CO 2-Steuer bzw. die 
+Auslegung der EHRL ist in der Praxis freier als ihr Wortlaut), müsste ETS II parallel eingeführt werden (bspw. für Be-
+richtspflichten und Anpassung der Menge an ETS II-Zertifikate). Das würde dann einen erheblichen Mehraufwand 
+bedeuten, der wahrscheinlich nicht sinnvoll ist. Zudem müsste der nationale CO2-Preis über dem Niveau des ETS II 
+liegen. Ein deutscher Opt-out wäre auch ein negatives Signal an die anderen Mitgliedstaaten. Die Gesetzgebungs-
+historie der EU deutet aber an, dass Deutschland auch kein Interesse an der Fortführung des nEHS hat (Agora Ener-
+giewende/Agora Verkehrswende 2023).  
+1.2.2 Nationale Mechanismen zur Preisstabilisierung 
+Wie in Abschnitt 1.1.3 dargestellt wurde, gehen die Abschätzungen zum zukünftigen N iveau des CO2-Preises sehr 
+weit auseinander. Sie hängen von vielen Faktoren ab – insbesondere von der tatsächlichen Lenkungswirkung des 
+CO2-Preises und den damit verbundenen Entscheidungen für klimafreundliche Investitionen oder Verhaltenswei-
+sen und dem Zusammenspiel im Instrumentenmix, also der Ambition und Wirksamkeit weiterer politischer Klima-
+schutzmaßnahmen in den Bereichen Wärme und Verkehr. Der bisherige Trend der Emissionsentwicklung im 
+Vergleich zum Cap des ETS II deutet ohne Berücksichtigung der möglichen Lenkungswirkung auf eine große 
+Knappheit von Zertifikaten und damit verbunden höheren Preisen hin (siehe auch Abschnitt 1.1.2 für eine detail-
+lierte Darstellung und Quantifizierung).  
+Damit besteht eine gewisse politische Unsicherheit in Bezug auf das ETS II: Angenommen der CO2-Preis steigt stark 
+an. Gleichzeitig fehlt den Akteur*innen kurzfristig die Möglichkeit, auf klimafreundliche Alternativen auszuweichen 
+(bspw. aufgrund von langlebigen Kapitalstöcken, begrenztem Kapitalzugang, Unsicherheiten über die weitere 
+Preisentwicklung, Mieter-Vermieter-Dilemma oder weiteren Hemmnissen ). Dann steigt die Belastung durch den 
+CO2-Preis. Infolge kann die Akzeptanz für das Instrument schwinden. Dadurch entsteh ender politischer Druck in 
+einzelnen Mitgliedstaaten kann wiederum auf EU-Ebene auf Reformen hinwirken, die se Belastung zu reduzieren, 
+indem zum Beispiel das Preisniveau abgeschwächt wird. Es bleibt also unsicher, wie ein EU-weiter hoher Preis poli-
+tisch durchgehalten werden kann. Gleichzeitig hat die Emissionsentwicklung der ETS II- Sektoren eine n erhebli-
+chen Einfluss für das Erreichen der Emissionsziele im deutschen Klimaschutzgesetz (KSG) und unter der ESR.  
+Aufgrund dieser politischen  Unsicherheit spielt Transparenz , Planbarkeit und Kommunikation eine essenzielle 
+Rolle. Daher sollten verschiedene Instrumente für die Stabilisierung des Preisniveaus in Deutschland diskutiert und 
+gegebenenfalls noch vor Einführung des ETS II eingerichtet werden.  
+Im Folgenden werden zwei nationale Handlungsmöglichkeiten zur Stabilisierung des Preisniveaus vorgestellt und 
+empfohlen:  
+1. Eine Anhebung des nationalen CO2-Preispfads zur Vorbereitung auf das ETS II  
+2. Ein nationaler Mindestpreis zur Absicherung des Preisniveaus  
+ 
+Derartige Maßnahmen tragen dazu bei, dass (höhere) Klimaschutzinvestitionen frühzeitig geplant und umgesetzt 
+werden. Daraus folgt wiederum , dass bei  Einführung des ETS II ein geringerer Preisdruck herrscht, da
+
+--- PDF SEITE 17 ---
+Umsetzung ETS II in Deutschland  •  Seite 17 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Treibhausgasemissionen früher verringert werden. Damit würde sowohl das Risiko von Preissprüngen verringert als 
+auch eine positive Klimawirkung erzielt. 
+Abschließend diskutieren wir  das Zusammenspiel des CO2-Preises mit anderen Energiepreiskomponenten in 
+Deutschland (wie auch in anderen Mitgliedstaaten) . Es soll an dieser Stelle betont werden, dass effektiver Kli-
+maschutz, der über den CO2-Preis hinausgeht, zentral ist für ein stabiles und gesellschaftsverträgliches CO2-
+Preisniveau. Es gilt: Je effektiver der Klimaschutz, desto niedriger wird auch das CO 2-Preisniveau ausfallen. Aus 
+diesem Grund kann und soll te die Preisstabilisierung auch durch Instrumente, die nicht direkt im Zusammenhang 
+mit dem Emissionshandel stehen, verfolgt werden. 
+ 
+Anhebung des nationalen CO2-Preispfads zur Vorbereitung auf das ETS II   
+Für mehr Preisstabilität bei der Einführung des ETS II wird vorgeschlagen, den nationalen nEHS-Preis über den vor-
+gegebenen Preispfad stärker in den Jahren bis 2027 ansteigen zu lassen, als dies bisher geplant ist (Agora Energie-
+wende/Agora Verkehrswende 2023).6 Dadurch kann ein starker Preissprung für die im ETS II enthaltenen Sektoren 
+vermieden werden, falls der CO2-Preis bei Einführung im Jahr 2027 deutlich über de m bisher geplanten  nEHS-
+Preiskorridor im Jahr 2026 liegen sollte.7  
+Zuletzt hat sich im Zuge der Energiepreiskrise infolge des russischen Angriffskriegs auf die Ukraine gezeigt, dass ein 
+unerwarteter sprunghafter Anstieg der Energiepreise in Deutschland zu verschiedenen politischen Eingriffen ge-
+führt hat (siehe hierzu auch Textbox 2 ). So wurde die CO2-Preiserhöhung gemäß Preispfad des nEHS um ein Jahr 
+nach hinten verschoben. Der sogenannte Tankrabatt – eine temporäre Energiesteuersenkung auf Diesel und Ben-
+zin – wurde eingeführt. Die Entfernungspauschale wurde temporär  erhöht.8 Ebenso wurde der Spitzenausgleich  – 
+eine Energie- und Stromsteuerentlastung für energieintensive Unternehmen des produzierenden Gewerbes – ver-
+längert. Aufgrund der stark erhöhten Gaspreise wurde schließlich eine Senkung der Umsatzsteuer auf Gas sowie 
+eine Strom- und Gaspreisbremse, die eine Preisbegrenzung auf 80 % des Verbrauchs bei Haushalten bewirkt, ein-
+geführt (für Details, siehe bspw. Öko -Institut/FÖS 2022; FÖS 2022) . Die Strom- und Gaspreisbremse lief Ende 
+2023 aus.9 
+Da die Preissprünge unerwartet und extrem waren, waren zumindest einige politische Eingriffe aus sozial- und wirt-
+schaftspolitischer Sicht in diesem Zusammenhang notwendig. Inwiefern die Maßnahmen zielgenau waren und den 
+Klimazielen (auf eine gegebenenfalls vermeidbare Art und Weise)  entgegenliefen, ist Gegenstand der aktue llen 
+Debatte (siehe bspw. FÖS 2023a) . Auch wenn ein solcher Anstieg der Energiepreise nicht mit einem ökonomisch 
+gewünschten Preisa nstieg fossiler Energieträger zur Erreichung der Klimaschutzziele verglichen werden kann, 
+zeigt die Erfahrung : Ein sprunghafter Preisanstieg kann zu kurzfristig hohen Belastungen mit starken Vertei-
+lungswirkungen (bspw. verstärkte Energiearmutsgefährdung) und damit verbundenen Sorgen in der Bevölke-
+rung führen.  
+Eine frühzeitigere Anhebung des nationalen CO 2-Preispfads kann die Gefahr eines sprunghaften Anstiegs der 
+Energiepreise verringern und bietet ein planbares Preissignal. Gleichzeitig würde der höhere nationale Preispfad 
+einen positiven Beitrag zur Erreichung der Klimaziele in Deutschland leisten und zusätzliche Mittel für begleitende 
+Maßnahmen, wie für die Entlastung und Unterstützung des Wechsels auf CO2-neutrale Technologien und sozialen 
+Ausgleich generieren. Maßnahmen für sozialen Ausgleich, wie bspw. ein Klimageld, sollten bei der Anhebung des 
+Preispfads mitgedacht werden und deren Ausgestaltung und geplante Einführung entsprechend angepasst wer-
+den.  
+ 
+ 
+ 
+6  Auch wenn der Preispfad durch die Haushaltseinigung für das Jahr 2024 mittlerweile auf 45 Euro in 2024 und 55 Euro in 
+2025 erhöht wurde (Deutscher Bundestag 2024), bezieht sich der Vorschlag von Agora konkret noch auf die vorige Re-
+gelung: 60 anstatt 35 Euro/t im Jahr 2024, 90 anstatt 45 Euro/t in 2025 und 120 anstatt innerhalb eines bindenden Kor-
+ridors von 55 bis 65 Euro/t in 2026. Agora schlägt ergänzend vor, die Handelsphase um ein Jahr vorzuziehen. Konkret: 
+2025 mit bindendem Preiskorridor von 60 bis 80 Euro/t, 2026 von 90 bis 110 Euro/t.  
+7  Auch im Rahmen der nEHS ist ab 2027 eine freie Preisbildung über den Markt geplant (siehe Tabelle 1). 
+8  Ab dem 21. km des einfachen Arbeitswegs 38 statt 35 ct/km zwischen 2022 und 2026 (§ 9 Abs. 4 Energiesteuergesetz 
+(EStG)). Zusätzlich können Menschen mit einem geringen Einkommen, das unterhalb des Freibetrags der Einkommens-
+teuer liegt, eine sogenannte Mobilitätsprämie in Höhe von 14 % der Entfernungspauschale beantragen (wird ausbezahlt, 
+§ 101 EStG). 
+9  Siehe bspw. https://www.tagesschau.de/inland/innenpolitik/lindner-strom-gaspreisbremse-100.html.
+
+--- PDF SEITE 18 ---
+Umsetzung ETS II in Deutschland  •  Seite 18 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Nationaler Mindestpreis zur Absicherung des Preisniveaus  
+Relativ hohe CO 2-Preise könnten, wie zuvor beschrieben, aufgrund von politischem Druck in einzelnen Mitglied-
+staaten durch ad hoc-Eingriffe auf EU-Ebene abgeschwächt werden. Als Reaktion darauf kann es sinnvoll sein, ein 
+ausreichendes Preissignal sicherzustellen und  das Niveau des CO2-Preises von unten her zu begrenzen. Eine Op-
+tion dafür  ist die zusätzliche Einführung eines nationalen Mindestpreises. In diesem Fall würde der CO2-Preis in 
+Deutschland auf einem Niveau gehalten, mit dem die (nationalen) Klimaziele in Verbindung mit weiteren dafür not-
+wendigen Maßnahmen dennoch erreicht werden könnten. Das bedeutet, dass bei einem CO2-Preis im ETS, der un-
+ter dem festgelegten Mindestpreis liegt, ein nationaler Preisaufschlag erfolgt. Wenn der EU -weite Preis über der 
+nationalen Grenze liegt, dann entfällt dieser. Gleichzeitig wären die Mittel im Gegensatz zu den Erlösen aus dem 
+ETS II nicht zweckgebunden (siehe Abschnitt 2 für eine ausführliche Darstellung der aktuellen und möglichen Mit-
+telverwendung). 
+Eine Möglichkeit der Umsetzung des Mindestpreises ist ein sogenannter  Carbon Price Support (CPS), wie er im 
+Vereinigten Königreich eingeführt wurde. Der CPS ist eine CO 2-Steuer, die die Preise der Emissionszertifikate auf 
+den von der britischen Regierung vorgesehenen Wert anheb t (siehe z. B. FÖS/Klinski 2018) . In Deutschland wäre  
+konkret eine Implementierung über die nationale Energiesteuer mit Hilfe eines CO 2-Aufschlags möglich . Dieser 
+wird jährlich anhand der Differenz zwischen de m nationalen Mindestpreis und de n Markterwartungen über die 
+Höhe des ETS II-CO2-Preises (bspw. über Futures10) neu festgelegt. Als Beispiel dient §11 Abs. 2 Luftverkehrsteuer-
+gesetz (LuftVStG) mit einer jährlichen Nachversteuerung der Steuersätze durch Rechtsverordnungen. Wenn zum 
+Beispiel der CO2-Preis bei 40 Euro/t im ETS II liegt, erfolgt ein nationaler Preisaufschlag um 10 Euro/t, um den Min-
+destpreis von 50 Euro /t zu erreichen  (für eine ausführliche Diskussion von Mindestpreisen auf nationaler Ebene, 
+siehe bspw. Öko-Institut 2021a; oder auch FÖS 2014).11  
+Wie hoch der CO2-Mindestpreis sein sollte, hängt auch grundlegend davon ab, welche Ziele damit verfolgt werden 
+sollen: die deutschen beziehungsweise europäischen Klimaziele einhalten oder eine „faire“ Verteilungswirkung der 
+Belastungen erreichen. Agora Energiewende beispielsweise  schlägt einen Mindestpreis von 120 Euro /t im Jahr 
+2027 vor, der sich bei projizierter Überschreitung der ESR-Gesamtemissionsmenge um weitere zehn Euro pro Jahr 
+erhöht (für Details, siehe Agora Energiewende/Agora Verkehrswende 2023) . Das FÖS (2021) fordert in einem Pa-
+pier zum Preisniveau des nEHS  ein noch höhere s Preisniveau: Um zukünftige Klimaschadenskosten zu decken, 
+wäre demnach 2027 ein Preis von ca. 150 Euro/t CO2 notwendig, der sich bis zum Jahr 2030 linear auf 215 Euro/t 
+im erhöht. Neuere Erkenntnisse des Umweltbundesamts  (2020) zu den Klimaschadenskosten legen sogar einen 
+Preis von 241 Euro/t CO2 im Jahr 2030 nahe.  
+Deutschland könnte durch die Einführung eines eigenen nationalen Mindestpreises eine Vorbildfunktion für an-
+dere Mitgliedstaaten einnehmen, die mit eigenen Mindestpreisen folgen könnten. Dies würde den Fortschritt beim 
+Klimaschutz EU-weit potentiell beschleunigen (z. B. Öko-Institut 2021a). Wenn in der Folge der ETS II-Preis nied-
+riger ausfällt,  könnten dadurch auch wirtschaftlich weniger starke  Mitgliedstaaten mit entsprechend geringeren 
+ESR-Zielen entlastet werden.  Darüber hinaus kann eine gewisse Planungssicherheit bezüglich des Preisniveaus 
+hergestellt werden – zumindest am unteren Rand . Dies ist auch für Investitionsentscheidungen in emissionsarme 
+beziehungsweise -freie Technologien relevant, die sich meist ohne erwarteten ambitionierten CO2-Preis aus rein 
+betriebswirtschaftlicher Sicht noch nicht lohnen ( bspw. E-Lkw oder Wärmepumpen – für eine Diskussion in Bezug 
+auf das ETS I, siehe bspw. FÖS 2014).   
+Schließlich würde ein Mindestpreis die geringeren ETS II- Einnahmen infolge eines niedrigen europäischen CO 2-
+Preisniveaus zumindest teilweise ausgleichen. Damit wäre  auch die Finanzierung weiterer Maßnahmen für die 
+Transformation planbarer. 
+Aufgrund der in diesem Abschnitt dargelegten Argumente empfehlen wi r die Einführung eines nationalen 
+Mindestpreises in Deutschland.  Die genaue Höhe und Ausgestaltung des Mindestpreises muss noch erarbeitet 
+werden und hängt auch von der verfolgten Zielsetzung ab.  
+ 
+ 
+10  Sogenannte Futures sind Termingeschäfte. Dabei verpflichten sich Käufer*innen dazu, einen Basiswert –  wie bspw. ein 
+CO2-Zertifikat –  zu einem bestimmten Zeitpunkt für einen festgelegten Preis zu kaufen (analog für Verkäufer*innen, 
+siehe bspw. https://boersenlexikon.faz.net/definition/futures/). Damit können Marktschwankungen abgesichert wer-
+den. Gleichzeitig spiegeln sich darin Preiserwartungen der Marktteilnehmer*innen. 
+11  Zu beachten ist allerdings, dass zu dieser Variante leichte verfassungsrechtliche Bedenken existieren. Das liegt daran, 
+dass die CO2-Emissionen selbst nicht Gegenstand der Besteuerung sind, sondern nur ein Teil der Bemessungsgrund-
+lage wären. Dem entgegen stehen aber auch einige Meinungen, die keine verfassungsrechtlichen Probleme bei der Um-
+setzung sehen (für Details, siehe bspw. Klinski/Keimeyer 2019).
+
+--- PDF SEITE 19 ---
+Umsetzung ETS II in Deutschland  •  Seite 19 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+ 
+Zusammenspiel des CO2-Preises mit anderen Energiepreiskomponenten  
+Die Preise für Heiz - und Kraftstoffe enthalten bereits heute in einigen  EU-Mitgliedstaaten neben den nationalen 
+Energiesteuern nationale CO2-Preise12, etwa in Deutschland, Schweden oder seit 2022 auch Österreich.  Die Aus-
+gestaltung der Instrumente ist Sache der Mitgliedstaaten, abgesehen von einem relativ geringen EU-Mindestsatz 
+für Energiesteuern, der 2003 im Rahmen der Energiesteuer -Richtlinie eingeführt wurde. So überrascht es nicht, 
+dass sich sowohl die Regelungen als auch die Steuerniveaus der verschiedenen Energieträger mitunter stark unter-
+scheiden (siehe Abbildung 3 für einen Vergleich der Energiesteuern und CO 2-Preise für Diesel und Heizöl, umge-
+rechnet in Euro/t CO 2). Teilweise gelten bereits heute hohe CO 2-Preise (bspw. Schweden). Zudem wird deutlich, 
+dass die Energiesteuern in den meisten Fällen, jenseits von Schweden, bisher einen größeren Einfluss auf die Ener-
+giepreise haben als die CO2-Preise.  
+Abbildung 3: Nationale Energie - und CO2-Preise (Euro/t CO2) für Diesel (Verkehr  - oben) und Heiz öl 
+(Gebäude - unten) in der EU, 2021 
+ 
+ 
+Quelle: FEST und FÖS (2022). 
+Anmerkung: In Österreich wurde im Jahr 2022 ein nationaler  CO2-Preis eingeführt . Aktuell  liegt dieser bei 35  Euro/t CO 2 (siehe bspw. 
+https://www.bmk.gv.at/themen/klima_umwelt/klimabonus/oekosoziale- steuerreform.html). 
+Der Ausgestaltungsspielraum und die großen Unterschiede  der nationalen Energie- und CO2-Steuern sollten im 
+Vorfeld der Einführung des ETS II berücksichtigt werden. So stellt sich auch in anderen Ländern genau wie in 
+Deutschland die Frage, inwiefern die nationalen CO 2-Bepreisungsysteme mit Einführung des ETS II angepasst 
+ 
+ 
+12  Hiermit sind auch fixe CO2-Komponenten von Steuern, wie der Energiesteuer, sowie fixe CO2-Preise, wie momentan in 
+Deutschland im Rahmen der nEHS, gemeint. Diese könnten auch als CO2-Steuer bezeichnet werden. 
+0
+50
+100
+150
+200
+250
+300
+Belgien
+Bulgarien
+Dänemark
+Deutschland
+Estland
+Finnland
+Frankreich
+Griechenland
+Irland
+Italien
+Kroatien
+Lettland
+Litauen
+Luxemburg
+Malta
+Niederlande
+Österreich
+Polen
+Portugal
+Rumänien
+Schweden
+Slowakei
+Slowenien
+Spanien
+Tschechien
+Ungarn
+Zypern
+Euro/tCO2
+implizit (Energiesteuer) explizit (CO₂-Preis)
+0
+50
+100
+150
+200
+250
+Belgien
+Bulgarien
+Dänemark
+Deutschland
+Estland
+Finnland
+Frankreich
+Griechenland
+Irland
+Italien
+Kroatien
+Lettland
+Litauen
+Luxemburg
+Malta
+Niederlande
+Österreich
+Polen
+Portugal
+Rumänien
+Schweden
+Slowakei
+Slowenien
+Spanien
+Tschechien
+Ungarn
+Zypern
+Euro/tCO2
+
+--- PDF SEITE 20 ---
+Umsetzung ETS II in Deutschland  •  Seite 20 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+werden sollen (siehe auch Abschnitt 1.2.1 für Details der Regelung). Dabei ist grundsätzlich denkbar, dass die einzel-
+nen Besteuerungselemente auch flexibel in Reaktion auf das europäische CO2-Preisniveau angepasst werden. Ein 
+negatives Beispiel gibt es bereits in Deutschland: Das Bundesfinanzministerium (BMF) senkte regelmäßig die Luft-
+verkehrsteuer13 in Reaktion auf steigende Einnahmen aus de m Einbezug des Luftverkehrs im ETS I (siehe zuletzt 
+Luftverkehrsteuer-Absenkungsverordnung 2023)14 – auch wenn dies laut Bundesrechnungshof (2023)  nicht nur 
+zu Mindereinnahmen in Millionenhöhe führt, sondern auch die Klimaziele konterkariert und demnach unterlassen 
+werden sollte.  
+Einzelne Mitgliedstaaten könnten mit Steuersenkungen auf einen hohen CO 2-Preis des ETS II reagieren, um den 
+Preisdruck auf die Gesamtkosten des Energieverbrauchs abzufedern. Dadurch wird dessen ökologische Lenkungs-
+wirkung in diesen Mitgliedstaaten reduziert, obwohl es für die Abfederung sozialer Härten und die Unterstützung 
+der Transformation zielgerichtetere Maßnahmen gibt (siehe Abschnitt 2 – insbesondere 2.5). Dabei sollte beachtet 
+werden, dass die Einführung des ETS II vor allem in wirtschaftlich schwächeren  EU-Mitgliedstaaten zu einem star-
+ken Anstieg des dortigen Preisniveaus führen kann (für Details, siehe bspw. Adelphi u. a. 2023). Beispiele dafür sind 
+Bulgarien oder Rumänien. Dort sind die Energiesteuersätze auf Heizstoffe trotz des geringen Einkommensniveaus 
+vergleichsweise hoch, wie Abbildung 3 für Heizöl zeigt (siehe auch FEST/FÖS 2022).  
+Bereits seit zwei Jahren werden Verhandlungen innerhalb der EU geführt, die darauf abzielen, den bereits vorhan-
+denen EU-Mindestsatz für Energiesteuern anzuheben. Die Änderung bedarf jedoch der Einstimmigkeit. Insbeson-
+dere seit der Energiepreiskrise  sehen viele Mitgliedstaaten eine Steuererhöhung kritisch. Die Verhandlungen sto-
+cken weiterhin (EURACTIV 2023).  
+  
+ 
+ 
+13  Diese wird für jeden Fluggast in Abhängigkeit der Flugdistanz bei den Fluggesellschaften erhoben.  
+14  Der beschriebene Absenkungsmechanismus der Luftverkehrsabgabe soll nach aktuellem Stand infolge des BVerfGE-
+Urteils zum KTF  von den ETS I-Einnahmen entkoppelt werden. Die Einnahmen sollen jedoch weiterhin gedeckelt blei-
+ben – wenn auch mit erhöhter Deckelung – womit der Absenkungsmechanismus bestehen bleibt (siehe bspw. 
+https://www.bundesregierung.de/breg-de/suche/zum-haushalt-2024-2250336).
+
+--- PDF SEITE 21 ---
+Umsetzung ETS II in Deutschland  •  Seite 21 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+2 Mittelverwendung 
+Im Jahr 2026 und damit ein Jah r vor Einführung des ETS II wird ein Klima-Sozialfonds eingerichtet. Der Fonds soll 
+Belastungen für besonders g etroffene Gruppen abfedern. Mit dem Fonds sollen die Verteilungswirkungen der 
+CO2-Bepreisung gemindert und explizit vulnerable Haushalte, Kleinstunternehmen und Verkehrsnutzer*innen un-
+terstützt werden. Für die Nutzung der Mittel gibt es für die Mitgliedstaaten eine Begrenzung des maximal abrufba-
+ren Budgets, Vorgaben zur Um setzung und zur K o-Finanzierung, sowie eine Liste der förderfähi gen Maßnahmen. 
+Die konkreten Regelungen sollen in diesem zweiten Teil der Studie näher beleuchtet werden. Dabei stellt sich ins-
+besondere die Frage nach dem Zusammenspiel der Einnahmenverwendung mit bestehenden Programmen in 
+Deutschland (z.B. im Rahmen des KTF ) und dem diskutierten  beziehungsweise im aktuellen Koalitionsvertrag  
+(Bundesregierung 2021) angekündigten Klimageld. Da die aus dem Klima-Sozialfonds bereitgestellte Finanzierung 
+für Deutschland begrenzt ist, soll sich die Analyse auf die gesamten ETS II-bezogenen Einnahmen erstrecken. 
+2.1 Aufkommen im Rahmen des ETS II  
+Das Aufkommen aus der Versteigerung der insgesamt rund 5,3 Mrd. Zertifikate wird grundsätzlich auf zwei Kanäle 
+verteilt:  
+1. Der Klima-Sozialfonds, der über den m ehrjährigen Finanzrahmen des EU -Haushalts organisiert und abgewi-
+ckelt wird, hat im Zeitraum 2026 bis 2032 ein maximales Budget von 65 Mrd. Euro15 (Art. 10. Abs. 1 der EU-Ver-
+ordnung 2023/955). 
+2. Die restlichen Einnahmen stehen den Mitgliedstaaten in Form von nationalen Auktionseinnahmen zu.  
+ 
+Klima-Sozialfonds 
+Der Klima-Sozialfonds hat zwei „Einnahmequellen“:  
+1. Im Jahr 2026 speist er sich zunächst aus dem Verkauf von 50 Mio. Zertifikaten aus dem ETS I beziehungsweise 
+einem Maximalbetrag von 4 Mrd. Euro (Art. 10a Abs. 8b und Art. 30d Abs. 4 EHRL). Dies ermöglicht den Beginn 
+von Begleitmaßnahmen aus dem Fonds noch vor Start der Bepreisung im ETS II.16 
+2. Im Zeitraum 2026 bis 2032 sollen insgesamt 65 Mrd. Euro aus dem ETS II in den KSF fließen (Art. 30d Abs. 3 und 
+4 EHRL). Sollte der Start des ETS II auf das Jahr 2028 verschoben werden, reduziert sich das Budget auf maximal 
+54,6 Mrd. Euro. Diese Mittel werden aus der Auktion von ETS II- Zertifikaten bereitgestellt. Je nach Zertifikats-
+preis wird dafür ein bestimmter Anteil der Zertifikate im ETS II benötigt. Bei einem Preis von 50 Euro  je Tonne 
+CO2 entspricht der Anteil des KSF 25 % des ETS II Gesamtvolumens. Bei höheren CO2-Preisen bleibt das Volu-
+men für den KSF auf 65 Mrd. Euro fixiert, es steigt nur d as restliche Aufkommen . Damit sinkt der Anteil des 
+Klima-Sozialfonds am gesamten Aufkommen mit steigenden Preisen. B ei einem mittlere n CO2-Preis von 
+100 Euro/t läge der KSF-Anteil nur noch bei 12 % der gesamten Auktionseinnahmen.  
+ 
+Um Zwecke des Klima -Sozialfonds vor allem auch bei höheren CO 2-Preisen zu erfüllen, ist ein stabiler Anteil der 
+Einnahmen essenziell. Der Klima-Sozialfonds sollte daher auch  über das geplante Volumen von 65 Mrd. Euro 
+steigen können und durchgehend mindestens 25  % der Gesamteinnahmen betragen. Die Zuständigkeit einer 
+solchen Anpassung liegt allerdings bei der EU und ist keine nationale Ausgestaltungsfrage. 
+Aus dem KSF stehen den einzelnen Mitgliedstaaten maximal abrufbare Anteile zu, die anhand eines Verteilungs-
+schlüssels auf Grundlage verschiedener Faktoren festgelegt sind. Unter anderem ist hier der Anteil der armutsge-
+fährdeten Bevölkerung, der historische CO2-Ausstoß der Haushalte, die Gesamtbevölkerungsanzahl und auch das 
+jeweilige BIP pro Kopf relevant ( Annex I der EU- Verordnung 2023/955). Die Verteilung der Mittel innerhalb des 
+KSF ist daher auch als Solidaritätsmechanismus zu verstehen, da im Vergleich zu den restlichen Einnahmen  mehr 
+Mittel in Länder fließen, die einen höheren Anteil an stark von der CO2-Bepreisung betroffenen Haushalten haben 
+(Adelphi u. a. 2023; siehe u.a. Öko -Institut u. a. 2022). Deutschland erhält demnach durch den KSF  bis zu 5,3 Mrd. 
+ 
+ 
+15  Hinzu kommt, wie unten beschrieben (siehe auch Abbildung), noch ein nationaler Beitrag von mindestens 25 % der Mit-
+gliedsstaaten. 
+16  Die Menge der Zertifikate, die von den Mitgliedstaaten versteigert werden, hängt also vom CO2-Preis in beiden Syste-
+men ab. Wir nehmen an, dass der ETS I-Preis 80 Euro beträgt, was einem Beitrag zum KSF von 4 Mrd. Euro entspricht.
+
+--- PDF SEITE 22 ---
+Umsetzung ETS II in Deutschland  •  Seite 22 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Euro im Zeitraum 2026 bis 2032 . Dies entspricht 8, 2 % der KSF -Mittel und dem insgesamt fünfthöchsten Wert 
+(nach Polen, Frankreich, Italien und Spanien) (Annex II der EU-Verordnung 2023/955).  
+Die Mittel aus dem KSF sollen für die Umsetzung der nationalen Klima-S ozialpläne verwendet werden ( verschie-
+dene, gegebenenfalls förderfähige Maßnahmen w erden in den folgenden Abschnitten diskutiert). Zusätzlich ist 
+festzuhalten, dass die einzelnen Mitgliedstaaten mindestens 25  % der geschätzten Gesamtkosten der jeweiligen 
+Klima-Sozialpläne beitragen sollen (Art. 15 der EU- Verordnung 2023/955). Zur Finanzierung dieser können auch 
+die restlichen Einnahmen aus dem ETS II verwendet werden, wodurch keine zusätzl ichen nationalen Mittel nötig 
+wären (Art. 30d Abs. 6 (c) EHRL). 
+ 
+Restliche nationale Auktionseinnahmen aus dem ETS II 
+Die restlichen Zertifikate beziehungsweise Einnahmen (außerhalb der KSF-Finanzierung) werden anhand der his-
+torischen Emissionen den jeweiligen Mitgliedstaaten zugeteilt (Art. 30d Abs. 5 EHRL). Sie basieren auf dem Anteil 
+der Mitgliedstaaten an den ETS II-Emissionen in den Jahren 2016 bis 2018. Danach erhält Deutschland einen Anteil 
+von 23,7 %. Der Anteil liegt damit deutlich höher als bei alternativen Zuteilungsoptionen, beispielsweise anhand des 
+Bevölkerungsanteils (16,2 %, siehe Agora Energiewende/Agora Verkehrswende 2023) ). Die beschriebenen Rege-
+lungen zur Verteilung der Einnahmen sind in der untenstehenden Abbildung 4 zusammenfassend dargestellt. 
+Abbildung 4: Übersicht über Mittelverwendung bei einem CO2-Preis von 50 Euro/t 
+ 
+Quelle : Eigene Berechnung und Darstellung in Anlehnung  an Öko-Institut u.a. (2022). 
+Anmerkung : * Mittel für 2026 ergeben sich aus dem Verkauf von 50 Mio. Zertifikaten aus dem ETS I  bzw. einem Maximalbetrag von 4 Mrd. Euro. 
+ 
+Tabelle 3 vergleicht die ETS II-Auktionseinnahmen für Deutschland bei verschiedenen CO2-Preisen. Aus dem KSF 
+erhält Deutschland – gegeben der aktuellen Regelung – unabhängig vom Preisniveau 5,3 Mrd. Euro für den gesam-
+ten Zeitraum 2026  bis 2032 für den Fall, dass das ETS II im Jahr 2027 startet. Im Falle eines CO 2-Preises von 50 
+Euro/tCO2 stehen Deutschland im Zeitraum 2027  bis 2032 zusätzlich 48,5  Mrd. Euro Einnahmen aus der Auktio-
+nierung von Zertifikaten zu. Bei 100 Euro/tCO2 sind dies insgesamt 111,4 Mrd. Euro und bei 200 Euro/tCO 2 237,3 
+Mrd. Euro im selben Zeitraum. Die Ko -Finanzierung für KSF -Maßnahmen beträgt – falls der volle Betrag von 5,3 
+Mrd. Euro genutzt wird – mindestens 1,8 Mrd. Euro im Zeitraum 2027 bis 2032, das entspricht 25 %. 
+Tabelle 3: KSF und ETS II-Auktionseinnahmen für Deutschland (Milliarden Euro) 2027-2032 
+Mittel aus dem KSF  
+(ETS II-Start im Jahr 
+2027) 
+ETS II-Auktionseinnahmen 
+Ko-Finanzierung 
+KSF 50 Euro/tCO2 100 Euro/tCO2 200 Euro/tCO2 
+5,3 48,5 111,4 237,3 1,8 
+Quelle: Eigene Berechnungen, Öko-Institut.
+
+--- PDF SEITE 23 ---
+Umsetzung ETS II in Deutschland  •  Seite 23 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+2.2 Übersicht über die Vorgaben zur Mittelverwendung 
+Bezogen auf den  Klima-Sozialfonds existieren klare Vorgaben zur Mittelverwendung. Zunächst sind die Mitglied-
+staaten dazu aufgefordert, sogenannte Klima-Sozialpläne für die Verwendung der KSF-Mittel zu entwerfen. Diese 
+sollen ein zusammenhängendes Bündel aus existierenden und neuen nationalen Maßnahmen ( insb. auch Investi-
+tionen) beinhalten, die bezahlbares Heizen und Kühlen sowie bezahlbare Mobilität ermöglichen. Gleichzeitig müs-
+sen sie auch die Erreichung der EU -Klimaziele unterstützen beziehungsweise beschleunigen (Art. 4 der EU-Ver-
+ordnung 2023/955). Sie werden nach Entwurf durch die Mitgliedstaaten  von der EU- Kommission beurteilt. Die 
+Frist für das Einreichen der Entwürfe ist der 30. Juni 2025 (siehe (17) der EU-Verordnung 2023/955). 
+In diesem Zusammenhang müssen  Mitgliedstaaten die über den KSF  zu finanzierenden Maßnahmen, deren vo-
+raussichtliche Kosten, Meilensteine und Ziele darlegen (Art. 6 der EU-Verordnung 2023/955). Im Fall einer Geneh-
+migung kann der KSF  bis zu 75  % der gesamten K lima-Sozialplan-Kosten finanzieren (Art. 15 der EU- Verordnung 
+2023/955). Der Rest wird aus den nationalen Haushalten der Mitgliedstaaten  bestritten ( kann aber auch aus den 
+nationalen Auktionseinnahmen aus dem ETS II finanziert werden, siehe Abschnitt 2.1). Die durch den KSF finanzier-
+ten Maßnahmen sollen dabei vor allem auf die Entlastung von vulnerablen Haushalten, Kleinstunternehmen und 
+Verkehrsteilnehmer*innen abzielen. Verwendungsmöglichkeiten sind in der folgenden Textbox 3 dargestellt. Im 
+Rahmen von Artikel 6(4) der KSF -Verordnung (EU -Verordnung 2023/955) ist die Kommission verpflichtet, d en 
+Mitgliedstaaten einen Leitfaden in Bezug auf die förderfähigen Maßnahmen und existierende „Good Practice“ zur 
+Verfügung zu stellen. Darin sollte auch noch konkreterer ausbuchstabiert  sein, welche Maßnahmen förderfähig 
+sind. Dieser Leitfaden wird für das Jahr 2024  erwartet und soll auch Hinweise für die Durchführung des Beteili-
+gungsprozesses enthalten (Art. 5(4) EU-Verordnung 2023/955). 
+Textbox 3: Übersicht über KSF-Vorgaben zur Mittelverwendung 
+ Unterstützung von Gebäuderenovierungen insb. bei vulnerablen Gruppen, die in Häusern wohnen, die be-
+züglich Energieeffizienz schlecht abschneiden 
+ Unterstützung bei der Bereitstellung von energieeffizientem Wohnraum (inkl. Sozialwohnprojekte) 
+ Beitrag zur Dekarbonisierung – zum Beispiel Elektrifizierung, Zugang zu energieeffizienten und erschwingli-
+chen Systemen, Integration von Erzeugung und Speicherung erneuerbarer Energien (u.a. auch Energiege-
+meinschaften), Maßnahmen zur Verringerung von Energiearmut 
+ Informationsmaßnahmen bezüglich kosteneffizienter Maßnahmen und Investitionen, Gebäuderenovierun-
+gen, energieeffizienter Lösungen oder Finanzierungsinstrumenten 
+ Unterstützung privater und öffentlicher Unternehmen  (bspw. Anbieter*innen von Sozialwohnungen oder öf-
+fentlich-private Genossenschaften) bei der Bereitstellung energieeffizienter Lösungen (im Zusammenhang 
+mit den sozialen Zielen des Plans) 
+ Ermöglichung des Zugangs zu emissionsfreien und -armen Fahrzeugen und Fahrrädern (technische Neut-
+ralität) inkl. finanzieller Anreize, öffentlicher und privater Infrastruktur, Lade- /Tankinfrastruktur oder 
+Gebrauchtmarkt für emissionsfreie/ -arme Fahrzeuge 
+ Anreize zur Nutzung von leistbaren und zugänglichen öffentlichen Verkehrsmitteln , inkl. nachhaltiger Mo-
+bilität auf Abruf, geteilter Mobilität und aktiver Mobilität 
+ Direkte Einkommensbeihilfen (nur vorübergehend zum Gesamtanteil von 37,5 % der Gesamtkosten) 
+ Verwaltungs- und Schulungskosten des Plans (maximal 2,5 % der Kosten) 
+Darüber hinaus existieren weitere Kriterien für die Förderfähigkeit von Maßnahmen.17 
+Quelle : Eigene Darstellung anhand der Angaben in Art. 8 der EU -Verordnung 2023/955. 
+ 
+ 
+17  Darunter zur Ko-Finanzierung (gewisse Maßnahmen aus dem KSF können auch zeitgleich von anderen EU-Fonds fi-
+nanziert werden, siehe Art. 13 der EU-Verordnung 2023/955), zu Umweltzielen (bei der Bewertung der Klima-Sozial-
+pläne durch die Kommission fällt u.a. auch die Eignung des Planes, keine Umweltziele erheblich zu beeinträchtigen, ins 
+Gewicht: „Do No Significant Harm“, DNSH-Prinzip, siehe Art. 16 Abs. 3a ii der EU-Verordnung 2023/955), zur Wirksam-
+keit (anhaltende Wirkung des Plans bezüglich der darin enthaltenen Herausforderungen bzw. die Vereinbarkeit mit an-
+deren EU-Richtlinien und Verordnungen wie bspw. zur Energieeffizienz oder die Komplementarität, Synergien, Kohä-
+renz und Einheitlichkeit der Pläne, siehe Art. 16 Abs. 3b der EU-Verordnung 2023/955) oder zur Effizienz (Beurteilung 
+der Kosteneffizienz, Verhinderung von Korruption, Betrug und Interessenskonflikten bzw. Doppelfinanzierungen sowie 
+die die Effizienz der Etappenziele, siehe Art. 16 Abs. 3 der EU-Verordnung 2023/955).
+
+--- PDF SEITE 24 ---
+Umsetzung ETS II in Deutschland  •  Seite 24 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Zusammenfassend gibt es also recht  klare Vorgaben zum Rahmen. Allerdings müssen die Mitgliedstaaten selbst 
+erarbeiten, welche Indikatoren und Daten sie für die Bestimmung von Energie - und Mobilitätsarmut sowie Vulne-
+rabilität anwenden wollen. Gleiches gilt für die einzelnen Instrumente und Maßnahmen im gewählten Bündel. Und 
+auch für deren genaue Ausgestaltung und die Sicherstellung , dass diese Maßnahmen die betroffenen Haushalte 
+und Kleinstunternehmen erreichen  (Adelphi u. a. 2023). Gleiches gilt für die Auslegung des DNSH -Prinzips. Dazu 
+soll es im Jahr 2024 auch eine Orientierungshilfe  der EU geben (siehe u.a. Art . 6 Abs. 5 der EU- Verordnung 
+2023/955). Eindeutig ist, dass der Fokus  der Verwendung der Mittel aus dem KSF (max. 5,3 Mrd. Euro für 
+Deutschland + 25 % Ko-Finanzierung) auf investiven Maßnahmen für gezielte Gruppen liegen muss. 
+Für die Verwendung der restlichen nationalen ETS II-Einnahmen gelten dieselben Vorgaben wie für die Einnahmen 
+im Rahmen des ETS I. Vorrangig soll eine positive Wirkung beziehungsweise ein Beitrag zur Erreichung der EU -
+Klimaziele geleistet werden. Beispielsweise wird hier auf Investitionen  in den Ausbau von erneuerbaren Energien , 
+Wiederaufforstung, CO2-Abscheidungs- und -S peicherungstechnologien (vom Englischen Carbon Capture and 
+Storage bzw. CCS), den Umstieg auf nachhaltige Mobilität, Forschung- und Entwicklungsmaßnahmen, die Steige-
+rung der Energieeffizienz oder auch die Finanzierung von Klimamaßnahmen in vulnerablen Drittländern verwiesen 
+(Art. 10 Abs. 3 EHRL). Allerdings sollen auch in diesem Bereich der Mittelverwe ndung die Wärme- und Verkehrs-
+wende und die Maßnahmen des Klima- Sozialplans priorisiert werden  ( Art. 30d Abs. 6 EHRL). Bei de n Verwen-
+dungszwecken ist in der ETS-Richtlinie der EU auch explizit die Option vorgesehen, nationale Klimadividendensys-
+teme zu finanzieren. Dies ist bei der Diskussion um die Finanzierung des Klimagelds relevant (siehe Abschnitt 2). 
+2.3 Ausgestaltung des Klima -Sozialfonds in Deutschland  
+2.3.1 Zielgruppe: Definition vulnerabler Gruppen  
+Zur Bestimmung und Identifizierung benachteiligter beziehungsweise vulnerabler Gruppen braucht es einerseits 
+eine Definition dieser Gruppen und andererseits geeignete Indikatoren und Daten, um die Größe und Charakteris-
+tika dieser Gruppen zu bestimmen und sie im Rahmen von politischen Instrumenten und Maßnahmen zu identifi-
+zieren. Die Festlegung von Definitionen und die Ermittlung der konkreten Zahl vulnerabler Gruppen liegt grund-
+sätzlich in den Händen der Mitgliedstaaten . Sie müssen eine Schätzung im Rahmen der Nationalen Energie - und 
+Klimapläne und künftig im Klima-Sozialplan nach Art. 6 darlegen. Die Verordnung zum Klima-Sozialfonds verweist 
+dabei auf Indikatoren, die bei Eurostat oder über das Energy Poverty Observatory (EPOV, jetzt: Energy Poverty Ad-
+visory Hub: EPAH) verfügbar sind. Eine Evaluierung soll zwei Jahre nach Beginn der Durchführung der Klima-Sozi-
+alpläne vorgelegt werden und erläutern, wie die Begriffsbestimmungen angewendet wurde n. Fortschrittsberichte 
+mit Schätzungen zu vulnerablen Gruppen werden zusammen mit den nationalen Energie- und Klimaplänen (Nati-
+onal Energy and Climate Plans – NECPs) alle zwei Jahre abge geben. Die NECPs (2023a)  selbst enthalten einen 
+Abschnitt zu Energiearmut, der aber für Deutschland keine Schätzung der betroffenen Haushalte enthält und be-
+züglich der Maßnahmen nur auf Einkommensstützung durch die Sicherungsleistungen des Sozialsystems, auf 
+Preissicherung durch die gegenwärtige Gas - und Strompreisbremse und auf Beratungsleistungen durch das Pro-
+gramm Stromspar-Check
+18 hinweist.  
+Die Verordnung zum Klima-Sozialfonds enthält in Artikel 2 (EU -Verordnung 2023/955) eigene Begriffsbestim-
+mungen für „ Energie- und Mobilitätsarmut“ sowie auch für „benachteiligte  Haushalte/Kleinstunternehmen und 
+Verkehrsnutzer“, die im Bereich Wärme im Wesentlichen den fehlenden Zugang zu essenziellen Dienstleistungen 
+zur Gewährleistung eines angemessenen Lebensstandards anmerken und im Bereich Mobilität, neben dem fehlen-
+den Zugang zu Verkehrsmitteln noch hervorheben, dass Personen oder Haushalte  nicht in der Lage sind oder 
+Schwierigkeiten haben, die Kosten für privaten oder öffentlichen Verkehr zu tragen.  
+Der Begriff der b enachteiligten oder vulnerablen Gruppen ist weiter gefasst und hebt hervor, dass die se Gruppen 
+nicht nur von  Energie- oder Mobilitätsarmut betroffen sind und über wenig Einkommen verfügen, sondern auch 
+stark durch die Preisauswirkungen des ETS II belastet sind und ihnen die Mittel fehlen, in klimafreundliche Techno-
+logien zu investieren oder auf Alternativen umzusteigen.  Mit dieser Begriffsbestimmung stellen sie den Dreiklang 
+der Betroffenheit dar: Niedriges Einkommen/keine Mittel, hohe Belastung durch das ETS II und geringe Energieef-
+fizienz/hohe CO2-Intensität. 
+Vulnerable Gr uppen, Haushalte in Energie- oder Mobilitätsarmut spielen auch an anderen Stellen der EU-Politik 
+eine wichtige Rolle. Dies wird deutlich in der neuen Energy Poverty Recommendation der EU-Kommission (2023c) 
+ 
+ 
+18  Siehe bspw. https://www.stromspar-check.de/
+
+--- PDF SEITE 25 ---
+Umsetzung ETS II in Deutschland  •  Seite 25 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+und dem dazugehörigen Staff Working Document  (2023d), die den Stand der Regelungen und Diskussionen auf 
+EU-Ebene zusammenfassen. In der Energy Poverty Recommendation wird u.a. auf vier Indikatoren zur Bestim-
+mung von energiearmen Haushalten verwiesen.  
+ 2M – Hohe Belastung durch Energieausgaben im Verhältnis zum Einkommen: Prozentsatz der Haushalte, deren 
+Anteil der Energieausgaben am Einkommen mehr als das Doppelte des nationalen medianen Anteils beträgt 
+ M/2 – Geringe absolute Energieausgaben: Anteil der Haushalte, deren absolute  Energieausgaben weniger als 
+die Hälfte des nationalen Medianwerts betragen19 
+ Anteil der Bevölkerung, der nicht in der Lage ist, die Wohnung angemessen warm zu halten 
+ Anteil der Bevölkerung mit Rückständen bei Rechnungen von Versorgungsunternehmen 
+ 
+Keiner der Indikatoren ist allein geeignet, die komplexe Frage der Vulnerabilität gegenüber steigenden CO 2-Prei-
+sen, wie sie  im Klima-Sozialfonds beschrieben ist, zu erfassen. Eine rein e Darstellung der Belastung von Energie-
+ausgaben im Verhältnis zum Einkommen bezieht nicht den Bedarf von Haushalten ein und berücksichtigt keine 
+strukturellen Faktoren, wie zum Beispiel die Art und den energetischen Zustand des Gebäudes, in dem sie wohnen. 
+Auch berücksichtigt sie nicht, ob Haushalte  ein niedriges Einkommen hab en und durch hohe Ausgaben belastet 
+sind oder ob sie ein höheres Einkommen haben und aufgrund von hohem Verbrauch, beispielsweise aufgrund gro-
+ßer Wohnflächen, hohe Energieverbräuche haben. Öko-Institut u.a. (2022) haben daher einen kombinierten Indi-
+kator hergeleitet, der diese verschiedenen Aspekte miteinander verbindet: Für den Wärmebereich werden Haus-
+halte als vulnerabel in Bezug auf CO 2-Bepreisung angesehen, wenn sie in ineffizienten, fossil beheizten Wohnun-
+gen mit einem Energieverbrauch von mehr als 180 kWh/qm leben, einen hohen Anteil ihrer Gesamtausgaben für 
+Wärme verwenden (mehr als doppelt so viel wie der Median) und in der unteren Einkommenshälfte verortet sind.20  
+In Abbildung 5 werden die beschriebenen Indikatoren für die unter e Einkommenshälfte vergleichend dargestellt. 
+Ergänzt wird die Darstellung durch einen nach Vorgaben der Energieeffizienz -Richtlinie (EED) ermittelten Indika-
+tor, der jedoch nur für die Gesamtheit aller Haushalte ermittelt werden und daher nur in der ganz rechten Säulen-
+gruppe zu sehen ist. Haushalte, die Transferleistungen nach Sozialgesetzbuch beziehen, zum Beispiel Bürgergeld, 
+erhalten Unterstützung für ihre Heizkosten. Eine genaue Berücksichtigung der Anzahl der transferleistungsbezie-
+henden Haushalte in den Energiearmutsindikatoren ist nicht möglich, da die Daten nicht vorliegen. In Abbildung 5 
+ist daher der ungefähre Anteil nur für das Beispiel des 2M -Indikators illustriert. Für die selbstberichteten Indikato-
+ren (Wohnung nicht angemessen warm, Zahlungsverzüge) ist der Anteil der Leistungen beziehenden Haushalte 
+nicht relevant, da es unabhängig von den Leistungen berichtet wird.  
+Der Anteil der von Energiearmut betroffener Haushalte in der unteren Einkommenshälfte in Deutschland liegt ins-
+gesamt zwischen 5  % und 33 % beziehungsweise zwischen 1 und 7,2 Mio. Haushalten . Die ausgaben- und belas-
+tungsorientierten Indikatoren ergeben in der Regel höhere Werte als die Selbsteinschätzungen, die sich jeweils nur 
+auf einen Aspekt von Energiearmut beziehen und damit nicht umfassend sind. Mit Berücksichtigung von Sozialleis-
+tungen liegt der obere Wert entsprechend niedriger, eine überschlägige Abschätzung im Rahmen der Studie ergibt 
+ca. 5,5 Mio. Haushalte unter Berücksichtigung von Transferleistungen. Der in Öko-Institut u.a. (2022) für den Klima-
+Sozialfonds vorgeschlagene Indikator ergibt 3,1 Mio. Haushalte, die mit fossilen Brennstoffen heizen und vulnerabel 
+gegenüber steigenden CO
+2-Preisen sind und liegt damit näher an den belastungs basierten Indikatoren. Bemer-
+kenswert ist, dass Energiearmut nicht nur in den untersten Einkommensgruppen auftritt,  sondern bis in die Mitte 
+der Einkommensverteilung.  
+ 
+ 
+19  Dabei wird durch Äquivalenzgewichtung die Zusammensetzung des Haushalts mitberücksichtigt. 
+20  In diesem Indikator wird die untere Einkommenshälfte berücksichtigt, also unterhalb des Medians, um auch diejenigen 
+zu erfassen, die nicht ganz arm sind, aber trotzdem durch hohe Energiekosten sehr belastet. In anderen Indikatoren, wie 
+z.B. der Armutsgefährdungsgrenze, wird die Einkommensgrenze anders angesetzt. Für die Armutsgefährdungsgrenze 
+werden Haushalte berücksichtigt, die weniger als 60 % des Medians verdienen. Im Armutsgefährdungsindikator geht es 
+dabei tatsächlich nur um Armut und nicht um Vulnerabilität in Bezug auf hohe Energiekosten, die ja wie oben beschrie-
+ben, nicht nur durch Armut, sondern auch durch andere Faktoren wie hohe Energieausgaben und schlechte Energieef-
+fizienz begründet ist.
+
+--- PDF SEITE 26 ---
+Umsetzung ETS II in Deutschland  •  Seite 26 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Abbildung 5: Anteil energiearmer Haushalte in Deutschland (Werte für 2022/23) 
+ 
+Quellen : Berechnungen Öko- Institut auf Basis der  Forschungsdatenzentren der Statistischen Ämter des Bundes und der Länder (FDZ)  (2022) – 
+Einkommens- und Verbrauchsstichprobe 2018 und auf Basis der EU Statistik über Einkommen und Lebensbedingungen (EU  SILC) Datenbank. 
+Anmerkungen : Der Anteil der transferleistungsbeziehenden Haushalte ist nur überschlägig errechnet und nur für den Indikator 2M illustrie rt. * das 
+arithmetische Mittel für den Indikator nach Energieeffizienzrichtlinie bezieht sich auf alle Haushalte in Deutschland nicht n ur auf die Haushalte in 
+den unteren fünf Einkommensdezilen. Dadurch ergibt sich ein höherer absoluter Wert an betroffenen Haushalten (ca. 3,2 Mio. HH). Der Wert wird 
+wie in der EED angegeben für das Jahr 2019 errechnet.  
+ 
+In Bezug auf Mobilitätsarmut gibt es noch keine Konkretisierung auf bestimmte Indikatoren. Auch in den Nationa-
+len Energie - und Klimaplänen musste zu Mobilitätsarmut bisher nicht berichtet werden. Spätestens aber in den 
+Klima-Sozialplänen müssen die Mitgliedstaaten angeben, wie viele Haushalte vulnerabel in Bezug auf CO2-Beprei-
+sung im Mobilitätsbereich sind. Das Problem im Mobilitätsbereich ist deutlich komplexer und vielschichtiger. Ne-
+ben finanzieller Belastung und Bedarf spielt  hier insbesondere auch die Verfügbarkeit und der Zugang zu Mobili-
+tätsangeboten eine wesentliche Rolle. Öko-Institut u.a. (2022) schlagen daher vor, einen kombinierten Indikator zu 
+verwenden, der mindestens das Einkommen, die Belastung durch Ausgaben für fossile Kraftstoffe und die nötigen 
+Distanzen, die zurückgelegt werden müssen, berücksichtigt. Sie entwickeln einen Proxy und kommen auf etwas un-
+ter 1 Mio. Haushalte, die vulnerabel im Bereich Mobilität sein könnten. Der Indikator berücksichtigt allerdings keine 
+Ausgaben für öffentlichen Verkehr und bildet den Mobilitätsbedarf nur über den Anteil der Landbevölkerung ab. 
+Weitere Forschung ist hier wichtig, um die auslösenden Faktoren richtig widerzuspiegeln. In einer Sondererhebung 
+im Rahmen der EU-Statistik über Einkommen und Lebensbedingungen wurde  im Jahr 2012 nach dem Zugang zu 
+und der Verfügbarkeit von öffentlichen Transportmitteln gefragt. In Deutschland haben hier 10 bis 20 % der Haus-
+halte geantwortet, dass sie Einschränkungen oder Benachteiligungen erfahren.  
+Es lässt sich festhalten: Um Gelder aus dem KSF abrufen zu können, braucht es auch in Deutschland eine konkrete 
+Definition v ulnerabler Gruppen und entsprechende Indikatoren. Ein kombinierter Indikator , der auf hohe Belas-
+tung, strukturelle Hürden und niedriges Einkommen abstellt, spiegelt die in der Verordnung  zum KSF gegebene 
+Begriffsbestimmungen am besten wider. In dieser Kombination sind in Deutschland im Jahr 2022 3,1 Mio. Haushalte 
+als vulnerabel bezüglich des Wärmeenergiedarfs beziehungsweise als energiearm anzusehen. Im Bereich Mobilität 
+ist die Diskussion noch deutlich weniger weit vorangeschritten.  Eine wichtige Aufgabe ist nun, sich auf mess- und 
+nachweisbare Indikatoren zu verständigen und ein System für die Nachweisführung zu etablieren. Ein Ansatz, der 
+allein auf das Einkommen der Haushalte abstellt, ist dabei nicht ausreichend.  
+ 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+1. Dezil 2. Dezil 3. Dezil 4. Dezil 5. Dezil Gesamt (Dez. 1-5)
+Anteil der Haushalte in Energiearmut
+Wohng. nicht angemessen warm Zahlungsverzüge
+2M - hohe Belastung durch Energieausgaben M/2 - geringe absolute Energieausgaben
+Kombinierter KSF-Indikator Arith. Mittel EED-Indikator (2019)*
+ungefährer Anteil von transfer-
+leistungsbeziehenden Haushalten
+
+--- PDF SEITE 27 ---
+Umsetzung ETS II in Deutschland  •  Seite 27 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+2.3.2 Eignung bestehender Maßnahmen für den KSF 
+Welche Maßnahmen und Programme kommen für die Mittelverwendung in Deutschland in Betracht? Diese Frage 
+ist aus verschiedenen Gründen relevant: 
+1. Die bisherigen Einnahmen aus dem nEHS fließen in den KTF und finanzieren dort eine Reihe von Maßnahmen. 
+Daher stellt sich die Frage, inwiefern diese Zwecke auch in Zukunft durch Einnahmen aus dem CO 2-Preis ge-
+deckt werden können und sollen.  
+2. Bisher gibt es nur sehr wenige Maßnahmen, die gezielt Einnahmen für die Unterstützung vulnerabler Gruppen  
+verwenden. Daher  ist auch der Aspekt relevant, inwiefern der vorgesehene Fokus des KSF auf die besonders 
+betroffenen Gruppen sichergestellt werden kann.  
+3. Im Koalitionsvertrag der aktuellen Bundesregierung  (2021) hat man sich auf die Einführung eines Klimagelds 
+verständigt, das die Belastung durch den steigenden CO 2-Preis ausgleichen soll. Dieses Instrument ist bisher 
+noch nicht umgesetzt und die Finanzierung derzeit unklar. 
+ 
+In diesem Abschnitt werden daher zunächst die bestehenden Ausgabenzwecke des KTF auf ihre Relevanz für einen 
+Klima-Sozialplan geprüft. Die EU-Verordnung sieht explizit vor, dass „bereits bestehende nationale Maßnahmen  
+zur Minderung der sozialen Auswirkungen und Herausforderungen“ eines nationalen CO2-Preises Teil des KSF sein 
+dürfen (siehe Art. 4 Abs. 1 der EU- Verordnung 2023/955 sowie Abschnitt 2.2). Tabelle 4 gibt einen Überblick über 
+die im KTF enthaltenen Maßnahmen mit einem Bezug zu den für ETS II relevanten Schwerpunkten Verkehr und 
+Gebäude. Einige von ihnen erfüllen dabei den  vorgesehenen Anwendungsbereich des ETS II und wurden explizit 
+mit der Einführung des nEHS in Deutschland beschlossen beziehungsweise ausgeweitet. Einen sehr großen Anteil 
+an den Gesamtausgaben in diesen beiden Sektoren hat beispielsweise die Förderung von Maßnahmen der Ener-
+gieeffizienz und erneuerbarer Energien im Gebäudebereich. 
+Damit ermöglichen viele der KTF-Maßnahmen Klimaschutzinvestitionen, wie sie auch im Rahmen des KSF beispiel-
+haft genannt sind. Ein wichtiger Aspekt bei der Eignung ist allerdings nicht erfüllt: Sehr wenige der Maßnahmen 
+fokussieren explizit auf die benachteiligten Gruppen, die im KSF priorisiert werden sollen  (eine detailliertere 
+Analyse der Eignung bietet Öko-Institut u. a. –  aktuell diskutierte Maßnahmen mit Fokus auf vulnerable Gruppen 
+zeigen wir in Abschnitt 2.5 ). Ein Beispiel für einen stärkeren Fokus auf vulnerable Gruppen  im Rahmen der KTF -
+Maßnahmen ist die Änderung der Bundesförderung für effiziente Gebäude  ( BEG), die im Rahmen des Gebäu-
+deenergiegesetzes (GEG) beschlossen wurde und seither ein soziales Förderelement für Heizungstausch enthält 
+(einen zusätzlichen Investitionsbonus  von 30 % bei zu versteuerndem Einkommen  unter 40 Tsd. Euro pro Jahr) 
+(BMWK 2023b). 
+Insgesamt machen die dargestellten Maßnahmen im Jahr 2023 mit 24  Mrd. Euro rund ein Viertel am Gesamtvolu-
+men des KTF (35  Mrd. Euro im Jahr 2023, siehe Tabelle 9) aus. An dieser Stelle sei auf das jüngste Urteil des Bun-
+desverfassungsgerichts verwiesen, das die Verschiebung der für die Bewältigung der Coronakrise eingeplanten 
+Mittel in den KTF untersagt hat. Deshalb fehlen gegenüber der ursprünglichen Planung in den nächsten Jahren 
+insgesamt 60  Mrd. Euro (die Höhe der gesamten Rücklagen beträgt laut KTF -Wirtschaftsplan im Jahr 2023 ca. 
+65 Mrd. Euro, siehe Tabelle 9), was fast die gesamte Höhe der Rücklagen im KTF darstellt. Als Reaktion auf dieses 
+Urteil soll der KTF um insgesamt ca. 45 Mrd. Euro gekürzt werden (wobei ca. 12 Mrd. Euro auf 2024 entfallen).
+21 
+Neben den KTF-Ausgaben wurden mit der Einführung des nEHS weitere Kompensationsmaßnahmen im Rahmen 
+des Klimaschutzprogramms 2030 (aus 2019) beschlossen, die über den Bundeshaushalt finanziert werden. Dazu 
+gehören beispielsweise die Erhöhung des Wohngelds, die Einführung einer Mobilitätsprämie oder die Investitionen 
+in Radinfrastruktur (siehe Öko-Institut u. a. 2022). Diese Zwecke wären inhaltlich vermutlich für den Klima-Sozial-
+plan interessant, aber können möglicherweise mit dem Kriterium der Zusätzlichkeit in Konflikt kommen, sofern es 
+sich um wiederkehrende Ausgabenposten im nationalen Haushalt handelt (siehe weiter oben in diesem Abschnitt). 
+ 
+ 
+ 
+ 
+21  Siehe bspw. https://www.tagesschau.de/inland/innenpolitik/haushalt-einigung-ampel-kernpunkte-100.html.
+
+--- PDF SEITE 28 ---
+Umsetzung ETS II in Deutschland  •  Seite 28 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Tabelle 4: Darstellung themenspezifischer Maßnahmen des KTF 
+Maßnahme Kategorie Wirtschafts-
+plan 2023* 
+(Mio. Euro) 
+Serielle Sanierung Gebäude  127,3  
+Zuschüsse für den Betrieb dekarbonisierter Wärmeinfrastrukturen Gebäude  50,0  
+Energieeffizienz in Industrie und Gewerbe Gebäude  914,0  
+Programme und Maßnahmen der Energiewende in den Bereichen erneuerbare Ener-
+gien, Strom und Netze, Digitalisierung und Energieinfrastruktur 
+Gebäude  137,2  
+Beratung Energieeffizienz Gebäude  327,0  
+Vorbildfunktion Bundesgebäude Gebäude  10,0  
+Aufbauprogramm Wärmepumpe Gebäude  15,0  
+Transformation Wärmenetze Gebäude  500,0  
+Förderung von Maßnahmen der Energieeffizienz und erneuerbarer Energien im Ge-
+bäudebereich 
+Gebäude  16.862,1  
+Klimafreundlicher Neubau und Wohneigentumsförderung für Familien Gebäude  15,4  
+Modellprojekte im Öffentlichen Personennahverkehr  Verkehr  149,0  
+Maßnahmen zur Weiterentwicklung der Elektromobilität  Verkehr  312,8  
+Entwicklung regenerativer Kraftstoffe Verkehr  59,5  
+Förderprogramm Fahrradparkhäuser an Bahnhöfen Verkehr  19,0  
+Wasserstoff- und Brennstoffzellenanwendungen im Verkehr Verkehr  234,3  
+Zuschüsse zur Förderung alternativer Antriebe im Schienenverkehr Verkehr  65,0  
+Zuschüsse zum Kauf elektrisch betriebener Fahrzeuge Verkehr  2.100,0  
+Zuschüsse zur Errichtung von Tank- und Ladeinfrastruktur Verkehr  1.935,0  
+Zuschüsse für die Anschaffung von Nutzfahrzeugen mit alternativen, klimaschonen-
+den Antrieben 
+Verkehr  406,5  
+Förderung des Ankaufs von Bussen mit alternativen Antrieben Verkehr  371,8  
+Nationales Flottenerneuerungsprogramm für Nutzfahrzeuge Verkehr  76,8  
+Gesamtsumme der dargestellten Maßnahmen  24.687,7 
+Quelle : Eigene Darstellung anhand Daten von  Zentrales Finanzwesen des Bundes (2023).  
+Anmerkung : Bei den angegebenen Werten handelt es sich um Plan - bzw. Soll-Werte. Mit den tatsächlichen bzw. Ist -Werten für  2023 kann erst 
+Mitte 2023 gerechnet werden. Der Soll -Ist-Vergleich für 2022 zeigt allerdings, dass im Durchschnitt über alle Maßnahmen lediglich ca. 50  % der 
+geplanten Mittel tatsächlich ausgegeben wurden  (FÖS 2023b) . Inwiefern sich die Haushaltssperre infolge des BVerfGE -Urteils zum KTF  (siehe 
+bspw. https://www.tagesschau.de/inland/haushaltssperre -koalition-schuldenbremse-100.html) auf den Mittel abruf auswirkt, ist zu diesem Zeit-
+punkt unklar.   
+ 
+Zusammenfassend lassen sich unserer Einschätzung nach nur sehr wenige der aktuellen Maßnahmen aus dem 
+KTF durch die zukünftigen Mittel des KSF finanzieren. Allerdings liegt das Volumen des KSF für Deutschland bei 
+maximal 5,3 Mrd. Euro für den gesamten Zeitraum 2026 bis 2032 und ist damit auch bei weitem nicht ausreichend, 
+um die Vielzahl der in Tabelle 4 dargestellten Maßnahmen zu finanzieren. 
+Wichtig sind also auch die restlichen nationalen ETS II-Einnahmen, die deutlich höher sein werden als der deutsche 
+Anteil am KSF (siehe Abschnitt 2.1). Die Kriterien der Mittelverwendung eignen sich zudem besser für die Finanzie-
+rung der bisherigen Maßnahmen im Rahmen des KTF (siehe Abschnitt 2.2). Zusätzlich wird der KTF auch weiterhin 
+aus den Einnahmen des ETS I beziehungsweise nEHS sowie aus Zuweisungen aus dem Bundeshaushalt und aus 
+Rücklagen (nach dem oben erwähnten Urteil der Bundesverfassungsgerichtshof fast ganz aufgebraucht) gespeist. 
+Für den KSF können dann gezielt weitere Maßnahmen entwickelt werden (siehe bspw. Abschnitt 2.5).
+
+--- PDF SEITE 29 ---
+Umsetzung ETS II in Deutschland  •  Seite 29 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+2.4 Klimageld als eine Option für die Mittelverwendung  
+Die deutsche Bundesregierung hat sich in ihrem Koalitionsvertrag auf die Einführung eines sog enannten Klima-
+gelds verständigt. Dies soll dazu beitragen, die durch den (nationalen) Emissionshandel entstehenden zusätzlichen 
+Kosten für private Haushalte zu kompensieren. Das Klimageld wird traditionell als P ro-Kopf-Pauschale gedacht.  
+Allerdings liegt eine Reihe von Vorschlägen für eine soziale Staffelung vor. Der Hintergedanke einer Pro-Kopf-Pau-
+schale ist, dass Haushalte mit geringen Emissionen durch die Rückzahlung einen finanziellen Vorteil haben, da ihre 
+emissionsbezogenen Ausgaben unter dem Pauschalbetrag liegen. Haushalte mit überdurchschnittlichen Emissio-
+nen zahlen hingegen höhere CO2-Kosten, die die Rückzahlung übersteigen. Damit soll trotz der Kompensation der 
+CO2-Kosten ein Anreiz zur Emissionsminderung erhalten bleiben . Dieser Mechanismus wird schwächer, sobald 
+Haushalte mit hohen Einkommen ihre Emissionen sehr viel schneller reduzieren als solche mit geringen Einkom-
+men (siehe dazu z.B. Abbildung 8). Zusätzlich soll mit Hilfe des Klimagelds die Akzeptanz der CO 2-Bepreisung ge-
+steigert werden (für eine detailliertere Diskussion der Umsetzung des Klimagelds insb. auch in Bezug auf verfas-
+sungsrechtliche Aspekte, siehe Klinski u. a. 2023).  
+In der aktuellen Debatte werden  unterschiedliche Ausgestaltungsformen des Klimagelds diskutiert (siehe bspw. 
+FÖS 2023c; Klinski u. a. 2023):  
+1. Ein Klimageld, bei dem alle Menschen in Deutschland pro Kopf pauschal denselben Betrag erhalten  
+2. Eine soziale Staffelung eines Klimagelds mit höheren Beträgen für vulnerable Gruppen: Die Auszahlung eines 
+differenzierten Klimagelds kann sowohl nach (Haushalts -)Einkommen als auch nach weiteren sozioökonomi-
+schen Merkmalen erfolgen, wie beispielsweise einer Staffelung nach ländlichen und städtischen Regionen 22 
+oder dem energetischen Zustand von Wohngebäuden. 
+3. Ein Klimageld ausschließlich für vulnerable Gruppen: Um gezielt Haushalte mit mittleren und unteren Einkom-
+men zu entlasten, kann ein einheitliches Klimageld für alle  Bürger*innen bis zu einer bestimmten individuellen 
+Einkommensgrenze oder alternativ (nur) für Empfänger*innen bestimmter Sozialleistungen ausgezahlt werden. 
+ 
+Offen ist derzeit ebenfalls , auf welchem administrativen Weg das Klimageld ausgezahlt werden soll beziehungs-
+weise kann. Auch hier sind unterschiedliche Optionen in der Diskussion  (für Details, siehe bspw. FÖS 2023c; MCC 
+2022). 
+ 
+Kann das Klimageld aus ETS II-Einnahmen finanziert werden? 
+Es stellt sich die Frage , ob ein Klimageld in Deutschland auch durch die Einnahmen aus dem ETS II finanzierbar 
+wäre. Welche rechtlichen Restriktionen gelten, hängt davon ab, ob dafür die Mittel aus dem Klima-Sozialfonds oder 
+die übrigen Einnahmen verwendet werden (für eine ausführliche Darstellung, siehe SUER 2024): 
+ Der Klima-Sozialfonds erlaubt explizit direkte Einkommenstransfers. Allerdings gilt  die Einschränkung, dass 
+diese maximal 37,5 % der gesamten verfügbaren Mittel dieses Fonds ausmachen und zusätzlich auch nur tem-
+porär sein dürfen . Weiter ist im Gesetzestext auch verankert, dass diese direkten Zahlungen für vulnerable 
+Gruppen bestimmt sind (Art. 8 Abs 2 der EU- Verordnung 2023/955). Eine breite Pro-Kopf-Pauschale wäre 
+also mit KSF-Mitteln nicht umsetzbar. Auch eine einkommensgestaffelte Version für alle wäre nicht über 
+diese Mittel finanzierbar. Die direkte Unterstützung vulnerabler Gruppen (nach Definition der KSF-Verord-
+nung – für Details, siehe Abschnitt 2.3.1) durch Einkommensbeihilfen hingegen wäre zumindest für eine be-
+schränkte Zeit ausdrücklich möglich und könnte durch den KSF finanziert werden. Ob das Budget ausreicht, 
+wird im folgenden Abschnitt kalkuliert.  
+ Eine weitere Möglichkeit wäre die Verwendung der restlichen nationalen ETS II-Einnahmen für ein Klimageld. 
+Die Richtlinie nennt zwei Verwendungszwecke, die grundsätzlich anwendbar wären (Art. 10 Abs. 3): Es gibt ent-
+weder die Möglichkeit, so genannte nationale Klimadividendensysteme
+23 zu finanzieren  (Art. 10 Abs. 3 lit. hb 
+ 
+ 
+22  Eine regionale Differenzierung einer Klimaprämie erfolgt in Österreich. Seit 2023 wird der sogenannte Klimabonus nach 
+vier Raumkategorien gestaffelt, die sich am Urbanisierungsgrad und der Verfügbarkeit des öffentlichen Verkehrs orien-
+tieren (siehe Bundesministerium für Klimaschutz, Umwelt, Energie, Mobilität, Innovation und Technologie (BMK) 
+(2023): Klimabonus). 
+23  Bisher gibt es im Rahmen der EU-Gesetzgebung keine eindeutige Auslegung des Begriffs „Klimadividendensystem“. Im 
+deutschen Kontext wird der Begriff synonym mit dem des Klimagelds verwendet. Auch in englischsprachlichen
+
+--- PDF SEITE 30 ---
+Umsetzung ETS II in Deutschland  •  Seite 30 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+EHRL), oder eine finanzielle Unterstützung aufgrund sozialer Aspekte zu gewähren (Art. 10 Abs. 3 lit. ha EHRL). 
+Auf welchen der beiden Zwecke sich ein Klimageld beziehen sollte, hängt stark von der Auslegung der Europä-
+ischen Kommission ab und kann an dieser Stelle nicht abschließend bewertet werden. Die Vorgaben sind inter-
+pretationsbedürftig (siehe SUER 2024).  
+ Klimadividenden sind möglich unter der Voraussetzung, dass diese nachweislich mit positiven Umweltauswir-
+kungen verknüpft sein müssen . In diesem Zusammenhang ist allerdings die genaue Bedeutung der positiven 
+Umweltauswirkungen nicht weiter konkretisiert. Es existiert einerseits die Meinung, dass ein Ausgleichsmecha-
+nismus wie das Klimageld notwendig ist, um die Akzeptanz der Bevölkerung für den Emissionshandel zu stei-
+gern und somit die positive Umweltwirkung indirekt durch das Klimageld hervorgerufen wird. Es wird allerdings 
+andererseits angezweifelt, ob die Akzeptanzsteigerung in der Bevölkerung für den Emissionshandel schon als 
+Argument für eine positive Umweltwirkung ausreicht (siehe u.a. SUER 2024).  
+ Als Alternative dazu 24 sieht Art. 10 Abs. 3 lit.  ha EHRL eine „finanzielle Unterstützung, um soziale Aspekte  in 
+Haushalten mit niedrigem und mittlerem Einkommen anzugehen“ als eine mögliche Maßnahme zur Mittelver-
+wendung vor. Unter dieser Alternative gilt nicht die Einschränkung, dass die direkte Einkommensbeihilfe maxi-
+mal 37,5 % des Gesamtvolumens ausmachen darf . Offen ist bei diese r Maßnahme, ob mit dieser Formulierung 
+ausschließlich Mittel an bestimmte Einkommensgruppen ausgezahlt werden dürfen oder ob die zumindest an-
+fänglich progressive Wirkung des Klimagelds auch ein ausreichendes Argument für ein Klimageld als Pro-Kopf-
+Pauschale ist (siehe z.B. Abbildung 8 zur Umkehr der progressiven in eine regressive Wirkung, falls Haushalte 
+mit höheren Einkommen schneller ihre Emissionen reduzieren) . Als Beispiel für derartige Entlastungsmaßnah-
+men ist in der Richtlinie  „die Senkung verzerrend wirkender Steuern und gezielte Ermäßigungen von Abgaben 
+und Gebühren für aus erneuerbaren Energiequellen gewonnenen Strom“ genannt. Da solch eine Abgabensen-
+kung (z.B. Senkung der E rneuerbare-Energien-Gesetz-Umlage) ebenfalls alle Haushalte entlastet, bleibt zu 
+vermuten, dass auch ein Klimageld in der Variante einer Pro-Kopf-Pauschale an alle Haushalte ausgezahlt wer-
+den dürfte. Eine soziale Staffelung wäre ebenfalls denkbar. Diese offene Frage der Einschränkung bei der kon-
+kreten Ausgestaltung müsste mit der Europäischen Kommission geklärt werden. 
+ 
+Zusammenfassend lässt sich fest halten: Der Umfang der restlichen Einnahmen des ETS II beziehungsweise auch 
+der ETS I-Einnahmen liegt deutlich über dem Budget des KSF. Gleichzeitig sind die  Vorgaben zu deren Verwen-
+dung deutlich weniger einschränkend. Deshalb wird es voraussichtlich einfacher sein, ein Klimageld außerhalb 
+des KSF zu finanzieren.  
+Die Finanzierung eines Klimagelds aus ETS II-Einnahmen ist aus rechtlicher Sicht grundsätzlich möglich. Ge-
+klärt werden müsste, welche Ausgestaltungsvarianten dies einschließt. Insbesondere die positive Umweltwir-
+kung eines Klimagelds (bzw. Klimadividende) lässt sich nicht ohne Weiteres nachweisen. Alternativ muss der Fokus 
+der Maßnahme sozial sein. In beiden Fällen ist noch offen, wie die EU-Kommission die rechtlichen Vorgaben ausle-
+gen wird. Daher ist an dieser Stelle keine abschließende Bewertung möglich, welche Einschränkungen bei der Um-
+setzung zu berücksichtigen sind und ob eine sozial-fokussierte Version des Klimagelds aussichtsreicher wäre.   
+ 
+Wie viele KSF-Mittel stehen pro vulnerablem Haushalt zur Verfügung? 
+Um einordnen zu können, welche Investitionsmaßnahmen und Maßnahmen der direkten Einkommensunterstüt-
+zung für vulnerable Haushalte aus dem KSF finanziert werden können, zeigt Tabelle 5 die pro vulnerablem Haushalt 
+zur Verfügung stehenden Mittel aus dem KSF inklusive der nationalen Ko-Finanzierung von 25 % im Zeitraum 2026 
+bis 2032. Dabei werden insgesamt 7,091 Mrd. Euro verteilt.  
+Die zur Verfügung stehenden Mittel pro Haushalt sind stark von der Definition für vulnerable Haushalte abhängig 
+und davon, wie viele Haushalte demnach als vulnerabel gelten  (vergleiche dafür Abschnitt 2.3.1). Wir nutzen die in 
+Abbildung 5 ermittelten Zahlen. Dabei beschränken sich alle Indikatoren (außer das arithmetische Mittel nach EED 
+und das Armutsrisiko) auf die untere Hälfte der Einkommensverteilung.  Sind es 1,1 Mio. Haushalte, wie nach dem 
+ 
+ 
+Veröffentlichungen wird unter „climate dividend scheme“ die Rückverteilung von Einnahmen aus einer CO2-Bepreisung 
+ohne Vorgaben an die Verwendung dieser Klimadividende verstanden (SUER 2024). 
+24  Die SUER (2024) wirft auch die Frage auf, wie die beiden Verwendungszwecke zueinander stehen und ob eine Einord-
+nung als Klimadividendensystem eine „Sperrwirkung aufgrund des Vorrangs der Norm“ hat. Die dortigen Überlegungen 
+lassen aber keine solche Einschränkung vermuten.
+
+--- PDF SEITE 31 ---
+Umsetzung ETS II in Deutschland  •  Seite 31 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Indikator für Zahlungsverzüge, stünden im Zeitraum 2026 bis 2032 pro Haushalt durchschnittlich 6.605 Euro zur 
+Verfügung. Beim 2M-Indikator wären es nur 975 Euro pro vulnerablen Haushalt.  
+Tabelle 5: KSF-Mittel (inkl. Ko-Finanzierung) pro vulnerablem Haushalt für unterschiedliche Definitionen 
+ Wohng. 
+nicht ange-
+messen 
+warm 
+Zahlungs-
+verzüge 
+2M - hohe 
+Belastung 
+durch Ener-
+gieausga-
+ben 
+M/2 - ge-
+ringe abso-
+lute Ener-
+gieausga-
+ben 
+Kombinier-
+ter Indikator 
+Arith. Mittel 
+EED-Indi-
+kator (2019) 
+Armutsri-
+siko 
+Anzahl vul-
+nerable 
+Haushalte 
+(Mio.) 
+1,9 1,1 7,3 4,4 3,1 3,2 6,0 
+KSF-Mittel pro vulnerablem Haushalt (Euro im gesamten Zeitraum 2026-2032) 
+ 3.667 6.605 975 1.615 2.282 2.213 1.186 
+Mittel pro vulnerablem Haushalt für direkte Einkommensunterstützung (Euro im gesamten Zeitraum 2026-2032) 
+ 1.375 2.477 366 605 856 830 445 
+Mittel pro vulnerablem Haushalt für direkte Einkommensunterstützung (Euro/Jahr) 
+ 196 354 52 86 122 119 64 
+„Pro-Kopf-Pauschale“ Mittel pro Person in vulnerablen Haushalten für direkte Einkommensunterstützung 
+(Euro/Jahr)  
+ 109 197 29 48 68 66 35 
+Quelle : Eigene Berechnung und Darstellung  auf Basis von Abbildung 5, dabei beschränken sich alle Indikatoren (außer das arith. Mittel nach EED 
+und das Armutsrisiko) auf die untere Hälfte der Einkommensverteilung . 
+ 
+Von den gesamten KSF-Mitteln dürfen höchstens 37,5  % für vorübergehende direkte Einkommensunterstützung 
+verwendet werden (vergleiche Abschnitt  2.2). Die direkte Einkommensunterstützung pro Jahr, die an Personen in 
+vulnerablen Haushalten ausgezahlt werden könnte, beträgt demnach – je nach Definition – 29 bis 197 Euro/Person 
+und Jahr. Letzteres bei der sehr restriktiven Definition von Vulnerabilität, bei dem diese Unterstützung nur an 1 Mio. 
+Haushalte, beziehungsweise 2 Mio. Personen ausgezahlt werde würde. Inwiefern der potenzielle Klimageld-Betrag 
+ausreichend ist für eine Netto -Entlastung, hängt demnach stark von zwei Faktoren ab: 1. W ie sehr grenzt  man die 
+Gruppe der begünstigten Haushalte ein, und 2. Wie hoch ist der CO 2-Preis und die daraus folgenden Energiekos-
+ten?  
+Nicht alle der hier gezeigten Indikatoren sind auch geeignet als Zugangsbedingung für Maßnahmen, da sie nicht 
+immer von Haushalten nachgewiesen werden können. Ein Indikator, der rein auf das Einkommen der Haushalte ab-
+stellt und deshalb möglicherweise leichter nachzuweisen und zu prüfen ist , ist der Indikator, der das Armutsrisiko 
+bestimmt. Haushalte gelten als betroffen, wenn ihr Einkommen weniger als 60  % des Medians beträgt. Allerdings 
+kann ein so leicht nachzuweisender Indikator viele andere Faktoren, die die Vulnerabilität bedingen, nicht mit ab-
+bilden. 
+ 
+Wie hoch könnte ein Klimageld als Pro-Kopf-Pauschale sein, wenn die gesamten ETS II-Einnahmen aus Emis-
+sionen privater Haushalte wieder an diese rückverteilt wird? 
+Es wird davon ausgegangen, dass ein Klimageld für private Haushalte sich auch aus Einnahmen durch die Emissio-
+nen dieser Haushalte speisen muss (Klinski u. a. 2023). Etwa 50 % der nationalen Auktionseinnahmen aus dem ETS 
+II werden auf Emissionen privater Haushalte zurückgehen (Abschnitt 1.1.1). 
+Tabelle 6 zeigt, wie hoch ein Klimageld pro Kopf und Jahr ausfallen würde, wenn  die Hälfte beziehungsweise  die 
+kompletten Einnahmen, die auf Emissionen privater Haushalte zurückzuführen sind, in Form eines Klimagelds wie-
+der an diese zurückgezahlt werden. Grundlage sind die Schätzungen der nationalen Auktionseinnahmen Deutsch-
+lands (Tabelle 3), sowie die aktuelle Bevölkerungszahl von 84,5 Mio. (DESTATIS 2023). Bei einem exemplarisch an-
+genommenen CO
+2-Preis von 100 Euro /t liegt das pauschale Klimageld dann bei 55 beziehungsweise 1 10 
+Euro/Kopf und Jahr.
+
+--- PDF SEITE 32 ---
+Umsetzung ETS II in Deutschland  •  Seite 32 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Tabelle 6: Klimageld pro Kopf und Jahr im Zeitraum 2027-2032, wenn die nationalen ETS II-
+Auktionseinnahmen aus Emissionen privater Haushalte dafür verwendet werden 
+CO2-Preis ETS II 
+Euro/tCO2 
+Auktionseinnahmen 
+Mio. Euro 2027-2032 
+Auktionseinnahmen 
+Mio. Euro/Jahr 
+Klimageld  
+Euro/Person und Jahr 
+  Gesamt Davon private 
+Haushalte (50 %) Private Haushalte 
+Bei Verwendung von 
+50 % der Einnahmen 
+aus Emissionen privater 
+Haushalte 
+Bei Verwendung aller 
+Einnahmen aus 
+Emissionen privater 
+Haushalte 
+50 Euro 48.471 24.235 4.039 24 48 
+100 Euro 111.420 55.710 9.285 55 110 
+200 Euro 237.319 118.659 19.777 117 234 
+Quelle : Eigene Berechnungen, Öko-Institut. 
+ 
+Noch nicht berücksichtigt ist in diesen Rechnungen der Verwaltungsaufwand für die Auszahlung des Klimagelds . 
+Dieser beträgt beispielsweise für das Kindergeld 46,97 € pro Jahr und Berechtigter*n (FamK - Bundesagentur für 
+Arbeit/Familienkasse 2021). Wäre der Aufwand für eine pauschales Klimageld halb so groß, entspräche das Kosten 
+von 2 Mrd. Euro, bei einem Viertel des Verwaltungsaufwands Kosten von immerhin 1 Mrd. Euro (Öko-Institut 2021b). 
+Bei 1 Mrd. Verwaltungsaufwand pro Jahr würde das Klimageld pro Kopf bei einem CO 2-Preis von 100 EUR/t dann 
+49 statt 55 EUR bzw. 98 statt 110 EUR betragen. 
+Im Folgenden wird gezeigt, in welchem Verhältnis ein Klimageld als Pro -Kopf-Pauschale in dieser Höhe zur Belas-
+tung durch die CO2-Kosten steht.  
+ 
+Verteilungswirkungen von CO
+2-Preis und Klimageld 
+In diesem Abschnitt  werden die Verteilungswirkungen eines CO 2-Preises von 100 Euro /tCO2 im ETS II und eines 
+Klimagelds von 55 beziehungsweise 110 Euro/Person und Jahr (vgl. Tabelle 6) berechnet. Dabei zeigen wir eine Va-
+riante ohne Verhaltensanpassung (konstante Verbräuche) und zwei Versionen mit Verhaltensanpassung, in denen 
+angenommen wird, dass Investitionen in den oberen Einkommensgruppen schneller erfolgen  als in den unteren 
+Einkommensgruppen. Auswertungen zum Beispiel der BEG-Antragsstellungen für die Förderung von Einzelmaß-
+nahmen und Vollsanierung zeigen, dass die Förderung überwiegend von Haushalten mit einem überdurchschnitt-
+lichen Einkommen in Anspruch genommen wird (Öko-Institut 2023).  
+Die Analyse erfolgt auf Basis de s Mikrosimulationsmodells SEEK des Öko-Instituts und auf Grundlage der Annah-
+men der Studie Klinski u.  a. (2023). Tabelle 7 zeigt die auf Grundlage der Studie abgeleiteten Verbrauchsmengen 
+der Brennstoffe bei einem CO 2-Preis von 100 Euro /tCO2 gegenüber dem Jahr 2018  mit einem CO 2-Preis von 0 
+Euro/tCO2 (dem Basisjahr unseres Datensatzes). Da das Klimageld in dieser Simulation besteuert wird25, beträgt es 
+netto pro Kopf in den oberen Einkommensgruppen mit relevanten Grenzsteuersätzen deutlich weniger als 55 be-
+ziehungsweise 110 Euro. 
+Tabelle 7: Angenommener Verbrauch der Brennstoffe gegenüber dem Jahr 2018 bei einem CO
+2-Preis von 
+100 Euro/t CO2  
+CO2-Preis ETS II 
+Euro/tCO2 
+Erdgas Heizöl Kohle Diesel Benzin 
+100 Euro 75 % 70 % 60 % 65 % 70 % 
+Quelle: Eigene Berechnungen, Öko-Institut. 
+ 
+ 
+25  Es wird wie bei den Zahlungen im Rahmen der Entlastungspakete davon ausgegangen, dass das Klimageld als Kompen-
+sationszahlung besteuert wird. Es gibt verschiedene Überlegungen, wie der steuerliche Umgang sinnvoll wäre. Z.B. 
+könnte das Klimageld dem Progressionsvorbehalt unterlegt werden oder es kann mit dem jeweiligen Einkommensteu-
+ersatz der Person besteuert werden – dafür müssten allerdings künftig auch Personen eine Steuererklärung abgeben, 
+die derzeit nicht steuerpflichtig sind – oder es könnte eine pauschale Versteuerung durchgeführt werden, die bei Ab-
+gabe einer Steuererklärung verrechnet wird, ggf. gekoppelt mit einer Grenze für das Mindesteinkommen oder die Min-
+deststeuerlast, so dass Haushalte mit geringem oder niedrigem Einkommen keine Steuer auf das Klimageld bezahlen.
+
+--- PDF SEITE 33 ---
+Umsetzung ETS II in Deutschland  •  Seite 33 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+ 
+In einem ersten Schritt wird in Abbildung 6 die Verteilungswirkung bei einem CO2-Preis von 100 Euro/tCO2, einem 
+Klimageld von 55 Euro/Kopf und Jahr und ohne Verhaltensanpassung gezeigt. Durch die höheren Verbräuche von 
+Brenn- und Kraftstoffen steigen die CO2-Kosten mit dem Einkommen stark an, von 86 Euro/Kopf und Jahr im ers-
+ten Einkommensdezil auf über 300 Euro /Kopf und Jahr im zehnten Dezil. Da die unteren Einkommen ganz über-
+wiegend zur Miete wohnen, dämpft bei ihnen das CO2-KostAuftG26 die Kosten. Bei höheren Einkommen kommen 
+wiederum die Kosten für die Vermietenden zum Tragen, da Haushalte mit hohen Einkommen häufiger Vermie-
+tende sind. Für  Haushalte, die Sozialleistungen nach SGBII und XII beziehen, werden Heizkosten und damit auch 
+CO2-Kosten übernommen, sofern diese angemessen sind. Die Übernahme dieser Kosten ist in den folgenden  
+Rechnungen nicht berücksichtigt. Der Umstand, dass weniger als die Hälfte der Haushalte mit geringem Einkom-
+men einen Pkw hat, trägt weiter dazu bei, dass die CO2-Kosten im Mittel bei ihnen geringer sind.  
+Die kombinierte Belastung aus CO 2-Bepreisung und Klimageld – gemessen am verfügbaren Einkommen - steigt 
+zunächst mit dem Einkommen an und nimmt dann ab dem siebten Einkommensdezil wieder ab. Sie ist mit 0,3 % im 
+ersten Einkommensdezil (bei den unteren 10 % der Einkommen) am niedrigsten und steigt auf höchstens 0,7 % des 
+verfügbaren Einkommens in der Mitte der Einkommensverteilung an.  
+Abbildung 6: Verteilungswirkung eines CO 2-Preises von 100 Euro /tCO2, einem Klimageld von 55 
+Euro/Kopf und Jahr, ohne Verhaltensanpassung  
+ 
+Quelle: Eigene Berechnungen; Öko-Institut. 
+ 
+In Abbildung 7 verringert sich die Belastung durch den CO 2-Preis durch die angenommene Verbrauchsreduktion 
+laut Tabelle 7. Wir nehmen an, dass nicht alle Haushalte gleichmäßig ihren Verbrauch reduzieren, sondern dass die 
+gesamte Verbrauchsreduktion proportional zum durchschnittlichen Einkommen in den Dezilen erfolgt. Dies spie-
+gelt wider, dass Haushalte mit höherem Einkommen deutlich besser in der Lage sind, in klimafreundliches Heizen 
+und energieeffizienten Wohnraum oder klimafreundliche Mobilität zu investieren und dadurch ihren fossilen Ener-
+gieverbrauch und die damit verbundenen CO 2-Kosten reduzieren können. Somit verringern sich die CO 2-Kosten 
+in der oberen Einkommenshälfte und insbesondere im zehnten Einkommensdezil viel stärker als in der unteren 
+ 
+ 
+26  Das CO2-KostAuftG regelt, wie die CO2-Kosten, die für Heizenergie entstehen, zwischen Vermietenden und Mietenden 
+aufgeteilt werden. Dabei ist der Anteil, den die Vermietenden tragen, umso höher, je höher der spezifische Energiever-
+brauch des Gebäudes und je schlechter dessen Energieeffizienz. So soll ein Anreiz für die Senkung der CO2-Emissionen 
+durch die Vermietenden gesetzt werden und die Mietenden entlastet werden. 
+-0,8%
+-0,6%
+-0,4%
+-0,2%
+0,0%
+0,2%
+0,4%
+0,6%
+0,8%
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+1. Dezil 2. Dezil 3. Dezil 4. Dezil 5. Dezil 6. Dezil 7. Dezil 8. Dezil 9. Dezil 10. Dezil
+Nettoeffekt in % verfügbares Einkommen
+Be- / Entlastung in €/Jahr pro Kopf
+Einkommensdezile
+CO2-Kosten Mobilität €/Jahr CO2-Kosten Wärme Mietende €/Jahr
+CO2-Kosten Wärme Eigentümer*innen €/Jahr Klimageld €/Jahr
+CO2-Kosten Wärme Vermietende €/Jahr Nettoeffekt in % verfügbares Einkommen
+
+--- PDF SEITE 34 ---
+Umsetzung ETS II in Deutschland  •  Seite 34 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Einkommenshälfte. Die Verteilung der Belastungswirkung (in  % des verfügbaren Einkommens) zeigt einen ähnli-
+chen Verlauf und ist insgesamt geringer.  
+Abbildung 7: Verteilungswirkung eines CO2-Preises von 100 Euro/tCO2, einem Klimageld von 55 Euro/Kopf 
+und Jahr, mit Verhaltensanpassung proportional zum Einkommen 
+ 
+Quelle: Eigene Berechnungen; Öko-Institut. 
+ 
+Die Auswertung der Förderinanspruchnahme für Sanierungsmaßnahmen (Öko-Institut 2023) macht deutlich, dass 
+Haushalte mit sehr geringem Einkommen kaum Sanierungsförderung in Anspruch nehmen. Dies wird in Abbildung 
+8 berücksichtigt. Es wird angenommen, dass Haushalte in den ersten drei Einkommensdezilen ihren Energiever-
+brauch nicht reduzieren können und weiterhin hohe CO2-Kosten haben. Haushalte im vierten bis siebten Einkom-
+mensdezil sind gemeinsam für 40 % der Verbrauchsreduktion verantwortlich, Haushalte im achten bis zehnten De-
+zil für die restlichen 60  %. Innerhalb des vierten bis siebten beziehungsweise  achten bis zehnten Dezils reduzieren 
+Haushalte proportional zu ihren Einkommen. In einem solchen Szenario ist die Belastung in den unteren Dezilen 
+trotz Klimageld hoch im Vergleich zu den restlichen Einkommensgruppen.  Ein solcher Lock -in von vulnerablen 
+Haushalten in fossiler Energienutzung muss vermieden werden, da die finanzielle Belastung dann nicht mehr 
+tragbar und die Akzeptanz des Instruments der CO 2-Bepreisung gefährdet ist. Ein Klimageld muss daher in 
+jedem Fall von Maßnahmen begleitet werden, die die Reduktion der Energieverbräuche in den unteren Ein-
+kommensgruppen fördern. 
+-0,8%
+-0,6%
+-0,4%
+-0,2%
+0,0%
+0,2%
+0,4%
+0,6%
+0,8%
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+1. Dezil 2. Dezil 3. Dezil 4. Dezil 5. Dezil 6. Dezil 7. Dezil 8. Dezil 9. Dezil 10. Dezil
+Nettoeffekt in % verfügbares Einkommen
+Be- / Entlastung in €/Jahr pro Kopf
+Einkommensdezile
+CO2-Kosten Mobilität €/Jahr CO2-Kosten Wärme Mietende €/Jahr
+CO2-Kosten Wärme Eigentümer*innen €/Jahr Klimageld €/Jahr
+CO2-Kosten Wärme Vermietende €/Jahr Nettoeffekt in % verfügbares Einkommen
+
+--- PDF SEITE 35 ---
+Umsetzung ETS II in Deutschland  •  Seite 35 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Abbildung 8: Verteilungswirkung eines CO2-Preises von 100 Euro/t CO2, einem Klimageld von 55 
+Euro/Kopf und Jahr, mit Verhaltensanpassung gestaffelt nach Dezilen 
+ 
+Quelle: Eigene Berechnungen; Öko-Institut. 
+ 
+Wird bei gleicher Annahme, dass Haushalte abhängig von ihrem Einkommen schneller oder langsamer ihre Emissi-
+onen reduzieren, ein doppelt so hohes Klimageld von 1 10 Euro/Kopf gezahlt, also die  gesamten Auktionseinnah-
+men aus Emissionen privater Haushalte dafür verwendet (Abbildung 9), stellt sich wiederum eine eher positive Ver-
+teilungswirkung ein, weil das höhere Klimageld die fehlende Reduktionsleistung in den unteren beiden Dezilen 
+(fast) kompensiert. Das dritte Dezil ist in diesem Szenario am höchsten belastet.  Zu bedenken ist dabei, dass bei 
+einer kompletten Auszahlung der Einnahmen von privaten Haushalten an private Haushalte in Form eines pauscha-
+len Klimagelds keine Mittel mehr übrig sind, um Investitionen in Einsparmaßnahmen zu finanzieren. Dies müsste 
+dann aus weiteren öffentlichen Mitteln geschehen. 
+-0,8%
+-0,6%
+-0,4%
+-0,2%
+0,0%
+0,2%
+0,4%
+0,6%
+0,8%
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+1. Dezil 2. Dezil 3. Dezil 4. Dezil 5. Dezil 6. Dezil 7. Dezil 8. Dezil 9. Dezil 10. Dezil
+Nettoeffekt in % verfügbares Einkommen
+Be- / Entlastung in €/Jahr pro Kopf
+Einkommensdezile
+CO2-Kosten Mobilität €/Jahr CO2-Kosten Wärme Mietende €/Jahr
+CO2-Kosten Wärme Eigentümer*innen €/Jahr Klimageld €/Jahr
+CO2-Kosten Wärme Vermietende €/Jahr Nettoeffekt in % verfügbares Einkommen
+
+--- PDF SEITE 36 ---
+Umsetzung ETS II in Deutschland  •  Seite 36 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Abbildung 9: Verteilungswirkung eines CO2-Preises von 100 Euro/tCO2, einem Klimageld von 110 
+Euro/Kopf und Jahr, mit Verhaltensanpassung gestaffelt nach Dezilen 
+ 
+Quelle: Eigene Berechnungen; Öko-Institut. 
+ 
+Es bleibt festzuhalten, dass die Verteilungswirkung der Kombination aus CO2-Preis und Klimageld stark davon ab-
+hängig ist, welcher Teil der Einnahmen für das Klimageld verwendet wird, wie hoch die Reduktion der fossilen 
+Brennstoffe ausfällt und vor allem, wie diese Reduktion in der Gesellschaft verteilt ist. Bisherige Erfahrungen deuten 
+darauf hin, dass Haushalte mit hohen Einkommen schon jetzt und aus eigenen Mitteln ihre Emissionen reduzieren. 
+Für Haushalte mit geringen Einkommen wird dies erst möglich sein, wenn gezielte Unterstützung dafür bereitge-
+stellt wird. Ein hohes Klimageld , das 100 % der Auktionseinnahmen durch die  Emissionen privater Haushalte 
+zurückverteilt, kann einer negativen Verteilungswirkung kurzfristig entgegenwirken.
+27 Dafür werden in unse-
+rem Beispiel 9 Mrd. Euro pro Jahr (bzw. 7,5 Mrd. Euro nach Besteuerung) benötigt. Um bei Verwendung eines klei-
+neren Teils der Einna hmen netto eine Entlastung bei den unteren Einkommensgruppen zu erreichen, müsste das 
+Klimageld stärker auf vulnerable Haushalte fokussiert werden. Des Weiteren müsste bei der Verwendung aller Ein-
+nahmen durch Emissionen privater Haushalte  die investive Unterstü tzung von Einsparmaßnahmen aus anderen 
+öffentlichen Mitteln finanziert werden. 
+2.5 Maßnahmen  zur Dekarbonisierung mit dem Fokus auf vulnerable 
+Haushalte  
+Um vulnerable Gruppen nachhaltig vor Preissteigerungen zu schützen , braucht es  neben soziale m Ausgleich 
+(bspw. durch ein Klimageld, siehe Abschnitt 2.4) auch Maßnahmen, die gezielt dabei helfen, fossile Abhängigkeiten 
+aufzulösen. Das ist besonders für diese Gruppen aus eigener Kraft schwer bis unmöglich. Kann gezielt geholfen 
+werden, verbessert sich nicht nur deren Resilienz gegen hohe fossile Energiepreise. Sie können dadurch überhaupt 
+an der ökologischen Transformation teilhaben, sodass diese auch auf lange Frist sozial gerechter ist. 
+Wie die vorherigen Abschnitte gezeigt haben, gibt es in Deutschland bisher nur wenige Maßnahmen , die sich auf 
+vulnerable Gruppen fokussieren (siehe insb. Abschnitt 2.3.2). Zudem sollte der Fokus bei der Verwendung von ETS-
+Mitteln laut deren Regulierung auf investiven Maßnahmen liegen (siehe Abschnitt 2.2). In diesem Abschnitt stellen 
+ 
+ 
+27  Kurzfristig bedeutet hier, dass es eine Entlastungswirkung gibt, so lange die Emissionen in den ersten beiden Dezilen 
+noch niedriger sind als jene in höheren Dezilen. Bei fortschreitender Reduktion der Emission in den oberen Dezilen und 
+einem Lock-in der CO
+2-Emissionen in den unteren Dezilen, ist keine Entlastungswirkung für untere Einkommen mehr 
+gegeben, weil die unteren Einkommen einen höheren Anteil der Einnahmen aus CO2-Bepreisung finanzieren. 
+-0,8%
+-0,6%
+-0,4%
+-0,2%
+0,0%
+0,2%
+0,4%
+0,6%
+0,8%
+-400
+-300
+-200
+-100
+0
+100
+200
+300
+400
+1. Dezil 2. Dezil 3. Dezil 4. Dezil 5. Dezil 6. Dezil 7. Dezil 8. Dezil 9. Dezil 10. Dezil
+Nettoeffekt in % verfügbares Einkommen
+Be- / Entlastung in €/Jahr pro Kopf
+Einkommensdezile
+CO2-Kosten Mobilität €/Jahr CO2-Kosten Wärme Mietende €/Jahr
+CO2-Kosten Wärme Eigentümer*innen €/Jahr Klimageld €/Jahr
+CO2-Kosten Wärme Vermietende €/Jahr Nettoeffekt in % verfügbares Einkommen
+
+--- PDF SEITE 37 ---
+Umsetzung ETS II in Deutschland  •  Seite 37 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+wir eine Übersicht von Maßnahmen zusammen, die sowohl auf vulnerable Gruppen als auch auf eine positive Klima- 
+beziehungsweise Umweltwirkung abzielen und damit potenziell über den KSF finanziert werden könnten.  
+Neben den eben genannten Gründen ist die  Debatte über solche Maßnahmen besonders relevant, weil die Bun-
+desregierung die von ihr geplanten KSF-Maßnahmen bereits bis zum 30. Juni 2025 zur Prüfung  bei der EU-Kom-
+mission anmelden muss (siehe (17) der EU-Verordnung 2023/955 und Abschnitt 2.2).  
+Die Übersicht (siehe folgende Tabelle) basiert auf aktueller Fachliteratur und beschränkt sich auf die Sektoren Ver-
+kehr und Gebäude .28 So bietet beispielsweise das Umweltbundesamt (2022) einen systematischen und kategori-
+sierten Überblick von Maßnahmen zur sozialverträglichen Gestaltung der CO2-Bepreisung in diesen beiden Berei-
+chen. Viele der dort genannten Vorschläge  könnten durch den KSF  ermöglicht werden. Auch das Öko-Institut  
+(2022 mit anderen und 2021c) beschreibt Maßnahmen für sozial gerechten Klimaschutz beschrieben, die potenziell 
+über den KSF finanziert werden könnten und damit in der  folgenden Tabelle dargestellt werden  (siehe weitere 
+Quellen darin).  
+Die Einschätzung der Zielgenauigkeit ist als erste grobe Einschätzung zu verstehen  und unterliegt keiner ausführ-
+lichen Analyse. Dahinter stehen die folgenden Fragen:  
+ Wird die Zielgruppe – also die vulnerablen Haushalte – erreicht? 
+ Falls ja, direkt? Indirekt würde bedeuten, dass die Mittel auch allen anderen Haushalten zugutekommen. 
+ Hat die Maßnahme eine positive Klimawirkung? 
+ 
+Können die Fragen  alle bejaht werden, ist das Feld grün gefüllt. Sollte dies nur teilweise zutreffen , gelb. Maßnah-
+men, die die Kriterien nach unserer ersten Einschätzung nicht erfüllen, sind nicht aufgeführt.  Vorschläge, die mit 
+Gelb bewertet wurden, können g egebenenfalls durch Anpassungen in der Ausrichtung stärker auf vulnerable 
+Gruppen fokussiert werden. 
+Die grün bewerteten Maßnahmen ermöglichen eine Entlastung vulnerabler Gruppen. Sie verringern den fossilen 
+Energieverbrauch und erhöhen die Resilienz gegenüber Energie-  und CO2-Preissteigerung in dieser Zielgruppe. 
+Sie wirken damit sozial und tragen zum Klimaschutz bei.  In Anbetracht der knappen finanziellen Mittel durch den 
+KSF (siehe u. a. Abschnitt 2.1) wird eine anteilige Finanzierung durch die (restlichen) nationalen Auktionseinnahmen 
+aus dem ETS II unabdingbar sein. Selbst dann muss gegebenenfalls eine Abwägung zwischen den vielen möglichen 
+Maßnahmen getroffen werden. Dabei sollte der Verwaltungsaufwand möglichst geringgehalten werden, um die 
+Mittel nicht weiter zu reduzieren. Es bietet sich an, Maßnahmen auszuwählen, die als Ergänzung in bestehende Pro-
+gramme eingebettet werden können , sodass auf bewährte administrative Prozesse zurückgegriffen werden kann. 
+Beispiele dafür sind die Aufstockung der BEG durch eine zielgruppenspezifische Förderung  für Maßnahmen im 
+Gebäudebereich oder ein Sozialtarif im Deutschlandticket in Verbindung mit dem  Ausbau des ÖPNV und einer 
+Mobilitätsgarantie.  
+An dieser Stelle soll aber auch deutlich gemacht werden , dass die Zielgenauigkeit der Maßnahmen  letztlich stark 
+davon abhängt, ob vulnerable Gruppen hinreichend identifiziert werden können und auch, ob sie letztlich mit den 
+Maßnahmen erreicht werden können (für eine ausführliche Diskussion, siehe Abschnitt 2.4). Dabei ist auch relevant, 
+dass –  je nach Definition – nicht nur die Haushalte mit den geringsten Einkommen als vulnerabel gelten (für Details, 
+siehe Abschnitt 2.3.1 ). Unsere Darstellung schätzt also lediglich grob ein, ob  die vorgeschlagenen Maßnahmen 
+grundsätzlich für die Finanzierung durch die KSF -Mittel (bzw. die restlichen des ETS)  geeignet sind . Die genaue 
+Ausgestaltung bleibt offen. Dabei sollten die bisher gesammelten  Erfahrungen in Bezug auf eine zielgenaue Aus-
+gestaltung sowie Inanspruchnahme von Maßnahmen durch die Zielgruppe einbezogen werden.29 
+Zudem sind keine hinreichenden Informationen zum finanziellen Umfang der  vorgeschlagenen Maßnahmen ver-
+fügbar. Die Finanzierbarkeit der einzelnen Maßnahmen ist deshalb nicht Teil der Einschätzung. Grundsätzlich soll-
+ten die Kosten einer Maßnahme aber mit  erhöhter Zielgenauigkeit abnehmen beziehungsweise bei gleichen Mit-
+teln eine höhere Förderung ermöglichen.  Da die KSF -Mittel für Deutschland pro Haushalt und Kopf gering sein 
+werden (vgl. Tabelle 5), wird eine (anteilige) Finanzierung über die übrigen ETS II-Mittel unabdingbar sein, um eine 
+ 
+ 
+28  Auch wenn die Übersicht im Rahmen dieser Studie keine Maßnahmen für Kleinstunternehmen beinhaltet, sind diese 
+ebenso relevant für die Debatte. 
+29  Siehe bspw. Landesregierung Schleswig-Holstein (2023): Darin wird dargelegt, dass Teile des Förderprogramms „Klima-
+schutz für Bürgerinnen und Bürger“, die explizit für Bezieher*innen von Bürgergeld, Grundsicherung und Wohngeld 
+eingeführt wurden, nur in sehr geringem Ausmaß genutzt wurden. Auf Basis dieser Beobachtung sollten die Gründe 
+evaluiert werden, um zukünftige Maßnahmen effektiver auszugestalten.
+
+--- PDF SEITE 38 ---
+Umsetzung ETS II in Deutschland  •  Seite 38 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+sichere Finanzierung für die Maßnahmen zu gewährleisten. Darüber hinaus sollten Maßnahmen für vulnerable 
+Haushalte auch aus den Einnahmen des ETS I und aus Haushaltsmitteln finanziert werden. 
+ 
+Tabelle 8: Übersicht über potenzielle KSF-Maßnahmen für vulnerable Haushalte in Deutschland 
+Maßnahmen Weitere Details Quelle Einschätzung Zielgenauigkeit 
+Für vulnerable* Haushalte sektorübergreifend 
+Erhöhung des Mehrbedarfs in 
+der Grundsicherung für k lima-
+freundliche Ausgaben  
+Für die Anschaffung energieeffi-
+zienter Geräte, für klimafreundli-
+che Investitionen oder Verhal-
+tensweisen (z. B. Bahnreisen) 
+Öko-Institut 
+u.a. (2022) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Gutscheine für den Bezug er-
+neuerbarer Energien  
+  Öko-Institut 
+u.a. (2022) 
+Erreicht die Zielgruppen, geringer  
+Klimaschutzbeitrag 
+Härtefallunterstützung bei hö-
+heren Wohnkosten 
+  Öko-Institut 
+u.a. (2022) 
+Direkte Einkommensunterstützung, 
+kein Klimaschutzbeitrag 
+Heizkostenzuschuss Bereits eingeführt (im Wohn-
+geld), siehe Einschätzung Quelle 
+2 
+Öko-Institut 
+u.a. (2022) 
+Erreicht die Zielgruppen, kein Kli-
+maschutzbeitrag 
+Klimakomponente im Wohn-
+geld 
+Bereits eingeführt, siehe Ein-
+schätzung Quelle 2 
+Öko-Institut 
+u.a. (2022) 
+Erreicht die Zielgruppen, kein Kli-
+maschutzbeitrag 
+Für vulnerable* Haushalte Verkehrssektor 
+Abwrack- bzw. Tauschprämie 
+bei Kauf eines E-Autos für vul-
+nerable Haushalte 
+  Öko-Institut 
+(2021d) 
+Adelphi u.a. 
+(2023) 
+Unterstützt Investitionen in klima-
+freundliche Technologie in der Ziel-
+gruppe, unklarer Klimaschutzbei-
+trag der Abwrackprämie 
+Einführung eines Sozialti-
+ckets/Sozialtarife ÖV 
+Bspw. reduziertes Deutschland-
+ticket  
+Agora Ver-
+kehrswende 
+(2023) 
+UBA (2022)  
+Positive Klimaschutzwirkung  in der 
+Zielgruppe 
+Förderung von Sharing -Ange-
+boten 
+Keine Quelle explizit  für ländli-
+che Gebiete; Quelle enthält auch 
+Vorschläge, die auf alle Haus-
+halte abzielen – Fokus hier je-
+doch vulnerable 
+Adelphi u.a. 
+(2023) 
+Positive Klimaschutzwirkung  in der  
+Zielgruppe 
+Gutscheine für den ÖV  Bspw. kostenlose Monatstickets Öko-Institut 
+u.a. (2022) 
+Positive Klimaschutzwirkung  in der 
+Zielgruppe 
+Kaufprämie für Elektroräder 
+und Elektroleichtfahrzeuge  
+  Öko-Institut 
+u.a. (2022) 
+Positive Klimaschutzwirkung  in der 
+Zielgruppe 
+Kaufprämie für gebrauchte E -
+Autos 
+  Adelphi u.a. 
+(2023) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Leasing klimaverträglicher 
+Verkehrsmittel mit h öheren 
+bzw. hohen  Anschaffungskos-
+ten 
+Bspw. E- Bikes oder E -Autos, 
+auch Social-Leasing genannt 
+Adelphi u.a. 
+(2023) 
+Agora Ver-
+kehrswende 
+(2023) 
+Öko-Institut 
+(2021d) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Prämien für Kauf oder Repara-
+tur von Fahrrädern 
+  Öko-Institut 
+(2021d) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Reform der Kaufprämie für E -
+Autos  
+Höhere Prämie für vulnerable 
+Haushalte 
+Öko-Institut 
+u.a. (2022) 
+UBA (2022) 
+Positive Klimaschutzwirkung , aber  
+Neukauf für  Zielgruppe eher nicht 
+relevant
+
+--- PDF SEITE 39 ---
+Umsetzung ETS II in Deutschland  •  Seite 39 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+Maßnahmen Weitere Details Quelle Einschätzung Zielgenauigkeit 
+Umgestaltung der Kfz-Steuer CO2-abhängiges Bonus-Malus-
+System (für alle)  mit Bonus für 
+vulnerable Gruppen 
+UBA (2022) Positive Klimaschutzwirkung, aber 
+Neukauf für  Zielgruppe eher nicht 
+relevant 
+Für alle Haushalte im Verkehrssektor 
+Ausbau der Radverkehrsinfra-
+struktur und Verbesserung der 
+Bedingungen für den Radver-
+kehr 
+Einbettung in Gesamtstrategie 
+intermodaler Verkehr mit Fuß-
+verkehr, ÖPNV und div. Sharing-
+Angeboten 
+Öko-Institut 
+(2021d) 
+Auch wenn nicht zielgerichtet ,zent-
+ral für die Zielgruppe, positive Kli-
+mawirkung 
+Mobilitätsgarantie zur Sicher-
+stellung von Mobilität und Teil-
+habe 
+Garantierte Mindestanzahl von 
+Fahrten mit Bus und Bahn in al-
+len Gemeinden, Erreichbarkeits-
+ziele oder Infrastrukturvorgaben 
+im ÖPNV 
+Adelphi u.a. 
+(2023) 
+Agora Ver-
+kehrswende 
+(2023) 
+Auch wenn nicht zielgerichtet, zent-
+ral für die Zielgruppe, positive Kli-
+mawirkung 
+Betriebliches und kommunales 
+Mobilitätsmanagement 
+  Agora Ver-
+kehrswende 
+(2023) 
+Nur indirekt für die Zielgruppe, 
+keine direkte Klimawirkung  
+Entwicklung digitaler Plattfor-
+men für ein gesammeltes An-
+gebot an Null-Emissionen Ver-
+kehr 
+  Adelphi u.a. 
+(2023) 
+Nur indirekt für die Zielgruppe, posi-
+tive Klimawirkung 
+Erhöhung ÖV -Infrastruktur-
+ausgaben und regulatorische 
+Verbesserungen 
+  FEST/FÖS 
+(2021) 
+Öko-Institut 
+u.a. (2022) 
+Nur indirekt für die Zielgruppe, posi-
+tive Klimaschutzwirkung 
+Reform der Entfernungspau-
+schale 
+Einkommensunabhängiges Mo-
+bilitätsgeld oder kleine und 
+große Pauschale 
+FEST/FÖS 
+(2021) 
+Öko-Institut 
+u.a. (2022) 
+Agora Ver-
+kehrswende 
+(2023) 
+Nur indirekt für die Zielgruppe, 
+keine direkte Klimawirkung 
+Senkung des Mehrwertsteuer-
+satzes für den ÖPNV auf Null 
+  UBA (2022) 
+Nur indirekt für die Zielgruppe, 
+keine direkte Klimawirkung  
+Unterstützung der Gemeinden 
+bei sauberem Verkehr zu all-
+täglichen Zielen (Schule, Ein-
+kaufen)  
+  
+Adelphi u.a. 
+(2023) 
+Nur indirekt für die Zielgruppe, posi-
+tive Klimawirkung  
+Verpflichtendes ÖV -Bür-
+ger*innenticket 
+Jahresticket für alle verpflich-
+tend (analog zu Semesterticket 
+bspw. in NRW) 
+Öko-Institut 
+(2021d) 
+Nur indirekt für die Zielgruppe, posi-
+tive Klimawirkung  
+Für vulnerable* Haushalte im Gebäudesektor 
+Ausweitung der Energiebera-
+tung zur Hebung nied-
+rigschwelliger Einsparpotenzi-
+ale 
+Bereitstellung One- Stop-Shops 
+für gezielte Informationen und 
+Beratung; Pop- up-Infobusse 
+bzw. -zelte; Bereitstellung Infor-
+mationsleitfaden; Ausbildung 
+Wärmeenergieberater*innen; 
+Verpflichtende Anwesenheit von 
+Ansprechpartner*innen bei Ver-
+sammlungen von Mietenden  
+Öko-Institut 
+u.a. (2022) 
+Öko-Institut 
+(2021e) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Ermäßigung auf Strom - oder 
+Gasrechnungen im Winter in 
+Substandard-Wohnungen 
+  
+Adelphi u.a. 
+(2023) 
+Erreicht die Zielgruppe, kein Klima-
+schutzbeitrag
+
+--- PDF SEITE 40 ---
+Umsetzung ETS II in Deutschland  •  Seite 40 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Maßnahmen Weitere Details Quelle Einschätzung Zielgenauigkeit 
+Gezielte Finanzierungshilfen 
+von sanierungsbedürftigen 
+Gebäuden 
+Gezielte höhere Förderung für 
+Haushalte mit geringem Einkom-
+men, beziehungsweise jene Häu-
+ser, in denen überwiegend Men-
+schen mit niedrigem Einkommen 
+wohnen (vsl. keine ausreichen-
+den Mittel im KSF) 
+Adelphi u.a. 
+(2023) 
+UBA (2022) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Gezielte Investitionsbeihilfen 
+für vulnerable Eigentümer*in-
+nen 
+Höhere Fördersätze in der BEG 
+für Einzelmaßnahmen (Fenster-
+tausch, Dachdämmung etc.); 
+hydraulischen Abgleich fördern, 
+Wärmepumpenleasing  
+UBA (2022) Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Gutscheine für Mieter*innen 
+für smarte Thermostate oder 
+andere smarte Anwendungen 
+ Quelle noch 
+nicht veröffent-
+licht 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Modernisierungsumlage wei-
+terentwickeln 
+Kosten fair verteilen (kurzfristige 
+Absenkung); Nutzung der Sanie-
+rungsförderung anreizen, um 
+Mietende zu entlasten  
+Quelle noch 
+nicht veröffent-
+licht 
+Erreicht die Zielgruppe, unklarer Kli-
+maschutzbeitrag 
+Sanierungsförderung in vul-
+nerablen Gebieten 
+ UBA (2022) Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Strom- und Wärmespar -
+Check der Nationalen Klima-
+schutzinitiative auf weitere 
+Zielgruppen und Anwen-
+dungsbereiche ausweiten 
+Läuft aktuell bereits, kann erwei-
+tert und verstetigt werden  
+Öko-Institut 
+(2021e) 
+Positive Klimaschutzwirkung in der 
+Zielgruppe 
+Für alle Haushalte im Gebäudesektor 
+Priorisierung der ineffizientes-
+ten Gebäude bei der Sanie-
+rungsförderung (M inimum 
+Energy Performance Stan-
+dards) 
+  UBA (2022) 
+Nicht gezielt für die Zielgruppe, aber 
+positive Klimaschutzwirkung  
+Anmerkungen: Die Einschätzung der Zielgenauigkeit ist als erste grobe Einordnung zu verstehen und basiert nicht auf einer ausführlichen (siehe die 
+Kriterien im Text). * Wer vulnerabel ist, folgt keiner einheitlichen Definition (wie bspw. in Abschnitt 2.3.1  beschrieben). Der Fokus liegt dabei auf ein-
+kommensschwachen Haushalten. 
+3 Ausblick 
+In dieser Studie haben wir eine Rei he von Fragen zum Geltungsbereich und zur Verwendung der Einnahmen des 
+geplanten ETS II im Bereich Gebäude und Verkehr in Deutschland untersucht. Ein besonderer Fokus lag dabei auf 
+der Nutzung nationaler Spielräume  und der Umsetzung von Maßnahmen zur Entlastung besonders betroffener 
+Gruppen. Dennoch verblieben an verschiedenen Stellen Fragezeichen – insbesondere, weil die bisherige Regulie-
+rung noch nicht hinreichend spezifisch beziehungsweise  die konkrete Auslegung durch die Europäische Kommis-
+sion noch offen ist. 
+Beim Zusammenspiel und Übergang von nEHS und ETS II ist weiterhin nicht offiziell, ob Deutschland wie erwartet 
+die Opt-in-Option wählt. Die größten Unsicherheiten verbleiben darüber hinaus in Bezug auf das CO 2-Preisni-
+veau bei Einführung des ETS II und inwiefern die nationalen Regierungen bzw. die Europäischen Organe bei einem 
+hohen Niveau preismindernd eingreifen werden. Daraus folgt ebenso die Unsicherheit über die Höhe der Einnah-
+men und den damit verbundenen Spielraum für die Mitgliedstaaten. In der Studie werden verschiedene Vorschläge 
+dargelegt, die zu mehr Planbarkeit und weniger politischer Unsicherheit führen können. 
+Bei der Verwendung der Einnahmen verbleiben mehrere Fragezeichen in Bezug auf die Kriterien, für wen und für 
+was die ETS II-Mittel letztlich verwendet werden können. Grundsätzlich sollen sie für klimafreundliche Zwecke ein-
+gesetzt werden. Im Fokus sollen durch das ETS II besonders belastete Gruppen  stehen (Haushalte und Unterneh-
+men), wobei es Spielraum für den konkreten Anteil dieser Gruppe an der Mittelverwendung gibt. Die Mittel aus dem
+
+--- PDF SEITE 41 ---
+Umsetzung ETS II in Deutschland  •  Seite 41 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko-Institut e.V. 
+ 
+KSF sind klarer beschränkt als die übrigen ETS II- Einnahmen. Auch wenn der KSF Anhaltspunkte zur Definition 
+vulnerabler Gruppen enthält, wurden bisher noch keine Indikatoren zu deren Bestimmung festgelegt – insbeson-
+dere im Bereich Verkehr. Darüber hinaus bleibt offen, ob die vorgegebenen Indikatoren  ausreichen, um die Ziel-
+gruppen auch tatsächlich mit den entsprechenden Programmen erreichen zu können. Diese Studie enthält bereits 
+eine erste Sammlung von möglichen (Förder-)Maßnahmen mit Bezug zu vulnerablen Haushalten. Diese Vor-
+schläge sollten in ihrer konkreten Au sgestaltung weiterentwickelt und um Ideen aus dem Bereich der vulnerablen 
+Unternehmen ergänzt werden.    
+Ein Klimageld aus ETS II-Mitteln ist grundsätzlich möglich, allerdings müsste die Zulässigkeit von konkreten Aus-
+gestaltungsformen mit der Europäischen Kommission geklärt werden. Die EU-Kommission sollte möglichst zeitnah 
+Klarheit schaffen, um die konkrete Planung der Mittelverwendung auf nationaler Ebene zu ermöglichen.  Letztlich 
+ist es auch eine Frage der nationalen politischen Prioritäten und der gesellschaftlichen Akzeptanz für den CO 2-
+Preis, wo die Schwerpunkte bei der Mittelverwendung liegen sollen.    
+Da die KSF-Mittel für Deutschland aller Voraussicht nach knapp ausfallen werden, sollte unbedingt eine (antei-
+lige) Finanzierung von Maßnahmen für vulnerable Gruppen durch die (restlichen) nationalen Einnahmen aus dem 
+ETS II sowie den Einnahmen des ETS I und auch den restlichen generellen Haushaltsmitteln erwogen werden.
+
+--- PDF SEITE 42 ---
+Umsetzung ETS II in Deutschland  •  Seite 42 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+LITERATURVERZEICHNIS  
+Abrell, J., Süheyb, B., Blesl, U., Fahl, U., Kattelmann, F., Kittel, L., Kosch, M., Luderer, G., Marmullaku, D., Pahle, M., 
+Pietzcker, R. C., Rodrigues, R., Siegle, J. (2022): Optimale Zuteilung des CO2-Budgets der EU: Eine Multi-
+Modell-Bewertung. S. 23. 
+Adelphi, Öko-Institut, CSD, WiseEuropa (2023): Putting the ETS 2 and Social Climate Fund to work. Abrufbar un-
+ter: https://adelphi.de/system/files/document/policy-report_putting-the-ets-2-and-social-climate-fund-
+to-work_final_02.pdf 
+Agora Energiewende, Agora Verkehrswende (2023): Der CO2-Preis für Gebäude und Verkehr. Abrufbar unter: 
+https://static.agora-energiewende.de/fileadmin/Projekte/2023/2023-26_BEH_ETS_II/A-
+EW_311_BEH_ETS_II_WEB.pdf 
+Agora Verkehrswende (2023): Mobilitätsarmut in Deutschland. Annäherung an ein unterschätztes Problem mit 
+Lösungsperspektiven für mehr soziale Teilhabe und Klimaschutz. Abrufbar unter: https://www.agora-ver-
+kehrswende.de/veroeffentlichungen/mobilitaetsarmut-in-deutschland/ 
+BMWK (2023a): Aktualisierung des integrierten nationalen Energie- und Klimaplans. Entwurf. Abrufbar unter: 
+https://www.bmwk.de/Redaktion/DE/Downloads/M-O/necp-entwurf-2023.pdf?__blob=publication-
+File&v=2 
+BMWK (2023b): Jetzt umsteigen auf klimafreundliche Wärme!. Abrufbar unter: https://www.energiewech-
+sel.de/KAENEF/Redaktion/DE/Dossier/geg-gesetz-fuer-erneuerbares-heizen.html 
+Bundesrechnungshof (2023): Luftverkehrsteuer reformieren – hohe Mindereinnahmen drohen. Abrufbar unter: 
+https://www.bundesrechnungshof.de/SharedDocs/Downloads/DE/Berichte/2023/ergaenzungsband-
+2022/bemerkung-37.html?nn=23102 
+Bundesregierung (2021): Koalitionsvertrag. Abrufbar unter: https://www.bundesregierung.de/re-
+source/blob/974430/1990812/04221173eef9a6720059cc353d759a2b/2021-12-10-koav2021-
+data.pdf?download=1 
+Cambridge Econometrics (2021): Exploring the trade-offs in different paths to reduce transport and heating emis-
+sions in Europe. Abrufbar unter: https://www.transportenvironment.org/wp-content/uplo-
+ads/2021/08/2021_05_ECF_ETS_extension_report_final.pdf 
+Destatis (2022): Einzelhandelsumsatz im März 2022 um 0,1 % niedriger als im Vormonat. Abrufbar unter: 
+https://www.destatis.de/DE/Presse/Pressemitteilungen/2022/05/PD22_185_45212.html 
+DESTATIS (2023): Bevölkerungsstand. Bevölkerung nach Nationalität und Geschlecht (Quartalszahlen). Abrufbar 
+unter: https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Bevoelkerung/Bevoelkerungs-
+stand/Tabellen/liste-zensus-geschlecht-staatsangehoerigkeit.html#651186 
+Deutscher Bundestag (2024): Drucksache 20/9792: Beschlussempfehlung. Entwurf eines Haushaltsfinanzie-
+rungsgesetzes 2024. Abrufbar unter: https://dserver.bundestag.de/btd/20/097/2009792.pdf 
+Ecologic Institut, Potsdam Institute for Climate Impact Research (PIK), RWI - Leibniz-Institut für Wirtschaftsfor-
+schung, MCC, Stiftung Umweltenergierecht (2022): Ariadne Report. Ein fairer und solidarischer EU-Emis-
+sionshandel für Gebäude und Straßenverkehr. Abrufbar unter: https://ariadneprojekt.de/me-
+dia/2022/09/Ariadne-Report_ETS2-SCF_DE_September2022.pdf 
+EEA, Öko-Institut, Vito (2023): Trends and projections in Europe 2023. Abrufbar unter: https://www.eea.eu-
+ropa.eu/publications/trends-and-projections-in-europe-2023 
+EU-Kommission (2021): COMMISSION STAFF WORKING DOCUMENT IMPACT ASSESSMENT REPORT Ac-
+companying the document DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+amending Directive 2003/87/EC establishing a system for greenhouse gas emission allowance trading 
+within the Union, Decision (EU) 2015/1814 concerning the establishment and operation of a market stabil-
+ity reserve for the Union greenhouse gas emission trading scheme and Regulation (EU) 2015/757; PART 
+2/4. Abrufbar unter: 
+https://eur-lex.europa.eu/resource.html?uri=cellar:7b89687a-eec6-11eb-a71c-
+01aa75ed71a1.0001.01/DOC_2&format=PDF   
+EU-Kommission (2023a): What is the EU ETS?. Abrufbar unter: https://climate.ec.europa.eu/eu-action/eu-emis-
+sions-trading-system-eu-ets/what-eu-ets_en  
+EU-Kommission (2023b): Effort sharing 2021-2030: targets and flexibilities. Abrufbar unter: https://climate.ec.eu-
+ropa.eu/eu-action/effort-sharing-member-states-emission-targets/effort-sharing-2021-2030-targets-
+and-flexibilities_en  
+EU-Kommission (2023c): EMPFEHLUNG (EU) 2023/2407 DER KOMMISSION vom 20. Oktober 2023 zu Ener-
+giearmut. Abrufbar unter: https://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=OJ:L_202302407
+
+--- PDF SEITE 43 ---
+Umsetzung ETS II in Deutschland  •  Seite 43 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+EU-Kommission (2023d): COMMISSION STAFF WORKING DOCUMENT. EU guidance on energy poverty. Ac-
+companying the document Commission Recommendation on energy poverty. {C(2023) 4080 final}. Ab-
+rufbar unter: https://energy.ec.europa.eu/system/files/2023-
+10/SWD_2023_647_F1_OTHER_STAFF_WORKING_PAPER_EN_V5_P1_3016190.PDF  
+EURACTIV (2023): EU-Mindeststeuern auf Energie: Keine Einigung in Sicht. Abrufbar unter: https://www.eurac-
+tiv.de/section/verkehr/news/eu-mindeststeuern-auf-energie-keine-einigung-in-sicht/  
+FamK - Bundesagentur für Arbeit/Familienkasse (2021): Jahreszahlen 2020, Die wichtigsten Zahlen zur Kinder-
+geld- und Kinderzuschlagsgewährung. Entwicklung seit 1975. Abrufbar unter: https://statistik.arbeitsagen-
+tur.de/Statistikdaten/Detail/202012/famka/famka-jz/famka-jz-d-0-202012-pdf.pdf?__blob=publication-
+File&v=2  
+FEST, FÖS (2021): Sozialverträgliche Kompensation der CO2-Bepreisung im Verkehr. Abrufbar unter: 
+https://foes.de/publikationen/2021/2021-08_FOES-FEST_sozialvertraegliche-CO2-Bepreisung-Ver-
+kehr.pdf  
+FEST, FÖS (2022): Criteria for an effective and socially just EU ETS 2. Abrufbar unter: https://foes.de/publikatio-
+nen/2022/2022-01_Study-Assessment-EU-ETS2.pdf  
+Forschungsdatenzentren der Statistischen Ämter des Bundes und der Länder (FDZ) (2022): Einkommens- und 
+Verbrauchsstichprobe 2018. Abrufbar unter: https://www.destatis.de/DE/Themen/Gesellschaft-Um-
+welt/Einkommen-Konsum-Lebensbedingungen/Einkommen-Einnahmen-Ausgaben/Publikatio-
+nen/Downloads-Einkommen/evs-aufgabe-methode-durchfuehrung-2152607189004.pdf?__blob=publi-
+cationFile  
+FÖS (2014): Umsetzung eines CO2-Mindestpreises in Deutschland. Internationale Vorbilder und Möglichkeiten 
+für die Ergänzung des Emissionshandels. Abrufbar unter: http://www.foes.de/pdf/2014-10-FOES-CO2-
+Mindestpreis.pdf  
+FÖS (2021): #SozialerKlimaschutz (Teil 2/4). CO2-Preis: Lenkungswirkung steigern, Sozialverträglichkeit sichern. 
+Abrufbar unter: https://foes.de/publikationen/2021/2021-09_FOES_Policy_Brief_Preispfad.pdf  
+FÖS (2022): Weiterhin nicht auf Kurs: Inflation und Entlastungen untergraben eine ökologische Finanzpolitik. Ab-
+rufbar unter: https://foes.de/publikationen/2022/2022-11_FOES-Steuerstruktur.pdf  
+FÖS (2023a): Entlastungspakete für die Industrie: Hemmnis für die Transformation?. Abrufbar unter: 
+https://foes.de/publikationen/2023/2023-05_FOES_Industrieentlastungen.pdf  
+FÖS (2023b): Paying for Paris: Öffentliche Finanzbedarfe und -lücken zur Erreichung der Klimaschutzziele 2030. 
+Abrufbar unter: https://foes.de/publikationen/2023/202310_WWF_FOES_Finanzierung_der_Transforma-
+tion.pdf  
+FÖS (2023c): Mehr politischer Wille fürs Klimageld gefragt. Abrufbar unter: https://foes.de/publikatio-
+nen/2023/2023-03_FOES_Policy_Brief_Klimageld.pdf  
+FÖS, Klinski, S. (2018): Alternative Finanzierungsoptionen für erneuerbare Energien im Kontext des Klimaschutzes 
+und ihrer zunehmenden Bedeutung über den Stromsektor hinaus. Endbericht. Abrufbar unter: 
+https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2018-07-17_climate-
+change_20-2018_alternative-finanzierungsoptionen-ee_0.pdf  
+IfW Kiel (2023): Potential efficiency gains from the intro-duction of an emissions trading system for the buildings 
+and road transport sectors in the European Union. Abrufbar unter: https://www.ifw-kiel.de/fileadmin/Da-
+teiverwaltung/IfW-Publications/fis-import/200f22d3-1461-4366-ab70-c1a83fd7dd7f-KWP_2249.pdf   
+Klinski, S., Keimeyer, F., Cludius, J., Schumacher, K. (2023): Fachliche Unterstützung Klimapolitik: Verfassungs-
+rechtliche Grundfragen und sozio-ökonomische Auswirkungen eines „Klimageldes. Abrufbar unter: 
+https://www.oeko.de/fileadmin/oekodoc/Klimageld_Verfassungsrechtliche-Grundfragen-sozio-oekono-
+mische-Auswirkungen.pdf   
+Klinski, S., Keimeyer, F. (2019): Zur finanzverfassungsrechtlichen Zulässigkeit eines nationalen Zertifikatehandels 
+für CO2-Emissionen aus Kraft- und Heizstoffen. Abrufbar unter: https://www.oeko.de/fileadmin/oeko-
+doc/Verfassungsrecht_Emissionshandel_Gebaeude-Verkehr.pdf  
+Landesregierung Schleswig-Holstein (2023): Drucksache 20/1571. Abrufbar unter: https://www.land-
+tag.ltsh.de/infothek/wahl20/drucks/01500/drucksache-20-01571.pdf  
+MCC (2022): Entlastung der Haushalte von der CO2-Bepreisung: Klimageld vs. Absenkung der EEG-Umlage. Ab-
+rufbar unter: https://ariadneprojekt.de/media/2022/05/Ariadne-Analyse_Rueckerstattung_Juni2022.pdf   
+MCC (2023): CO2-Bepreisung zur Erreichung der Klimaneutralität im Verkehrs- und Gebäudesektor: Investiti-
+onsanreize und Verteilungswirkungen. Abrufbar unter: https://www.mcc-
+
+--- PDF SEITE 44 ---
+Umsetzung ETS II in Deutschland  •  Seite 44 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+berlin.net/fileadmin/data/C18_MCC_Publications/2023_MCC_CO2-Bepreisung_Klimaneutra-
+lit%C3%A4t_Verkehr_Geb%C3%A4ude.pdf  
+Öko-Institut (2021a): Konzept für die Einführung eines CO2-Mindestpreises im Stromsektor in Deutschland. Ab-
+rufbar unter: https://www.oeko.de/publikationen/p-details/konzept-fuer-die-einfuehrung-eines-co2-
+mindestpreises-im-stromsektor-in-deutschland   
+Öko-Institut (2021b): CO2-Bepreisung und die Reform der Steuern und Umlagen auf Strom: Die Umfinanzierung 
+der Umlage des Erneuerbare-Energien-Gesetzes. Abrufbar unter: https://www.stiftung-klima.de/app/up-
+loads/2021/06/2021-06-03-Oeko-Institut-CO2-Bepreisung-und-die-Reform-der-Steuern.pdf  
+Öko-Institut (2021c): Verteilungswirkungen ausgewählter klimapolitischer Maßnahmen im Bereich Wohnen. Ab-
+rufbar unter: https://www.oeko.de/fileadmin/oekodoc/Verteilungswirkungen-ausgewaehlter-klimapoliti-
+scher-Massnahmen-im-Bereich-Wohnen_Oeko-Institut.pdf  
+Öko-Institut (2021d): Verteilungswirkungen ausgewählter klimapolitischer Maßnahmen im Bereich Mobilität. Ab-
+rufbar unter: https://www.oeko.de/fileadmin/oekodoc/Verteilungswirkungen-ausgewaehlter-klimapoliti-
+scher-Massnahmen-im-Bereich-Mobilitaet_Oeko-Institut.pdf   
+Öko-Institut (2021e): Sozialverträgliche Wärmewende in Berlin. Herausforderungen und Lösungen für Haushalte 
+mit geringem Einkommen. Abrufbar unter: https://www.ecornet.eu/fileadmin/ecornet/user_upload/Ecor-
+net_Berlin/EcornetBerlin_Report14_Sozialvertraegliche_Waermewende_Berlin_-_Haushalte_mit_gerin-
+gem_Einkommen.pdf  
+Öko-Institut (2023): Großbaustelle Gebäudesektor. Lokal und sozial die Energiewende entfachen. Abrufbar un-
+ter: https://www.oeko.de/fileadmin/oekodoc/WWF_OEko-Institut_Waermewende.pdf   
+Öko-Institut (2024): Supply and demand in the ETS 2. Assessment of the new EU ETS for road transport, buildings 
+and other sectors. Abrufbar unter: https://www.umweltbundesamt.de/sites/default/files/me-
+dien/11850/publikationen/09_2024_cc_ets_2_supply_and_demand.pdf  
+Öko-Institut, FÖS (2022): Energiepreiskrise: Wie sozial und nachhaltig sind die Entlastungspakete der Bundesre-
+gierung?. Abrufbar unter: https://foes.de/publikationen/2022/2022-11_FOES_Energiepreiskrise.pdf   
+Öko-Institut, FÖS, UBA (2022): Der Klima-Sozialfonds im Fit- for-55-Paket der Europäischen Kommission – Defi-
+nition und Quantifizierung vulnerabler Haushalte und notwendige Investitionsbedarfe. Abrufbar unter: 
+https://www.umweltbundesamt.de/sites/default/files/medien/479/publikationen/texte_58-
+2022_der_klima-sozialfonds_im_fit-for-55-paket_der_europaeischen_kommission.pdf   
+PIK (2023): The Emerging Endgame: The EU ETS on the Road Towards Climate Neutrality. Abrufbar unter: 
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4373443  
+SUER (2024): Verwendung der Finanzmittel aus dem EU-Emissionshandel und Klima-Sozialfonds durch die Mit-
+gliedstaaten der EU. Abrufbar unter: https://stiftung-umweltenergierecht.de/wp-content/uplo-
+ads/2024/01/Stiftung_Umweltenergierecht_WueStudien_33_Europaeische_CO2-Bepreisung_und_Klima-
+geld.pdf  
+UBA (2020): Methodenkonvention 3.1 zur Ermittlung von Umweltkosten. Kostensätze. Stand 12/2020. Abrufbar 
+unter: https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2020-12-
+21_methodenkonvention_3_1_kostensaetze.pdf  
+UBA (2022): CO2-Bepreisung im Verkehrs- und Gebäudebereich  sozialverträglich gestalten (Kurzfassung). Ab-
+rufbar unter: https://www.umweltbundesamt.de/sites/default/files/medien/1410/publikationen/2022-12-
+09_kurzfassung_co2-bepreisung_verkehrs-gebaeudebereich_sozialvertraeglich_bf.pdf   
+Zentrales Finanzwesen des Bundes (2023): Wirtschaftsplan des Sondervermögens „Klima- und Transformations-
+fonds“ (KTF) 2023. Abrufbar unter: https://www.zrb.bund.de/SharedDocs/Downloads/DE/Vorschrif-
+ten/5_Haushaltsfuehrung/2023/HF-Rds-2023-sondervermoegen-KTF-Anl1a-Wirtschafts-
+plan.xlsx?__blob=publicationFile&v=1
+
+--- PDF SEITE 45 ---
+Umsetzung ETS II in Deutschland  •  Seite 45 von 46 
+  
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+ANHANG  
+Tabelle 9: Maßnahmen des KTF 2023 
+Maßnahme Wirtschaftsplan 
+2023 (Mio. 
+Euro) 
+Kategorie 
+Serielle Sanierung  127,3  Gebäude 
+Zuschüsse für den Betrieb dekarbonisierter Wärmeinfrastrukturen  50,0  Gebäude 
+Energieeffizienz in Industrie und Gewerbe  914,0  Gebäude 
+Programme und Maßnahmen der Energiewende in den Bereichen Er-
+neuerbare Energien, Strom und Netze, Digitalisierung und Energieinf-
+rastruktur 
+ 137,2  Gebäude 
+Beratung Energieeffizienz  327,0  Gebäude 
+Vorbildfunktion Bundesgebäude  10,0  Gebäude 
+Aufbauprogramm Wärmepumpe  15,0  Gebäude 
+Transformation Wärmenetze  500,0  Gebäude 
+Förderung von Maßnahmen der Energieeffizienz und erneuerbarer 
+Energien im Gebäudebereich 
+ 16.862,1  Gebäude 
+Klimafreundlicher Neubau und Wohneigentumsförderung für Fami-
+lien 
+ 15,4  Gebäude 
+Modellprojekte im Öffentlichen Personennahverkehr   149,0  Verkehr 
+Maßnahmen zur Weiterentwicklung der Elektromobilität   312,8  Verkehr 
+Entwicklung regenerativer Kraftstoffe  59,5  Verkehr 
+Förderprogramm Fahrradparkhäuser an Bahnhöfen  19,0  Verkehr 
+Wasserstoff- und Brennstoffzellenanwendungen im Verkehr  234,3  Verkehr 
+Zuschüsse zur Förderung alternativer Antriebe im Schienenverkehr  65,0  Verkehr 
+Zuschüsse zum Kauf elektrisch betriebener Fahrzeuge  2.100,0  Verkehr 
+Zuschüsse zur Errichtung von Tank- und Ladeinfrastruktur  1.935,0  Verkehr 
+Zuschüsse für die Anschaffung von Nutzfahrzeugen mit alternativen, 
+klimaschonenden Antrieben 
+ 406,5  Verkehr 
+Förderung des Ankaufs von Bussen mit alternativen Antrieben  371,8  Verkehr 
+Nationales Flottenerneuerungsprogramm für Nutzfahrzeuge  76,8  Verkehr 
+Anwendungsorientierte Grundlagenforschung Grüner Wasserstoff  295,0  Energie 
+Förderung im Rahmen der EU-Richtlinie Erneuerbare Energien und 
+sonstiger EU-Rahmen im Strombereich 
+ 4,5  Energie 
+Ausgleichszahlungen für Betreiber von Kohlekraftwerken  505,3  Energie 
+Entschädigungen und Kosten aus Deckungszusagen des Bundes ge-
+genüber der KfW für Maßnahmen der KfW zur Förderung der ersten 
+zehn Offshore-Windparks 
+ -    Energie 
+Verbesserung der Rahmenbedingungen für die Landstromversorgung 
+in deutschen Häfen 
+ 50,0  Energie 
+Umsetzung der Nationalen Wasserstoffstrategie  563,5  Energie 
+DEU-FRA-Projekte IPCEI Wasserstoff  273,0  Energie 
+Industrielle Fertigung für mobile und stationäre Energiespeicher  684,2  Energie 
+Umrüstung von Kohlekraftwerken zu wasserstofffähigen Gaskraftwer-
+ken 
+ 0,3  Energie 
+Zuschüsse an stromintensive Unternehmen zum Ausgleich von emissi-
+onshandelsbedingten Strompreiserhöhungen 
+ 2.993,0  Industrie 
+CO2-Vermeidung und -Nutzung in Grundstoffindustrien  240,0  Industrie 
+Neue Konstruktionstechniken und Werkstoffe für eine emissionsarme 
+Industrie 
+ 50,0  Industrie 
+Dekarbonisierung der Industrie  2.208,4  Industrie 
+Wasserstoffeinsatz in der Industrieproduktion  456,4  Industrie 
+Klimaneutrales Fliegen  170,0  Luftfahrt 
+Förderung von Erzeugungsanlagen für strombasierte Kraftstoffe und 
+fortschrittliche Biokraftstoffe sowie von Antriebstechnologien für die 
+Luftfahrt 
+ 35,0  Luftfahrt 
+Zuwendungen für Bodenstromanlagen an Flughäfen  5,0  Luftfahrt
+
+--- PDF SEITE 46 ---
+Umsetzung ETS II in Deutschland  •  Seite 46 von 46 
+Forum Ökologisch-Soziale Marktwirtschaft e.V. und Öko -Institut e.V. 
+ 
+Klimaneutrales Schiff  30,0  Schifffahrt 
+Förderung von Maßnahmen zur energetischen Stadtsanierung - Kli-
+maschutz und Klimaanpassung im Quartier 
+ 70,4  Stadtplanung 
+Anpassung urbaner Räume an den Klimawandel  162,7  Stadtplanung 
+Waldklimafonds  37,0  Forstwirtschaft 
+Zuschüsse zur Förderung von Maßnahmen zum Humusaufbau  12,0  Forstwirtschaft 
+Zuschüsse zur Förderung von Maßnahmen zum Schutz von Moorbö-
+den und zur Verringerung der Torfverwendung 
+ 25,0  Forstwirtschaft 
+Honorierung der Ökosystemleistung des Waldes und von klimaange-
+passtem Waldmanagement 
+ 200,0  Forstwirtschaft 
+Maßnahmen zum Natürlichen Klimaschutz  582,0  Agrar 
+Fördermaßnahme zum Natürlichen Klimaschutz in kommunalen Ge-
+bieten im ländlichen Raum 
+ 8,0  Agrar 
+Zuschüsse zur Förderung von Maßnahmen zur energetischen Nutzung 
+von Wirtschaftsdünger und zur Emissionsminderung beim Wirt-
+schaftsdüngermangement 
+ 28,6  Agrar 
+Zuschüsse zur Förderung von Maßnahmen für eine Verbesserung der 
+Energieeffizienz in Landwirtschaft und Gartenbau 
+ 2,2  Agrar 
+Forschungs- und Innovationsprogramm Klimaschutz im Bereich Er-
+nährung und Landwirtschaft 
+ 20,0  Agrar 
+Zuschüsse für Investitionen von Maßnahmen zur energetischen Nut-
+zung von Wirtschaftsdünger und zur Emissionsminderung beim Wirt-
+schaftsdüngermanagement 
+ 30,0  Agrar 
+Zuschüsse für Investitionen zur Förderung von Maßnahmen für eine 
+Verbesserung der Energieeffizienz in Landwirtschaft und Gartenbau 
+ 32,7  Agrar 
+Querschnittsaufgabe Energieeffizienz  186,8  Sonstige 
+Nationale Klimaschutzinitiative, Maßnahmen zum nationalen Klima-
+schutz 
+ 363,5  Sonstige 
+Zinsausgaben für Liquiditätsdarlehen  -    Sonstige 
+Tilgungsausgaben für Liquiditätsdarlehen  -    Sonstige 
+Zuschüsse zur Entlastung beim Strompreis  -    Sonstige 
+Ressourceneffizienz und -substitution  59,0  Sonstige 
+Internationale Energie-, Rohstoff- sowie Technologiezusammenarbeit  97,5  Sonstige 
+Entschädigungen und Kosten aus Deckungszusagen des Bundes ge-
+genüber der KfW für zinssubventionierte Darlehen der KfW für Maß-
+nahmen des internationalen Klima- und Umweltschutzes 
+ -    Sonstige 
+Sanierung kommunaler Einrichtungen in den Bereichen Sport, Jugend 
+und Kultur 
+ 32,0  Sonstige 
+Gesamtsumme Ausgaben  35.200,7  
+ 
+Zuführung an Rücklage  64.810,4  Sonstige 
+Globale Minderausgabe  -    Sonstige 
+Beihilfen nach § 11 BEHG  349,7  Sonstige 
+Gesamtsumme der dargestellten Maßnahmen   100.360,8  
+Quelle : Eigene Darstellung anhand Daten  von Zentrales Finanzwesen des Bundes (2023).
+
+=== DOKUMENT ENDE ===

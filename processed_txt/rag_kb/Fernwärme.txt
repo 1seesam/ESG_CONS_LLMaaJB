@@ -1,0 +1,135 @@
+=== DOKUMENT START: Fernwärme.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Fernwärme
+Fernwärme ist ein System zur Wärmeversorgung, bei dem Wärmeenergie aus einer zentralen Quelle über
+ein Netzwerk von isolierten Rohren zu verschiedenen Verbrauchern (Gebäude, Wohnsiedlungen oder ganze
+Stadtteile) transportiert wird. Zur Wärmeerzeugung kann im Grunde jede Form von Energiequelle genutzt
+werden, etwa fossile Brennstoffe, Biomasse, Abwärme aus Anlagen, Geothermie, Solarenergie oder
+Abfallverbrennung. Durch die zentrale Wärmeproduktion, die oft mit einer Stromproduktion einhergeht
+(KWK-Anlage), wird die Effizienz gesteigert, was zu Kosteneinsparungen und niedrigeren
+Schadstoffemissionen führt.
+Bild: EnBW, Karlsruhe
+ Bild: Forrerbau, Ebnat Kappel
+ Bild: Buderus, Wetzlar
+Infolge der Energiewende hin zu einer nachhaltigen Energieversorgung wurden in jüngerer Zeit immer mehr
+Fernwärme-Systeme auf Basis von umweltfreundlichen Energiequellen wie Biomasse, Geothermie oder
+Solarthermie errichtet. Großteils jedoch kommen noch fossile Brennstoffe wie Kohle oder Gas für die
+Energiegewinnung zum Einsatz.
+GESCHICHTLICHE ENTWICKLUNG
+Der Grundstein für moderne Fernwärme-Systeme wurde im Zuge der Industrialisierung im 19. Jahrhundert
+gelegt, als mit dem Aufkommen der Dampfkraft zentrale Wärmeerzeugungsanlagen für große Fabriken und
+ganze Wohnsiedlungen entstanden. In Deutschland wurden die ersten Fernwärmenetzte zu Beginn des 20.
+Jahrhunderts installiert. Zugleich fand ein Übergang von den ineffizienteren Dampf- zu
+Heißwassersystemen statt. Der große Vorteil der Fernwärme bestand neben dem deutlich höheren Komfort
+vor allem darin, dass die stete Brandgefahr, die von den Kohleöfen ausging, eliminiert wurde und damit
+zugleich die Luftverschmutzung in den Wohngebieten abnahm.
+FUNKTIONSWEISE
+Die Wärmeerzeugung findet überwiegend in Heizkraftwerken oder Blockheizkraftwerken statt, die nach dem
+Prinzip der Kraft-Wärme-Kopplung arbeiten, und in denen fossile Brennstoffe, Biomasse oder Müll verfeuert
+wird. Gelegentlich werden auch Abwärme aus Industrieprozessen, geothermische Energie, solarthermische
+Energie (Solare Fernwärme) sowie Umweltwärme, die durch Großwärmepumpen nutzbar gemacht wurde, in
+Fernwärmesysteme eingespeist. Über ein Netzwerk von werkseitig vorisolierten Rohrleitungen, auch
+Fernwärmeleitungen genannt, wird die Wärmeenergie mittels eines Überträgermediums (meist Wasser) zu
+
+--- PDF SEITE 2 ---
+den Verbrauchern transportiert. In der Regel sind sie unterirdisch, in manchen Fällen auch oberirdisch
+(Überlandleitungen) verlegt.
+Bei den Verbrauchern angekommen, erfolgt die Wärmeübergabe in den Gebäuden über Wärmetauscher, die
+die Wärmeenergie aus dem Fernwärmenetz auf das Heizsystem oder das interne Warmwassernetz
+übertragen. Nach der Wärmeübergabe fließt das abgekühlte Wasser zurück zur Wärmeerzeugungsanlage,
+um dort erneut erwärmt zu werden. Dieser Kreislauf ermöglicht eine kontinuierliche Wärmeversorgung der
+Verbraucher.
+Moderne Fernwärmeversorgungen werden mit Wassertemperaturen teils deutlich unter 100 °C betrieben,
+Ultra-Niedrigtemperatur-Fernwärme sogar unter 50 °C. Solche Systeme können dann als Grundlage für den
+Betrieb von Wärmepumpen dienen.
+VOR- UND NACHTEILE
+Der Einsatz von Fernwärme ist in vielen Fällen eine effiziente und bequeme Lösung für eine nachhaltige,
+wirtschaftliche und für die Verbraucher*innen wartungsarme Wärmeversorgung. Ob im konkreten Fall der
+Anschluss an ein Fernwärmenetz sinnvoll ist, hängt von einigen Faktoren ab.
+Vorteile von Fernwärme:
+Effizienz: Durch die zentrale Wärmeerzeugung und den Transport der Wärmeenergie können große
+Mengen an Energie eingespart werden.
+Nachhaltigkeit: Fernwärme ermöglicht die Nutzung von erneuerbaren Energien wie Biomasse,
+Geothermie oder Solarthermie, was im Vergleich zu dezentralen Heizsystemen zur Reduzierung von CO ₂ -
+Emissionen führt.
+Ressourcenschonung: Fernwärme ermöglicht die effiziente Nutzung von Abwärme aus industriellen
+Prozessen oder Müllverbrennungsanlagen, die sonst ungenutzt bliebe.
+Zuverlässigkeit: Fernwärmenetze sind in der Regel robust und bieten eine zuverlässige
+Wärmeversorgung, unabhängig von einzelnen Heizungsanlagen.
+Kostenersparnis: Durch die Nutzung von Fernwärme müssen in den Verbrauchergebäuden keine
+individuellen Heizungsanlagen installiert werden, was sowohl zu geringeren Investitions- als auch
+Betriebskosten führt.
+Flexibilität: Durch den Einsatz von Wärmeübergabestationen kann die Wärme individuell angepasst und
+geregelt werden, was zu einer optimalen Energieausnutzung führt.
+Primärenergie: Die effiziente Wärmeerzeugung in zentralen Anlagen kann zu niedrigeren
+Primärenergiebedarfswerten führen.
+Nachteile von Fernwärme:
+Hohe städtische Anfangsinvestition: Der Aufbau eines Fernwärmenetzes erfordert eine umfangreiche
+Infrastruktur und Investitionen.
+Abhängigkeit: Ein Fernwärmenetz ist umso effizienter, je mehr Verbraucher angeschlossen sind. Diese
+sind dann auf die Fernwärme angewiesen, wodurch sie vom Versorger anhängig sind.
+Einschränkungen bei Renovierungen: Bei bestehenden Gebäuden kann die Nachrüstung für den
+Anschluss an das Fernwärmenetz wegen baulicher Einschränkungen schwierig oder kostspielig sein.
+Transportverluste: Trotz guter Isolierung können bei der Übertragung der Wärmeenergie über längere
+Strecken Verluste auftreten, was die Effizienz des Systems beeinträchtigt.
+Potenzielle Versorgungsunterbrechungen: Stromausfälle oder technische Probleme im übergeordneten
+Fernwärme-System können zu vorübergehenden Unterbrechungen der Wärmeversorgung führen.
+Mangelnde Kontrolle über die Energiequelle: Verbraucher haben oft wenig Einfluss auf die Wahl der
+Energiequelle für die Fernwärme und sind abhängig von den Entscheidungen des
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 3 ---
+Versorgungsunternehmens.
+Verbreitung der Fernwärme in Deutschland
+Von den rund 41 Millionen Haushalten in Deutschland heizt nahezu jeder zweite mit Erdgas, gefolgt von
+Heizöl mit knapp 25 Prozent und Fernwärme mit gut 14 Prozent (Stand: 2023). Stromdirektheizungen und
+Wärmepumpen machen jeweils nicht einmal drei Prozent aus. Die übrigen sechs Prozent entfallen auf
+Feuerungsanlagen für feste Brennstoffe, wie Holz, Holzpellets, sonstige Biomasse und Kohle.
+FERNWÄRME UND DAS GEG
+Mit dem novellierten Gebäudeenergiegesetz GEG, das darauf abzielt, den Energieverbrauch von Gebäuden
+zu reduzieren und die Nutzung erneuerbarer Energien zu fördern, gewinnt die Fernwärme im Rahmen der
+kommunalen Wärmeplanung an entscheidender Bedeutung. Denn für Bestandsbauten und Neubauten in
+Bestandsgebieten werden die Vorgaben an eine verpflichtende kommunale Wärmeplanung gekoppelt.
+Diese muss in Städten mit mehr als 100.000 Einwohnern bis Ende Juni 2026 vorliegen und in kleineren
+Kommunen bis Ende Juni 2028. Dann können sich Eigentümer*innen auf deren Basis für eine passende
+klimafreundliche Heizung oder einen Anschluss an ein Wärmenetz entscheiden.
+Bei der energetischen Modernisierung von Gebäuden im Rahmen des GEG kann der Anschluss an ein
+Fernwärmenetz eine attraktive Investitionsmöglichkeit sein. In vielen Fällen unterstützen staatliche
+Förderprogramme den Anschluss an Fernwärmenetze, um den Umstieg auf eine umweltfreundliche und
+energieeffiziente Wärmeversorgung zu erleichtern. So wird der Anschluss an ein Fernwärmenetz etwa
+durch die Bundesförderung für effiziente Gebäude (BEG) subventioniert. Wie hoch die Förderung ausfällt,
+kann in den jeweils aktuellen Bestimmungen nachgelesen werden.
+BEDEUTUNG VON FERNWÄRME FÜR DIE KLIMAZIELE
+In der klimaneutralen Wärmeversorgung der Zukunft nimmt Fernwärme eine besondere Rolle ein, vor allem
+in dichten, urbanen Gebieten. Im Jahr 2023 war Fernwärme allerdings noch überwiegend fossil gespeist.
+Deshalb enthält das Wärmeplanungsgesetz Mindestziele für den Anteil von Wärme aus erneuerbaren
+Energien und unvermeidbarer Abwärme in Wärmenetzen. Es legt zugleich den Rahmen für die schrittweise
+und zeitlich gestaffelte Dekarbonisierung und den Ausbau der Fernwärme fest. Im bundesweiten Mittel soll
+der Anteil an Wärme aus erneuerbaren Energien und Abwärme im Jahr 2030 fünfzig Prozent betragen, 2045
+soll eine vollständige Klimaneutralität erreicht sein.
+FACHWISSEN ZUM THEMA
+HeizungsanlagenFernwärme-Hausstationen
+HeizungsanlagenNahwärme
+
+--- PDF SEITE 4 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+
+=== DOKUMENT ENDE ===

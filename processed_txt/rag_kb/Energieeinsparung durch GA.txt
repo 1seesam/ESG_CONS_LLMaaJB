@@ -1,0 +1,96 @@
+=== DOKUMENT START: Energieeinsparung durch GA.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Elektro
+Energieeinsparung durchGebäudeautomation
+Durch die Ausstattung eines Gebäudes mit einem Automatisierungssystem eröffnen sich eine Reihe
+differenzierter Möglichkeiten, die Lebensvorgänge im Haus automatisch zu steuern und zu regeln.
+Vorangetrieben wurde diese Entwicklung durch rasante Fortschritte der Elektronik und Computertechnik
+sowie durch den steigenden Bedarf an Komfort (Fernbedienung vieler Funktionen, intelligente
+Jalousiesteuerungen, automatische Raumtemperaturregelung, Lichtsteuerung), Sicherheit (Präsenz- und
+Bewegungsmelder, Windwächter, Einbruch-, Brand- und Rauchmeldesysteme, etc.) und vor allem der
+Energie- und Kosteneinsparung. So kann beim Heizen, bei der Beleuchtung und Warmwasserbereitstellung
+viel Energie eingespart werden. Auch wenn die Anfangsinvestitionen höher sind als bei konventioneller
+Technik, amortisieren sich die höheren Kosten durch die Energieeinsparung über die gesamte Lebenszeit
+des Gebäudes.
+Bild: Sulafa Isa, Berlin
+Die 2021 veröffentlichte Studie Energieeinsparung durch Gebäudeautomation der Wirtschaftsinitiative
+Smart Living (WISL) macht anhand von Fallbeispielen aus der Praxis deutlich, welche Vorteile für
+unterschiedliche Nutzungsarten durch den Einsatz von Gebäudeautomationssystemen entstehen (siehe
+Surftipps). In den betrachteten Wohngebäuden konnten im Schnitt 20 Prozent der Heizenergie eingespart
+werden; in einem Mehrfamilienhaus aus dem Jahr 1964 lag die Einsparung sogar bei rund 30 Prozent je
+Quadratmeter und Jahr.
+BEISPIELE FÜR ENERGIESPARENDE FUNKTIONEN IMGEBÄUDE
+Zentralfunktionen:
+Diese Funktionen bedienen von einem zentralen Taster, dem Türschloss oder auch per Zeitsteuerung ganze
+Gerätegruppen bzw. das ganze Gebäude. Durch die zentrale Steuerung aller Geräte gleichzeitig wird
+vermieden, dass einzelne Geräte eingeschaltet bleiben.
+
+--- PDF SEITE 2 ---
+Beispiele u. a.:
+alle Lampen aus
+alle Heizkreise auf Frostschutz herunterfahren
+alle Rollläden runter
+alle Fenster schließen
+Fernbedienung/Fernabfrage:
+Bedarfsweises Einschalten der Heizung, Warmwasserbereitung und vielen weiteren Funktionen zu
+einem bestimmten Zeitpunkt aus der Ferne – Energie muss nicht den ganzen Tag über bereitgestellt
+werden
+Abfrage, ob Elektrogeräte wie Herd oder Bügeleisen abgeschaltet wurden und ggf. ferngesteuerte
+Abschaltung      
+Wärmegewinne, Warmwasser, Heizung:
+Automatische Einzelraumregelung der Heizung; externe Wärmegewinne durch Personen werden
+berücksichtigt
+Wärmegewinne durch Sonneneinstrahlung etc. werden in die automatische Regelung der
+Heizungsventile einbezogen
+Sparsame dezentrale Warmwasserbereitung mit elektronischen Durchlauferhitzern, die genau so viel
+Warmwasser bereitstellen, wie benötigt wird
+Beleuchtung:
+Tageslichtabhängige Lichtsteuerung – je nach Lichteinfall von außen wird die Beleuchtung automatisch
+so gesteuert, dass z.B. am Arbeitsplatz eine konstante Helligkeit erzielt wird
+Lichtszenensteuerung – Absenkung der Helligkeit und An- oder Abschalten bestimmter
+Leuchten/Leuchtengruppen je nach Arbeitsaufgabe bzw. Lebensvorgang
+WEITERE MÖGLICHKEITEN
+Große Energieeinsparungen bieten auch die Systeme der regenerativen Energiegewinnung:
+Wärmepumpen
+Kraft-Wärme-Kopplungs-Systeme (Mini- und Mikro-Blockheizkraftwerke)
+Lüftung mit Wärmerückgewinnung
+Photovoltaik
+Die Wärmepumpe ist ein gutes Beispiel dafür, wie mit Einsatz von 25 Prozent Strom 100 Prozent Wärme
+gewonnen werden kann.
+FACHWISSEN ZUM THEMA
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+GebäudeautomationAufbau und Aufgaben der Gebäudeautomation
+PlanungsgrundlagenEntwicklung der Elektroinstallation
+
+--- PDF SEITE 3 ---
+SURFTIPPS
+http://www.baunetzwissen.de/standardartikel/Gebaeudetechnik-Erneuerbare-Energien-in-der-
+Gebaeudetechnik_2476837.html
+https://www.smartliving-germany.de/aktuelles/energiesparen-dank-gebaeudeautomation-praxisbeispiele-
+beweisen-wirksamkeit/
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Elektro sponsored by:
+Jung | Kontakt 02355 / 806-0 | mail.info@jung.de
+SchaltungsartenFernschaltung
+PlanungsgrundlagenStrombezug: Woher kommt der Strom?
+PlanungsgrundlagenStromerzeugung am Gebäude: Photovoltaik (PV)
+→
+→
+
+=== DOKUMENT ENDE ===

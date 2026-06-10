@@ -1,0 +1,10 @@
+﻿{
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+  "editor.formatOnSave": true,
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
+}

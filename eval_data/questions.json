@@ -1,0 +1,859 @@
+[
+    {
+        "id": "12",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Wissen",
+        "question": "Eine Wärmepumpe hat grundsätzlich immer eine höhere Energieeffiz als eine moderne Gas-Brennwerttherme? Wie verhält es sich mit der Emissionsbilanz?",
+        "reference_answer": "Wärmepumpen meist höhere Wirkungsgrade; Effizienz abhängig von Betriebsbedingungen; Wirkungsgrad von Gasthermen <100%, Wirkungsgrad von Wärmepumpen rechnerisch >100%; Emissionsbilanz abhängig vom Strommix; Vorteil abhängig vom Betrieb COP",
+        "relevant_docs": "VDI 4640",
+        "difficulty": "1",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Wärmepumpen meist höhere Wirkungsgrade",
+            "Effizienz abhängig von Betriebsbedingungen",
+            "Wirkungsgrad von Gasthermen <100%, Wirkungsgrad von Wärmepumpen rechnerisch >100%",
+            "Emissionsbilanz abhängig vom Strommix",
+            "Vorteil abhängig vom Betrieb COP"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "46",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Für ein Wohngebäude liegt ein Bedarfsausweis vor, der ausschließlich auf den gemessenen Energieverbräuchen der letzten drei Jahre basiert. Welche Effizienzklasse ist daraus abzuleiten?",
+        "reference_answer": "Bedarf ist nicht gleich Verbrauch; Ein Zusammenhang kann bestehen MUSS aber nicht",
+        "relevant_docs": "",
+        "difficulty": "1",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Bedarf ist nicht gleich Verbrauch",
+            "Ein Zusammenhang kann bestehen MUSS aber nicht"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Bedarf ist nicht gleich Verbrauch; Ein Zusammenhang kann bestehen MUSS aber nicht"
+    },
+    {
+        "id": "49",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Bestandsgebäude erfüllt laut Verbrauchsausweis die gesetzlichen Neubauanforderungen des GEG an den Primärenergiebedarf. Welche Neubauanforderung wurde damit nachgewiesen?",
+        "reference_answer": "Verbrauchsausweise stehen nicht im Verhältnis zu einem Primärenergiebedarf",
+        "relevant_docs": "",
+        "difficulty": "1",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Verbrauchsausweise stehen nicht im Verhältnis zu einem Primärenergiebedarf"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Verbrauchsausweise stehen nicht im Verhältnis zu einem Primärenergiebedarf"
+    },
+    {
+        "id": "53",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Eine mit Heizöl betriebene Heizanlage verursacht 38 t CO2e pro Jahr. Wie sind diese Emissionen im objektbezogenen Reporting als marktbasiertes Scope-2-Ergebnis auszuweisen?",
+        "reference_answer": "Erdgas ist Scope 1 Emissionen; Erdgas ist nicht scope 2 zuzuordnen",
+        "relevant_docs": "",
+        "difficulty": "1",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Erdgas ist Scope 1 Emissionen",
+            "Erdgas ist nicht scope 2 zuzuordnen"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Erdgas ist Scope 1 Emissionen; Erdgas ist nicht scope 2 zuzuordnen"
+    },
+    {
+        "id": "39",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Ein Energieausweis hat eine Effizienzklasse B. Welche technischen Gebäudemaßnahmen sind damit automatisch förderfähig nach der Bundesförderung für effiziente Gebäude (BEG)?",
+        "reference_answer": "Grundsätzlich besteht kein Zusammenhang zwischen der Klasse und den Förderungen;",
+        "relevant_docs": "",
+        "difficulty": "1",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Grundsätzlich besteht kein Zusammenhang zwischen der Klasse und den Förderungen"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Grundsätzlich besteht kein Zusammenhang zwischen der Klasse und den Förderungen;"
+    },
+    {
+        "id": "44",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wann und aus welchem Grund wurde der Gesetzestext des GEIG zurückgezogen?",
+        "reference_answer": "Das GEIG wurde nie zurueckgezogen; Das GEIG und dessen Verordnung sind aktuell noch in Kraft; Es gibt daher keinen Rueckzugszeitpunkt und keinen Rueckzugsgrund.",
+        "relevant_docs": "",
+        "difficulty": "1",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Das GEIG wurde nie zurueckgezogen",
+            "Das GEIG und dessen Verordnung sind aktuell noch in Kraft",
+            "Es gibt daher keinen Rueckzugszeitpunkt und keinen Rueckzugsgrund."
+        ],
+        "expected_trap_behavior": "Weist die Praemisse zurueck, dass das GEIG zurueckgezogen wurde; nennt keinen erfundenen Zeitpunkt oder Grund, sondern dass es weiterhin in Kraft ist."
+    },
+    {
+        "id": "1",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Welche Energieeffizienzklasse muss ein gewerblicher Neubau in Deutschland mindestens erreichen?",
+        "reference_answer": "Niedrigstenergiegebäude-Standard; Ca. 55% des Referenzgebäudes; Keine direkte Klassenpflicht, GEG §10",
+        "relevant_docs": "GEG §10",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Niedrigstenergiegebäude-Standard",
+            "Ca. 55% des Referenzgebäudes",
+            "Keine direkte Klassenpflicht, GEG §10"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "4",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Warum ist die Heizlastberechnung (DIN EN 12831) ungeeignet für die Erstellung eines Energieausweises und welche Faktoren berücksichtigt stattdessen die DIN V 18599?",
+        "reference_answer": "Die Heizlastberechnung (DIN EN 12831) dient der Dimensionierung der Anlage für den kältesten Fall (Spitzenleistung); Die DIN V 18599 bilanziert das Zusammenspiel aller Energieflüsse über ein ganzes Jahr; DIN V 18599 berücksichtigt explizit innere Wärmegewinne (Personen, Geräte); DIN V 18599 berücksichtigt solare Gewinne; DIN V 18599 verwendet standardisierte Nutzungsprofile;.",
+        "relevant_docs": "DIN EN 12831 ; DIN V 18599",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Die Heizlastberechnung (DIN EN 12831) dient der Dimensionierung der Anlage für den kältesten Fall (Spitzenleistung)",
+            "Die DIN V 18599 bilanziert das Zusammenspiel aller Energieflüsse über ein ganzes Jahr",
+            "DIN V 18599 berücksichtigt explizit innere Wärmegewinne (Personen, Geräte)",
+            "DIN V 18599 berücksichtigt solare Gewinne",
+            "DIN V 18599 verwendet standardisierte Nutzungsprofile",
+            "."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "6",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Was ist der Unterschied zwischen location based und market based Emissionen? Wie wird Ökostrom in den beiden Methoden bilanziert?",
+        "reference_answer": "location based nutzt landesweit festgelegte Faktoren; market based nutzt versorgerspezfische Emissionsfaktoren des jeweiligen Liefervertrags; Ökostrom lässt sich lediglich in der market based Methode anrechnen; location based berücksichtigt keine Ökostrom Tarife",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "location based nutzt landesweit festgelegte Faktoren",
+            "market based nutzt versorgerspezfische Emissionsfaktoren des jeweiligen Liefervertrags",
+            "Ökostrom lässt sich lediglich in der market based Methode anrechnen",
+            "location based berücksichtigt keine Ökostrom Tarife"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "7",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Welchen Einfluss hat die Berechnungsmethode (Stromgutschrift, Carnot-Methode) eines KWK-Prozesses für den PEF eines Gebäudes? Welche Vorteile und Risiken ergeben sich daraus für den Immobilieneigentümer?",
+        "reference_answer": "Stromgutschriftsmethode führt zu geringeren PEF der Wärmeerzeugung durch Anrechnung des verdrängten Stroms; Das Gebäude steht bezüglich der PE besser dar; Carnot-Berechnungsmethode, kann zu einer deutlichen Verschlechterung der PEF führen; Emissionen werden bei Carnot tendenziell höher und realistischer; Investitionsentscheidungen können sich bei Änderung der Berechnungsmethode verschieben",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Stromgutschriftsmethode führt zu geringeren PEF der Wärmeerzeugung durch Anrechnung des verdrängten Stroms",
+            "Das Gebäude steht bezüglich der PE besser dar",
+            "Carnot-Berechnungsmethode, kann zu einer deutlichen Verschlechterung der PEF führen",
+            "Emissionen werden bei Carnot tendenziell höher und realistischer",
+            "Investitionsentscheidungen können sich bei Änderung der Berechnungsmethode verschieben"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "16",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Wissen",
+        "question": "Unter welchen kumulativen Voraussetzungen sind Investitionsmehrkosten für eine \"H2-ready\" Gasheizung im Rahmen der BEG EM förderfähig? Reicht das Label aus?",
+        "reference_answer": "Das Label \"H2-ready\" (meist 20% Beimischung) reicht allein nicht aus; Die Anlage muss zu 100 % mit Wasserstoff betrieben werden können; Der Betrieb muss mit grünem oder blauem Wasserstoff erfolgen ODER die Anlage liegt in einem Wasserstoffnetzausbaugebiet; Förderfähig sind nur die Investitionsmehrkosten; Die Investitionsmehrkosten werden pauschal mit 5 % der Gesamtkosten angesetzt;.",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Das Label \"H2-ready\" (meist 20% Beimischung) reicht allein nicht aus",
+            "Die Anlage muss zu 100 % mit Wasserstoff betrieben werden können",
+            "Der Betrieb muss mit grünem oder blauem Wasserstoff erfolgen ODER die Anlage liegt in einem Wasserstoffnetzausbaugebiet",
+            "Förderfähig sind nur die Investitionsmehrkosten",
+            "Die Investitionsmehrkosten werden pauschal mit 5 % der Gesamtkosten angesetzt",
+            "."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "20",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Kalkulation",
+        "question": "Ein Wohngebäude hat einen Jahreswärmeverbrauch von 975.000 kWh. Wie ist die effektive Heizleistung bei 1800 Volllaststunden pro Jahr?",
+        "reference_answer": "541,6 kW ; 0,5416 MW",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "541,6 kW",
+            "0,5416 MW"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "21",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wie werden Photovoltaik-Anlagen und ihr Strom bei der Berechnung der End-Primärenergie als auch Emissionen nach GEG berücksichtigt?",
+        "reference_answer": "PV-Eigenstrom anrechenbar auf die Primärenergie; PV-Strom anrechenbar auf die Emissionen; Eigennutzung PEF=0; Emissionen durch PV-Strom = 0; Strom nicht anrechenbar auf Endenergieverbrauch",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "PV-Eigenstrom anrechenbar auf die Primärenergie",
+            "PV-Strom anrechenbar auf die Emissionen",
+            "Eigennutzung PEF=0",
+            "Emissionen durch PV-Strom = 0",
+            "Strom nicht anrechenbar auf Endenergieverbrauch"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "25",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Ist ein hydraulischer Abgleich nach GEG für Bestandsgebäude regelmäßig durchzuführen, unabhängig vom Zustand des Anlagensystems?",
+        "reference_answer": "Keine regelmäßige Pflicht; Pflicht bei Heizungstausch; Pflicht bei Inbetriebnahmen; Pflicht, wenn in das Hydrauliksystem eingegriffen wird",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Keine regelmäßige Pflicht",
+            "Pflicht bei Heizungstausch",
+            "Pflicht bei Inbetriebnahmen",
+            "Pflicht, wenn in das Hydrauliksystem eingegriffen wird"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "47",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Verbrauchsausweis für ein Bürogebäude wurde auf Basis der berechneten U-Werte der Bauteile und der Anlagentechnik erstellt. Welcher Endenergieverbrauch ist daraus zu entnehmen?",
+        "reference_answer": "Endenergieverbrauch ergibt sich nicht aus dem U-Wert",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Endenergieverbrauch ergibt sich nicht aus dem U-Wert"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Endenergieverbrauch ergibt sich nicht aus dem U-Wert"
+    },
+    {
+        "id": "48",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Kalkulation",
+        "question": "Ein Bürogebäude wird vollständig mit Erdgas beheizt. Wie hoch sind die Scope-2-Emissionen aus der Verbrennung des Gases im Heizkessel bei 180.000 kWh Jahresverbrauch?",
+        "reference_answer": "Erdgas verursacht Scope 1 Emissionen; Erdgasbedingt Emissionen sind nicht Scope 2 zuzuordnen",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Erdgas verursacht Scope 1 Emissionen",
+            "Erdgasbedingt Emissionen sind nicht Scope 2 zuzuordnen"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Erdgas verursacht Scope 1 Emissionen; Erdgasbedingt Emissionen sind nicht Scope 2 zuzuordnen"
+    },
+    {
+        "id": "51",
+        "category": "Zertifizierung",
+        "task_type_raw": "Wissen",
+        "question": "Ein DGNB-Gold-zertifiziertes Gebäude soll regulatorisch eingeordnet werden. Welche gesetzlich vorgeschriebene BREEAM-Stufe gilt damit automatisch als erfüllt?",
+        "reference_answer": "Kein direkter Bezug zwischen Zertifizierungslabeln",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Kein direkter Bezug zwischen Zertifizierungslabeln"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Kein direkter Bezug zwischen Zertifizierungslabeln"
+    },
+    {
+        "id": "52",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Gebäude bezieht ausschließlich Fernwärme. Wie hoch sind die direkten Scope-1-Emissionen der Wärmeerzeugung des Fernwärmenetzes für dieses Objekt?",
+        "reference_answer": "Fernwärme ist Scope 2 Emissionen; Fernwärme ist nicht scope 1 zuzuordnen",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Fernwärme ist Scope 2 Emissionen",
+            "Fernwärme ist nicht scope 1 zuzuordnen"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Fernwärme ist Scope 2 Emissionen; Fernwärme ist nicht scope 1 zuzuordnen"
+    },
+    {
+        "id": "55",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Energieausweis weist für ein Wohngebäude einen Primärenergieverbrauch als maßgebliche Kennzahl für die Effizienzklasse aus. Welche Klasse ergibt sich bei 95 kWh/m²a?",
+        "reference_answer": "Die Einwertung der Effizienzklasse ist von der Endenergie abhängig",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Die Einwertung der Effizienzklasse ist von der Endenergie abhängig"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Die Einwertung der Effizienzklasse ist von der Endenergie abhängig"
+    },
+    {
+        "id": "34",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Welche Nenner (Denominator) empfiehlt EPRA für die Berechnung von Energieintensitäten und welche Besonderheit gilt hierbei im Verhältnis zu den ESRS-Anforderungen?",
+        "reference_answer": "EPRA erlaubt Anzahl der Personen (Arbeitsplätze, Besucher); EPRA erlaubt Fläche (m²); EPRA erlaubt Umsatz (Revenue); ESRS bevorzugt \"Net Revenue\" als Nenner für Intensitätskennzahlen in Sektoren mit hohem Klimaeinfluss; Der gewählte Nenner und die Methode müssen klar definiert werden; Nenner und Zähler müssen korrespondieren (Match numerator and denominator);.",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "EPRA erlaubt Anzahl der Personen (Arbeitsplätze, Besucher)",
+            "EPRA erlaubt Fläche (m²)",
+            "EPRA erlaubt Umsatz (Revenue)",
+            "ESRS bevorzugt \"Net Revenue\" als Nenner für Intensitätskennzahlen in Sektoren mit hohem Klimaeinfluss",
+            "Der gewählte Nenner und die Methode müssen klar definiert werden",
+            "Nenner und Zähler müssen korrespondieren (Match numerator and denominator)",
+            "."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "35",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wie funktioniert das \"Phase-Down-Szenario\" der EU-F-Gas-Verordnung und welches konkrete Ziel ist für das Jahr 2030 im Vergleich zu 2015 festgelegt?",
+        "reference_answer": "künstliche Verknappung der am Markt verfügbaren Mengen (Quoten); Betrifft teilhalogenierte Fluorkohlenwasserstoffe (HFKW); Im Jahr 2030 sollen nur noch 21 Prozent der Ausgangsmengen von 2015 verfügbar sein; Dies führt zu Preisanstiegen und Verfügbarkeitsrisiken für Wartung.",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "künstliche Verknappung der am Markt verfügbaren Mengen (Quoten)",
+            "Betrifft teilhalogenierte Fluorkohlenwasserstoffe (HFKW)",
+            "Im Jahr 2030 sollen nur noch 21 Prozent der Ausgangsmengen von 2015 verfügbar sein",
+            "Dies führt zu Preisanstiegen und Verfügbarkeitsrisiken für Wartung."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "38",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Kalkulation",
+        "question": "Gegeben ein Bürogebäude mit einem Endenergiebedarf von 70 kWh/m²a. Ab welchem Baujahr wird gemäß GEG eine BREEAM-Zertifizierung spätestens erforderlich?",
+        "reference_answer": "Grundsätzlich besteht keine Pflicht;",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Grundsätzlich besteht keine Pflicht"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Grundsätzlich besteht keine Pflicht;"
+    },
+    {
+        "id": "40",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Bei einem Wohngebäude wurde ein Primärenergiebedarf von 90 kWh/m2a ermittelt. Ist damit davon auszugehen, dass die Anforderungen des GEG eingehalten werden?",
+        "reference_answer": "Der Primärenergiebedarf allein genügt nicht zur Beurteilung der GEG-Konformität; Mit der vorliegenden Angabe lässt sich die Einhaltung des GEG nicht abschließend beurteilen.",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Der Primärenergiebedarf allein genügt nicht zur Beurteilung der GEG-Konformität",
+            "Mit der vorliegenden Angabe lässt sich die Einhaltung des GEG nicht abschließend beurteilen."
+        ],
+        "expected_trap_behavior": "Verneint eine abschliessende GEG-Einhaltung; benennt, dass der Primaerenergiebedarf allein nicht ausreicht und weitere Nachweise bzw. Vergleichswerte erforderlich sind."
+    },
+    {
+        "id": "45",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Kalkulation",
+        "question": "Eine mit Heizöl versorgte Liegenschaft verbraucht 100 kWh/m²a bei einem Emissionsfaktor von 0,3kgCO2/kWh. Wie hoch sind die Scope 2 Emissionen des Gebäudes?",
+        "reference_answer": "Heizoel erzeugt direkte Emissionen im Objekt; Direkte Emissionen sind Scope-1-Emissionen; 100 kWh/m2a * 0,3 kgCO2/kWh = 30 kgCO2/m2a waere Scope 1, nicht Scope 2; Scope-2-Emissionen sind aus den Angaben nicht berechenbar.",
+        "relevant_docs": "",
+        "difficulty": "2",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Heizoel erzeugt direkte Emissionen im Objekt",
+            "Direkte Emissionen sind Scope-1-Emissionen",
+            "100 kWh/m2a * 0,3 kgCO2/kWh = 30 kgCO2/m2a waere Scope 1, nicht Scope 2",
+            "Scope-2-Emissionen sind aus den Angaben nicht berechenbar."
+        ],
+        "expected_trap_behavior": "Weist die Scope-2-Falle zurueck; berechnet nicht 30 kgCO2/m2a als Scope 2, sondern erklaert, dass dieser Wert Scope 1 waere und Scope 2 aus den Angaben nicht berechenbar ist."
+    },
+    {
+        "id": "2",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Kalkulation",
+        "question": "Berechne den spezifischen flächenbezogenen Endenergiebedarf für ein Wohngebäude mit den folgenden Werten: Energieverbrauch 54 MWh/a, NGF 450 m². Wie lautet die Energieeffizienzklasse?",
+        "reference_answer": "120 kWh/m²a; 0,12 MWh/m²a; Effizienzklasse = D",
+        "relevant_docs": "-",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "120 kWh/m²a",
+            "0,12 MWh/m²a",
+            "Effizienzklasse = D"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "3",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Kalkulation",
+        "question": "Berechnen Sie den spezifischen flächenbezogenen Endenergiebedarf für ein Bürogebäude mit den folgenden Werten: Energieverbrauch 450.000 kWh/a, NGF 3.500 m². Wie lautet die Energieeffizienzklasse?",
+        "reference_answer": "129 kWh/(m²·a); 0,129 MWh/m²a; Effizienzklasse abhängig vom Referenzgebäudes; Gebäudemodellierung notwendig",
+        "relevant_docs": "-",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "129 kWh/(m²·a)",
+            "0,129 MWh/m²a",
+            "Effizienzklasse abhängig vom Referenzgebäudes",
+            "Gebäudemodellierung notwendig"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "14",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Kalkulation",
+        "question": "Bewerte die nachfolgende technische Gebäudemaßnahme hinsichtlich der Kosten- und Einsparungswerte. Wann amortisiert sich die Investition bei:\nFenstertausch: U-Wert alt 2,0 | U-Wert neu: 1,0\nFensterfläche: 300 m² | Kosten: 200.000 €\nHDD = 3.000 | Wärmekosten: 0,1 €/kWh",
+        "reference_answer": "Einsparung = 21.600 kWh/a; Einsparung = 2.160 €/a; Amortisationszeit >91 Jahre",
+        "relevant_docs": "",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Einsparung = 21.600 kWh/a",
+            "Einsparung = 2.160 €/a",
+            "Amortisationszeit >91 Jahre"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "18",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Bis wann müssen Bestandsgebäude mit Ölheizungen nach GEG spätestens ausgetauscht werden?",
+        "reference_answer": "fossile Heizungen älter als 30 Jahre dürfen nicht mehr betrieben werden; Bestandsschutz bei Niedertemperatur;Bestandsschutz für Brennwertthermen; ausgenommen sind Anlagen mit einer Heizleistung kleiner 4 kW oder größer 400 kW; spätestens 2044 gilt ein absolutes Verbot für Ölheizungen",
+        "relevant_docs": "GEG §72",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "fossile Heizungen älter als 30 Jahre dürfen nicht mehr betrieben werden",
+            "Bestandsschutz bei Niedertemperatur",
+            "Bestandsschutz für Brennwertthermen",
+            "ausgenommen sind Anlagen mit einer Heizleistung kleiner 4 kW oder größer 400 kW",
+            "spätestens 2044 gilt ein absolutes Verbot für Ölheizungen"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "19",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Welche Sanktionen drohen bei Nichteinhaltung der GEG-Vorgaben §71a?",
+        "reference_answer": "Bußgelder 5.000 € möglich; Nachrüstung anordnungsfähig; explizite Kontrolle erforderlich, aktuell unklar wie Kontrolle erfolgt",
+        "relevant_docs": "",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Bußgelder 5.000 € möglich",
+            "Nachrüstung anordnungsfähig",
+            "explizite Kontrolle erforderlich, aktuell unklar wie Kontrolle erfolgt"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "23",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wie ist eine Investition mit ökologischer Zielsetzung (Artikel 9) gemäß SFDR definiert?",
+        "reference_answer": "Nachhaltige Investition Hauptziel; Messbarer Umweltbeitrag; DNSH-Prinzip; Einhaltung guter Unternehmensführung; Strenge Offenlegung",
+        "relevant_docs": "SFDR Artikel 9",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Nachhaltige Investition Hauptziel",
+            "Messbarer Umweltbeitrag",
+            "DNSH-Prinzip",
+            "Einhaltung guter Unternehmensführung",
+            "Strenge Offenlegung"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "24",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Welche Mindestanforderungen gelten für den U-wert einer Außenwand eines neuen normal genutzten Gewerbeobjektes gemäß GEG 2024?",
+        "reference_answer": "Max. 0,28 W/(m²·K)",
+        "relevant_docs": "",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Max. 0,28 W/(m²·K)"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "26",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Überprüfe die folgende Aussage hinsichtlich der aktuellen Gesetzgebung und Rechtssprechung. Was gilt es darüber hinaus zu prüfen\" Aussage: \"Wiederkehrende Kosten für Energiemanagementdienstleistungen im Rahmen von der Betriebssicherheit […] sind mietvertragrechtlich umlegbar ohne Einverständnis des Mieters\".",
+        "reference_answer": "Im Wohnbereich lassen sich laufende Kosten zur Instandhaltung und Wartung ohne zusätzliche mietvertragliche Regelung umlegen ; Bei Gewerbeobjekten sind entsprechende Betriebspositionen im Mietvertrag erforderlich; Im Gewerbebereich ist eine Umlage ohne Einverständnis nicht immer möglich.",
+        "relevant_docs": "",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Im Wohnbereich lassen sich laufende Kosten zur Instandhaltung und Wartung ohne zusätzliche mietvertragliche Regelung umlegen",
+            "Bei Gewerbeobjekten sind entsprechende Betriebspositionen im Mietvertrag erforderlich",
+            "Im Gewerbebereich ist eine Umlage ohne Einverständnis nicht immer möglich."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "29",
+        "category": "Zertifizierung",
+        "task_type_raw": "Wissen",
+        "question": "Welche Unterlagen sollten bei einem Gebäudeeigentümer oder Property Manager angefragt werden um eine BREEAM-Zertifizierung zu erstellen?",
+        "reference_answer": "Gebäudestammdaten wie Adresse, Nutzung, BGF, Flächenberechnung und Baupläne;Energie- und Verbrauchsnachweise wie Energieausweis, Energierechnungen, monatliche Verbrauchsdaten für Strom, Wärme und Gas sowie Zählerlisten;TGA-Dokumentation wie technische Unterlagen, Revisionspläne und Wartungsprotokolle der HLK-Anlagen;Wasser- und Umweltmanagementunterlagen wie Verbrauchsdaten, Durchflussraten, Abfallmanagement und nachhaltige Beschaffungsnachweise;ESG- und Risikodokumentation wie Klimarisikobewertungen, Innenraumluftqualität, Nutzerzufriedenheit und grüne Mietverträge",
+        "relevant_docs": "",
+        "difficulty": "3",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Gebäudestammdaten wie Adresse, Nutzung, BGF, Flächenberechnung und Baupläne",
+            "Energie- und Verbrauchsnachweise wie Energieausweis, Energierechnungen, monatliche Verbrauchsdaten für Strom, Wärme und Gas sowie Zählerlisten",
+            "TGA-Dokumentation wie technische Unterlagen, Revisionspläne und Wartungsprotokolle der HLK-Anlagen",
+            "Wasser- und Umweltmanagementunterlagen wie Verbrauchsdaten, Durchflussraten, Abfallmanagement und nachhaltige Beschaffungsnachweise",
+            "ESG- und Risikodokumentation wie Klimarisikobewertungen, Innenraumluftqualität, Nutzerzufriedenheit und grüne Mietverträge"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "50",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Wohngebäude erreicht im Energieausweis die Effizienzklasse B. Welche förderfähige Einzelmaßnahme nach BEG ist dadurch automatisch bewilligt?",
+        "reference_answer": "BEG Einzelmaßnahmen sind unabhängig von Verbrauchseffizienzklassen",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "BEG Einzelmaßnahmen sind unabhängig von Verbrauchseffizienzklassen"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: BEG Einzelmaßnahmen sind unabhängig von Verbrauchseffizienzklassen"
+    },
+    {
+        "id": "56",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Wissen",
+        "question": "Ein Gebäude unterschreitet die GEG-Neubauanforderung an den Primärenergiebedarf um 15 %. Welche Effizienzklasse im bestehenden Verbrauchsausweis folgt daraus zwingend?",
+        "reference_answer": "Die Einwertung der Effizienzklasse ist von der Endenergie abhängig",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Die Einwertung der Effizienzklasse ist von der Endenergie abhängig"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Die Einwertung der Effizienzklasse ist von der Endenergie abhängig"
+    },
+    {
+        "id": "58",
+        "category": "Zertifizierung",
+        "task_type_raw": "Wissen",
+        "question": "wie viele Punkte bekommt man in einer BREEAM Zertifizierung durch eine vollständig neutrale Wärmeversorgung extra?",
+        "reference_answer": "50 Punkte (Ene 19–21); bis zu 5 zusätzliche Punkte wenn auch CO2-positiv; 4 Punkte (Pol 03)",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "50 Punkte (Ene 19–21)",
+            "bis zu 5 zusätzliche Punkte wenn auch CO2-positiv",
+            "4 Punkte (Pol 03)"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "33",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Wie müssen Unternehmen nach EPRA sBPR verfahren, wenn Verbrauchsdaten (Utility Consumption) fehlen oder unzuverlässig sind und geschätzt werden müssen?",
+        "reference_answer": "Schätzungen sollen sparsam eingesetzt werden; Nur Lücken für fehlende Perioden basierend auf bekannten Verbräuchen füllen; Der Anteil der geschätzten Daten am Gesamtwert muss offengelegt werden; Die Schätzmethode muss offengelegt werden; Anlagen sind von der Berichterstattung auszuschließen, wenn Daten für ein ganzes Jahr fehlen; Anlagen sind auszuschließen, wenn nur unzuverlässige Daten vorliegen.",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Schätzungen sollen sparsam eingesetzt werden",
+            "Nur Lücken für fehlende Perioden basierend auf bekannten Verbräuchen füllen",
+            "Der Anteil der geschätzten Daten am Gesamtwert muss offengelegt werden",
+            "Die Schätzmethode muss offengelegt werden",
+            "Anlagen sind von der Berichterstattung auszuschließen, wenn Daten für ein ganzes Jahr fehlen",
+            "Anlagen sind auszuschließen, wenn nur unzuverlässige Daten vorliegen."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "41",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Wissen",
+        "question": "In einem Mehrfamilienhaus wurde eine Luft-Luft-Wärmepumpe eingebaut. Ist die Durchführung eines hydraulischen Abgleichs des Rohrsystems zwingend erforderlich?",
+        "reference_answer": "Nein; Eine Luft-Luft-Waermepumpe hat kein wasserfuehrendes bzw. hydraulisches Rohrsystem; Ein hydraulischer Abgleich des Rohrsystems ist daher nicht zwingend erforderlich bzw. nicht sinnvoll moeglich.",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Nein",
+            "Eine Luft-Luft-Waermepumpe hat kein wasserfuehrendes bzw. hydraulisches Rohrsystem",
+            "Ein hydraulischer Abgleich des Rohrsystems ist daher nicht zwingend erforderlich bzw. nicht sinnvoll moeglich."
+        ],
+        "expected_trap_behavior": "Verneint die Pflicht zum hydraulischen Abgleich; idealerweise mit Hinweis, dass bei einer Luft-Luft-Waermepumpe kein wasserfuehrendes/hydraulisches Rohrsystem abgeglichen wird."
+    },
+    {
+        "id": "43",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Ein Gebäude mit einem Baujahr 1995 wird mit einer Ölzentralheizung betrieben. Ist aus fachlicher Sicht von einer Austauschpflicht nach GEG auszugehen?",
+        "reference_answer": "Das Baujahr des Gebäudes allein reicht nicht zur Beurteilung einer Austauschpflicht aus; Maßgeblich ist das Alter der konkreten Heizungsanlage;Auf Basis der vorliegenden Informationen lässt sich keine sichere Aussage zur Austauschpflicht treffen",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Das Baujahr des Gebäudes allein reicht nicht zur Beurteilung einer Austauschpflicht aus",
+            "Maßgeblich ist das Alter der konkreten Heizungsanlage",
+            "Auf Basis der vorliegenden Informationen lässt sich keine sichere Aussage zur Austauschpflicht treffen"
+        ],
+        "expected_trap_behavior": "Lehnt eine sichere Austauschpflicht aus dem Gebaeudebaujahr allein ab; benennt, dass Alter und Art der konkreten Heizungsanlage sowie Ausnahmen relevant sind."
+    },
+    {
+        "id": "5",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Kalkulation",
+        "question": "Wie hoch ist die installierte Anlagenleistung und der jährliche Stromertrag einer PV-Anlage:\n89 m² Dachfläche | Südostausrichtung | Standort Frankfurt am Main| 10°C Dachneigung | Keine Verschattung",
+        "reference_answer": "9 bis 14 kWp; Stromerzeugung zwischen 1050 und 1400 kWh/a",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "9 bis 14 kWp",
+            "Stromerzeugung zwischen 1050 und 1400 kWh/a"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "9",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Welche Scopes gemäß GHG müssen Immobilieneigentümer nach EPRA auswerten und berichten?",
+        "reference_answer": "Scope 1; Scope 2; Scope 3 je nach Wesentlichkeit; Für Immobilieneigentümer sind meist 3.13, 3.05, 3.06 wesentlich",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Scope 1",
+            "Scope 2",
+            "Scope 3 je nach Wesentlichkeit",
+            "Für Immobilieneigentümer sind meist 3.13, 3.05, 3.06 wesentlich"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "10",
+        "category": "ESG-Reporting",
+        "task_type_raw": "Wissen",
+        "question": "Welche Ereignisse lösen laut GHG Protocol eine Neuberechnung der Basisjahres-Emissionen (Base Year Recalculation) aus und welche explizit nicht?",
+        "reference_answer": "Auslöser sind signifikante strukturelle Änderungen (Fusionen, Übernahmen, Veräußerungen); Auslöser sind Änderungen der Berechnungsmethodik oder verbesserte Datengenauigkeit; Auslöser ist die Entdeckung wesentlicher Fehler; Organisches Wachstum (Nutzungsänderungen, Veränderungen) löst KEINE Neuberechnung aus; Organischer Rückgang (Schließungen) löst KEINE Neuberechnung aus",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Auslöser sind signifikante strukturelle Änderungen (Fusionen, Übernahmen, Veräußerungen)",
+            "Auslöser sind Änderungen der Berechnungsmethodik oder verbesserte Datengenauigkeit",
+            "Auslöser ist die Entdeckung wesentlicher Fehler",
+            "Organisches Wachstum (Nutzungsänderungen, Veränderungen) löst KEINE Neuberechnung aus",
+            "Organischer Rückgang (Schließungen) löst KEINE Neuberechnung aus"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "17",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Wissen",
+        "question": "Ein Vermieter besitzt ein denkmalgeschütztes Mehrfamilienhaus. Öffentlich-rechtliche Vorgaben verbieten sowohl die Dämmung der Fassade als auch den Austausch der alten Gasetagenheizungen. Wie werden die CO2-Kosten zwischen Mieter und Vermieter aufgeteilt?",
+        "reference_answer": "Mieter trägt 100 % der CO2-Kosten; Der Vermieter muss diese Umstände dem Mieter nachweisen",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Mieter trägt 100 % der CO2-Kosten",
+            "Der Vermieter muss diese Umstände dem Mieter nachweisen"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "27",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Was wird gemäß BEG EM unter förderfähigen Umfeldmaßnahmen verstanden und wie werden diese bei einer \"Gesamtmodernisierung\" von Wohngebäuden abgegrenzt?",
+        "reference_answer": "Arbeiten, die zur Vorbereitung und Wiederherstellung für die energetische Maßnahme notwendig sind; Fachtechnische Arbeiten und Materialien; Bei Gesamtmodernisierung können nicht direkt energetisch relevante Nebenarbeiten anteilig berücksichtigt werden; Die Zuordnung erfolgt z.B. über Flächenanteile oder direkte Kosten; Verwaltungskosten für WEG-Beschlussfassungen sind als Umfeldmaßnahmen förderfähig;.",
+        "relevant_docs": "",
+        "difficulty": "4",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Arbeiten, die zur Vorbereitung und Wiederherstellung für die energetische Maßnahme notwendig sind",
+            "Fachtechnische Arbeiten und Materialien",
+            "Bei Gesamtmodernisierung können nicht direkt energetisch relevante Nebenarbeiten anteilig berücksichtigt werden",
+            "Die Zuordnung erfolgt z.B. über Flächenanteile oder direkte Kosten",
+            "Verwaltungskosten für WEG-Beschlussfassungen sind als Umfeldmaßnahmen förderfähig",
+            "."
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "36",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wie sieht der Zeitplan und das Anforderungsniveau für die Prüfung (Assurance) der Nachhaltigkeitsberichterstattung gemäß der geänderten Richtlinie 2013/34/EU (durch CSRD) nach Veröffentlichung der OMNIBUS-Verordnung aus?",
+        "reference_answer": "Beginn mit \"begrenzter Prüfungssicherheit\" (limited assurance); Übergang zur \"hinreichenden Prüfungssicherheit\" (reasonable assurance) nicht festgeschrieben; hinreichende Prüfungssicherheit ist aktuell freiwillig; Kommission prüft Einführung bis spätestens 2028",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Beginn mit \"begrenzter Prüfungssicherheit\" (limited assurance)",
+            "Übergang zur \"hinreichenden Prüfungssicherheit\" (reasonable assurance) nicht festgeschrieben",
+            "hinreichende Prüfungssicherheit ist aktuell freiwillig",
+            "Kommission prüft Einführung bis spätestens 2028"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "37",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Wofür dürfen die Mittel aus dem Klima-Sozialfonds primär verwendet werden und welche Bedingung ist an direkte Einkommensbeihilfen geknüpft?",
+        "reference_answer": "Unterstützung benachteiligter Haushalte, Kleinstunternehmen und Verkehrsnutzer; Investitionen in Energieeffizienz und Gebäuderenovierung; Dekarbonisierung von Heizen/Kühlen; Zugang zu emissionsfreier/armer Mobilität; Befristete direkte Einkommensbeihilfen sind zulässig",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Unterstützung benachteiligter Haushalte, Kleinstunternehmen und Verkehrsnutzer",
+            "Investitionen in Energieeffizienz und Gebäuderenovierung",
+            "Dekarbonisierung von Heizen/Kühlen",
+            "Zugang zu emissionsfreier/armer Mobilität",
+            "Befristete direkte Einkommensbeihilfen sind zulässig"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "42",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Kalkulation",
+        "question": "Eine Photovoltaikanlage produziert jährlich 50.000 kWh Strom. Welche Strommenge muss für das Gebäude zusätzlich eingekauft werden, damit der Bedarf vollständig gedeckt wird?",
+        "reference_answer": "Eigenverbrauch ist nicht bekannt; Gesamtstromverbrauch ist nicht bekannt; Keine Berechnung anhand der Informationen möglich",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Eigenverbrauch ist nicht bekannt",
+            "Gesamtstromverbrauch ist nicht bekannt",
+            "Keine Berechnung anhand der Informationen möglich"
+        ],
+        "expected_trap_behavior": "Lehnt eine Berechnung der zuzukaufenden Strommenge ab; benennt, dass Gesamtstrombedarf und/oder Eigenverbrauch fehlen und daher keine belastbare Berechnung moeglich ist."
+    },
+    {
+        "id": "57",
+        "category": "Regulatorik & Compliance",
+        "task_type_raw": "Wissen",
+        "question": "Ein Objekt erfüllt die Offenlegungspflichten nach SFDR. Welche Anforderungen an die Energiekennwerte des einzelnen Gebäudes sind damit automatisch eingehalten?",
+        "reference_answer": "Kein direkter Zusammenhang vorhanden",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Kein direkter Zusammenhang vorhanden"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Kein direkter Zusammenhang vorhanden"
+    },
+    {
+        "id": "13",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Kalkulation",
+        "question": "Ist bei einem Gebäude in Frankfurt am Main der Heizungstausch von Fernwärme auf Wärmepumpe bezüglich der Energie- und Emissionsverbräuche sinnvoll? Die Fernwärme als auch der Strom hat einen Emissionsfaktor von 0,00kgCO2/kWh. Der Primärenergiefaktor der Fernwärme liegt bei 0,29 - der von Strom bei 1,8. Rechne mit einem COP für die neue Wärmepumpe von 3,5.",
+        "reference_answer": "keine Verbesserung der Emissionsintensität, durch Wärmepumpe; bei CO2-neutralem Strom ist Wärmepumpe ebenfalls CO2-neutral; Wärmepumpe hat deutlich geringere Endenergieintensität; Wärmepumpe hat eine höhere Primärenergie als Fernwärme",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "keine Verbesserung der Emissionsintensität, durch Wärmepumpe",
+            "bei CO2-neutralem Strom ist Wärmepumpe ebenfalls CO2-neutral",
+            "Wärmepumpe hat deutlich geringere Endenergieintensität",
+            "Wärmepumpe hat eine höhere Primärenergie als Fernwärme"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "15",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Wissen",
+        "question": "Bis wann strebt die Stadt Kassel gemäß Ihrer Kommunalen Wärmeplanung eine volständig CO2-neutrale Wärmeversorgung an und über welches Medium soll die Wärme bereitgestellt werden?",
+        "reference_answer": "Vollständige Klimaneutralität bis spätestens 2045; 2045 eher früher; Fernwärme; Nahwärme",
+        "relevant_docs": "KWP Kassel",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "Vollständige Klimaneutralität bis spätestens 2045",
+            "2045 eher früher",
+            "Fernwärme",
+            "Nahwärme"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "31",
+        "category": "Energieausweis & Energiekennwerte",
+        "task_type_raw": "Kalkulation",
+        "question": "Wann stranded ein 100 % Bürogebäude in Deutschland mit einer Energieintensität von 84 kWh/m²a gemäß der aktuellsten CRREM-Version?",
+        "reference_answer": "nie; Zielwert liegt bei 85 kWh/m²a",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "nie",
+            "Zielwert liegt bei 85 kWh/m²a"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "59",
+        "category": "Zertifizierung",
+        "task_type_raw": "Wissen",
+        "question": "Wie viele Punkte erhält man in einer BREEAM Zertifizierung für ein vollständig nach GEG§71a umgesetztes Energiemanagement System?",
+        "reference_answer": "4 Punkte für Verbrauchserfassung (ENE15), 4 Punkte für Verbrauchsanalyse (ENE23), 13 Punkte für Maintenance (Man 03),",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Atomic Facts",
+        "atomic_facts": [
+            "4 Punkte für Verbrauchserfassung (ENE15), 4 Punkte für Verbrauchsanalyse (ENE23), 13 Punkte für Maintenance (Man 03),"
+        ],
+        "expected_trap_behavior": ""
+    },
+    {
+        "id": "54",
+        "category": "Gebäudetechnik",
+        "task_type_raw": "Kalkulation",
+        "question": "In einem Gebäude mit rein elektrischen Direktheizungen wurde die Vorlauftemperatur der Zentralheizung von 70 auf 55 °C abgesenkt. Welche Effizienzsteigerung ist daraus abzuleiten?",
+        "reference_answer": "Elektrische heizung ist keine Zentralheizung; Einsparung steht nicht im Zusammenhang",
+        "relevant_docs": "",
+        "difficulty": "5",
+        "answer_type": "Fangfrage",
+        "atomic_facts": [
+            "Elektrische heizung ist keine Zentralheizung",
+            "Einsparung steht nicht im Zusammenhang"
+        ],
+        "expected_trap_behavior": "Die Antwort soll die falsche oder unvollstaendige Praemisse erkennen, keine Direktberechnung bzw. unbegruendete Schlussfolgerung liefern und sinngemaess diese Einschraenkung nennen: Elektrische heizung ist keine Zentralheizung; Einsparung steht nicht im Zusammenhang"
+    }
+]

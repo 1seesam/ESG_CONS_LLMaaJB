@@ -1,0 +1,25 @@
+Du bist ein wissenschaftlicher ESG-Auditor.
+Bewerte die KANDIDATEN-ANTWORT ausschliesslich gegen die Atomic Facts.
+
+FRAGE: {question}
+ATOMIC FACTS (Goldstandard):
+{facts_block}
+
+KANDIDATEN-ANTWORT:
+{generated}
+
+Aufgabe:
+1) Pruefe jeden Atomic Fact binaer:
+- `supported`: Fact inhaltlich korrekt abgedeckt
+- `contradicted`: Fact wird falsch beantwortet oder klar widersprochen
+- `not_in_scope`: Fact fehlt, ist unklar oder wird nicht sinnvoll adressiert
+2) Zaehle die drei Klassen ueber alle Atomic Facts.
+3) Setze `coverage` als Anteil korrekt abgedeckter Facts:
+`coverage = supported / (supported + contradicted + not_in_scope)`
+4) Zerlege die KANDIDATEN-ANTWORT in atomare Modell-Claims und zaehle:
+- `predicted_supported_claims`: generierte Claims, die faktisch durch Goldstandard oder Fragekontext gedeckt sind
+- `predicted_unsupported_claims`: generierte Claims, die falsch, unbegruendet oder nicht durch den Goldstandard gedeckt sind
+- `predicted_total_claims`: Summe aller atomaren Modell-Claims
+5) Gib eine kurze Begruendung, die sich auf die Atomic Facts und unbegruendete Modell-Claims bezieht.
+
+{trap_instructions}

@@ -1,0 +1,3113 @@
+=== DOKUMENT START: EPRA_T.pdf ===
+
+--- PDF SEITE 1 ---
+Fourth edition April 2024
+Fourth edition  |  April 2024
+EPRA 
+Sustainability
+Best Practices
+Recommendations
+Guidelines
+
+--- PDF SEITE 2 ---
+Fourth edition April 2024
+1 F oreword  4
+2 EP RA Sustainability Committee 5
+3 E xecutive Summary  6 
+3 .1  Introduction 6
+3 .2  S cope of EPRA sBPR  7
+3 .3  E PRA Sustainability Performance Measures  7
+3 .4  O verarching Recommendations 9
+3 .5  L inking Overarching Recommendations to Performance Measures 1 2
+4 EP RA Sustainability Performance Measures - Environment  1 3 
+4 .1  E lec-Abs Total electricity consumption  1 3
+4 .2  E lec-LfL Like-for-like total electricity consumption  1 5
+4 .3  D H&C-Abs Total district heating & cooling consumption  1 6
+4 .4  D H&C-LfL Like-for-like total district heating & cooling consumption 1 8
+4 .5  F uels-Abs Total fuel consumption 1 9
+4 .6  F uels-LfL Like-for-like total fuel consumption 2 1
+4 .7  E nergy-Int Building energy intensity  2 2
+4 .8  G HG-Dir-Abs Total direct greenhouse gas (GHG) emissions  25
+4 .9  G HG-Indir-Abs Total indirect greenhouse gas (GHG) emissions 2 7
+4 .10  G HG-Int Greenhouse gas (GHG) emissions intensity  2 9
+4 .11  W ater-Abs Total water consumption  3 2
+4 .12  W ater-LfL Like-for-like total water consumption  3 4
+4 .13  W ater-Int Building water intensity  3 5
+4 .14  W aste-Abs Total weight of waste by disposal and diversion routes  3 7
+4 .15  W aste-LfL Like-for-like total weight of waste  3 9
+4.16 		 Cert-Tot	Type	and	number	of	sustainably	certified	assets		 4 0
+5 EP RA Sustainability Performance Measures - Social  4 1 
+5 .1  D iversity-Emp Employee gender diversity  4 1
+5 .2  D iversity-Pay Gender pay ratio  4 3
+5 .3  E mp-Training Training and development  4 4
+5 .4  E mp-Dev Employee performance appraisals  4 6
+5 .5  E mp-Turnover Employee turnover and retention  4 7
+5 .6  H &S-Emp Employee health and safety  4 8
+5 .7  H &S-Asset Asset health and safety assessments  5 0
+5 .8  H &S-Comp Asset health and safety compliance  5 1
+5.9 Co mty-Eng Community engagement, impact assessments 
+a nd development programmes  52
+EPRA Sustainability Best Practices Recommendations Guidelines
+2
+Contents
+
+--- PDF SEITE 3 ---
+Fourth edition April 2024
+6 EP RA Sustainability Performance Measures - Governance  5 4 
+6 .1 G ov-Board Composition of the highest governance body 5 4
+6 .2  G ov-Select Nominating and selecting the highest governance body 5 5
+6.3	 Gov-COI	Process	for	managing	conflicts	of	interest	 5 6
+7 O verarching Recommendations  5 7 
+7 .1  O rganisational boundaries 57
+7 .2  Coverage  58
+7 .3  E stimation of landlord-obtained utility consumption 5 9
+7 .4  T hird Party Assurance  6 0
+7 .5  B oundaries – reporting on landlord and tenant utility consumption 6 1
+7 .6  Normalisation 6 2
+7 .7  S egmental analysis (by property type, geography, etc.)  6 3
+7.8	 Disclosure	on	own	offices	 6 4
+7 .9  N arrative on performance  6 4
+7 .10  Lo cation of EPRA Sustainability Performance Measures in companies’ reports  6 5
+7 .11  R eporting period 6 5
+ 7 .12  Materiality 6 6
+8	 Definitions 	–	Glossary	of	Terms	 68
+EPRA Sustainability Best Practices Recommendations Guidelines
+3 Fourth edition April 2024
+
+--- PDF SEITE 4 ---
+Fourth edition April 2024
+We are pleased to announce the launch of the fourth 
+edition of the EPRA Sustainability Best Practices 
+Recommendations (sBPR) Guidelines. Since their 
+i
+nception in 2011, and in conjunction with the EPRA 
+sBPR 
+Awards, there has been a marked increase in 
+their adoption by our listed members in their annual 
+reports, particularly in Europe. 
+This progress underscores the commitment of our 
+me
+mbers to enhance their sustainability reporting by 
+incorporating more EPRA sBPR Performance Measures 
+and Overarching Recommendations, and adhering 
+mor
+e strictly to the guidelines. These efforts are 
+helping to make sustainability reports within the 
+industry more comparable, harmonised and 
+tr
+ansparent. As a respected framework within the LRE 
+industry, adopting EPRA sBPR Guidelines allows these 
+entities to effectively communicate their sustainability 
+achievements, strategies and initiatives in the 
+e
+nvironmental, social, and governance (ESG 
+dimensions, demonstrating their steadfast dedication 
+to 
+sustainability.
+This new edition of EPRA sBPR Guidelines emerged to 
+support EPRA members in managing the reporting 
+complexities as mandated by the “sector-agnostic” 
+Eur
+opean Sustainability Reporting Standards (ESRS), 
+while making the guidelines more comprehensive.
+T
+hese standards have been formulated by the 
+European Financial Reporting Advisory Group (EFRAG) 
+to develop the Corporate Sustainability Reporting 
+Di
+rective (CSRD), and were officially adopted by the 
+European Commission (EC) on July 31, 2023. The 
+“sector- agnostic” standards require certain companies 
+including many EPRA members), independent of the 
+sector in which they operate, to disclose selected non-
+financial metrics from January 2024 onwards. We aim 
+to 
+facilitate a starting point for listed real estate (LRE) 
+companies by supplying them with guidelines on how 
+to 
+report EPRA sBPR Performance Measures under the 
+CSRD, while identifying relevant “sector-agnostic” 
+ESRS for the LRE sector (ESRS Mapping to EPRA 
+sBPR)
+.
+We a
+lso include a Materiality Assessment Guide tailored 
+for the LRE sector and a reporting template (Sample 
+Data Table of EPRA sBPR Sustainability Performance 
+Measures). In summary, the fourth edition of EPRA sBPR 
+Guidelines achieves the following objectives: 
+• Provides Bridge Requirements betw een EPRA KPIs
+and the “sector-agnostic” ESRS,1 in particular to the
+topical standards,2
+• Identifies	relevant	sector-agnostic	ESRS	to	the	LRE
+industry and guides on their reporting,
+• Acquires further adherence to the Global Reporting
+Initiative’s (GRI) Standards as a consequence of their
+latest update and
+• Provides further clarity, conciseness, and support to
+LRE companies wishing to disclose their performance
+i
+n accordance with EPRA sBPR Guidelines.
+To conclude, this latest release of the guidelines 
+marks	a	significant	milestone	in	our	journey	towards	
+sustainable
+ development within the LRE industry. 
+It not only addresses the evolving demands of 
+sustainability reporting, but also serves as a 
+testament
+ to our collective endeavour to promote 
+t
+ransparency, accountability, and environmental 
+stewardship. As we move forward, we encourage all 
+ou
+r members and the broader industry to follow these 
+guidelines, leverage the new tools and resources 
+provided, and continue to
+ lead by example. Together, 
+we can achieve remarkable strides in demonstrating 
+our sector's commitment to a sustainable future, 
+e
+nhancing stakeholder trust, and contributing to a 
+more sustainable and resilient world.
+1
+Filip Elland  
+Chief Sustainability 
+Officer,	Castellum	
+Chairman, EPRA 
+Sustainability Committee
+April 2024 
+Hassan Sabir 
+Finance & ESG Director, 
+EPRA
+EPRA Sustainability Best Practices Recommendations Guidelines
+4
+Foreword
+Fourth edition April 2024
+1 Existing EPRA KPIs since the 3rd edition of EPRA Guidelines (2017).
+2 The “sector-agnostic” ESRS can be break into: "cross cutting standards" obligatory to all undertakings, and "topical standards" that 
+are subject to materiality assessment.
+
+--- PDF SEITE 5 ---
+Fourth edition April 2024
+2
+MEMBER COMPANY
+Olivier Elamine alstria	office
+Laurent Lavergne AXA Investment Managers Real Assets
+Mathew Webster British Land
+Filip Elland (Chairman) Castellum
+Hanna De Groote Cofinimmo
+Jan Willem Van Kranenburg Cohen & Steers
+David Miguelañez Colonial
+Nicolas Jandont Gecina
+Janine Cole Great Portland Estates 
+Daphne Millet Icade 
+Francesco Soldi IGD
+Nicolas Scherf Janus Henderson Investors
+Jorrit Arissen Kempen & Co
+Clémentine Pacitti Klepierre
+Fernanda Amemiya Landsec
+Ryan Watson Macquire
+Peter van den Tol MN 
+Marta Esquivias Montepino Logistica Socimi SA
+Oliver Keil Norges Bank Investment Management 
+Caroline Tiveus Pandox
+Andrea Palmer PGGM
+Nikos Gkonis Prodea 
+Agathe Bolli PSP 
+Gabriella Zepf SEGRO
+Clément Jeannin Unibail-	R odamco-Westfield
+Jonathan Przybylski Vonovia
+EPRA Sustainability Best Practices Recommendations Guidelines
+5
+EPRA Sustainability Committee
+Public disclosure of data is a fundamental component of a sustainable approach to real estate. EPRA aims to bring 
+greater consistency and clarity to companies’ disclosure around their environmental performance. By releasing the 
+updated fourth version of the EPRA Sustainability Best Practices Recommendations, we hope to enhance further 
+stakeholders’ access to quality environmental, social, and corporate governance performance data that clearly 
+states the positive direction of travel within the sector.
+Filip Elland  
+Chief	Sustainability	Officer,	Castellum 
+Chairman, EPRA Sustainability Committee
+
+--- PDF SEITE 6 ---
+Fourth edition April 2024
+3.1 Introduction
+EPRA Sustainability Performance Measures and Overarching Recommendations have been developed by EPRA 
+Sustainability Reporting Committee (‘the Committee’) Members. The sBPR were launched in 2011 driven by the 
+market concerns, to provide the listed real estate sector with industry-specific advice on non-financial reporting. 
+They were based on the GRI Standards and they have adapted over the years to capture the changes and 
+challenges presented the reporting landscape. The fourth edition of the EPRA sBPR aligns with the most recent 
+GRI Standards, which have been updated across various Topic Standards since 2016. This edition also 
+incorporates guidance on several aspects of the CSRD related to the sector-agnostic ESRS, to facilitate 
+compliance in annual reporting for EPRA members.
+Figure	1	-	EPRA	sBPR	relation	to	sector-specific	ESRS
+This document contains a number of CORE recommendations  for sustainability reporting, which must 
+be reported by all EPRA members, alongside ADDITIONAL 	re commendations based on the Committee’s 
+observations of good practice. These additional recommendations are especially relevant to companies with a 
+long-standing track record of sustainability reporting. 
+BRIDGE	REQU IREMENTS are a key addition to the fourth edition of the EPRA sBPR. These requirements serve 
+as indicators to EPRA members, highlighting measures that are not mandated by the sBPR but are necessary 
+according to the ESRS. The BRIDGE REQUIREMENT may encompass additional metrics or narrative elements 
+drawn	from	the	sector-agnostic	ESRS,	specifically	relevant	to	the	listed	real	estate	sector	and	considered	material	
+to EPRA. If a Performance Measure does not include a BRIDGE REQUIREMENT, it is because the sBPR already 
+covers the ESRS requirements or goes beyond the scope of the ESRS mandates.
+Please see our Sample Data Table of EPRA sBPR Sustainability Performance Measures  as additional guidance on 
+how to publish Performance Measure data. 
+3
+EPRA Sustainability Best Practices Recommendations Guidelines
+Executive Summary
+6
+CSRD sector-agnostic 
+ESRS:
+Mandatory requirements 
+on ESG reporting for 
+certain companies in the 
+EU and outside the EU, 
+since 2024.
+2024	Updates	–		Fourth	Edition EPRA sBPR covers approximately 
+20% of sector-agnostic ESRS
+EPRA sBPR 
+ guidelines 2024 fourth edition:
+Updated guidelines, 2024 with 
+Bridge Requirements to sector-
+agnostic ESRS
++ 
+Materiality Assessment Guidelines 
++ 
+Sector-agnostic ESRS mapping 
+to EPRA sBPR Performance 
+Measures
+EPRA sBPR guidelines  
+2017 third edition:
+28 Sustainability 
+Performance Measures 
+and 10 Overarching 
+Recommendations
++
+Aligned with Global 
+Reporting Initiative’s 
+(GRI) Standards
+
+--- PDF SEITE 7 ---
+Fourth edition April 2024
+3 Should companies choose to report separately on their development activities in their sustainability reports, EPRA recommends that 
+they consult the relevant sections of the GRI Standards and Set 1 of the ESRS implementation guidelines from EFRAG IG.
+4	 EPRA 	Sustainability	Performance	Measures,	Definitions,	Issues,	and	Rationale	are	based	on	the	GRI	Standards	and	Set	1 	of	the	ESRS;	
+hence reference to the GRI Standards and the ESRS is used throughout the EPRA sBPR. The recent inclusion of the ESRS and ISSB 
+has encouraged harmonisation between the sBPR and regulatory requirements. Companies wanting to consider the interoperability 
+of ESRS and ISSB standards may consider accessing the following guidance by EFRAG and IFRS:  
+www.ifrs.org/content/dam/ifrs/supporting-implementation/issb-standards/esrs-issb-standards-interoperability-guidance.pdf
+EPRA Sustainability Best Practices Recommendations Guidelines
+7
+3.2 Scope of EPRA sBPR
+The scope of the EPRA sBPR covers companies’ investment activities and own occupation (e.g., environmental 
+impacts from a company’s headquarters), and corporate-level policies and practices as shown in Figure 2.
+Figure	2	–	Activities	within	the	scope	of	EPRA	sBPR
+DEVELOPMENT
+ACTIVITIES
+(CONSTRUCTION)
+PROPERTY 	
+INVESTMENT	
+PORTFOLIO
+(EXISTING BUILDINGS 
+IN OPERATION)
+COMPANY’S	OWN	
+OFFICE	OCCUPATION
+(E.G., HEAD OFFICE)
+AND	CORPORATE	
+POLICIES	AND	
+PRACTICES
+EPRA  
+SUSTAINABILITY	
+BPR
+The EPRA sBPR do not currently cover real estate development activities (e.g., environmental impacts from 
+construction sites).3
+3.3 EPRA Sustainabil ity Performance Measures
+The EPRA Sustainability Performance Measures should relate to the scope illustrated in Figure 2.4
+The following table outlines the Performance Measures that should be reported by real estate property 
+companies. Please refer to the following supplementary documents for further guidance on reporting:
+• EPRA Materiality Assessment Guidance for Listed Real Estate can be used for advice on how to conduct 
+materiality assessments, determining which data points are relevant to individual companies.
+• EPRA ESRS Mapping to EPRA sBPR provides additional information on ESRS topical standards not captured 
+throughout EPRA sBPR Performance Measures but are relevant to listed real estate.
+• EPRA Emerging Topics in Listed Real Estate explores other ESG disclosure measures beyond the scope of 
+the current EPRA sBPR Guidelines.
+• EPRA Sample Data Table of EPRA sBPR Sustainability Performance Measures can be used as an example of 
+how to report data points.
+
+--- PDF SEITE 8 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+8
+Table	1.	EPRA	Sustainability	Performance	Measures
+EPRA Code Performance Measure GRI Standard ESRS 
+Sector-
+agnostic5
+Unit(s) of measure
+ENVIRONMENTAL SUSTAINABILITY PERFORMANCE MEASURES
+Elec-Abs Total electricity consumption 302-1 E1-5 annual kWh
+Elec-LfL Like-for-like total electricity consumption 302-1 annual kWh
+DH&C-Abs Total district heating & cooling consumption 302-1 E1-5 annual kWh
+DH&C-LfL Like-for-like total district heating & cooling 302-1 annual kWh
+Fuels-Abs Total fuel consumption 302-1 E1-5 annual kWh
+Fuels-LfL Like-for-like total fuel consumption 302-1 annual kWh
+Energy-Int Building energy intensity 302-3 E1-5 kWh/appropriate denominator
+GHG-Dir-Abs Total direct greenhouse gas (GHG) emissions 305-1 E1-6 annual metric tonnes CO2e
+GHG-Indir-Abs Total indirect greenhouse gas (GHG) emissions 305-2
+305-3
+E1-6 annual metric tonnes CO2e
+GHG-Int Greenhouse gas (GHG) emissions intensity from 
+building energy consumption
+305-4 E1-6 tonnes CO2e/appropriate 
+denominator
+Water-Abs Total water consumption 303-3-a
+303-5-a
+E3-4 annual cubic metres (m3)
+Water-LfL Like-for-like total water consumption 303-3-a
+303-5-a
+annual cubic metres (m3)
+Water-Int Building water intensity E3-4 m3/appropriate denominator
+Waste-Abs Total weight of waste by disposal route 306-4 
+306-5
+E5-5 annual metric tonnes and proportion 
+by disposal/diversion routes
+Waste-LfL Like-for-like total weight of waste by disposal 
+route
+306-4 
+306-5
+annual metric tonnes and proportion 
+by disposal/diversion routes
+Cer t-Tot
+Type	and	number	of	sustainably	certified	assets E1-9 Total	number	by	certification/	rating/	
+labelling scheme
+SOCIAL PERFORMANCE MEASURES
+Diversity-Emp Employee gender diversity 405-1 GOV-1 
+S1-9
+Number and percentage of employees
+Diversity-Pay Gender pay ratio 405-2 S1-16 Ratio
+Emp-Training Employee training and development 404-1 S1-13 
+G1-3
+Average hours
+Emp-Dev Employee performance appraisals 404-3 S1-13 Percentage of employees
+Emp-Turnover New hires and turnover 401-1 S1-6 Total number and rate
+H&S-Emp Employee health and safety 403-9 S1-14 Injury rate, absentee rate, and number 
+of work related fatalities
+H&S-Asset Asset health and safety assessments 416-1 Percentage of assets
+H&S-Comp Asset health and safety compliance 416-2 Number of incidents
+Comty-Eng Community engagement, impact assessments 413-1 S3-2 Percentage of assets and 
+development programmes
+GOVERNANCE PERFORMANCE MEASURES
+Gov-Board Composition of the highest governance body 2-9 GOV-1 Total number
+Gov-Selec Process for nominating and selecting the highest 
+governance body
+2-10 Narrative on process 
+Gov-COI
+Process	for	managing	conflicts	of	interest 2-15 Narrative on process
+5 The “sector-agnostic” ESRS can be categorised by: cross-cutting standards (general requirements and disclosures) and topical 
+standards. References in Table 1 only relate to the topical standards.
+
+--- PDF SEITE 9 ---
+Fourth edition April 2024
+9
+EPRA Sustainability Best Practices Recommendations Guidelines 
+3.4 Overarching Recommendations
+Section 7 of this document describes the ‘Overarching Recommendations’ – principles that should apply to 
+the	reporting	of	EPRA	Sustainability	Performance	Measures.	The	following	section	briefly	describes	each	of	these 
+principles. It is important that readers of this document familiarise themselves with Section 7 in detail before 
+embarking on reporting on EPRA Sustainability Performance Measures since these principles underp in 
+meaningful disclosure.
+Organisational boundaries (see section 7.1)
+Organisational	boundaries	for	asset-level	Performance	Measures	as	defined	by	the	GHG	Protocol	include	
+Operational	Control,	Financial	Control	and	Equity-share.	Boundaries	definition	is	important	because	it	
+determines, among other things, which assets a reporter will include or exclude from its reporting. Companies 
+should state the company’s total investment in real estate and what percentage of their investment portfolio 
+is represented within the chosen organisational boundary. Determini ng organisational boundaries should 
+be	preceded	by	defining	one’s	ownership	structures	(specifically,	establishing	whether	assets	are	owned	by	
+subsidiaries, associates or joint ventures) in line with the GHG Protocol.6 EPRA is not advocating, at this stage, for	
+any	specific	organisational	boundary	(the	Committee	is	aware	that	operational	control	is	the	most	common	
+approach).
+Coverage (see sectio
+n 7.2)
+Coverage shows the percentage or number of assets (within the organisational boundary) that are included in the 
+data disclosed for each asset-level Performance Measure. Ideally, all assets within the organisational boundary 
+should be included in each asset-level Performance Measure. Data coverage should be disclosed (as percentages 
+or	values)	in	terms	of	number,	floor	area	or	financial	value	of	assets	within	the	organisational	boundary.
+Estimation of landlord-obtained utility consumption (see section 7.3)
+When landlord-obtained utility consumption data for some/all asset-level Performance Measures is partially 
+unavailable or unreliable for an asset, missing data can be estimated. Estimation should be carried out as little as 
+possible. When estimating landlord-obtained utility consumption, a company should:
+• Only	estimate	utility	data	to	fill	gaps	for	missing	periods	using	known	consumption	from	a	recent	and
+comparable	period	for	the	metered	supply	in	question;
+• Disclose the proportion of total disclosed data that is estimated (as a percentage of the total disclosed for that
+Performance	Measure);
+• Disclose	the	method	of	estimation	used;
+• Use the same method of estimation for all assets per Performance Measure.
+6 P lease visit www.ghgprotocol.org/ for further information
+
+--- PDF SEITE 10 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+10
+Third	party	assurance (see section 7.4)
+The credibility of sustainability data increases when third party assurance is carried out by an objective and 
+independent assurance provider.
+When undertaking third party assurance, consider the following:
+• The	26	EPRA	sBPR	quantitative	Performance	Measures	should	be	verified	–	ideally	all	of	them	and	to	the	same
+level	and	specified	the	level	of	assurance	(“limited”	or	“reasonable”).	Please	refer	to	Table	2	for	guidance	on	all
+Performance	Measures	which	are	subject	to	third	party	assurance;
+• The	level	of	verification	for	each	Performance	Measure	must	be	disclosed	and	should	ideally	be	to	the	same
+level	as	for	financial	reporting;
+• The	full	verification	statement	must	be	publicly	available,	and	a	link	should	be	provided	if	it	is	not	included	in	the
+report;
+• Each	Performance	Measure	that	had	been	assured	should	be	indicated	either	in	the	verification	statement
+provided or made clear in the company’s data tables.
+Boundaries	–	reporting 	on	landlord	and	tenant	consumption (see section 7.5)
+There is no single, optimal way to report on base (landlord only) or whole building consumption for asset-level 
+environmental Performance Measures. However, companies should report as follows:
+• Absolute	and	like-for-like	Performance	Measures	should	include	only	landlord-obtained	energy/water;
+• Where energy/water is obtained by the landlord but consumed in tenant areas and sub-metered, such
+consumption should be reported separately (and should not be excluded from the totals).
+For intensity indicators only, if known, tenant-obtained consumption can be used in calculations, for example, to 
+achieve a situation where whole building consumption (tenant-obtained and landlord-obtained) is divided by the 
+whole	building	floor	area.
+Normalisation  (see section 7.6)
+When calculating intensity indicators, companies should ensure the denominator used and the associated 
+consumption	figures	are	as	closely	aligned	as	possible.	In	other	words,	they	should	strive	to	achieve	the	‘matching	
+numerator and denominator’ scenario. Companies should clearly state how their intensity indicators are calculated 
+and what numerators and denominators they have used and why. The most commonly used denominators are:
+• Floor area
+• Numbers of people
+• Revenue
+• Number of hours/days worked (for health and safety Performance Measures)
+Segmental analysis (by property type, geography, etc.)  (see section 7.7)
+For	asset-level	Performance	Measures,	this	should	be	in	line	with	companies’	financial	reporting	and	include,	
+where meaningful, analysis by geography/country and/or property type.
+Disclosure	on	own	offices (see section 7.8)
+In addition to disclosing on its investment portfolio and corporate practices, a company should disclose the 
+environmental impact of its own occupation separately within its sustainability reporting.
+Narrative	on	p erformance  (see section 7.9)
+Companies should provide, where appropriate, additional information and commentary/explanation of past 
+performance, and outline plans for managing future performance.
+
+--- PDF SEITE 11 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+11
+Location	of	EPRA	Sustainability	Performance	Measures	in	companies’	reports	  (see section 7.10)
+It is not necessary for companies to report the entirety of the EPRA Sustainability Performance Measures in their 
+Annual Report and Accounts or Sustainability/Corporate Responsibility reports. However, companies must, as 
+a minimum, include a cross-reference (e.g., a reference or hyperlink) to a comprehensive EPRA sBPR table (or 
+location of the Performance Measures) that uses the Performance Measure codes (e.g., Elec-LfL) if these have 
+been published elsewhere (on the company’s website).
+Reporting period  (see section 7.11) 
+The	reporting	period	for	the	undertaking’s	sustainability	statement	must	be	consistent	with	its	financial	
+statements. While like-for-like Performance Measures must be reported for the two most recent years, companies 
+can choose to report their performance against other Performance Measures over a much longer period. At the 
+same	time,	companies	should	balance	the	benefits	of	disclosing	longer-term	trends	with	the	need	to	provide	
+meaningful data. A company with multiple years’ worth of historical data, for example, may wish to report the 
+oldest	year	(especially	if	it	is	a	baseline	year)	and	significant	milestone	years	along	with	the	most	recent	three	
+years. 
+Materiality (see section 7.12)
+Conducting	a	materiality	review	with	any	specific	approach	(impact,	financial	or	double	materiality)	is	not	
+mandated by the EPRA Sustainability Best Practices Recommendations (sBPR), but nevertheless recommends 
+reporting companies give due consideration to materiality when compiling their response. 
+There is an increasing expectation on companies to conduct a materiality review as a prerequisite for reporting 
+against both voluntary and mandatory sustainability reporting standards. 
+Material topics for a reporting organisation include those topics that have a direct or indirect impact on an 
+organisation’s ability to create, preserve or erode economic, environmental and social value for itself, its 
+stakeholders and society at large. 
+The selection of topics by their materiality is a crucial element in guiding a strategic approach to sustainability for 
+companies and creating relevant disclosures for stakeholders. By conducting a complete and robust materiality 
+assessment, companies can identify key material matters across their value chain, thus demonstrating an 
+understanding of where the company may experience material matters from the impact materiality perspective or 
+the	financial	materiality	perspective	or	both.	
+There is guidance on materiality assessments available to companies from several sources, notably for impact 
+materiality from the GRI Universal Standards. However, the obligation to adopt a double materiality approach in 
+response to CSRD requirements and applying ESRS presents a challenge to all sectors. To this end, EFRAG has 
+created implementation guidance (in draft for public feedback at time of publication) for the ESRS materiality 
+assessments. Nonetheless, companies will need to adopt an assessment methodology with an appropriate 
+framework	that	is	suited	to	the	specific	context	of	their	industry.	As	the	EFRAG	guidance	is	currently	presented	as	
+sector-agnostic, our supplementary guidance document, EPRA Materiality Assessment Guidance for Listed Real 
+Estate,	will	build	on	the	work	by	EFRAG	and	other	related	guidance,	to	provide	further	sector-specific	context	for	
+listed real estate and highlight how the EPRA sBPR might be considered or used in the materiality process. 
+In light of that, companies should note that the use of sector insights and consensus presented in the EPRA sBPR 
+can be used as a basis for listed real estate companies who are assessing sustainability matters and associated 
+impacts. To properly form an opinion of sustainability matters, a company should still consider its own materiality 
+assessment and corresponding risk management. It should also be noted that conducting a materiality review with 
+any	specific	approach	(impact,	financial	or	double	materiality)	is	not	mandated	by	the	EPRA	sBPR,	but	nonetheless 	
+recommends reporting companies give due consideration to materiality when compiling their response. 
+If an organisation chooses not to respond to an sBPR Sustainability Performance Measure because it does not 
+consider it to be material, ‘not material’ should be stated in the EPRA Sustainability Performance Measures tables. 
+However, EPRA considers that an impact can only be legitimately accepted as non-material if shown to be so 
+through a materiality review.
+
+--- PDF SEITE 12 ---
+Fourth edition April 2024
+3.5	 Linking	Overarching	Recommendations	to	Performance	Measures
+This table provides additional guidance on whether and how to apply the Overarching Recommendations to each 
+Performance Measure.
+Table	2.	Linking	Overarching	Recommendations	to	Performance	Measures
+EPRA Sustainability Best Practices Recommendations Guidelines
+12
+Code Performance Measure
+Type
+Organisational boundaries
+Coverage
+Estimation of landlord-obtained
+utility consumption
+Third	party	assurance
+Boundaries	–	reporting	on	landlord
+and tenant consumption
+Normalisation
+Segmental analysis (by property 
+type, geography)
+Disclosure	on	own	offices
+Narrative	on	performance
+Location	of	EPRA	Sustainability 	
+Performance Measures
+Reporting period
+Materiality
+ENVIRONMENTAL SUSTAINABILITY PERFORMANCE MEASURES
+Elec-Abs Assets √ √ √ √ √ N/A √ √	 √ √ √ √
+Elec-LfL Assets √ √ √ √ √ N/A √ √ √ √ √ √
+DH&C-Abs Assets √ √ √ √ √ N/A √ √ √ √ √ √
+DH&C-LfL Assets √ √ √ √ √ N/A √ √ √ √ √ √
+Fuels-Abs Assets √ √ √ √ √ N/A √ √ √ √ √ √
+Fuels-LfL Assets √ √ √ √ √ N/A √ √ √ √ √ √
+Energy-Int Assets √ √ √ √ √ √ √ √ √ √ √ √
+GHG-Dir-Abs Assets √ √ N/A √ √ N/A √ √ √ √ √ √
+GHG-Indir-Abs Assets √ √ N/A √ √ N/A √ √ √ √ √ √
+GHG-Int Assets √ √ N/A √ √ √ √ √ √ √ √ √
+Water-Abs Assets √ √ √ √ √ N/A √ √ √ √ √ √
+Water-LfL Assets √ √ √ √ √ N/A √ √ √ √ √ √
+Water-Int Assets √ √ √ √ √ √ √ √ √ √ √ √
+Waste-Abs Assets √ √ N/A √ √ N/A √ √ √ √ √ √
+Waste-LfL Assets √ √ N/A √ √ N/A √ √ √ √ √ √
+Cer t-Tot Assets √ √ N/A √ N/A N/A √ √ √ √ √ √
+SOCIAL PERFORMANCE MEASURES
+Diversity-Emp Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+Diversity-Pay Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+Emp-Training Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+Emp-Dev Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+Emp-Turnover Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+H&S-Emp Corporate N/A N/A N/A √ N/A √ N/A N/A √ √ √ √
+H&S-Asset Assets √ √ N/A √ N/A N/A √ N/A √ √ √ √
+H&S-Comp Assets √ √ N/A √ N/A N/A √ N/A √ √ √ √
+Comty-Eng Assets √ √ N/A √ N/A N/A √ N/A √ √ √ √
+GOVERNANCE PERFORMANCE MEASURES
+Gov-Board Corporate N/A N/A N/A √ N/A N/A N/A N/A √ √ √ √
+Gov-Selec Corporate N/A N/A N/A N/A N/A N/A N/A N/A √ √ √ √
+Gov-COI Corporate N/A N/A N/A N/A N/A N/A N/A N/A √ √ √ √
+
+--- PDF SEITE 13 ---
+Fourth edition April 2024
+4
+4.1 ELEC-ABS	TOTAL	ELECTRICITY	CONSUMPTION
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+EPRA Sustainability Performance 
+Measures - Environment
+13
+Definition 
+Elec-Abs refers to the total amount of electricity consumed over a full reporting year. It includes electricity from 
+renewable and non-renewable sources, whether imported or generated on site.
+Issue 
+Buildings	are	responsible	for	40%	of	the	final	energy	consumption	in	the	European	Union. 7 Energy consumption 
+represents a major source of an organisation’s energy footprint, and it is important to ensure consistent reporting 
+of	this	Performance	Measure	for	companies	to	improve	their	energy	efficiency.	Electricity	is	classified	as	indirect	
+energy as any primary fuels used to generate it are combusted off-site. The EU’s recent ‘Fit for 55’ provisional 
+agreement	reflects	the	drive	to	promote	renewable	energy	usage	in	the	built	environment,	notably	illustrated	
+through requirements to install solar energy systems, if technically, economically, and functionally feasible, across 
+new and existing building stock using incremental targets for differing building types. 8
+Rationale 
+Reporting total energy consumption (such as purchased electricity) from renewable and non-renewable sources 
+should encourage a company to measure and manage its energy use in a way that drives down consumption 
+and associated greenhouse gas emissions over time. Maximising renewable energy supply has been denoted as 
+one	of	the	five	key	steps	towards	achieving	a	Net	Zero	Carbon	building,	prioritising	the	use	of	on-site	renewable	
+energy generation.9 Off-site energy supplies may demonstrate the concept of additionality, a process in which an 
+organisation’s power purchase agreement (PPA) has the direct effect of adding new renewable energy generation 
+projects to the grid. Long-term commitments to purchase energy from a new renewable generation project can 
+provide the capital required to aid construction and operation, 10 thus allowing an organisation to be directly 
+supplied with renewable energy, whilst aiding wider grid decarbonisation. This Performance Measure enables the 
+calculation of the electricity element of indirect greenhouse gas emissions, which fall under scope 2 and 3 (where 
+sub-metered to tenants or tenant-obtained) of the WRI/WBCSD GHG Protocol. 11 
+7 https:/ /energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en 
+8 https://www.consilium.europa.eu/en/infographics/fit-for-55-making-buildings-in-the-eu-greener/ 
+9 https://ukgbc.org/resources/net-zero-carbon-buildings-framework/ 
+10 https://ukgbc.org/news/corporate-ppas-an-alternative-route-to-additionality/ 
+11 www.ghgprotocol.org/sites/default/files/ghgp/standards/ghg-protocol-revised.pdf
+Annual kWh
+
+--- PDF SEITE 14 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+14
+ 
+ 
+CORE: Companies must report:
+1. Total	electricity	consumption;
+2. The proportion of electricity consumption from purchased and self-generated renewable sources
+Elec-Abs should be calculated with reference to the following guidance (based on GRI Standard 302-1): 
+• Identify the amount of electricity purchased and consumed from external utility suppliers from non-renewable 
+sources;	
+• Identify the amount of electricity purchased and consumed from external utility suppliers from renewable 
+sources;	
+• Identify the amount of electricity consumption that has been self-generated by non-fuel sources , for example: 
+ – Solar photovoltaic 
+ – Wind turbines 
+ – Hydro turbines 
+ – Geothermal turbines 
+• The self-generated electricity that is exported/sold (i.e., not consumed by the reporting company) must not be 
+included. 
+• From	this	figure,	calculate	the	proportion	of	electricity	consumption	from	renewable	sources	as	a	percentage	of	
+total electricity consumption.  
+ 
+BRIDGE	REQUIREMENT:	If applicable, companies should report on the total electricity consumed from nuclear 
+sources (base on ESRS E1-5 37 b).
+Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation and ESRS E1-5: 
+Energy consumption and mix.
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS E1-5 35, which aims to provide transparency on the share of renewable energy (E1-5 37 c i to ii) in total 
+energy consumption, as well as dissegragated reporting of non-renewables (E1-5 37 a to b) and self-generated 
+energy (E1-5 37 c iii). 
+Companies should note application requirements (ESRS E1-5 AR 32 a) for reporting energy consumption 
+required under paragraph 35, only applies to energy consumed from processes owned or controlled, as per the 
+organisational	boundaries	defined	by	the	reporting	company .
+RECOMMENDATIONS
+
+--- PDF SEITE 15 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+15
+Definition 
+Elec-LfL refers to the electricity consumption of a portfolio that has been consistently in operation, and not under 
+development,	during	the	most	recent	two	full	reporting	years	(this	like-for-like	definition	is	aligned	with	the	EPRA	
+Financial	BPR	like-for-like	definition	for	rental	growth	reporting).12 For example, the 2023 like-for-like change 
+compares the 2023 electricity consumption (Elec-Abs) with the 2022 electricity consumption (Elec-Abs) for a 
+consistent portfolio.
+Rationale 
+Like-for-like Performance Measures are a necessary complement to absolute Performance Measures as disclosure 
+on	a	like-for-like	basis	shows	a	change	in	performance	unrelated	to	fluctuations	in	portfolio	size	(through	
+acquisitions, disposals, major refurbishments, and developments).  
+ 
+ 
+ 
+CORE: Companies must report like-for-like electricity consumption across the two most recent reporting years.
+Elec-LfL should be calculated in the following way:
+• Calculate the total electricity consumed for the like-for-like set of assets (i.e., those that have been consistently 
+in operation, and not under development, during the most recent two full reporting years) using the same 
+methodology	used	to	calculate	Elec-Abs.	These	calculations	should	be	reported	as	total	consumption	figures,	
+not solely as a percentage change.
+• Companies should disclose the basis and assumptions underlying the like-for-like information.
+• High	variation	in	vacancy	rates:	While	companies	can	use	significant	changes	in	vacancy	rates	as	an	
+explanation (akin to ‘special events’) of unusual consumption trends, such cases should be explicitly stated, and 
+consumption should not be excluded from the totals due to variations in vacancy rates.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation. This section should 
+be read in conjunction with the Elec-Abs section of this document.
+Necessary metrics for ESRS compliance are already incorporated within the Elec-Abs BRIDGE REQUIREMENT.
+4.2 ELEC-LFL	LIKE-FOR-LIKE	TOTAL	 
+ELECTRICITY	CONSUMPTION
+ Asset-level performance measure
+Annual kWh
+RECOMMENDATIONS
+12   https:/ /www.epra.com/application/files/3115/7287/4349/EPRA_BPR_Guidelines_241019.pdf
+
+--- PDF SEITE 16 ---
+Fourth edition April 2024
+Definition 
+DH&C-Abs refers to the total amount of indirect energy consumed from district heating or cooling systems over 
+a full reporting year. In this instance, ‘indirect’ means energy generated off-site and typically bought from an 
+external energy supplier.
+Issue 
+Although electricity and gas are often the primary forms of indirect and direct energy for many companies, certain 
+regions and countries may use other forms of intermediate energy such as steam/hot water or chilled water 
+provided from a district heating plant or chilled water plant. Since 2022, as a result of energy security concerns, 
+district heating has gained policy support across Europe. 13 Increasing the distribution of district heat networks 
+has	been	identified	as	one	method	to	limit	energy	security	concerns	across	Europe	due	to	the	decreased	reliance	
+on imported gas.14 Alongside this, such networks could prove pivotal in aiding Europe’s efforts to decarbonise the 
+built environment’s heating and cooling systems, crucial to achieving the EU’s 2030 and 2050 climate targets, as 
+renewable	energy	accounted	for	less	than	a	quarter	of	the	EU’s	2020	final	energy	usage	for	heating	and	cooling. 15
+Rationale 
+DH&C-Abs (total energy consumption from district heating and cooling) should encourage companies to measure 
+and manage energy use in a way that drives down consumption over time. Emphasis should be placed on installing 
+systems and adapting existing networks to utilise renewable energy sources, including bioenergy, solar thermal, 
+large-scale heat pumps, and geothermal. 16 Accurate measuring of energy consumption and energy sources 
+associated with district heat networks will be critical in enabling the transition towards decarbonising heating and 
+cooling within the built environment. This Performance Measure enables calculation of a district heating/cooling-
+related element of indirect greenhouse gas emissions, which fall under scope 2 and 3 (where sub-metered to 
+tenants or tenant-obtained) of the WRI/WBCSD GHG Protocol. 17  
+ 
+ 
+ 
+CORE: Companies must report:
+1. Indirect	energy	consumption	from	district	heating	and	cooling;
+2. The proportion of energy consumption from district heating and cooling generated on-site and/or off-site from 
+renewable sources.
+DH&C-Abs should be calculated with reference to the following guidance (based on GRI Standard 302-1):
+• Identify the amount of district heating and cooling purchased and consumed from non-renewable sources 
+generated on-site and/or off-site
+4.3 DH&C-ABS	TOTAL	DISTRICT	HEATING	 
+&	COOLING	CONSUMPTION
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+16
+Annual kWh
+RECOMMENDATIONS
+13 https://www.iea.org/energy-system/buildings/district-heating 
+14 Ibid. 
+15 https://www.eea.europa.eu/publications/decarbonisation-heating-and-cooling/decarbonising-heating-and-cooling 
+16 https://www.iea.org/energy-system/buildings/district-heating 
+17 https:/ /ghgprotocol.org/sites/default/files/ghgp/standards/ghg-protocol-revised.pdf
+
+--- PDF SEITE 17 ---
+Fourth edition April 2024
+• Identify the amount of heating and cooling purchased and consumed from renewable sources generated on and 
+off-site. Renewable energy sources can include:
+ – Solar photovoltaic
+ – Wind turbines
+ – Hydro turbines
+ – Geothermal turbines
+ – Biomass
+• Calculate the proportion of district heating and cooling consumed from renewable sources as a percentage of 
+total energy consumption from district heating and cooling.
+• If  DH&C-Abs is not procured at any of the properties in the portfolio, the sustainability performance measure 
+should be reported as ‘Not applicable’.
+ 
+ 
+BRIDGE	REQUIREMENT:	If applicable, companies should report on the total district heating and cooling 
+consumed from nuclear sources (based on ESRS E1-5 37 b).
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation and ESRS E1-5: 
+Energy consumption and mix. 
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS E1-5 35, which aims to provide transparency on the share of renewable energy (E1-5 37 c i to ii) in total 
+energy consumption, as well as dissegragated reporting of non-renewables (E1-5 37 a to b) and self-generated 
+energy (E1-5 37 c iii). 
+Companies should note application requirements (ESRS E1-5 AR 32 a) for reporting energy consumption 
+required under paragraph 35, only applies to energy consumed from processes owned or controlled, as per the 
+organisational	boundaries	defined	by	the	reporting	company.	Similarly,	companies	should	also	pay	attention	to	
+the application requirements (ESRS E1-5 AR 32 h) for accounting for steam, heat, or cooling received as "waste 
+energy" from a third party's industrial processes under the category of "purchased or acquired" energy.
+EPRA Sustainability Best Practices Recommendations Guidelines
+17
+
+--- PDF SEITE 18 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+18
+Definition 
+DH&C-LfL refers to the district heating and cooling consumed by a portfolio that has been consistently in 
+operation,	and	not	under	development,	during	the	most	recent	two	full	reporting	years	(this	like-for-like	definition	
+is	aligned	with	the	EPRA	Financial	BPR	like-for-like	definition	for	rental	growth	reporting). 18 For example, the 
+2023 like-for-like change compares the 2023 district heating and cooling consumption (DH&C-Abs) with the 
+2022 district heating and cooling consumption (DH&C-Abs) for a consistent portfolio.
+Rationale 
+Like-for-like Performance Measures are a necessary complement to absolute Performance Measures as disclosure 
+on	a	like-for-like	basis	shows	a	change	in	performance	unrelated	to	fluctuations	in	portfolio	size	(through	
+acquisitions, disposals, major refurbishments and developments).
+ 
+ 
+ 
+ 
+CORE: Companies must report like-for-like energy consumption from district heating and cooling across the two 
+most recent reporting years.
+DH&C-LfL	should be calculated in the following way:
+• Calculate the total district heating and cooling consumed for the like-for-like set of assets (i.e., those that have 
+been consistently in operation, and not under development, during the most recent two full reporting years) 
+using the same methodology used to calculate DH&C-Abs. These calculations should be reported as total 
+consumption	figures,	not	solely	as	a	percentage	change.
+• Companies should disclose the basis and assumptions underlying the like-for-like information.
+• High	variation	in	vacancy	rates:	While	companies	can	use	significant	changes	in	vacancy	rates	as	an	explanation	
+(akin to ‘special events’) of unusual consumption trends, such cases should be explicitly stated and consumption 
+should not be excluded from the totals due to variations in vacancy rates.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation. This section should 
+be read in conjunction with the DH&C-Abs section of this document.
+Necessary metrics for ESRS compliance are already incorporated within the DH&C-Abs BRIDGE REQUIREMENT.
+4.4 DH&C-LFL	LIKE-FOR-LIKE	TOTAL	DISTRICT	 
+HEATING	&	COOLING	CONSUMPTION
+ Asset-level performance measure
+18 https:/ /www.epra.com/application/files/3115/7287/4349/EPRA_BPR_Guidelines_241019.pdf
+Annual kWh
+RECOMMENDATIONS
+
+--- PDF SEITE 19 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+19
+Definition 
+Fuels-Abs refers to the total amount of fuel used from direct (renewable and non-renewable) sources (‘direct’ 
+meaning that the fuel is combusted on-site) over a full reporting year. 
+Issue 
+According	to	the	European	Commission,	buildings	are	responsible	for	40%	of	final	energy	consumption	in	the	
+European Union and, alongside electricity, fuels (such as natural gas) are one of the most widespread types of 
+energy consumed in buildings.19	Gas	is	classified	as	direct	energy	as	it	is	burned	on-site.	The	EU’s	recent	‘Fit	for	
+55’ agreement illustrates efforts to hasten the transition away from natural gas and wider fuel consumption 
+within the built environment, stating that by 2030 all new buildings must be zero emission, extending to the entire 
+building stock by 2050. This comes in-line with data suggesting 66% of commercial building emissions are caused 
+by predominantly fossil fuel heating systems. 20
+Rationale 
+Reporting	total	energy	consumption	from	fuels	(classified	as	direct	energy)	such	as	purchased	natural	gas	should	
+encourage companies to identify and manage the use of fuels in a way that drives down fuel consumption over 
+time. To reduce emissions associated with fossil fuel energy combustion, organisations may seek alternative 
+renewable fuel sources. Biofuel, a gas or liquid fuel made from plant material, is becoming increasingly prevalent 
+as a low-carbon alternative to petroleum-based fuels, used as a resource for energy generation on-site and on the 
+grid.21 Biofuel use must, however, still be measured and reported, to provide an insight into overall fuel usage and 
+to track the transition away from fossil fuel combustion. When combusting biofuels companies should separately 
+report biogenic CO2 emissions from scopes, whilst reporting any CH 4 and NO2 emissions in scope 2.22 This 
+Performance Measure enables the calculation of the fuel’s element of greenhouse gas emissions, which fall under 
+scope 1 and 3 (where sub-metered to tenants or tenant-obtained) of the WRI/WBCSD GHG protocol.  
+ 
+ 
+ 
+CORE: Companies must report:
+1. Total	amount	of	fuels	used	from	direct	sources;
+2. The proportion of the total amount of fuel consumption within the organisation that is from renewable sources.
+Fuels-Abs should be calculated with reference to the following guidance (based on GRI Standard 302-1):
+• Identify the amount of fuel purchased or obtained and consumed within the organisation from non-renewable 
+sources;
+• Identify the amount of fuels purchased or obtained and consumed within the organisation from renewable 
+sources. Renewable energy sources can include:
+ – Biomass 
+ – Biogas
+ – Biofuel
+ – Renewable hydrogen
+• Calculate the proportion of fuels purchased, obtained and consumed from renewable sources as a percentage 
+of the amount of fuels purchased, obtained and consumed.
+4.5 FUELS-ABS	TOTAL	FUEL	CONSUMPTION
+ Asset-level performance measure
+19 https://www.consilium.europa.eu/en/infographics/fit-for-55-making-buildings-in-the-eu-greener/ 
+20 https://ukgbc.org/wp-content/uploads/2021/11/UKGBC-Whole-Life-Carbon-Roadmap-A-Pathway-to-Net-Zero.pdf 
+21 https:/ /ghgprotocol.org/sites/default/files/2023-03/Scope%202%20Guidance.pdf 
+22 Ibid.
+Annual kWh
+RECOMMENDATIONS
+
+--- PDF SEITE 20 ---
+Fourth edition April 2024
+• If electricity and thermals are self-generated by combusting fuels on site, only disclose the fuels consumed in 
+Fuels-Abs. Do not include the resulting electricity/thermals in Elec-Abs/DH&C-Abs to avoid double-counting. 
+If fuels are not purchased, obtained and consumed at any of the properties in the portfolio, the sustainability 
+performance measure should be reported as ‘Not applicable’.
+BRIDGE	REQUIREMENT:	According to Section L of Annex I to Regulation (EC) No 1893/2006 of the European 
+Parliament	and	of	the	Council,	the	real	estate	industry	is	classified	as	a	'high	climate	impact	sector'	within	the	
+ESRS.
+As such, companies should further disaggregate total fuel consumption (based on ESRS E1-5 38 a to e) from fossil 
+sources	by;
+– Coal and coal products 
+– Crude oil and petroleum products
+– Natural gas 
+– Other fossil sources
+ 
+ Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation and ESRS E1-5: 
+Energy consumption and mix. 
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS E1-5 35, which necessitates the disclosure of fuel consumption from both renewable (E1-5 37 c) and non-
+renewable sources (E1-5 38 a to e).
+Companies should note application requirements (ESRS E1-5 AR 32 a) for reporting energy consumption 
+required under paragraph 35, only applies to energy consumed from processes owned or controlled, as per the 
+organisational	boundaries	defined	by	the	reporting	company.
+EPRA Sustainability Best Practices Recommendations Guidelines
+20 Fourth edition April 2024
+
+--- PDF SEITE 21 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+21
+Definition 
+Fuels-LfL refers to the fuel consumed by a portfolio that has been consistently in operation, and not under 
+development,	during	the	most	recent	two	full	reporting	years	(this	like-for-like	definition	is	aligned	with	the	EPRA	
+Financial	BPR	like-for-like	definition	for	rental	growth	reporting). 23 For example, the 2023 like-for-like change 
+compares the 2023 Fuels-Abs consumption with the 2022 Fuels-Abs consumption for a consistent portfolio.
+Rationale 
+Like-for-like Performance Measures are a necessary complement to absolute Performance Measures as disclosure 
+on	a	like-for-like	basis	shows	a	change	in	performance	unrelated	to	fluctuations	in	portfolio	size	(through	
+acquisitions, disposals, major refurbishments and developments).  
+ 
+ 
+ 
+CORE:  Organisations must report like-for-like fuel consumption across the two most recent reporting years.
+Fuels-LfL should be calculated in the following way:
+• Calculate the total fuels consumed for the like-for-like set of assets (i.e., those that have been consistently 
+in operation, and not under development, during the most recent two full reporting years) using the same 
+methodology	used	to	calculate	Fuels-Abs.	These	calculations	should	be	reported	as	total	consumption	figures,	
+not solely as a percentage change.
+• Companies should disclose the basis and assumptions underlying the like-for-like information.
+• High	variation	in	vacancy	rates:	While	companies	can	use	significant	changes	in	vacancy	rates	as	an	
+explanation (akin to ‘special events’) of unusual consumption trends, such cases should be explicitly stated, and 
+consumption should not be excluded from the totals due to variations in vacancy rates.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 302-1: Energy consumption within the organisation. This section should 
+be read in conjunction with the Fuels-Abs section of this document.
+Necessary metrics for ESRS compliance are already incorporated within the Fuel-Abs BRIDGE REQUIREMENT.
+4.6 FUELS-LFL	LIKE-FOR-LIKE	TOTAL	 
+FUEL	CONSUMPTION
+ Asset-level performance measure
+Annual kWh
+RECOMMENDATIONS
+23   https:/ /www.epra.com/application/files/3115/7287/4349/EPRA_BPR_Guidelines_241019.pdf
+
+--- PDF SEITE 22 ---
+Fourth edition April 2024
+Definition 
+Energy-Int refers to the total amount of direct and indirect energy used by renewable and non-renewable sources 
+in a building over a full reporting year, normalised by an appropriate denominator.
+Issue 
+Intensity indicators are widely used to report performance. However, the variety of approaches used by companies 
+to calculate intensity indicators represents a challenge for stakeholders when understanding how to interpret 
+data provided by reporters. Please refer to section 7.5 and 7.6 of the Overarching Recommendations in this 
+regard.	Legislation	regarding	energy	intensity	and	efficiency	in	the	built	environment	is	growing	across	Europe	
+to	align	with	binding	2030	and	2050	climate	targets.	This	is	primarily	reflected	by	the	EU’s	Energy	Performance	
+of	Buildings	Directive,	which	promotes	policies	aimed	at	achieving	a	highly	energy	efficient	and	decarbonised	
+building stock by 2050,24	as	currently	85%	of	EU	buildings	were	built	before	2000,	75%	of	which	reflect	poor	
+energy performance.
+Rationale 
+Building	energy	intensity	is	one	of	the	most	effective	measures	of	a	building’s	overall	energy	efficiency	during	
+the occupation and operational phase of the building’s life cycle and enables analysis of performance over time 
+without the need to exclude acquired or sold properties. This Performance Measure can be used for the energy 
+intensity for both those buildings occupied by the reporter and those held in investment portfolios. Building 
+energy intensity is primarily intended to track changes over time for the reporters’ assets. Tracking energy 
+performance through energy intensity measures allows organisations to identify areas of energy improvement 
+and investigate the impacts of renovation strategies at both individual asset and portfolio scales. Maximising 
+energy	efficiency	reflects	a	crucial	pillar	of	the	net-zero	carbon	hierarchy,	ensuring	energy	efficiency	measures	
+are prioritised to reduce a building’s overall energy demand and consumption. Organisations may, therefore, seek 
+to	improve	insulation,	upgrade	lighting	systems,	optimise	HVAC	technology,	and	install	wider	energy-efficient	
+appliances. In efforts to reduce operational energy usage, the UKGBC states in-use energy consumption should be 
+calculated and publicly disclosed on an annual basis. 25 
+ 
+ 
+ 
+CORE: Companies must report the total amount of direct and indirect energy used (including renewable and non-
+renewable sources) across their portfolio over a full reporting year, normalised by an appropriate denominator.
+Energy-Int should be calculated (based on GRI Standard 302-3) as the sum of energy consumption reported for 
+Elec-Abs, DH&C-Abs & Fuels-Abs, normalised using an appropriate denominator.
+Energy intensity per revenue (kWh/revenue/year) is the preferred method according to ESRS E1-5 40, although 
+any of the following calculation methods are recognised by EPRA as appropriate denominators:
+Energy	intensity	per	person	(kWh/person/year)
+• Identify the number and type of buildings, total annual energy consumption (in kWh) and corresponding number 
+of	persons;
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+22
+4.7 ENERGY-INT	BUILDING	ENERGY	INTENSITY
+ Asset-level performance measure
+kWh/person/year;	or
+kWh/m2/year;	or
+kWh/revenue/year
+24 https:/ /energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en 
+25 https://ukgbc.org/resources/net-zero-carbon-buildings-framework/
+
+--- PDF SEITE 23 ---
+Fourth edition April 2024
+• Calculate:
+	 ∑	(sum	of)	annual	kWh	energy	consumption 26
+	 ∑	(sum	of)	persons
+• Companies should decide the most appropriate measure of persons used in this Performance Measure, clearly 
+stating the Rationale and calculation methodology. For example, current best practice for the use of per person 
+denominators is as follows:
+Property type Suggested person denominator
+Office Number of workstations
+Retail Number of visitors per annum
+Hotel Number of guest-nights
+Residential Number of households 
+ 
+Energy	intensity	per	floor	area	(kWh/m 2/year)
+•	 Identify	the	number	and	type	of	buildings,	total	annual	energy	consumption	(in	kWh)	and	corresponding	floor	
+area (m2);
+• Calculate:
+	 ∑	(sum	of)	annual	kWh	energy	consumption
+	 ∑	(sum	of)	floor	area	(m 2)
+•	 Companies	should	decide	the	most	appropriate	measure	of	floor	area	used	for	this	Performance	Measure,	
+clearly stating the Rationale and calculation methodology.
+It is fairly common for a landlord to supply tenant areas with Heating, Ventilation and Air Conditioning (HVAC) 
+services but not for the rest of the energy used (i.e., tenants buy their own energy for lighting and small power 
+supplies). In the absence of a standard approach, companies should include a note to state how they have treated 
+buildings	where	this	scenario	applies,	and	what	floor	area	they	chose	to	apply	to	calculate	intensity	in	such	
+buildings.	Outlined	below	are	suggested	types	of	floor	area	to	be	used	while	calculating	intensity	indicators.	These	
+suggestions are based on current best practice:
+Coverage	of	known	consumption	data Suggested	floor	area	denominator
+Outlined	below	are	suggested	types	of	floor	area	to	
+be used while calculating intensity indicators, based 
+on the coverage of known consumption data.
+If energy is only supplied to common areas Common parts area
+If landlord-shared services, such as
+HVAC, are supplied to tenant demises but tenant-
+obtained energy is unknown
+Companies	should	state	which	floor	area	has	been	used	
+where this applies – be it common parts area only or 
+common parts plus lettable area – acknowledging that 
+the intensity indicator is affected due to the mismatch 
+between numerator and denominator.
+Where sub-metering allows for this, companies should 
+consider itemising HVAC intensity separate to building 
+energy intensity.
+If energy is known for whole building (even including 
+tenant-obtained energy if applicable)
+Whole	building	floor	area	(for	example,	common	parts	plus	
+net lettable area)
+Energy	intensity	per	revenue	(kWh/revenue/year)
+• Identify the number and type of buildings, total annual energy consumption (in kWh) and corresponding 
+revenue	(in	EUR/GBP);
+• Calculate:
+	 ∑	(sum	of)	Annual	kWh	energy	consumption
+	 ∑	(sum	of)	revenue	(EUR/GBP)
+EPRA Sustainability Best Practices Recommendations Guidelines
+23
+26 Total energy consumption should be expressed as primary energy. Use local conversion factors to convert electricity to joules or 
+multiples	when	possible;	or	generic	conversion	factors,	when	local	conversion	factors	are	unavailable.
+
+--- PDF SEITE 24 ---
+Fourth edition April 2024
+In accordance with EU law, intensity should be calculated with net revenue although is not required by EPRA. 
+In	regard	to	all	three	types	of	normalisation	(i.e.,	per	person,	floor	area	and	revenue),	reporting	organisations	
+should report the method used to ensure numerators and denominators in the intensity indicator correspond, 
+thereby taking account of different landlord and tenant metering scenarios. In particular, where the reporter does 
+not know energy consumption data within the whole building (i.e., it is missing or not known to the reporter), it is 
+important to ensure the intensity indicator is consistent and accurate. Possible approaches include: excluding such 
+properties	from	the	aggregation;	adjusting	the	overall	consumption	data	to	take	account	of	unknown	data	(i.e.,	
+estimation);	or	adjusting	the	denominator	to	better	correspond	with	the	known	consumption.
+For industrial properties and retail parks where the landlord only buys electricity for the purposes of external/
+street lighting, companies should not use internal building area for the purposes of intensity Performance 
+Measures. Rather, they should normalise the consumption by either number of car park spaces or m 2 area covering 
+external areas (if available). 
+Further guidance 
+Please refer to the relevant GRI Standard 302-3: Energy intensity and ESRS E1-5: Energy intensity based on 
+net revenue. This section should be read in conjunction with sections Elec-Abs, DH&C-Abs and Fuels-Abs of this 
+document. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information regarding the relationship between this 
+Performance Measure and EU regulation, please see ESRS E1-5 40 to 43, which highlights the preferred method 
+of calculating energy intensity and the sectors required to do so.
+EPRA Sustainability Best Practices Recommendations Guidelines
+24
+
+--- PDF SEITE 25 ---
+Fourth edition April 2024
+Definition 
+GHG-Dir-Abs refers to the total amount of direct greenhouse gas emissions generated (i.e., GHG emissions which 
+are generated on-site through combustion of the energy source/ fuel), or scope 1 emissions, over a full reporting 
+year.
+Issue 
+According to the European Commission, energy consumption in buildings is responsible for 36% of European 
+Union greenhouse gas emissions. 27 Companies should have some control of these emissions as they originate 
+from combusting fuels. The impacts of climate change associated with greenhouse gas emissions are becoming 
+increasingly	evident	across	Europe	(i.e.,	through	extreme	heat,	drought,	and	wildfires). 28 The requirement to 
+measure, manage, and reduce such emissions is therefore growing in prevalence. The EU’s recent ‘Fit for 55’ 
+provisional agreement illustrates the clear intention to eliminate scope 1 GHG emissions associated with the built 
+environment,	directly	reflected	by	objectives	stating	all	new	buildings	constructed	should	be	zero-emission	by	
+2030, extending to the entire building stock by 2050. 29
+Rationale 
+Reporting GHG-Dir-Abs emissions should encourage a property investment company to identify and manage 
+emissions from sources owned or controlled by the reporting company. For example, direct emissions related to 
+combustion would arise from burning fuel for energy within the company’s operational boundaries. In order to 
+reach net zero targets, monitoring the reduction of GHG emissions and transitioning towards low and zero GHG 
+alternatives is crucial. Organisations should seek to prioritise the installation and use of on-site renewable energy 
+sources	to	transition	away	from	fossil	fuel	intensive	systems.	Maximising	energy	efficiency	has	also	been	identified	
+as a further strategy to reduce direct GHG emissions in the built environment, through actively improving 
+building	insulation,	upgrading	to	efficient	appliances,	and	employing	building	energy	management	systems. 30 
+Organisations may also source low-carbon heating technology, including air and ground-source heat pumps, 
+biomass boilers, and district heating systems, to aid the transition from fossil fuel intensive systems.  
+ 
+ 
+ 
+CORE: Companies must report their total amount of direct (scope 1) greenhouse gas emissions.
+GHG-Dir-Abs should be calculated with reference to the following guidance (based on GRI Standard 305-1): 
+To calculate direct emissions, report tonnes of carbon dioxide equivalent (tonnes CO 2e) emitted from fuels burned 
+on site (please use the amount of fuels burned on site as reported under Fuels-Abs). Use recognised conversion 
+factors, such as those published by recognised international bodies/initiatives such as the Intergovernmental 
+Panel on Climate Change (IPCC) or International Energy Agency. 31, 32
+• If fuels are not purchased, obtained and consumed at any of the properties in the portfolio, the sustainability 
+Performance Measure should be reported as ‘Not applicable’.
+ 
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+25
+4.8 GHG-DIR-ABS	TOTAL	DIRECT	GREENHOUSE	
+GAS	(GHG)	EMISSIONS
+ Asset-level performance measure
+Annual metric  
+tonnes CO2e
+27 https://www.consilium.europa.eu/en/infographics/fit-for-55-making-buildings-in-the-eu-greener/ 
+28 https://news.un.org/en/story/2023/06/1137867 
+29 https://www.consilium.europa.eu/en/infographics/fit-for-55-making-buildings-in-the-eu-greener/ 
+30 https://www.theccc.org.uk/wp-content/uploads/2014/08/Fact-sheet-buildings-updated-July-2015.pdf 
+31 www.ipcc-nggip.iges.or.jp/EFDB/main.php 
+32 https://www.iea.org/data-and-statistics/data-product/emissions-factors-2023
+
+--- PDF SEITE 26 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+26
+ADDITIONAL: 	Companies may be aware that GRI Standard 305-1 requests that companies report fugitive 
+emissions (such as refrigerant gases) and emissions from transportation of materials, products and waste. Please 
+refer to section 7.5 of this document for further guidance on EPRA’s recommended approach to these additional 
+emissions sources.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 305-1: Direct (Scope 1) GHG emissions.
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS E1-6: Gross Scopes 1, 2, 3 and Total GHG emissions. 
+This section should be read in conjunction with the Fuels-Abs section of this document.
+Fourth edition April 2024
+
+--- PDF SEITE 27 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+27
+Definition 
+GHG-Indir-Abs refers to the total amount of indirect greenhouse gas emissions generated (‘indirect’ meaning that 
+GHG emissions are generated off site during combustion of the energy source) over a full reporting year.
+Issue 
+Accurately calculating indirect greenhouse gas emissions using a robust methodology and appropriate 
+conversion factors remains a key issue.33 The impacts of climate change associated with these emissions are 
+increasingly	evident	across	Europe,	such	as	extreme	heat,	drought,	and	wildfires. 34 As a result, there is a growing 
+requirement to effectively measure, manage, and reduce these emissions. The EU's recent 'Fit for 55' provisional 
+agreement aims to boost the deployment of renewable projects in order to increase the share of renewables in 
+the	EU's	final	energy	consumption	to	42.5%	by	2030. 35 Additionally, the UK government's Streamlined Energy 
+and Carbon Reporting (SECR) requires companies to disclose certain emissions, indicating a legislative shift 
+towards reducing and reporting on indirect greenhouse gas emissions.
+Rationale 
+Reporting indirect emissions should encourage companies to identify and manage the emissions that result 
+from their activities, but are emitted at sites owned or controlled by another company. In the context of this 
+Performance Measure, indirect emissions refer to greenhouse gas emissions from the generation of electricity, 
+heat	or	steam	that	is	imported	and	consumed	by	the	reporting	organisation.	Indirect	emissions	are	sufficiently	
+influenced	by	reporters	that	changes	in	their	practices	may	lead	to	significant	reductions.	Measuring	and	
+reporting efforts to reduce indirect emissions can demonstrate leadership in combating climate change and can 
+enhance the reporter’s reputation. 
+Maximising	renewable	energy	supply	has	been	denoted	as	one	of	the	five	key	steps	towards	achieving	a	net	zero	
+carbon building and reducing scope 2 emissions, prioritising the use of on-site renewable energy generation. 36 
+In reducing scope 2 emissions, organisations may seek to rethink off-site energy supplies and place greater 
+emphasis on the concept of additionality, a process in which an organisation’s power purchase agreement (PPA) 
+has the direct effect of adding new renewable energy generation projects to the grid. Long-term commitments 
+to purchase energy from a new renewable generation project can provide the capital required to aid construction 
+and operation, 37 thus allowing an organisation to be directly supplied with renewable, low GHG emitting energy, 
+whilst increasing the share of renewable energy in the wider grid. Efforts to reduce indirect emissions can also 
+help identify emission hotspots, build partnerships with suppliers and customers, and improve supply chain 
+efficiency,	leading	to	potential	operational	cost	savings	through	reduced	material,	resource,	and	energy	usage. 38
+As a minimum requirement, companies must report their emissions according to the location-based method, 
+which	reflects	the	average	GHG	emissions	intensity	of	grids	on	which	energy	consumption	occurs,	using	mostly	
+grid-average emission factor data. 39 Companies may also report their emission according to the market-based 
+method as an additional Performance Measure. 40 
+4.9 GHG-INDIR-ABS	TOTAL	INDIRECT	
+GREENHOUSE	GAS	(GHG)	EMISSIONS
+ Asset-level performance measure
+Annual metric  
+tonnes CO2e
+33 https:/ /ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf 
+34 https://news.un.org/en/story/2023/06/1137867 
+35 https://www.europarl.europa.eu/news/en/headlines/society/20180305STO99003/reducing-carbon-emissions-eu-targets-and-
+policies 
+36 https://ukgbc.org/resources/net-zero-carbon-buildings-framework/ 
+37 https://ukgbc.org/news/corporate-ppas-an-alternative-route-to-additionality/ 
+38 https://www.ukgbc.org/wp-content/uploads/2019/07/Scope-3-guide-for-commercial-real-estate.pdf
+39	 According	to	the	GHG	Protocol,	location-based	method	reflects	the	average	emissions	intensity	of	grids	on	which	energy	consumption	
+occurs (using mostly grid-average emission factor data). 
+40	 According	to	the	GHG	Protocol,	market-based	method	reflects	emissions	from	electricity	that	companies	have	purposefully	chosen. 	
+It derives emission factors from contractual instruments, which include any type of contract between two parties for the sale and 
+purchase of energy bundled with attributes about the energy generation, or for unbundled attribute claims.
+
+--- PDF SEITE 28 ---
+Fourth edition April 2024
+RECOMMENDATIONS
+ CORE: Companies must report the total amount of location-based indirect greenhouse gas emissions (tonnes 
+CO2e) emitted by off-site generation used for the operational energy consumption of the asset.
+GHG-Indir-Abs  should be calculated with reference to the following guidance (based on GRI Standard 305-2 and 
+305-3). 
+• Identify indirect location-based emissions of greenhouse gases resulting from the off-site generation of 
+operational energy use at assets. The reported emissions must correspond with the amounts presented in 
+Elec-abs,	Fuel-abs	and	DH&C,	aligning	with	the	organisational	boundaries	identified	by	the	company.
+• Report tonnes of carbon dioxide equivalent (tonnes CO 2e) emitted by the off site generation of electricity, heat 
+or steam consumed, and fuels burned by tenants. Use recognised conversion factors such as those published 
+by recognised international bodies/initiatives such as the Intergovernmental Panel on Climate Change (IPCC) 
+or International Energy Agency.41, 42
+• With regard to reporting of tenant and landlord emissions, the allocation of indirect GHG emissions between 
+scope 2 and 3 is dependent on the metering and sub-metering arrangement in place between tenants and 
+landlords.43 Reporters need to decide how to interpret Category 13 of the Technical Guidance for Calculating 
+scope 3 Emissions of the GHG protocol.44 “Navigating through sustainability reporting standards”, available 
+from https:/ /www.epra.com/application/files/9715/0366/5096/UK_EPRA_BPRs_Guidance-JLL.pdf  provides 
+more guidance on this.
+ 
+ 
+BRIDGE	REQUIREMENT: If applicable, companies may also report indirect market-based emissions of greenhouse 
+gases resulting from the off-site generation of purchased electricity, heat, or steam (based on the amounts of 
+purchased electricity, heat and steam as reported in Elec-Abs and DH&C-Abs). 45	Market-based	emissions	reflect	
+emissions from electricity that an organisation has purposefully chosen. It derives emission factors from the 
+contractual agreement between the external energy supplier and the reporting organisation for the purchase of 
+energy with certain attributes such as renewable sources (based on ESRS E1-6 49 b).
+ 
+It is also encouraged for companies to report their scope 3 emissions in metric tonnes of CO 2e (based on ESRS 
+E1-6 44 c). EPRA recognises that companies may report other indirect scope 3 emissions, in addition to those 
+associated with the operational energy use of buildings. For transparency within the sBPR disclosures, companies 
+should separately identify such emissions and should categorise these according to the organisational boundaries 
+and aligned with the GHG Protocol.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 305-2: Energy indirect (Scope 2) GHG emissions and 305-3: Other 
+indirect (Scope 3) GHG emissions. For further guidance on how this Performance Measure relates to EU regulation 
+please see ESRS E1-6: Gross Scopes 1, 2, 3 and Total GHG emissions and  ESRS 1-6 AR 46 for additional support on 
+how to calculate scope 3 emissions. Where companies wish to report scope 3 or other out of scope GHG emissions, 
+they may refer to GRI 305-3: Other indirect (Scope 3) GHG emissions.
+This section should be read in conjunction with the Elec-Abs, DH&C-Abs and Fuels-Abs sections of this document. 
+Please also refer to section 7.5 and 7.6 of the Overarching Recommendations and “Navigating through 
+sustainability reporting standards.”
+EPRA Sustainability Best Practices Recommendations Guidelines
+28
+41 www.ipcc-nggip.iges.or.jp/EFDB/main.php
+42 EPRA recommend companies use the most recently available grid-based emissions factors such as those provided by the 
+International Energy Agency, see www.iea.org/data-and-statistics/data-product/emissions-factors-2023 
+43 Calculated according to the location-based method. 
+44 www.ghgprotocol.org/sites/default/files/ghgp/standards/Scope3_Calculation_Guidance_0.pdf
+45 Calculated according to the market-based method.
+
+--- PDF SEITE 29 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+29
+Definition 
+GHG-Int refers to the total amount of direct and indirect GHG emissions generated from energy consumption in a 
+building over a full reporting year, normalised by an appropriate denominator.
+Issue 
+Intensity indicators have become widespread measures of performance (alongside the absolute consumption and 
+like-for-like indicators). However, the variety of approaches used by companies to calculate intensity indicators 
+represents a challenge for stakeholders when understanding how to interpret these indicators. Please refer to 
+section 7.5 and 7.6 of the Overarching Recommendations in this regard. Legislation regarding energy intensity and 
+efficiency,	and	reducing	overall	emissions	in	the	built	environment	is	growing	across	Europe	to	align	with	binding	
+2030	and	2050	climate	targets.	This	is	primarily	reflected	by	the	EU’s	Energy	Performance	of	Buildings	Directive	
+which	promotes	policies	to	achieve	a	highly	energy	efficient	and	decarbonised	building	stock	by	2050. 46
+Rationale 
+GHG-Int	is	an	effective	measure	of	efficiency	during	the	occupation	and	operational	phase	of	the	building	life	
+cycle and allows analysis of performance over time without the need to exclude acquired or sold properties. This 
+Performance Measure provides reporters with the opportunity to disclose GHG intensity for both those buildings 
+occupied by the reporter and investment properties. GHG intensity from building energy is primarily intended to 
+track changes over time for the reporters’ assets. 
+ 
+ 
+ 
+CORE: Companies must report the total amount of direct and indirect (location-based) GHG emissions generated 
+from energy consumption over a full reporting year, normalised by an appropriate denominator.
+GHG-Int should be calculated (based on GRI Standard 305-4) as the sum of GHG emissions calculated for the 
+EPRA Sustainability Performance Measures GHG-Dir-Abs and GHG-Indir-Abs, normalised using an appropriate 
+denominator.
+GHG intensity per revenue (kgCO2e/revenue/year) is the preferred method according to ESRS E1-6, although any 
+of the following calculation methods are recognised by EPRA as appropriate denominators:
+GHG	intensity	per	person	(kgCO 2e/person/year)
+• Identify the number and type of buildings, total annual kgCO 2e emissions and corresponding total number of 
+persons.
+• Calculate:
+∑	(sum	of)	annual	kgCO2e emissions
+∑	(sum	of)	persons 
+4.10 GHG-INT	GREENHOUSE	GAS	(GHG)	EMISSIONS
+	 INTENSITY	FROM	BUILDING	ENERGY 	
+CONSUMPTION
+ Asset-level performance measure
+kgCO2e/m2/year 
+kgCO2e/person/year 
+kgCO2e/revenue/year
+RECOMMENDATIONS
+46 https:/ /energy.ec.europa.eu/topics/energy-efficiency/energy-efficient-buildings/energy-performance-buildings-directive_en
+
+--- PDF SEITE 30 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+30
+• Companies should decide the most appropriate measure of persons used in this Sustainability Performance 
+Measure, clearly stating the Rationale and calculation methodology. For example, current best practice for the 
+use of per person denominators is as follows:
+Property type Suggested person denominator
+Office Number of workstations
+Retail Number of visitors per annum
+Hotel Number of guest-nights
+Residential Number of households  
+GHG	intensity	per	floor	area	(kgCO 2e/m2/year)
+• Identify the number and type of buildings, total annual kgCO 2e	emissions	and	corresponding	total	floor	area	
+(m2).
+• Calculate:
+	 ∑	(sum	of)	annual	kgCO 2e emissions
+	 ∑	(sum	of)	floor	area	(m 2)
+• Companies	should	decide	the	most	appropriate	measure	of	floor	area	used	in	this	Sustainability	Performance	
+Measure, clearly stating the Rationale and calculation methodology.
+It is fairly common for a landlord to supply tenant areas with Heating Ventilation and Air Conditioning (HVAC) services 
+but not the rest of energy (i.e., tenants buy their own energy for lighting and small power supplies). In the absence of 
+a standard approach, companies should include a note to state how they have treated buildings where this scenario 
+applies,	and	what	floor	area	they	chose	to	apply	to	calculate	intensity	in	such	buildings.
+Coverage	of	known	consumption	data Suggested	floor	area	denominator
+Outlined	below	are	suggested	types	of	floor	area	to	
+be used while calculating intensity indicators, based 
+on the coverage of known consumption data.
+Emissions cover energy only supplied to  
+common areas
+Common parts area
+If landlord-shared services, such as HVAC, are 
+supplied to tenant demises but emissions arising from 
+tenant-obtained energy are unknown
+Companies	should	state	which	floor	area	has	been	used	
+where this applies – be it common parts area only or 
+common parts plus lettable area – acknowledging that 
+the intensity indicator is affected due to the mismatch 
+between numerator and denominator.
+Where sub-metering allows for this, companies should 
+consider itemising HVAC intensity separate to building 
+GHG intensity.
+If data is available on emissions arising from
+energy for whole building (even including
+tenant-obtained energy if applicable)
+Whole	building	floor	area	(for	example,	common
+parts plus net lettable area).
+GHG	intensity	per	revenue	(kgCO 2e/revenue/year)
+• Identify the number and type of buildings, total annual kgCO 2e emissions and corresponding revenue (in EUR/
+GBP).
+• Calculate:
+	 ∑	(sum	of)	annual	kgCO 2e emissions
+	 ∑	(sum	of)	revenue	(EUR/GBP)
+
+--- PDF SEITE 31 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+31
+In accordance with ESRS E1-5, activities in 'high climate impact sectors' should calculate energy intensity using total 
+energy consumption per net revenue, even though this is not required by the EPRA sBPR. In regard to all three types 
+of	normalisation	(i.e.,	per	person,	floor	area	and	revenue),	reporting	organisations	should	report	the	method	used	
+to ensure numerators and denominators in the intensity indicator correspond, thereby taking account of different 
+landlord and tenant metering scenarios. In particular, where the reporter does not know GHG emission data within 
+the whole building (i.e., it is missing or not known to the reporter), it is important to ensure the intensity indicator is 
+consistent	and	accurate.	Possible	approaches	include:	excluding	such	properties	from	the	aggregation;	adjusting	the	
+overall	consumption	data	to	take	account	of	unknown	data	(i.e.,	estimation);	or	adjusting	the	denominator	to	better	
+correspond with the known consumption.
+For industrial properties and retail parks where the landlord only buys electricity for the purposes of external/
+street lighting, companies should not use internal building area for the purposes of GHG emissions intensity 
+Performance Measures. Rather, they should normalise the consumption by either number of car park spaces or m 2 
+area covering external areas (if available).
+ 
+BRIDGE	REQUIREMENT: For companies reporting indirect market-based emissions, it is encouraged to also 
+calculate emissions intensity using these factors (based on ESRS E1 AR 47). For companies reporting GHG 
+intensity	per	revenue,	figures	should	be	reported	in	metric	tonnes	of	CO₂e	(based	on	ESRS	E1-6	54).
+ 
+Further guidance 
+Please refer to the guidance for GRI 305-4: GHG emissions intensity. This section should be read in conjunction 
+with the GHG-Dir-Abs and GHG-Indir-Abs sections of this document. 
+For detailed information regarding the relationship between this Performance Measure and EU regulation, please 
+see ESRS E1 AR 47 a, which provides a calculation method using market-based emissions, and ESRS E1-6 AR 53 
+and E1-6 53 to 55, which highlights the preferred method of calculating GHG emissions intensity and the sectors 
+required to do so.
+Fourth edition April 2024
+
+--- PDF SEITE 32 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+32
+Definition 
+Water-Abs refers to the total amount of water consumed within a portfolio over a full reporting year.
+Issue 
+The built environment is responsible for 33% of water consumption, according to the World Green Building 
+Council.47 However, water reporting by the real estate sector is often limited in scope, accuracy, and detail. The 
+impacts	of	climate	change	are	greatly	affecting	the	availability	of	finite	water	resources	across	Europe.	The	
+European Environment Agency denotes approximately 20% of European territory and 30% of Europeans are 
+affected by water stress during an average year, with climate change set to exacerbate the issue by heightening 
+the frequency, magnitude, and impact of drought events in the region. 48	Although	no	specific	legislation	has	been	
+set regarding a mandated reduction in water consumption, climate change represents a need to monitor and 
+reduce water consumption within the built environment. 
+Rationale 
+Reporting Water-Abs (total volume of water withdrawn by source) contributes to an understanding of the overall 
+scale of potential impacts and risks associated with an investment company’s water use. The total volume 
+withdrawn provides an indication of the company’s relative size and importance as a user of water and provides 
+a	baseline	figure	for	other	calculations	relating	to	efficiency	and	use.	To	accurately	track	water	consumption,	
+organisations	may	employ	sub-metering	monitoring	systems,	aiding	identification	of	performance	inefficiencies,	
+allowing the creation of informed decisions regarding conservation measures. 49 Maximising water reuse and 
+recycling	has	also	been	identified	as	crucial	action	in	reducing	water	consumption	in	the	built	environment. 50 
+Organisations may consider installing rainwater harvesting systems, grey and blackwater recycling technology, or 
+low	flow	operational	fittings,	among	wider	technologies,	to	improve	water	re-use	and	recycling	efforts	and	overall	
+efficiency.	
+The	systematic	effort	to	monitor	and	improve	the	efficient	use	of	water	in	the	reporting	organisation	is	directly	
+linked to water consumption costs. Total water use can also indicate the level of risk posed by disruptions to water 
+supplies or increases in the cost of water. In regions where water sources are highly restricted, the company’s 
+water	consumption	patterns	can	also	influence	relations	with	other	stakeholders.  
+ 
+ 
+ 
+CORE: Companies must report the total amount of water consumed within a portfolio over a full reporting year.
+Water-Abs should be calculated as follows (based on GRI Standard 303-3 and 303-5): 
+• Identify the total volume of water withdrawn from any water source (linked to metered or measured utility 
+data), either withdrawn directly by the company or purchased through intermediaries such as water utilities. 
+This includes the abstraction of cooling water. It should cover all water purchased/sourced, and reporters 
+may itemise water reallocated (preferably metered) to other parties who are the end users. To avoid double 
+counting, secondary water usage (for example water withdrawn from a primary source and reused on site for a 
+secondary use) should not be included in your calculations. 
+4.11 WATER-ABS	TOTAL	WATER	CONSUMPTION
+ Asset-level performance measure
+Annual cubic  
+metres (m3)
+47 https://worldgbc.org/what-is-a-sustainable-built-environment/#:~:text=Worldwide%2C%20buildings%20are%20responsible%20 
+for,and%2035%25%20of%20generated%20waste
+48 https://www.eea.europa.eu/highlights/water-stress-is-a-major 
+49 https:/ /worldgbc.org/wp-content/uploads/2023/11/C23.9497-WGBC-Water-Guide-2023_AW_V8_Spreads.pdf 
+50 Ibid.
+RECOMMENDATIONS
+
+--- PDF SEITE 33 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+33
+• Report the total volume of water withdrawn in cubic metres per year (m 3/year) from the following sources: 
+ - Surface water, sourced from wetlands, rivers, lakes, and oceans
+ - Ground water 
+ - Rainwater collected directly and stored by the reporting organisation 
+ - Waste water from another organisation 
+ - Municipal water supplies or other public or private utilities
+ 
+ADDITIONAL: 	In addition to reporting total water consumption, companies may also choose to report total 
+consumption by the following sources provided they have accurate data and/or water collection installations on 
+site. For this additional indicator, companies can include the use of secondary water (such as waste water treated 
+and reused on site): 
+• Surface water sourced from wetlands, rivers, lakes and oceans 
+• Ground water 
+• Rainwater collected directly and stored by the reporting organisation 
+• Waste water from another organisation 
+• Greywater 
+• Blackwater 
+• Treated waste water 
+• Desalination plant 
+• Other water sources
+ 
+BRIDGE	REQUIREMENT:	Total water consumption used within areas at material water risk should be reported in 
+addition to the absolute value when available (based on ESRS E3-4 28 b).
+ 
+Further guidance 
+Please refer to the relevant GRI Standards 303-3: Water withdrawal and 303-5: Water consumption.  
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS E3-4 28, which necessitates the disclosure of water consumption within own operations and water recycled, 
+reused, and stored.
+
+--- PDF SEITE 34 ---
+Fourth edition April 2024
+Definition 
+Water-LfL refers to the water consumption of a portfolio that has been consistently in operation, and not under 
+development,	during	the	most	recent	two	full	reporting	years	(this	like-for-like	definition	is	aligned	with	the	EPRA	
+Financial	BPR	like-for-like	definition	for	rental	growth	reporting).51
+Rationale 
+Like-for-like Performance Measures are a necessary complement to absolute Performance Measures as disclosure 
+on	a	like-for-like	basis	shows	a	change	in	performance	is	not	affected	by	fluctuations	in	the	size	of	portfolios	
+(through acquisitions, disposals, major refurbishments and developments).  
+ 
+ 
+ 
+CORE: Companies must report like-for-like water consumption across the two most recent reporting years.
+Water-LfL should be calculated in the following way:
+• Calculate the total water consumed for the like-for-like set of assets (i.e., those that have been consistently 
+in operation, and not under development, during the most recent two full reporting years) using the same 
+methodology	used	to	calculate	Water-Abs.	These	calculations	should	be	reported	as	total	consumption	figures,	
+not solely as a percentage change. 
+• Companies should disclose the basis and assumptions underlying the like-for-like information. 
+•	 High	variation	in	vacancy	rates:	While	companies	can	use	significant	changes	in	vacancy	rates	as	an	explanation	
+(akin to ‘special events’) of unusual consumption trends, such cases should be explicitly stated and consumption 
+should not be excluded from the totals due to variations in vacancy rates.
+ 
+ADDITIONAL:  Companies may also report the total water consumed by source for the like-for-like set of assets 
+using the same methodology and sources used to calculate water consumption by source under Water-Abs. These 
+calculations	should	be	reported	as	total	consumption	figures,	not	solely	as	a	percentage	change.  
+Further guidance 
+Please refer to the relevant GRI Standard 303-3: Water withdrawal. This section should be read in conjunction with 
+the Water-Abs section of this document.
+4.12 WATER-LFL	LIKE-FOR-LIKE	TOTAL	 
+WATER	CONSUMPTION
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+34
+Annual cubic  
+metres (m3)
+RECOMMENDATIONS
+51 https:/ /www.epra.com/application/files/3115/7287/4349/EPRA_BPR_Guidelines_241019.pdf
+
+--- PDF SEITE 35 ---
+Fourth edition April 2024
+Definition 
+Water-Int refers to the total amount of water consumption within a building over a full reporting year, normalised 
+by an appropriate denominator.
+Issue 
+Intensity indicators have become widespread measures of performance (alongside the absolute consumption and 
+like-for-like indicators). However, the variety of approaches used by companies to calculate intensity indicators 
+represents a challenge for stakeholders when understanding how to interpret these indicators. Please refer to 
+section 7.5 and 7.6 of the Overarching Recommendations in this regard. The impacts of climate change are greatly 
+affecting	the	availability	of	finite	water	resources	across	Europe.	The	European	Environment	Agency	denotes	
+approximately 20% of European territory and 30% of Europeans are affected by water stress during an average 
+year, with climate change set to exacerbate the issue by heightening the frequency, magnitude, and impact of 
+drought events in the region.52	Although	no	specific	legislation	has	been	set	regarding	a	mandated	reduction	in	
+water consumption, climate change represents a need to monitor and reduce water use intensity within the built 
+environment.
+Rationale 
+Water-Int	is	one	of	the	most	effective	measures	of	a	building’s	overall	water	efficiency	during	the	occupation	
+and operational phase of the building life cycle and allows analysis of performance over time without the need 
+to exclude acquired or sold properties. This Performance Measure provides reporters with the opportunity 
+to disclose water intensity for both those buildings occupied by the reporter and those held in investment 
+portfolios. Water intensity is primarily intended to track changes over time for the reporters’ assets. Maximising 
+water	reuse	and	recycling	has	also	been	identified	as	crucial	action	in	enhancing	water	use	efficiency	in	the	built	
+environment.53 Organisations may consider installing rainwater harvesting systems, grey and blackwater recycling 
+technology,	or	low	flow	operational	fittings,	among	wider	technologies,	to	improve	water	reuse	and	recycling	
+efforts and reduce overall water use intensity.  
+ 
+ 
+ 
+CORE: Companies must report the total amount of water consumption over a full reporting year, normalised by an 
+appropriate denominator.
+Water-Int should be calculated as the sum of water consumption recorded under Water-Abs (total water 
+withdrawal by source), normalised using an appropriate denominator. 
+Water intensity per revenue ((litres or m3)/revenue/year) is the preferred method according to ESRS E3-4, 
+although any of the following calculation methods are recognised by EPRA as appropriate denominators:
+Water	intensity	per	person	((litres	or	m 3)/appropriate	person	denominator)	
+Water use in some cases can be driven by building users or visitors. For this reason, intensity analysis may be 
+based on the numbers of occupiers/users of a property. 
+• Identify the number and type of buildings, total annual litres or m 3 water consumption and corresponding 
+denominator.
+4.13 WATER-INT	BUILDING	WATER	INTENSITY
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+35
+(litres or m3)/person/day;	or
+m3/ m2/	year;	or
+(litres or m3)/revenue/year
+RECOMMENDATIONS
+52 https://www.eea.europa.eu/highlights/water-stress-is-a-major 
+53 https:/ /worldgbc.org/wp-content/uploads/2023/11/C23.9497-WGBC-Water-Guide-2023_AW_V8_Spreads.pdf
+
+--- PDF SEITE 36 ---
+Fourth edition April 2024
+• Calculate:
+	 ∑	(sum	of)	annual	litres	or	m 3 water consumption
+	 ∑	(sum	of)	appropriate	person	denominator
+• Companies should decide the most appropriate measure of persons used in this performance measure, clearly 
+stating the rationale and calculation methodology. For example, current best practice for the use of per person 
+denominators is as follows:
+Property type Suggested person denominator
+Office Number of workstations
+Retail Number of visitors per annum
+Hotel Number of guest-nights
+Residential Number of households
+Water	intensity	per	floor	area	(m³/m²/year)
+• Identify the number and type of buildings, total annual m3	water	consumption	and	corresponding	floor	area	(in	m2).
+• Calculate:
+	 ∑	(sum	of)	annual	m 3 water consumption
+	 ∑	(sum	of)	floor	area	(m 2)
+•	 Companies	should	decide	the	most	appropriate	measure	of	floor	area	used,	clearly	stating	the	rationale	and	
+calculation	methodology.	Current	good	practice	for	the	use	of	floor	area	denominators	is	as	follows:
+Coverage	of	known	consumption	data Suggested	floor	area	denominator
+Outlined	below	are	suggested	types	of	floor	area	to	be	
+used while calculating intensity indicators, based on the 
+coverage of known consumption data.
+If water is only supplied to common areas Common parts area
+If water consumption is known for the whole building 
+(even including tenant-obtained water if applicable)
+Whole	building	floor	area	(for	example,	common	parts	
+plus net lettable area).
+Water	intensity	per	revenue	((litres	or	m 3)/revenue/year)
+• Identify the number and type of buildings, total annual litres or m 3 water consumption and corresponding 
+revenue (in EUR/GBP).
+• Calculate:
+	 ∑	(sum	of)	annual	litres	or	m 3 water consumption
+	 ∑	(sum	of)	revenue	(EUR/GBP)
+In accordance with EU law, intensity should be calculated with net revenue although this is not required by EPRA.
+In	regard	to	all	three	types	of	normalisation	(i.e.,	per	person,	floor	area	and	revenue),	reporting	organisations	
+should report the method used to ensure numerators and denominators in the intensity indicator correspond, 
+thereby taking account of different landlord and tenant metering scenarios. In particular, where the reporter does 
+not know the water consumption data within the whole building (i.e., it is missing or not known to the reporter), it is 
+important to ensure the intensity indicator is consistent and accurate. Possible approaches include: excluding such 
+properties	from	the	aggregation;	adjusting	the	overall	consumption	data	to	take	account	of	unknown	data	(i.e.,	
+estimation);	or	adjusting	the	denominator	to	better	correspond	with	the	known	water	consumption.
+ 
+Further guidance 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. 
+Please refer to ESRS E3-4 29 for detailed information regarding the relationship between this Performance 
+Measure and EU regulation, which highlights the preferred method of calculating water intensity.
+This section should be read in conjunction with Water-Abs of this document.
+EPRA Sustainability Best Practices Recommendations Guidelines
+36
+
+--- PDF SEITE 37 ---
+Fourth edition April 2024
+Definition 
+Waste-Abs refers to the total amount of waste disposed and diverted of via various disposal and diversion methods 
+routes over a full reporting year.
+Issue 
+Construction and demolition waste associated with the built environment accounts for more than a third of all 
+waste generated in the EU.54 However, waste reporting by the real estate sector is often limited in scope, accuracy 
+and	detail.	The	EU’s	recent	Circular	Economy	Action	Plan	illustrates	continued	efforts	to	limit	waste	to	landfill,	
+improve waste management, and promote the sustainable use of resources across all industries, 55 with the 
+built environment being noted as a priority sector. 56	Additionally,	green	building	certification	schemes	(notably	
+BREEAM and LEED), are placing increasing emphasis on waste management and recycling strategies, further 
+indicating continued efforts within the industry to minimise waste and maximise resource life cycles. 57, 58
+Rationale 
+Information about the disposal destination reveals the extent to which a company has managed the balance 
+between	disposal	options	and	environmental	impacts.	For	example,	landfill	and	recycling	create	very	different	
+types of environmental impacts and residual effects. Most waste minimisation strategies prioritise options for 
+recovery, reuse or recycling over other disposal options. 
+Reporting	data	on	waste	disposed	and	diverted	figures	over	several	years	should	encourage	an	investment	
+property company to improve its waste management process (i.e., through more productive disposal routes) 
+and	reduce	the	amount	of	waste	generated	at	its	assets.	From	a	financial	perspective,	the	reduction	of	waste	
+contributes directly to lower costs associated with materials, processing and disposal, whilst increasing material 
+recovery in waste reduction procedures enables high value resource items to be reused and recycled, limiting 
+further costs and aiding the transition to a circular economy. Organisations may also seek to collaborate with 
+waste management service providers and engage with tenants and occupiers to create a culture of waste 
+reduction	and	resource	efficiency.
+ 
+ 
+ 
+ 
+CORE: Companies must report the:
+1. Total amount (in tonnes) of waste disposed and diverted of by disposal and diversion routes over a full 
+reporting	year;
+2. The proportion of waste disposed of by disposal route according to type (non-hazardous and hazardous) in 
+tonnes or as a percentage.
+Waste-Abs should be calculated with reference to the following guidance (based on GRI Standards 306-4 and 306-5):
+• Identify the total amount of waste disposed and diverted, including:
+	 –	 Hazardous	waste	(as	defined	by	national	legislation	at	the	point	of	generation);	and
+ – Non-hazardous waste (all other forms of solid or liquid waste excluding waste water).
+4.14 WASTE-ABS	TOTAL	WEIGHT	OF	WASTE
+	 BY	DISPOSAL	AND	DIVERSION	ROUTES
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+37
+Annual metric tonnes and
+proportion by disposal/
+diversion routes
+54 https:/ /environment.ec.europa.eu/topics/waste-and-recycling/construction-and-demolition-waste_en 
+55 https:/ /environment.ec.europa.eu/strategy/circular-economy-action-plan_en	
+56 https://www.eea.europa.eu/publications/building-renovation-where-circular-economy 
+57 BREEAM New construction - BRE Group 
+58 https://www.usgbc.org/leed/v41
+RECOMMENDATIONS
+
+--- PDF SEITE 38 ---
+Fourth edition April 2024
+• Report the proportion of waste by type (non-hazardous and hazardous) disposed and diverted of by the 
+following disposal and diversion routes:
+ – Reuse
+ – Recycling
+ – Composting
+ – Materials Recovery Facility (MRF)59
+ – Incineration with or without energy recovery
+	 –	 Landfill	(with	or	without	energy	recovery)
+ – Other
+• If no weight data is available, estimate the weight using available information on waste density and volume 
+collected, mass balances or similar information. Estimation assumptions and methodology should be clearly stated.
+• If hazardous waste is not disposed and diverted at any of the properties in the portfolio, this element of the sus-
+tainability performance measure should be reported as ‘Not applicable’.
+ 
+BRIDGE	REQUIREMENT:	If applicable, companies should report the total breakdown of its waste composition 
+based on materials present in the waste, relevant to its sector or activities (based on GRI 306-3 and ESRS E5-5 38 
+a to b). Materials that are present in the waste may include but is not limited to:
+ - Metals
+ - Plastics
+ - Biomass
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 306-3: Waste generated, 306-4: Waste diverted from disposal, and 
+306-5: Waste directed to disposal. 
+For detailed information on the relationship between this Performance Measures and EU regulation, please see 
+ESRS E5-5 37 a to d and 38 b, which necessitates the information an undertaking must provide on its resource 
+outflows.
+EPRA Sustainability Best Practices Recommendations Guidelines
+38
+59	 While	MRF	is	an	immediate	disposal	route,	if	the	final	destination	of	waste	handled	by	MRF	is	known	companies	should	allocate	such	
+waste to the other categories.
+
+--- PDF SEITE 39 ---
+Fourth edition April 2024
+Definition 
+Waste-LfL refers to the waste disposed and diverted from a portfolio that has been consistently in operation, and 
+not	under	development,	during	the	two	most	recent	full	reporting	years	(this	like-for-like	definition	is	aligned	with	
+the	EPRA	Financial	BPR	like-for-like	definition	for	rental	growth	reporting).60 For example, the 2023 like-for-like 
+change compares the 2023 Waste-Abs with the 2022 Waste-Abs for a consistent portfolio.
+Rationale
+Like-for-like Performance Measures are a necessary complement to absolute Performance Measures as disclosure 
+on	a	like-for-like	basis	shows	a	change	in	performance	is	not	affected	by	fluctuations	in	the	size	of	portfolios	
+(through acquisitions, disposals, major refurbishments and developments).
+ 
+ 
+ 
+ 
+CORE: Companies must report the total amount of like-for-like waste disposed and diverted across the two most 
+recent reporting years.
+Waste-LfL	should be calculated as follows (based on GRI Standards 306-4 and 306-5):
+• Calculate the total waste disposed and diverted for the like-for-like set of assets (i.e., those that have been 
+consistently in operation, and not under development, during the most recent two full reporting years) using 
+the	same	methodology	used	to	calculate	Waste-Abs.	These	calculations	should	be	reported	as	total	figures,	not	
+solely as a percentage change.
+• Companies should disclose the basis and assumptions underlying the like-for-like information.
+•	 High	variation	in	vacancy	rates:	While	companies	can	use	significant	changes	in	vacancy	rates	as	an	explanation	
+(akin to ‘special events’) of unusual consumption trends, such cases should be explicitly stated and consumption 
+should not be excluded from the totals due to variations in vacancy rates.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 306-3: Waste generated, 306-4: Waste diverted from disposal, and 
+306-5: Waste directed to disposal. This section should be read in conjunction with the Waste-Abs section of this 
+document.
+Necessary metrics for ESRS compliance are already incorporated within the Waste-Abs BRIDGE REQUIREMENT.
+RECOMMENDATIONS
+4.15 WASTE-LFL	LIKE-FOR-LIKE	TOTAL	 
+WEIGHT	OF	WASTE	BY	DISPOSAL	 
+AND	DIVERSION	ROUTES
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+39
+annual metric tonnes and
+proportion by disposal/
+diversion routes
+60 https:/ /www.epra.com/application/files/3115/7287/4349/EPRA_BPR_Guidelines_241019.pdf
+
+--- PDF SEITE 40 ---
+Fourth edition April 2024
+Definition 
+Cert-Tot refers to the total number of assets within a portfolio that have formally obtained sustainability 
+certification,	rating	or	labelling	at	the	end	of	a	reporting	year.
+Issue 
+Sustainable	construction,	management	and	redevelopment	certification	and	labelling	schemes	exist	worldwide	for	
+building and infrastructure assets and vary between markets. In 2021, around 4.2 billion square meters of green 
+building	space	had	been	certified	globally. 61 Each scheme uses its own methodology to assess the overall level of 
+sustainability. These frameworks explore issues such as energy and water use, indoor air quality, material usage 
+and accessibility, among other factors.
+Rationale 
+The	level	of	compliance	with	mandatory	(such	as	Energy	Performance	Certificates)	and	voluntary	certification	
+schemes (such as LEED, BREEAM, and HQE, etc.) can assist in assessing and communicating the sustainability 
+credentials	of	an	asset.	Thus,	provision	of	certification	information	may	be	of	relevance	to	some	report	readers.
+ 
+ 
+ 
+ 
+CORE: Companies	should	report	the	type	and	number	of	sustainability	certification,	rating	or	labelling	schemes	
+valid at the end of the reporting period.
+Cer t-Tot should be reported in at least one of the following ways: 
+•	 By	percentage	of	the	portfolio’s	total	value	and	level	of	certification	attained;
+•	 By	percentage	of	the	portfolio’s	total	floor	area	or	units	(in	the	case	of	residential	portfolios)	and	level	of	
+certification 	attained. 
+ADDITIONAL: 	Reporters	may	additionally	disclose	sustainability	certification,	rating	or	labelling	as	follows:
+•	 Total	number	of	assets	that	have	achieved	a	certification,	rating	or	labelling	within	a	portfolio	and	level	of		
+certification 	attained;
+•	 Percentage	of	assets	that	have	achieved	a	certification,	rating	or	labelling	within	a	portfolio	within	a	portfolio.
+ 
+Further guidance 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please refer to ESRS E1-9 67 c, which necessitates the breakdown of 
+the	undertaking’s	carrying	value	of	assets	by	energy	efficiency	classes	and	ESRS	E1-9	AR	73	b,	provides	further	
+details on the breakdown methodology and how to proceed if this information cannot be obtained.
+RECOMMENDATIONS
+4.16 CERT-TOT	TYPE	AND	NUMBER	OF	
+SUSTAINABLY	CERTIFIED	ASSETS
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+40
+Total number by
+certification/rating/
+labelling scheme
+61 https://worldgbc.org/sustainable-building-certifications/
+
+--- PDF SEITE 41 ---
+Fourth edition April 2024
+5
+5.1 DIVERSITY-EMP	EMPLOYEE	 
+GENDER	DIVERSITY
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+EPRA Sustainability Performance 
+Measures - Social
+41
+Definition 
+Diversity-Emp refers to the percentage of male and female employees in the organisation’s governance bodies 
+and	other	significant	employee	categories.
+Issue 
+The value of having a diverse workforce is widely recognised. Promoting gender diversity remains a priority for 
+many companies and women often remain underrepresented at management levels in the corporate pipeline, with 
+disparity especially common among senior leadership. 62 Comparisons between board-level, senior management 
+and other employee categories offer information on the degree by which equal opportunities commitments are 
+embedded throughout the company.
+Rationale 
+Diversity-Emp provides a quantitative measure of gender diversity within an organisation. Reporting gender 
+diversity should encourage companies to measure and manage the success of their efforts to promote gender 
+diversity, as well as providing a quantitative measure of diversity that can be used in conjunction with sectorial or 
+regional benchmarks. Secondly, reporting on this Performance Measure can support companies in their reporting 
+against the mandatory diversity reporting requirements that are steadily being introduced, such as in the United 
+Kingdom the Financial Conduct Authority requires companies, on a comply or explain basis, to ensure that at least 
+one senior board position, and 40% of the board is occupied by women. 63 
+ 
+ 
+ 
+CORE: Companies must report the percentage of male and female employees in the organisation’s governance 
+bodies	and	other	significant	employee	categories.
+Diversity-Emp should be calculated with reference to the following guidance (based on GRI Standard 405-1):
+• An employee refers to an individual who is in a direct employment relationship with the reporting organisation 
+(excluding supervised workers and sub-contractors), according to national law or its application. 
+• Governance body refers to the committee or board responsible for the strategic guidance of the organisation, 
+the effective monitoring of management, and the accountability of management to the broader organisation 
+and its stakeholders. For the purposes of this Performance Measure, the governance body would typically refer 
+the Board of Directors of the company, and the scope includes Non-Executive Directors. 
+Percentage of male
+& female employees
+RECOMMENDATIONS
+62 https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/genderpaygapintheuk/2023 
+63 https:/ /www.fca.org.uk/news/press-releases/fca-finalises-proposals-boost-disclosure-diversity-listed-company-boards-executive-
+committees#:~:text=At%20least%2040%25%20of%20the,SID)%20should%20be%20a%20woman
+
+--- PDF SEITE 42 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+42
+•	 Other	significant	employee	categories	refer	to	senior	management	and	non-management	functions.	
+Organisations	can	use	their	discretion	in	determining	the	definition	applied	to	other	significant	employee	
+categories.	As	a	guide,	senior	management	can	be	defined	as	managers	(other	than	directors)	who	have	
+responsibility	for	planning,	directing	or	controlling	the	activities	of	the	entity,	or	a	strategically	significant	part	
+of it.
+ 
+BRIDGE	REQUIREMENT:	Companies are encouraged to disclose the distribution of their employeess by age, by 
+both number and percentage using the following age ranges (based on ESRS S1-9 66 b): 
+•	 under	30	years	old;	
+•	 30-50	years	old;	
+• over 50 years old
+ 
+Further guidance  
+Please refer to the relevant GRI Standard 405-1: Diversity of governance bodies and employees. 
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS S1-9 66a, which necessitates the disclosure of employee diversity, and ESRS 2 GOV-1 21 d, which considers 
+the diversity of the undertaking’s board.
+Fourth edition April 2024
+
+--- PDF SEITE 43 ---
+Fourth edition April 2024
+Definition 
+Diversity-Pay refers to the ratio of the basic salary and/or remuneration of men to women.
+Issue 
+A company’s commitment to diversity should apply equally to recruitment, development, and remuneration. While 
+there can be a number of causes behind gender pay gaps, companies’ efforts to tackle gender pay gaps can indicate 
+the effectiveness of their commitment to reviewing their operations and decisions in order to promote diversity, 
+eliminate gender bias and support equal opportunity. The issue is under increasing legislative scrutiny, most notably 
+illustrated through recent updates to the European Union’s Pay Transparency Directive (2023), where organisations 
+will be required to share information regarding salaries and take action if the gender pay gap exceeds 5%.64
+Rationale 
+Diversity-Pay can be used to measure the extent of remuneration equality in the workplace. Increasing 
+transparency in this area can raise the issue among an organisation’s stakeholders.
+ 
+ 
+ 
+ 
+CORE: Companies must report the ratio of the basic salary and/or remuneration of male and female employees, 
+governance	bodies	and	other	significant	employee	categories.
+Diversity-Pay should be calculated with reference to the following guidelines (based on GRI Standard 405-2): 
+•	 Basic	salary	refers	to	the	fixed,	minimum	amount	paid	to	an	employee	for	performing	their	duties,	excluding	any	
+additional remuneration, such as payments for overtime working, bonuses and/or share options. 
+• Remuneration refers to the basic salary plus additional amounts paid to a worker. According to GRI guidance, 
+these additional amounts can include those based on years of service, bonuses including cash and equity 
+(such	as	stocks	and	shares),	benefit	payments,	overtime,	time	owed	and	any	additional	allowances	(such	as	
+transportation along with living and childcare allowances). 
+•	 Governance	bodies	and	other	significant	employee	categories	should	mirror	the	categories	identified	under	
+Diversity-Emp. 
+• The ratio can be calculated by dividing the average pay and/or remuneration of male employees by the average 
+pay and/or remuneration of female employees according to each employee category being assessed. 
+• Reporting companies may use the narrative on performance to explain the pay ratio and any actions being 
+taken to address any gaps.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 405-2: Ratio of basic salary and remuneration of women to men. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS S1-16 97 a, which necessitates the disclosure of the 
+undertaking’s male-to-female employee pay gap.
+5.2 DIVERSITY-PAY	GENDER	PAY	RATIO
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+43
+Pay ratio
+RECOMMENDATIONS
+64 https://www.consilium.europa.eu/en/policies/pay-transparency/
+
+--- PDF SEITE 44 ---
+Fourth edition April 2024
+Definition 
+Emp-Training refers to the average hours of training that the organisation’s employees have undertaken in the 
+reporting period.
+Issue 
+Developing and retaining talent can increase a company’s competitiveness. Talent developed and retained 
+enhances know-how, increases the potential for innovation and supports a strong corporate reputation. Evidence 
+shows that companies who invest in the development of their employees have improved employee satisfaction 
+levels, higher retention rates and increased productivity levels. 65
+Rationale 
+Emp-Training provides an insight into the scale and commitment of an organisation’s investment in training and 
+the degree to which the investment is made across the entire employee base. To help reach sustainability targets, 
+organisations are increasingly implementing ESG training to ensure employee awareness of current and future 
+environmental,	societal	and	governance	issues.	Such	training	identifies	how	the	company	can	impact	and	be	
+impacted by ESG issues, strategies to reduce such impacts, and the importance of individual employee efforts in 
+reaching organisational sustainability targets.
+ 
+ 
+ 
+ 
+CORE: Companies must report the average hours of training that the organisation’s employees have undertaken 
+in the reporting period.
+Emp-Training should be calculated with reference to the following guidance (based on GRI Standard 404-1):
+• ‘Employee’ refers to direct employees (excluding supervised workers and sub-contractors) who are based at the 
+organisation’s	offices	and	assets	under	management.	The	denominator	used	to	calculate	the	average	should	be	
+the total number of employees at the end of the reporting period and can be expressed as either head count or 
+Full-Time Equivalent (FTE).
+• In the context of this performance measure, ‘training’ refers to:
+	 –	 all	types	of	vocational	training	and	instruction;
+	 –	 paid	educational	leave	provided	by	an	organisation	for	its	employees;
+	 –	 training	or	education	pursued	externally	and	paid	for	in	whole	or	in	part	by	an	organisation;
+	 –	 training	on	specific	topics.
+• Training does not include onsite coaching by supervisors.
+• Reporting companies may use the narrative on performance to explain the type and subjects covered in the 
+training provided, and any explanation of trends if multiple years’ data is provided.
+ADDITIONAL:  Companies may also disclose the average hours of training by gender and employe ecategory, 
+based	on	the	employee	data	and	categories	identified	in	response	to	Diversity-Emp.
+RECOMMENDATIONS
+5.3 EMP-TRAINING	TRAINING	 
+AND	DEVELOPMENT
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+44
+Average number of hours
+65 https://hbr.org/2022/04/3-ways-to-boost-retention-through-professional-development
+
+--- PDF SEITE 45 ---
+Fourth edition April 2024
+Further guidance 
+Please refer to the relevant GRI Standard 404-1: Average hours of training per year per employee. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS S1-13 83 b, which necessitates a categorised 
+breakdown of the undertaking’s employee training hours. An undertaking’s anti-corruption/anti-bribery training 
+also need to be disclosed under the ESRS, although this disclosure is not mandatory in the sBPR, please see ESRS 
+G1-3 21 a to b, for more details.
+EPRA Sustainability Best Practices Recommendations Guidelines
+45 Fourth edition April 2024
+
+--- PDF SEITE 46 ---
+Fourth edition April 2024
+Definition 
+Emp-Dev refers to the percentage of total employees who received regular performance and career development 
+reviews during the reporting period.
+Issue 
+Regular performance and career development reviews aid the personal development of individual employees and 
+contributes to skills management and the development of human capital within the organisation. A demonstrable 
+commitment to employee development can, in turn, foster high levels of employee satisfaction, which correlates 
+with improved organisational performance and retention rates.
+Rationale 
+Emp-Dev measures the extent to which an organisation regularly appraises employee performance. It helps to 
+demonstrate how an organisation works to monitor and maintain the skill sets of its employees and the extent to 
+which this is applied throughout the organisation, and whether there is equal access to these opportunities.
+ 
+ 
+ 
+ 
+CORE: Companies must report the percentage of total employees who received a regular performance and career 
+development review during the reporting period.
+Emp-Dev should be calculated with reference to the following guidance (based on GRI Standard 404-3):
+• ‘Employees’ refers to direct employees (excluding supervised workers and sub-contractors) who are based at 
+the	organisation’s	offices	and	assets	under	management.	The	denominator	used	to	calculate	the	percentage	
+should be the total number of employees at the end of the reporting period. 
+•	 Regular	performance	and	career	development	reviews	can	be	identified	as	a	review:	
+	 -	based	on	criteria	known	to	the	employee	and	his	or	her	superior	and;	
+ - undertaken with the knowledge of the employee at least once a year. 
+• The review can include an evaluation of the employee’s direct superior, peers or a wider range of employees and 
+can also include the human resources department.
+ 
+ADDITIONAL: 	Reporters may also disclose the percentage of employees who received a regular performance and 
+career development review by gender and by employee category, based on the information collected in response 
+to Diversity-Emp.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 404-3: Percentage of employees receiving regular performance and 
+career development reviews. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS S1-13 83 a, which necessitates the categorised 
+breakdown and percentage of the undertaking’s employees receiving performance and career reviews.
+RECOMMENDATIONS
+5.4 EMP-DEV	EMPLOYEE	 
+PERFORMANCE	APPRAISALS
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+46
+Percentage of total workforce
+
+--- PDF SEITE 47 ---
+Fourth edition April 2024
+Definition 
+Emp-Turnover refers to the total number and rate of new employee hires and employee turnover during the 
+reporting period.
+Issue 
+New hires and employee turnover result in changes to the human and intellectual capital of the organisation and 
+can have both positive and negative impacts on productivity. The level of employee turnover can have direct cost 
+implications either in terms of reduced payroll or greater expenses for the recruitment of employees. A high rate 
+of employee turnover, moreover, can indicate levels of uncertainty and dissatisfaction among employees.
+Rationale 
+Emp-Turnover can indicate a company’s ability to attract and retain employees. Reporting the number and rate 
+of new hires and employee turnover can signify the effectiveness of a company’s efforts to retain talent. In 
+addition, by understanding the reasons why staff leave an organisation, strategies can be developed to reduce 
+turnover rates to improve overall retention.66 It also acts as proxy measures of the effectiveness of efforts to 
+boost	engagement	and	satisfaction	levels.	Acting	to	reduce	employee	turnover	may	also	limit	the	financial	cost	of	
+recruiting and training procedures associated with gaining new employees.
+ 
+ 
+ 
+ 
+CORE: Companies must report the:
+1. Total	employee	headcount;
+2. Total	number	and	rate	of	new	employee	hires;
+3. Total number and rate of employee turnover.
+Emp-Turnover	should be calculated with reference to the following guidance (based on GRI Standard 401-1):
+• New hire and turnover rates should be calculated based on the total employee numbers at the end of the 
+reporting period and expressed as a percentage or ratio.
+• ‘Turnover’ refers to employees who leave the organisation voluntarily or due to dismissal, retirement or death in 
+service.
+• ‘Employee’ refers to direct employees (excluding supervised workers and sub-contractors) who are based at the 
+organisation’s	offices	and	assets	under	management.
+ADDITIONAL:  Reporters may also disclose the total number and rate of new employee hires and turnover by 
+gender and by employee category, based on the information collected in response to Diversity-Emp.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 401-1: New employee hires and employee turnover. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS S1-6 50 c, which necessitates the disclosure of the 
+undertaking’s employee turnover rate, broken down into various categories.
+RECOMMENDATIONS
+5.5 EMP-TURNOVER	EMPLOYEE	 
+TURNOVER	AND	RETENTION
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+47
+Total number and rate of new 
+employee hires and turnover
+66 https://www.cipd.org/uk/knowledge/factsheets/turnover-retention-factsheet/#:~:text=Measuring%20the%20levels%20and%20 
+costs,and%20informing%20targeted%20retention%20initiatives
+
+--- PDF SEITE 48 ---
+Fourth edition April 2024
+Definition 
+H&S-Emp refers to the occupational health and safety performance of the reporting organisation with relation to 
+its direct employees.
+Issue 
+Health and safety incidents occurring in the workplace can cause harm to workers and expose companies to risks 
+such	as	reputational	damage,	fines,	and	loss	of	productivity.	Low	injury	and	absentee	rates	are	generally	linked	
+to positive trends in morale and productivity. Maintaining a constant focus on health and safety is necessary to 
+ensure safe behaviours are embedded into the workplace. Accurate monitoring can help to protect employees and 
+contribute to employee well-being.
+Rationale 
+H&S-Emp measures the degree by which health and safety management practices are resulting in fewer 
+occupational injuries, lost days and absenteeism rates.
+ 
+ 
+ 
+ 
+CORE: Companies must report the Injury Rate (IR), Lost Day Rate (LDR) or Accident Severity Rate (ASR), 
+Absentee Rate (AR), and work-related fatalities for all direct employees (where material). 
+H&S-Emp should be calculated with reference to the following guidance (based on GRI Standard 403-9): 
+• ‘Injury Rate’ refers to the frequency of injuries, relative to the total time worked by all employees during the 
+reporting period. It can be expressed as the number of injuries (the numerator) per multiple of hours worked 
+(the denominator). An injury refers to any non-fatal or fatal injury arising out of, or in the course of, work. 
+•	 ‘Lost	Day	Rate’	refers	to	the	impact	of	occupational	accidents	and	diseases	as	reflected	in	time	off	work	by	
+the affected employees. It can be expressed as the total lost days (the numerator) relative to the total number 
+of hours worked (the denominator). A lost day typically refers to the time (‘days’) that cannot be worked 
+as a consequence of an employee or employees being unable to perform their usual work because of an 
+occupational disease or accident. 
+• 'Accident Severity Rate’ can be selected as an alternative to the Lost Day Rate for companies that are required 
+to report occupation accidents under this indicator. In this case, occupational diseases can be reported under 
+the Absentee Rate. 
+• ‘Absentee Rate’ is a measure of actual absentee days lost. It can be expressed as a proportion of total days 
+lost (the numerator) relative to the total number of days scheduled to be worked by employees for the same 
+period (the denominator). Absentee refers to an employee absent from work because of incapacity of any kind 
+such as illness, not just as the result of work-related injury or disease, excluding permitted absences (e.g., 
+holidays, study, maternity or paternity leave, and compassionate leave). Companies reporting absentee rate are 
+encouraged to provide a breakdown of absentee rate by cause. 
+• ‘Work-related fatality’ refers to the death of an employee occurring in the current reporting period, arising from 
+an occupational disease or injury sustained or contracted while performing work controlled by the organisation 
+or in workplaces the organisation controls.
+• The scope of this Performance Measure covers direct employees only, excluding supervised workers and sub-
+contractors,	who	are	based	at	the	organisation’s	offices	and	assets	under	management	(i.e.,	whose	work,	or	
+workplace) is controlled by the reporting company. 
+• If one or more of the requested indicators is not considered material, reporting organisations can apply the 
+Overarching Recommendation of Materiality when determining what information to provide.
+RECOMMENDATIONS
+5.6 H&S-EMP	EMPLOYEE	HEALTH	 
+AND	SAFETY
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+48
+Injury rate, lost day rate, 
+absentee rate and 
+work-related fatalities
+
+--- PDF SEITE 49 ---
+Fourth edition April 2024
+ADDITIONAL:  Reporters may also disclose the injury rate (IR), lost day rate (LDR), absentee rate (AR) and work-
+related fatalities for all workers whose work, or workplace, is controlled by the organisation. In this instance, 
+workers	can	be	defined	as	interns,	apprentices,	self-employed	persons,	and	persons	working	for	organisations	
+other than the reporting organisation (e.g., for suppliers, contractors and sub-contractors).
+ 
+BRIDGE	REQUIREMENT:	Companies should also disclose the percentage of people in its own workforce who are 
+protected by health and safety management systems on a legal basis and or based on recongised standards or 
+guidelines (based on ESRS S1-14 88).
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 403-9: Work-related injuries. 
+For detailed information on the relationship between this Performance Measure and EU regulation, please see 
+ESRS S1-14 88, which necessitates the disclosure of the undertaking’s health and safety indicators.
+EPRA Sustainability Best Practices Recommendations Guidelines
+49 Fourth version October 2023
+
+--- PDF SEITE 50 ---
+Fourth edition April 2024
+Definition 
+H&S-Asset refers to the proportion of assets controlled by the reporting company for which health and safety 
+impacts have been reviewed or assessed for compliance or improvement.
+Issue 
+Responsibility for end user (tenants, visitors, service suppliers and other building users) health and safety impacts 
+that	fall	under	the	management	responsibility	of	landlords	can	vary	significantly	across	assets	types:	from	
+indoor	air	quality	to	fire	and	elevator	safety;	disabled	access;	and	training,	disaster	management	and	emergency	
+procedures. Health and safety assessments may be conducted as part of a voluntary or mandatory arrangement 
+according to health and safety management policies and procedures, legislation or to ensure compliance with the 
+use of established standards such as OHSAS 18001 or other HSE standards.
+Rationale 
+H&S-Asset	identifies	the	existence	and	scope	of	efforts	to	address	end	user	health	and	safety	at	assets	under	the	
+operational control of the reporting company.
+ 
+ 
+ 
+ 
+CORE: Companies must report the percentage of assets for which health and safety impacts are assessed or 
+reviewed for compliance or improvement.
+H&S-Asset should be calculated with reference to the following guidance (based on GRI Standard 416-1): 
+• ‘Assessments’ can refer to mandatory and voluntary assessments and reviews, as well as internal and external 
+audits/re-assessments. For example, mandatory assessments might be those carried out as part of OHSAS 
+18001	certification.	Voluntary	assessments	can	include	annual	health	and	safety	reviews,	audits	and	compliance	
+checks conducted as part of the reporting company’s health and safety management policy. Companies should 
+disclose the type of assessment included in the calculation as part of their narrative on performance. 
+• ‘Health and safety impacts’ relate to the impact on end users, such as building occupiers or visitors. Examples 
+of	impacts	can	include	indoor	air	quality	standards;	fire	safety;	mechanical	systems;	accessibility	standards	
+(including	during	normal	operation,	and	in	the	case	of	emergency);	indoor	water	quality;	and	hazardous	
+substances and contaminants, including asbestos. 
+• Organisations should restrict the scope of their reporting to assets that fall under their responsibility and over 
+which they have management control. Assets that fall under the responsibility of the occupiers are excluded 
+from this Performance Measure.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 416-1: Assessment of the health and safety impacts of product and 
+service categories.
+There are no related metrics for ESRS compliance to form a BRIDGE REQUIREMENT. However, companies may 
+consider the health and safety of consumers and end-users as a result of a materiality assessment. In this instance 
+refer to ESRS S4.
+RECOMMENDATIONS
+5.7 H&S-ASSET	ASSET	HEALTH	 
+AND	SAFETY	ASSESSMENTS
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+50
+Percentage of assets
+
+--- PDF SEITE 51 ---
+Fourth edition April 2024
+Definition 
+H&S-Comp refers to any incidents of non-compliance with regulations and/or voluntary standard concerning the 
+health and safety impacts of assets assessed during the reporting period.
+Issue 
+Ensuring compliance regulations and or voluntary standards with regard to health and safety impacts can help 
+to	protect	building	users,	reduce	costs	from	fines	and	protect	a	company’s	reputation.	Low	incidences	of	non-
+compliance demonstrate the effective implementation of policies, practices and training relating to end user 
+health and safety. Maintaining a constant focus on health and safety is necessary to ensure safe behaviours are 
+embedded into asset management practices that relate to end users.
+Rationale 
+H&S-Comp evaluates the effectiveness of the reporting company’s policies and practices relating to end user 
+health and safety, and the outcome of the assessments reported under H&S-Asset.
+ 
+ 
+ 
+ 
+CORE: Companies must report any incidents of non-compliance with regulations and voluntary codes concerning 
+the health and safety impacts of assets assessed during the reporting period.
+H&S-Comp should be calculated with reference to the following guidance (based on GRI Standard 416-2): 
+• To report against this Performance Measure, organisations should restrict the scope to assets and assessments 
+identified	under	H&S-Asset.	
+•	 If	the	organisation	has	not	identified	any	non-compliance	with	regulations	and/or	voluntary	codes,	a	brief	
+statement	of	this	is	sufficient.
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 416-2: Incidents of non-compliance concerning the health and safety 
+impacts of products and services. 
+This section should be read in conjunction with the H&S-Asset section of this document.
+There are no related metrics for ESRS compliance to form a BRIDGE REQUIREMENT. However, companies may 
+consider the health and safety of consumers and end-users as a result of a materiality assessment. In this instance 
+refer to ESRS S4.
+RECOMMENDATIONS
+5.8 H&S-COMP	ASSET	HEALTH	 
+AND	SAFETY	COMPLIANCE
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+51
+Number of incidents
+
+--- PDF SEITE 52 ---
+Fourth edition April 2024
+Definition 
+Comty-Eng relates to the percentage of assets under operational control that have implemented local community 
+engagement, impact assessments and/or development programmes.
+Issue 
+Engagement with the local community can be particularly important for owners and investors of asset types, 
+such as retail and residential. Establishing an effective stakeholder engagement process is important for helping 
+organisations understand how local communities might be affected by their assets, including their actual and 
+potential impacts. This enables an organisation to consider the views of community stakeholders in its decisions, 
+their expectations and needs, and to address its potential impacts on local communities in a timely manner. 
+The introduction of requirements through the CSRD to conduct double materiality assessments is pushing 
+many organisations to assess their impact on society and strengthen their stakeholder engagement processes. 
+Furthermore, ensuring community engagement measures is of growing relevance within sustainable building 
+certifications	(predominantly	those	of	WELL	and	Fitwel),	illustrating	an	increasing	trend	of	community	support	
+and inclusion within sustainability-driven, intentionally created spaces. 67, 68
+Rationale 
+Comty-Eng seeks to measure the extent by which community engagement programmes are applied across the 
+reporting organisation’s assets. 
+ 
+ 
+ 
+ 
+CORE: Companies must report the percentage of assets that have implemented local community engagement, 
+impact assessments and/or development programmes.
+Comty-Eng should be calculated with reference to the following guidance (based on GRI Standard 413-1):
+• There are many elements that can be incorporated into local community engagement, impact assessments, 
+and development programmes. For the purposes of this performance measure, organisations can use their 
+discretion to determine what constitutes a ‘community programme’. Companies may identify programmes 
+according to two broad categories:
+ – Social and environmental impact assessments: This can include the impact of an asset on the local   
+ economy and inhabitants, community and environment. It may include ongoing monitoring and    
+	 local	community	and	development	programmes	based	on	the	local	communities’	needs;  
+– Stakeholder engagement programmes: This can include broad-based local community consultation   
+ committees and formal local community outreach processes.
+• A description of the type of programme used by the organisation, including whether it is a corporate policy 
+that applies across all activities or an individual asset-level programme, should be added to the narrative on 
+performance.
+RECOMMENDATIONS
+5.9 COMTY-ENG	COMMUNITY	ENGAGEMENT,	
+IMPACT	ASSESSMENTS	AND	 
+DEVELOPMENT	PROGRAMMES
+ Asset-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+52
+Percentage of assets
+67 https:/ /v2.wellcertified.com/en/wellv2/overview 
+68 https:/ /www.fitwel.org/resources/p/fitwel-v21-reference-guide-for-workplace-1
+
+--- PDF SEITE 53 ---
+Fourth edition April 2024
+Further guidance 
+Please refer to the relevant GRI Standard 413-1: Operations with local community engagement, impact 
+assessments and development programmes. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS S3-2 19 to 24, which requires the undertaking to 
+provide insights into its process of community engagement and ESRS S3-4 36, which necessitates the disclosure 
+of human rights infringements within associated communities.
+EPRA Sustainability Best Practices Recommendations Guidelines
+53 Fourth edition April 2024
+
+--- PDF SEITE 54 ---
+Fourth edition April 2024
+Definition 
+Gov-Board refers to the composition of the highest governance body.
+Issue 
+The composition of a company’s highest governance body provides an insight into the range of opinions, 
+backgrounds and expertise that support its corporate governance. A diverse board	instils	confidence	in	 
+decision-making, independence, its ability to deliver value and the skills required to consider the broader  
+social and environmental factors that could impact the long-term future of the company.
+Rationale 
+Gov-Board provides an overview of the company’s governance structure and its board composition, and their 
+competencies in evaluating economic, environmental and social performance.
+ 
+ 
+ 
+ 
+CORE: Companies must report the composition of the highest governance body by:
+1.	 Number	of	executive	board	members;
+2.	 Number 	of	independent/non-executive	board	members;
+3. Average	tenure	on	the	governance	body;
+4. Number of independent/non-executive board members with competencies relating to environmental and 
+social topics.
+Gov-Board should be calculated with reference to the following guidance (based on GRI Standard 2-9): 
+• ‘Highest governance body’ refers to the committee or board responsible for the strategic guidance of the 
+organisation, the effective monitoring of management and the accountability of management to the broader 
+organisation and its stakeholders. For the purposes of this Performance Measure, the highest governance body 
+is	that	identified	under	Diversity-Emp.	
+• The number of independent/non-executive board members with competencies relating to environmental and 
+social topics can be disclosed by the provision of qualitative information such as biographies detailing the 
+competencies and experience of each member.
+• Organisations that are required to report this information under national corporate governance codes can 
+provide a clear reference to where the relevant information is located (either in their annual report or other 
+corporate communications).
+Further guidance 
+Please refer to the relevant GRI Standard 2-9: Governance structure and composition. 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there is no need for a BRIDGE REQUIREMENT. For detailed information on the relationship between this 
+Performance Measure and EU regulation, please see ESRS 2 GOV-1 20 and 23, which necessitates the composition 
+and expertise of the undertaking’s supervisory bodies.
+RECOMMENDATIONS
+6
+6.1 GOV-BOARD	COMPOSITION	OF	THE	HIGHEST	
+GOVERNANCE	BODY
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+EPRA Sustainability Performance 
+Measures - Governance
+54
+Total numbers
+
+--- PDF SEITE 55 ---
+Fourth edition April 2024
+Definition 
+Gov-Select refers to the nomination and selection process for the highest governance body and its members, and 
+the criteria used to guide the nomination and selection process.
+Issue 
+The OECD’s guidance on good practice corporate governance disclosure recommends that organisations provide 
+transparency around the selection process for members of the highest governance body, focusing on whether 
+the	process	was	open	to	a	broad	field	of	candidates. 69 This Performance Measure provides assurances on the 
+organisation’s	compliance	with	established	nomination	procedures	and	the	selection	of	a	balanced	and	qualified	
+board composition.
+Rationale 
+Gov-Select describes the reporting organisation’s processes that ensure effective corporate governance. It 
+provides evidence that the composition of board membership reported under Gov-Board is maintained or 
+enhanced.
+ 
+ 
+ 
+ 
+CORE: Companies must describe the nomination and selection process for the highest governance body and its 
+members, and the criteria used to guide the nomination and selection process.
+Gov-Select should be prepared with reference to the following guidance (based on GRI Standard 2-10):
+•	 Report	the	nomination	and	selection	processes	for	the	highest	governance	body	and	its	committees;
+• Report the criteria used for nominating and selecting highest governance body members, including whether 
+and how:
+	 –	 Stakeholders	(including	shareholders)	are	involved;
+	 –	 Diversity 	is	considered;
+	 –	 Independence 	is	considered;
+ – Expertise and experience relating to economic, environmental and social topics are considered.
+• Organisations that are required to report this information under national corporate governance codes can 
+provide a clear reference to where the relevant information is located (either in their annual report or other 
+corporate communications).
+ 
+Further guidance 
+Please refer to the relevant GRI Standard 2-10: Nomination and selection of the highest governance body.
+There are no related metrics for ESRS compliance to form a BRIDGE REQUIREMENT. However, companies 
+may	refer	to	terms	defined	in	the	ESRS,	specifically,	'Administrative,	management	and	supervisory	bodies'	and	
+'Independent board member'.
+RECOMMENDATIONS
+6.2 GOV-SELECT	NOMINATING	AND	SELECTING	
+THE	HIGHEST	GOVERNANCE	BODY
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+55
+Narrative description
+69 https:/ /www.oecd-ilibrary.org/governance/g20-oecd-principles-of-corporate-governance-2023_ed750b30-en;jsessionid=gJfKCdu
+QsrpEZ7cdC7g0Bo-PHCi3FjwDBicLY05g.ip-10-240-5-121
+
+--- PDF SEITE 56 ---
+Fourth edition April 2024
+Definition 
+Gov-COI	refers	to	the	processes	for	the	highest	governance	body	to	ensure	conflicts	of	interest	are	avoided	and	
+managed.
+Issue 
+The OECD recommends that information on individual board members and key executives is necessary to 
+evaluate	their	experience	and	qualifications	and	assess	any	potential	conflicts	of	interest	that	might	affect	their	
+judgement.70	Companies	should,	therefore,	disclose	how	they	manage	material	conflicts	of	interest	that	may	affect	
+the exercise of key ownership rights regarding their investments, including share ownership in the company and 
+membership of other boards. It is important to disclose membership of other boards, not only because it is an 
+indication of experience and possible time pressures facing a member of the board, but also, because it may reveal 
+potential	conflicts	of	interest	and	makes	transparent	the	degree	to	which	there	are	inter-locking	boards.
+Rationale 
+Gov-COI provides assurances to shareholders and other stakeholders that the highest governance body has 
+robust	procedures	in	place	to	manage	potential	conflicts	of	interest.
+ 
+ 
+ 
+ 
+CORE: Companies	must	describe	their	processes	to	ensure	that	conflicts	of	interest	are	avoided	and	managed	in	
+the highest governance body.
+Gov-COI should be prepared with reference to the following guidance (based on GRI Standard 2-15):
+•	 ‘Conflicts	of	interest’	refers	to	situations	where	an	individual	is	confronted	with	choosing	between	the	
+requirements of his or her function and his or her own private interests.
+•	 Report	whether	conflicts	of	interest	are	disclosed	to	stakeholders,	including,	as	a	minimum:
+	 –	 Cross-board	membership;
+	 –	 Cross-shareholding	with	suppliers	and	other	stakeholders;
+	 –	 Existence	of	controlling	shareholder;
+ – Related party disclosure.
+•	 When	compiling	the	information,	the	reporting	organisation	should	align	the	definition	of	‘controlling	
+shareholder’	to	the	definition	used	for	the	purpose	of	the	organisation’s	consolidated	financial	statements	or	
+equivalent documents.
+• Organisations that are required to report this information under national corporate governance codes can 
+provide a clear reference to where the relevant information is located (either in their annual report or other 
+corporate communications).
+Further guidance 
+Please	refer	to	the	relevant	GRI	Standard	2-15:	Conflicts	of	interest.	
+There are no related metrics for ESRS compliance to form a BRIDGE REQUIREMENT. However, companies 
+may	refer	to	terms	defined	in	the	ESRS,	specifically,	'Administrative,	management	and	supervisory	bodies'	and	
+'Independent board member'.
+RECOMMENDATIONS
+6.3 GOV-COI	PROCESS	FOR	MANAGING	
+CONFLICTS	OF	INTEREST
+ Corporate-level performance measure
+EPRA Sustainability Best Practices Recommendations Guidelines
+56
+Descriptive narrative
+70 https:/ /www.oecd-ilibrary.org/governance/g20-oecd-principles-of-corporate-governance-2023_ed750b30-en
+
+--- PDF SEITE 57 ---
+Fourth edition April 2024
+The following recommendations are overarching principles that should be applied to the Sustainability 
+Performance Measures addressed in Sections 4, 5 and 6.
+7.1 Organisational boundaries
+Issue 
+Boundaries determine the extent of reporting according to assets or organisational activities owned or controlled 
+by the reporting company. Boundary assessments allow a company to establish which operations should be in 
+and out of reporting scope for both asset-level and corporate-level Performance Measures. It is important that 
+reporters	clearly	articulate	how	boundaries	are	defined	so	stakeholders	can	understand	the	extent	of	operations	
+and activities included in the performance analysis.
+Rationale 
+Definition	of	the	company’s	organisational	boundaries	represent	a	key	step	in	sustainability	reporting.	To	date,	
+the GHG Protocol, developed by the World Resources Institute and the World Business Council for Sustainable 
+Development, has been a key reference for companies to inform their decisions on what approach to adopt: 
+Operational Control, Financial Control or Equity share. 71
+ EPRA’s research has shown that the operational control approach has been the most frequently adopted by 
+listed real estate companies in Europe for reporting on asset-level sustainability impacts. The operational control 
+approach	is	defined	as	follows:72
+“…A company has operational control over an operation if the former or one of its subsidiaries […] has the full 
+authority to introduce and implement its operating policies at the operation…” 73 
+The	operational	control	approach	should	not	be	considered	a	default	or	‘perfect	fit’	for	real	estate	companies.	
+Indeed,	there	are	justifications	for	other	approaches,	such	as	equity	share	where	the	issue	of	co-ownership	can				
+be addressed by determining which assets are either included or excluded from reporting. 
+ 
+ 
+ 
+ 
+CORE: It should be noted that, prior to deciding which type of boundary approach a company should choose, it 
+should carefully consider the following:
+•	 Companies	should	map	their	organisational	structure;	specifically,	due	consideration	should	be	made	as	to	
+whether assets are subsidiaries, associates, incorporated or unincorporated joint ventures.
+• For asset-level performance measures, companies should disclose the value or number (absolute or % of 
+portfolio) of buildings in the portfolio included in the organisational boundary approach taken.
+• Companies should explain why they have chosen a certain boundary approach over others.
+•	 The	issue	of	financial/operational	leases	is	important	to	consider	as	part	of	the	boundary	approach	definition.	It	
+should	be	noted	that	the	GHG	Protocol	treats	assets	leased	on	financial	leases	(as	opposed	to	operational	leases)	
+differently.
+• Although adopting the operational approach is not mandatory, for all asset-level performance measures, 
+companies should aim to report 100% of all assets where they have operational control.
+ 
+Further guidance 
+Please refer to the GRI Guidance on setting the organisational boundary and the GHG Protocol for further 
+guidance on this.74
+RECOMMENDATIONS
+7
+EPRA Sustainability Best Practices Recommendations Guidelines
+Overarching Recommendations
+57
+71 https:/ /ghgprotocol.org/sites/default/files/standards/ghg-protocol-revised.pdf 
+72 www.oecd.org/corporate/ca/corporategovernanceprinciples/31557724.pdf  
+73 Ibid.
+74  https://www.globalreporting.org/publications/documents/english/gri-3-material-topics-2021/ and the GHG Protocol 
+recommendations on ‘Setting Organisational Boundaries’ in https:/ /ghgprotocol.org/sites/default/files/standards/ghg-protocol-
+revised.pdf
+
+--- PDF SEITE 58 ---
+Fourth edition April 2024
+7.2 Coverage
+Issue 
+Coverage delineates what percentage or number of assets within the organisational boundary are included in data 
+disclosed for each asset-level Performance Measure.
+Rationale 
+It may not be possible to collect data on all asset-level Performance Measures for all assets within the 
+organisational boundary. A company may also prefer to exclude data for an asset if the data is not considered 
+reliable. This may be the case for all or only some Performance Measures for an asset.
+ 
+ 
+ 
+ 
+CORE:
+• Ideally, 100% of all assets within the chosen organisational boundary should be included in each asset-level 
+Performance Measure.
+•	 When	this	is	not	the	case,	the	level	of	data	coverage	should	be	specified	for	each	asset-level	Performance	
+Measure.
+• Data coverage must be reported for each asset-level Performance Measure and can be disclosed (as values or 
+percentages) in any of the following ways:
+ - number of assets included in Performance Measure data
+  number of assets within organisational boundary approach taken
+ - floor	area	included	in	Performance	Measure	data
+	 	 floor	area	of	assets	within	organisational	boundary	approach	taken
+ - financial	value	included	in	Performance	Measure	data
+	 	 financial	value	of	assets	within	organisational	boundary	approach	taken
+• If a Performance Measure is not material for a segmented asset type, or all asset types, this should be marked 
+as ‘not material’ and the reasons for this decision should be explained (see section 7.12).
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+58
+
+--- PDF SEITE 59 ---
+Fourth edition April 2024
+7.3 Estimation of landlord-obtained utility consumption
+Issue 
+While there is a growing demand for transparent data on value chain emissions, the availability of this data is not 
+improving at the same rate. Landlords often face challenges in obtaining data from their tenants or accessing 
+utility consumption data that is beyond their operational control. When there is incomplete or unreliable data for 
+asset-level environmental performance measures, such as landlord utility consumption and scopes 1, 2, and 3 
+emissions, estimation may be required.
+Rationale 
+Estimation allows complete annual data to be calculated for an asset where data is partially missing or unreliable – 
+though this should not be used as a substitute for gathering complete and accurate data. This allows a company to 
+increase its coverage against some asset-level Performance Measures.
+For companies that view energy and the associated carbon as a material risk, a deeper understanding of the GHG 
+footprint	value	chain	is	critical.	The	benefits	of	accurate	measurement,	wide	internal	and	external	engagement,	
+and overall reduction in scope 3 emissions will improve business resilience and reputation.
+ 
+ 
+ 
+ 
+CORE: Estimation should be carried out sparingly as datasets should be as complete and accurate as possible. 
+When estimating landlord-obtained utility consumption data for asset-level Performance Measures, a company 
+should:
+•	 Only	estimate	utility	data	to	fill	gaps	for	missing	periods	using	known	consumption	from	a	recent	and	
+comparable period for the metered supply in question.
+• Disclose the proportion of total disclosed data estimated (as a percentage of the total disclosed for that 
+Performance Measure).
+• Disclose the method of estimation used.
+• Use the same method of estimation for all asset-level Performance Measures and all assets.
+• If different methods of estimation have to be used, this should be clearly indicated for each Performance 
+Measure.
+• Assets should be excluded from the coverage of data being disclosed in the following cases:
+	 –		Where	data	for	one	or	more	meters	at	an	asset	is	missing	for	an	entire	year;
+ –  Where the only available data for the asset is unreliable.
+ 
+ADDITIONAL: 	When	measuring	scope	3	GHG	emissions,	the	ESRS	and	IFRS	considers	these	figures	to	be	
+estimated	on	the	basis	that	they	consist	of	the	combination	of	methods	(for	example,	precise	site-specific	data	
+and	extrapolated	average-data	methods)	to	calculate	the	final	outcome.
+A company may consider a hierarchy of estimation methodologies for selecting a preferred method of estimation. 
+The below hierarchy is laid out according to data accuracy, and is adapted from UK GBC, Guide to Scope 3 
+Reporting in Commercial Real Estate. Although the document is aimed at commercial real estate, this data 
+hierarchy would be applicable to all real estate. 
+1. Use actual data for all tenant energy use.
+2. Where total energy use of the building is known (i.e., landlord procured), break this down for separate tenancies 
+(e.g.,	by	floor	area,	tenant	use,	etc).
+3. Use historic tenant data as a proxy and extrapolate using key variables (e.g., seasonal, occupancy levels). 
+4. Calculate per person energy use based on a similar tenant (e.g., tenant use, building age/type, geographic 
+region). 
+5.	 Use	industry	benchmarks	based	on	floor	areas	(e.g.,	Real	Estate	Environmental	Benchmark,	CIBSE	Energy	
+Benchmarks, Design for Performance).
+6. Use modelled design stage data, supplemented by an uplift and/or energy in use data.
+As per the Core recommendations, whereby a company should disclose the method of estimation used and the 
+proportion of data estimated, when a company has used non-actual data to disclose scope 3 emissions, the 
+proportion of estimation for indirect scope 3 emissions associated with the asset should be itemised in the EPRA 
+sBPR table, with supporting methodological notes.
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+59
+
+--- PDF SEITE 60 ---
+Fourth edition April 2024
+Further guidance 
+Since the necessary metrics for ESRS compliance are already incorporated within this Performance Measure, 
+there	is	no	need	for	a	BRIDGE	REQUIREMENT.	Please	refer	to	the	ESRS	E1,	Appendix	A:	Defined	terms,	ESRS	
+1 - 7.2 ‘Sources of estimation and outcome uncertainty’, IFRS S1 ‘Measurement Uncertainty’ in paragraph 78, and 
+‘Errors’ in paragraphs 83-86, and IFRS S2 'Climate-related Disclosures' in paragraph B38 for more information on 
+estimation and its relation to scope 3 emissions.
+EPRA Sustainability Best Practices Recommendations Guidelines
+60
+7.4	 Third	Party	Assurance
+Issue 
+As assurance requirements strengthen across the European continent, EPRA encourages sustainability data to be 
+assured by independent third-parties.
+Rationale 
+The credibility of sustainability data increases when third party assurance is carried out, and the assurance 
+provider is independent and objective. An assurance process should not only test the veracity of data but also 
+robustness of data management processes in the organisation. 
+The ESRS mandates the limited assurance of all disclosure requirements deemed material to a company’s 
+operations. A company who is verifying EPRA sBPR Performance Measures should ensure they also include 
+relevant ESRS data points and visa-versa.
+ 
+ 
+ 
+ 
+CORE: When undertaking third party assurance, reporters should consider the following:
+•	 The	26	EPRA	sBPR	quantitative	Performance	Measures	which	should	be	verified	–	ideally	all	of	them	and	to	the	
+same level (see Table 2 to identify the Performance Measures subject to assurance).
+•	 The	Performance	Measures	included	in	the	scope	of	assurance	or	verification	should	be	clearly	specified	either	
+in the statement, the EPRA sBPR data table or methodology narrative.
+•	 The	level	of	verification	for	each	Sustainability	Performance	Measure	must	be	disclosed	(either	‘limited’	or	
+‘reasonable’)	and	should	ideally	be	to	the	same	level	as	for	financial	reporting.
+•	 Companies	can	choose	which	verification	methodology	to	use	and	must	disclose	this	in	their	reports.
+• EPRA considers assurance credibility to be enhanced if it is undertaken in accordance with recognised limited 
+assurance standards such as AA1000 or ISAE3000.
+•		 The	full	verification	statement	must	be	publicly	available,	and	a	link	must	be	provided	if	it	is	not	included	in	the	
+report. 
+•	 Each	Performance	Measure	that	had	been	assured	should	be	indicated	either	in	the	verification	statement	
+provided or made clear in the company’s data tables.
+ 
+Further guidance 
+For additional accepted assurance methods, please visit https:/ /www.cdp.net/en/guidance/verification.
+RECOMMENDATIONS
+
+--- PDF SEITE 61 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+61
+EPRA Sustainability Best Practices Recommendations Guidelines
+61
+7.5	 Boundaries	–	reporting	on	landlord	and	tenant	utility	consumption
+Issue 
+Data on tenant-obtained utility consumption for asset-level Performance Measures are not always available to the 
+landlord. Sub-metering of landlord-obtained consumption that services tenant demises is not always universally 
+undertaken;	even	where	it	is,	the	landlord	has	less	control	over	such	consumption	than	for	landlord	services	for	
+common parts.
+Rationale 
+Performance Measure data disclosed on an asset-level should clarify the level of control a reporter has on the 
+overall performance.
+The	ESRS	and	IFRS	frameworks	require	the	disclosure	of	additional	data,	such	as	business	travel,	fleet	information, 	
+and building fuels. These data points would provide more clarity on landlord boundaries, however, it is important to 
+note that these data points are not included within the standing investment scope of EPRA and the sBPR.
+ 
+ 
+ 
+ 
+CORE: There is no single, optimal way to report on base (landlord only) or whole building consumption. For asset-
+level Performance Measures, companies should, as a minimum, report on utilities consumption that they are 
+responsible for obtaining themselves. The longer-term goal should be to report the entire impact arising within a 
+building, irrespective of the arrangements between landlord and tenant.
+The following principles apply:
+• Absolute and like-for-like asset-level Performance Measures should be clearly disclosed to clarify the split 
+between landlord-obtained and tenant-obtained. 
+• Where energy/water is obtained by the landlord but consumed in tenant areas and is sub-metered, such 
+consumption should be itemised (but should be included in the totals).
+• Exclusion of consumption obtained by the landlord but sub-metered to the tenant can present a number of 
+issues, such as:
+ – Distortions of intensity Performance Measures due to a likely mismatch between numerator (e.g., kWh)   
+	 and	denominator	(e.g.,	floor	area).	However,	for	the	purposes	of	corporate	sustainability	target	setting	and		
+ monitoring, several reporters assess performance for just the consumption over which the landlord has fuller  
+ control. Itemisation of total consumption as shown in the supplementary document, Sample Data Table of   
+ EPRA sBPR Sustainability Performance Measures , enables this to be done while ensuring consistency with   
+ the EPRA sBPR.
+• For the purposes of intensity environmental Performance Measures only, if known, tenant-obtained 
+consumption can be used in calculations, for example to achieve a situation where whole building consumption 
+(tenant-obtained	and	landlord-obtained)	is	divided	by	the	whole	building	floor	area.
+• Waste reporting should be in line with the reporter’s operational control approach.
+ 
+ADDITIONAL:	Where the landlords wish to disclose tenant-obtained utilities consumption, this must be reported 
+separately	from	landlord-obtained	consumption	(both	absolute	and	like-for-like).	A	significant	reason	to	assess	
+tenant-obtained consumption is to compare the scale of scope 1 and 2 GHG emissions (that are under greater landlord 
+control) with scope 3 (which includes both tenant-obtained consumption and consumption sub-metered to tenants). 
+Further:
+• Landlords often have limited access to tenant-obtained utility data, and this varies between countries. 
+• Therefore, estimation of tenant-obtained consumption is more acceptable than estimation of landlord-obtained 
+consumption. 
+• To estimate tenant-obtained consumption, often a sample of tenant-obtained consumption data is used to 
+estimate the total tenant-obtained consumption. This should be combined with relevant emissions factors 
+specific	to	different	regions	and	asset	types,	to	calculate	the	most	accurate	estimated	figures. 75 Alternatively, 
+entirely theoretical modelling can be undertaken. As this topic continues to grow, there will be further guidance 
+on how to report more easily with future modelling tools provided by organisations like CRREM.
+RECOMMENDATIONS
+75  https:/ /ghgprotocol.org/sites/default/files/standards/Scope3_Calculation_Guidance_0.pdf
+
+--- PDF SEITE 62 ---
+Fourth edition April 2024
+7.6	 Normalisation
+Issue 
+Absolute utility consumption and health and safety performance data represents a good measure of a company’s 
+exposure	to	risk	(including	regulatory	risks,	fiscal	liability,	etc.).	However,	absolute	performance	measures	are	
+affected by increases and decreases in the size of a company’s portfolio and employee base. This makes intensity 
+(normalised) indicators a useful complementary tool for stakeholders to assess companies’ environmental and 
+health and safety performance.
+Rationale 
+For environmental Performance Measures, intensity is one of the most effective measures of a building’s overall 
+efficiency	during	the	occupation	and	operational	phase	of	the	building	life	cycle.	
+Some advantages of intensity Performance Measures include: 
+•	 Aggregated	intensity	measures,	which	enable	changes	over	time	to	reflect	the	influence	of	acquisitions,	disposals	
+and	developments/major	refurbishments	without	the	need	to	exclude	any	properties	from	aggregation	in	any	year;	
+•	 Ability	to	compare	the	relative	intensity	of	different	portfolios	(e.g.,	an	office	portfolio	versus	a	shopping	centre	
+portfolio). 
+For health and safety Performance Measures, normalised injury, lost day and absentee rates provide an 
+established benchmark to compare corporate performance over time, and between peers and industries.
+ 
+Intensity indicators are best suited to compare a company’s performance over time, rather than for comparison 
+between companies over time (unless the same methodologies are applied).
+Energy, GHG emissions, water, waste and health and safety require different types of intensity indicators, as 
+different factors may drive consumption and performance.
+CORE: As	a	general	rule,	companies	should	define	the	exact	denominator	used	in	the	intensity	indicator,	as	well	as	
+the method of matching numerator and denominator to account for different scenarios.
+Recommended denominators are as follows:
+• Numbers of people
+	 Reporters	may	use	numbers	of	people	as	a	denominator	as	long	as	they	clearly	state	how	they	have	defined	and	
+measured	it.	Please	note	that	water	benefits	most	from	the	use	of	a	‘per	person’	indicator	as	its	consumption	is	
+driven by people and users of the building.
+• Floor area
+	 Whilst	floor	areas	used	in	sustainability	reporting	may	vary	between	and	within	different	regions,	where	possible, 	
+these	should	be	consistent	with	those	used	in	financial	reporting.	This	ensures	that	the	total	portfolio	is	accurately	
+represented, while being aligned with the applied organisational boundaries. For a complete representation of 
+building	energy	intensity,	whole	building	operational	energy	applied	to	the	gross	floor	area	is	optimal	although	not	
+always possible with the available data coverage. Please see the Energy-Int section for further guidance.
+• Revenue
+ Revenue can be used as a basis for intensity indicators as this can provide valuable insight when comparing the 
+real estate industry to other industries. Under the ESRS requirements, revenue is the preferred denominator for 
+Energy, GHG and Water intensity calculations.76, 77, 78, 79 The revenue used to calculate the intensity indicator should 
+be	the	“net	rent”	received	as	derived	from	the	IFRS	financial	statement	on	the	buildings	associated	with	the	
+consumption (i.e., excluding service charges revenues, asset sales proceeds, etc.).
+• Days/hours worked
+ Lost days and hours worked (or multiples thereof) are a standard denominator used to calculate injury, lost day, 
+and absenteeism rates. They should relate to the total number of hours/days contracted to be worked by total 
+number of employees or Full-Time Equivalent (FTE) included in the scope of the Performance Measure.
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+62
+76 Please note that while 'Revenue' is the preferred denominator for intensity indicators according to the ESRS requirements, the EPRA 
+sBPR equally accepts the other listed denominators mentioned above. 
+77 Further guidance on energy intensity based on net revenue can be found in ESRS E1-5 40.
+78 Further guidance on greenhouse gas intensity based on net revenue can be found in ESRS E1-6 53. 
+79 Further guidance on water intensity based on net revenue can be found in ESRS E3-4 29.
+
+--- PDF SEITE 63 ---
+Fourth edition April 2024
+EPRA Sustainability Best Practices Recommendations Guidelines
+63
+7.7 Segmental analysis (by property type, geography, etc.)
+Issue 
+Building	types	and	their	location	may	have	a	significant	impact	on	asset-level	Performance	Measures.	Therefore,	
+aggregated environmental, health and safety and community data across multiple asset types and geographies 
+can make it challenging for stakeholders when understanding the materiality of a Performance Measure, or which 
+region or asset class might be under/outperforming against other regions or assets groups in the portfolio.
+Rationale 
+Comparison between geographies and property types can help explain trends in environmental and social 
+performance. 
+• Geographical segmentation can be a helpful way to analyse resource consumption, although reporters should 
+be mindful when making comparisons between absolute and intensity performance across geographical 
+borders (e.g., explaining weather factors which affect consumption in the accompanying narrative). 
+• Property types provide another useful way to analyse consumption as property types have different 
+consumption patterns and drivers for resource use. 
+The GRI also encourages comparison by location (geographical position of a building according to climatic 
+zone) and building types (function or form of a building). These can include high level categorisations such as 
+commercial	and	residential,	as	well	as	more	detailed	categorisations	of	these,	such	as	commercial	office,	retail	
+warehouse and shopping centre. Please refer to GRI 302-3: Energy intensity for an example of the segmental 
+analysis approach applied to energy reporting. 
+This is also supported by the ESRS which requires the “disaggregation” of data by country and/or different 
+significant	asset	type. 80
+Note that there are further segmentations that may be meaningful for certain reporters in addition to geography 
+and property type.
+ 
+ 
+ 
+ 
+CORE: It is important that meaningful segmental reporting and analysis is adopted in line with the approach 
+selected	by	companies	in	their	financial	reporting.
+•	 Companies	should	use	the	property	typologies	adopted	in	their	financial	reporting.	Where	additional	typologies	
+are used, an explanation for this should be provided.
+• Mixed use developments represent a special case where it should be clear whether mixed use properties 
+are	listed	as	one	asset	or	broken	down	by	types	of	use	(e.g.,	office	and	retail	unit	element).	In	all	cases,	the	
+approach	towards	mixed	use	developments	should	be	in	line	with	companies’	financial	reporting.
+• Segmental reporting and analysis can be applied to both absolute and intensity asset-level Performance 
+Measures.
+RECOMMENDATIONS
+80 Further guidance on the “disaggregation” of data can be found in ESRS 1, section 3.7 Level of disaggregation.
+
+--- PDF SEITE 64 ---
+Fourth edition April 2024
+7.8	 Disclosure	on	own	offices
+Issue 
+In addition to disclosing their investment portfolio and corporate-level performance, the environmental impact of 
+a company’s own occupation should also be disclosed within a company’s sustainability report.
+Rationale 
+Companies	are	responsible	for	the	environmental	impact	of	their	own	occupation,	in	leased	or	owned	offices.	While	
+this impact may seem minimal compared to the environmental impact of their investment portfolio, it is important 
+to demonstrate that sustainability principles are also practised at the corporate level.
+ 
+ 
+ 
+ 
+CORE: When	reporting	environmental	Performance	Measures	for	a	companies’	own	office(s):
+•	 Own	office(s)	impacts	should	be	disclosed	and	reported	separately	from	those	of	investment	portfolios.
+• The reporter must clearly state any methods of estimation used.
+• The proportion of disclosed data that is estimated must be clearly stated.
+RECOMMENDATIONS
+7.9	 Narrative	on	performance
+Issue 
+Similarly	to	financial	performance,	the	environmental,	social	and	governance	performance	and	position	of	real	
+estate companies often requires additional narrative information.
+Rationale 
+Explaining the context of the company’s operations and management decisions can enhance stakeholders’ 
+assessment	and	analysis	of	non-financial	performance	in	the	same	way	as	it	can	help	evaluate	financial	
+performance.
+ 
+ 
+ 
+ 
+CORE:
+• Adjustments should not be made to asset-level and corporate-level Performance Measures. Companies should 
+provide, where appropriate, additional information and commentary or explanation of past performance, and 
+outline plans for managing future performance.
+ • When looking at the environmental performance of a portfolio, it may be useful to understand what factors, 
+other than building management and tenant behaviour, might explain consumption trends. The most frequently 
+used	factors	that	influence	environmental	performance	include	weather,	levels	of	building	occupancy,	‘special	
+uses’ (e.g., higher consumption in buildings where tenants undertake trading activities) and age of buildings.
+ • When Performance Measures, like Cert-Tot, H&S-Emp, or H&S-Asset data is reported as “0”, narrative must be 
+provided to explain why the company does not participate.
+EPRA Sustainability Best Practices Recommendations Guidelines
+64
+RECOMMENDATIONS
+
+--- PDF SEITE 65 ---
+Fourth edition April 2024
+7.11 Reporting period
+Rationale 
+Companies that have been reporting on their sustainability performance for a long time may have access to many 
+years’ worth of historical data. While like-for-like Performance Measures must be reported for the two most recent 
+years, companies can choose to report their performance against absolute and intensity Performance Measures 
+over	a	much	longer	period.	At	the	same	time,	companies	must	balance	the	benefits	of	disclosing	longer	term	
+trends with the need to provide meaningful data.
+ 
+ 
+ 
+ 
+CORE:
+• Historical data for absolute and intensity Performance Measures can be disclosed at the discretion of the 
+reporting company. If the reporter has, for example, multiple years of historical data, they may wish to report 
+the	oldest	year	(especially	if	it	is	a	baseline	year),	significant	milestone	years	as	well	as	the	most	recent	three	
+years. For example, a company with 23 years of data may report years 2000, 2010, 2021, 2022 and 2023.
+7.10	 Location	of	EPRA	Sustainability	Performance	Measures	in	companies’	reports
+Rationale 
+It is EPRA’s view that companies should include yearly sustainability and corporate responsibility content in their 
+annual report and accounts, supporting the transition towards integrated reporting. This is also supported by the 
+ESRS which mandates the publication of the sustainability statement in the management report.
+However, it is not necessary for companies to report in detail on EPRA Sustainability Performance Measures in 
+their annual sustainability and corporate responsibility report, or that complete EPRA sBPR performance tables 
+are disclosed in their annual report and accounts. 
+A template table is provided for illustrative purposes as a supplementary document on the EPRA website called 
+Sample Data Table of EPRA sBPR Sustainability Performance Measures .
+ 
+ 
+ 
+ 
+CORE:
+• Companies must, as a minimum, include a cross-reference (e.g., a reference or hyperlink) to the location of the 
+most comprehensive EPRA sBPR performance tables that use the Performance Measure codes (e.g., Elec-
+LfL) if these have been published elsewhere (e.g., on the company’s website). Companies should report all 
+Performance Measures in the table format (including corporate-level Performance Measures) although, for 
+governance Performance Measures, these tables can include a reference to where the information can be found 
+using the relevant Performance Measure codes.
+RECOMMENDATIONS
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+65
+
+--- PDF SEITE 66 ---
+Fourth edition April 2024
+7.12 Materiality
+Issue 
+Materiality is a crucial element in guiding a strategic approach to sustainability for companies and creating relevant 
+disclosures for stakeholders. By conducting a complete and robust materiality assessment, companies can identify 
+key material issues across their value chain, thus demonstrating an understanding of where the company may have 
+material	impacts	on	society	and	the	environment,	may	experience	material	financial	effects,	or	both.
+There is an increasing expectation on companies to conduct a materiality review as a prerequisite for reporting 
+against both voluntary and mandatory sustainability reporting standards.
+Rationale 
+When	assessed	concurrently,	the	dimensions	of	impact	materiality	and	financial	materiality	form	the	concept	of	
+‘double materiality’, now present in mandatory reporting standards set with the CSRD and guided by the ESRS. 
+The	ESRS	classifies	a	sustainability	matter	that	is	material	from	an	impact	perspective	“…when	it	pertains	to	
+the undertaking’s material actual or potential, positive or negative impacts on people or the environment over 
+the	short-,	medium-	or	long-term.”	This	definition	includes	impacts	associated	with	operations	upstream	and	
+downstream in the value chain and is not limited to contractual relationships. These impacts are irrespective of 
+whether	or	not	they	are	financially	material.	
+The	ESRS	have	adopted	the	same	definition	for	impact	materiality	as	the	Global	Reporting	Initiative’s	Universal	
+Standards,	whereby	organisations	must	report	against	the	aspects	that	reflect	their	significant	economic,	
+environmental, and social impacts, taking into account the views of internal and external stakeholders.
+The	ESRS	defines	financial	materiality	as,	“the	identification	of	information	that	is	considered	material	for	primary	
+users	of	general-purpose	financial	reports	in	making	decisions	relating	to	providing	resources	to	the	entity.”	It	should	
+be	noted	that	the	Sustainable	Development	Goals	Disclosure	(SDGD)	also	references	a	broader	form	of	financial	
+materiality in “…the ability of the organisation to create long term value for the organisation and society”.81 In 
+other reporting guidance such as the IFRS Sustainability Disclosure Standards (also known as the ISSB standards), 
+material	impacts	are	disclosed	on	the	basis	of	potential	financial	effects,	primarily	for	investor	stakeholders.	There	
+is	alignment	of	the	scope	of	financial	materiality	in	ISSB	standards	and	the	ESRS,	although	the	ESRS	refers	to	a	
+broader	group	of	stakeholders	and	explicitly	encompasses	impact	materiality	next	to	financial	materiality.
+ 
+ 
+ 
+ 
+CORE:
+• The EPRA Sustainability Performance Measures and associated recommendations are guided by consultation 
+with industry and observation of good practice. Each Performance Measure is presented with the context to 
+sustainability issues in real estate investment activities and Rationale for managing related impacts, whether 
+environmental, social, or economic. As such, all Performance Measures are considered to be applicable to 
+companies in scope of the sBPR, unless otherwise shown by the company in their report to be not material or 
+not applicable.
+•	 Although	conducting	a	materiality	review	with	any	specific	approach	(impact,	financial	or	double	materiality)	
+is not mandated by the Sustainability Best Practices Recommendations, EPRA never-the-less recommends 
+reporting companies give due consideration to materiality when compiling their response.
+• If a reporting company chooses not to respond to a Performance Measure because they do not consider it to be 
+material,	a	signifier	of	‘not	material’	must	be	provided	in	the	EPRA	Sustainability	Performance	Measures	tables	
+or narrative.
+• If a Performance Measure is considered not material, the reporting company may explain the conclusions of its 
+materiality assessment for that requirement or topic.
+• If a reporting company is mandated to provide a disclosure on material matters by other regulated reporting 
+standards, the company may include a cross-reference (e.g., a reference or hyperlink) to the location of the 
+relevant information.
+• In the instance where a Performance Measure is considered ‘not applicable’, the reporting company must 
+distinguish this separately to matters of materiality and must explain the conclusions.
+RECOMMENDATIONS
+EPRA Sustainability Best Practices Recommendations Guidelines
+66
+81 https:/ /integratedreporting.ifrs.org/wp-content/uploads/2020/01/ICAS5045_SDGD_Recommendations_A4_22pp_AW3-1.pdf
+
+--- PDF SEITE 67 ---
+Fourth edition April 2024
+Further guidance 
+There is guidance on materiality assessments available to companies from several sources, notably for impact 
+materiality from the Global Reporting Initiative (GRI) Universal Standards. However, the obligation to adopt a 
+double materiality approach in response to CSRD requirements and applying European Sustainability Reporting 
+Standards (ESRS) presents a challenge to all sectors. To this end, EFRAG has created implementation guidance 
+for the ESRS materiality assessments. Nonetheless, companies will need to adopt an assessment methodology 
+with	an	appropriate	framework	that	is	suited	to	the	specific	context	of	their	industry.	As	the	EFRAG	guidance	is	
+currently presented as sector-agnostic, our supplemental document, EPRA Materiality Assessment Guidance for 
+Listed Real Estate,	will	build	on	the	work	by	EFRAG	and	other	related	guidance,	to	provide	further	sector-specific	
+context for listed real estate and highlight how the EPRA sBPR might be considered or used in the materiality 
+process.
+EPRA Sustainability Best Practices Recommendations Guidelines
+67 Fourth edition April 2024
+
+--- PDF SEITE 68 ---
+Fourth edition April 2024
+8
+Absolute energy 
+The total amount of energy consumed by an entity and those deemed to be within its organisational boundaries.
+Boundaries 
+The boundaries that determine the direct and indirect emissions associated with operations owned or controlled 
+by the reporting company. This assessment allows a company to establish which operations and sources cause 
+direct and indirect emissions, and to decide which indirect emissions that are a consequence of its operations to 
+include.	See	also	the	following	definitions	on	financial	control,	operational	control,	and	equity	share.
+Building energy intensity  
+The	amount	of	energy	used	per	unit	of	an	appropriate	denominator	(e.g.,	floor	area,	persons).
+Building GHG intensity  
+The	amount	of	carbon	emitted	per	unit	of	an	appropriate	denominator	(e.g.,	floor	area,	persons).
+Building types  
+Categorisation	based	on	the	function	or	form	of	a	building	for	example	offices,	shopping	centres,	retail	
+warehouses, industrial, multi-family housing and hotels.
+Building water intensity  
+The	amount	of	water	used	per	unit	of	an	appropriate	denominator	(e.g.,	floor	area,	persons).
+Carbon Disclosure Project  
+The Carbon Disclosure Project (CDP) works with shareholders and corporations to disclose the greenhouse gas 
+emissions of major corporations.
+Common parts  
+Areas shared with other occupants in multi-let buildings, including entrance areas, corridors, lifts, staircases, 
+waste storage stores, communal kitchen, or breakout facilities and any other parts within the asset and outside 
+intended for the use of the occupiers of that asset.
+District heating and cooling  
+District heating and cooling is a system for distributing hot or cold steam and water generated in a centralised 
+location for residential and commercial heating requirements such as space heating and water heating. The heat is 
+often obtained from a cogeneration plant burning fossil fuels but increasingly biomass. Heat-only boiler stations, 
+geothermal heating and central solar heating are also used.
+Employee 
+An employee refers to an individual who is in a direct employment relationship with the reporting organisation 
+(excluding supervised workers and sub-contractors), according to national law or its application.
+Equity-share 
+Used	to	define	organisational	boundaries	for	financial	and	sustainability	(and	especially	GHG	emissions)	reporting.	
+Equity	share	reflects	economic	interest,	which	is	the	extent	of	rights	a	company	has	to	the	risks	and	rewards	
+flowing	from	an	operation.	Typically,	the	share	of	economic	risks	and	rewards	in	an	operation	is	aligned	with	the	
+company’s percentage ownership of that operation, and equity share will normally be the same as the ownership 
+percentage.
+EPRA Sustainability Best Practices Recommendations Guidelines
+Definitions – Glossary of Terms
+68
+
+--- PDF SEITE 69 ---
+Fourth edition April 2024
+Floor area 
+Codes	for	defining	floor	areas	vary	by	location,	building	type	and	landlord-tenant	arrangement,	for	example	
+common parts area, lettable/leasable area, internal area, usable area, occupied area and conditioned/treated 
+area.
+Financial control  
+Used	to	define	organisational	boundaries	for	financial	and	sustainability	(and	especially	GHG	emissions)	reporting.	
+Financial	control	relates	to	where	the	organisation	has	the	ability	to	direct	the	financial	and	operating	policies	of	
+the	operation	with	a	view	to	gaining	economic	benefits	from	its	activities.
+Fugitive emissions 
+Fugitive emissions are emissions of gases or vapours from pressurised equipment such as air conditioning due to 
+leaks and various other unintended or irregular releases of gases.
+Governance body 
+Governance body refers to the committee or board responsible for the strategic guidance of the organisation, the 
+effective monitoring of management and the accountability of management to the broader organisation and its 
+stakeholders. For the purposes of the Sustainability Performance Measures, governance body typically refers the 
+Board of Directors of the company.
+Greenhouse gas (GHG) emissions  
+Greenhouse gases (sometimes abbreviated to GHG) are gases in the Earth’s atmosphere that cause the 
+greenhouse effect, which can greatly affect the temperature of the Earth. GHGs are the six gases listed in 
+the Kyoto Protocol: carbon dioxide (CO2);	methane	(CH4);	nitrous	oxide	(N2O);	hydrofluorocarbons	(HFCs);	
+perfluorocarbons	(PFCs);	and	sulphur	hexafluoride	(SF 6). Since the beginning of the Industrial revolution, the 
+burning of fossil fuels has substantially increased carbon dioxide (CO 2) emissions into the atmosphere, thereby 
+contributing to the greenhouse gas effect.
+Human rights incidents  
+These are considered work-related incidents of discrimination on the grounds of gender, racial or ethnic origin, 
+nationality, religion or belief, disability, age, sexual orientation, or other relevant forms of discrimination involving 
+internal and/or external stakeholders across operations. 
+HVAC 
+Heating, Ventilation and Air Conditioning.
+Landlord-obtained  
+Landlord-obtained is when the landlord has the purchasing contract with the utility company (and the energy 
+consumed that they generated themselves too).82
+Like-for-like 
+Consumption of a portfolio that has been consistently in operation, and not under development, during the most 
+recent	two	full	reporting	years.	This	like-for-like	definition	is	aligned	with	the	EPRA	Financial	BPR	like-for-like	
+definition	for	rental	growth	reporting.	For	example,	the	2024	like-for-like	change	compares	the	2024	Elec-Abs	
+consumption with the 2023 Elec-Abs consumption for a consistent portfolio. This is the simplest way to take 
+account of changes in the size and composition of a portfolio.
+Materiality 
+Material topics for a reporting organisation include those topics that have a direct or indirect impact on an 
+organisation’s ability to create, preserve or erode economic, environmental and social value for itself, its 
+stakeholders and society at large.
+Not	applicable 
+An indication that a Performance Measure is not relevant or does not apply to the reporting entity.
+EPRA Sustainability Best Practices Recommendations Guidelines
+69
+82 EPRA Sustainability Best Practices Recommendations Q&A 2020 -  
+https:/ /www.epra.com/application/files/7115/8089/5590/EPRA_sBPR_QA_Feb_2020.pdf
+
+--- PDF SEITE 70 ---
+Fourth edition April 2024
+Not	material 
+An	indication	that	a	Performance	Measure	is	omitted	from	reporting,	due	to	its	relative	insignificance.	Significance	
+is	determined	by	impact	on	society,	environment,	or	business	finances	and	considered	through	the	perspective	of	
+impact	materiality,	financial	materiality,	or	the	relation	of	both	dimensions,	with	double	materiality.
+Operational control  
+Used	to	define	organisational	boundaries	for	financial	and	sustainability	(and	especially	GHG	emissions)	reporting.	
+Operational control relates to where the organisation or one of its subsidiaries has the full authority to introduce 
+and implement its operating policies at the operation.
+Persons 
+The average number of persons used as a denominator of a building energy intensity indicator. For example, 
+measures	include:	visits	in	shopping	centres,	workstations	in	offices,	workers	in	industrial	warehouses,	residents	in	
+multi-family housing or guests in hotels.
+Purchase Power Agreement (PPA)  
+A contract between a power producer and consumer outlining the terms for the sale and purchase of electricity 
+over	a	specified	period	of	time.
+Renewable energy 
+Energy sources that can be replenished in a short time through ecological cycles. Renewable energy sources 
+include geothermal, wind, solar, hydro and biomass.
+Tenant-obtained 
+Tenant-obtained is where the tenant has the purchasing contract with the utility company.83
+Total	direct	GHG	emissions  
+Direct GHG emissions come from sources owned or controlled by the reporting organisation. All direct emission 
+sources	are	classified	as	scope	1	under	the	GHG	Protocol.
+Total	indirect	GHG	emissions  
+Indirect GHG emissions are those that are a consequence of the activities of the organisation, but that occur at 
+sources	owned	or	controlled	by	another	organisation	or	company.	Indirect	emission	sources	are	classified	as	either	
+scope 2 or scope 3 under the GHG Protocol. For the purposes of GHG-Indir-Abs, indirect GHG emissions relate to 
+scope 2 emissions from landlord-obtained electricity, heat or steam consumption, and to scope 3 emissions from 
+tenant-obtained fuels, electricity, heat or steam consumption.
+Vacancy rates 
+The proportion of lettable/leasable area that is unoccupied.
+Waste	by	disposal	route 
+The method by which waste is treated or disposed of, including reuse, recycling, composting, recovery, 
+incineration,	landfill,	deep	well	injection	and	onsite	storage.
+EPRA Sustainability Best Practices Recommendations Guidelines
+70
+83 EPRA Sustainability Best Practices Recommendations Q&A 2020 -  
+https:/ /www.epra.com/application/files/7115/8089/5590/EPRA_sBPR_QA_Feb_2020.pdf
+
+=== DOKUMENT ENDE ===

@@ -1,0 +1,94 @@
+=== DOKUMENT START: EU-Gebäuderichtlinie.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Gebäudetechnik
+EU-Gebäuderichtlinie
+Gebäude sind innerhalb der EU für rund vierzig Prozent des Endenergieverbrauchs und für 36 Prozent der
+klimaschädlichen CO-Emissionen verantwortlich. 75 Prozent aller Gebäude in den Mitgliedsstaaten sind
+nicht energieeffizient und jedes Jahr werden lediglich 0,4 bis 1,2 Prozent des Gebäudebestands renoviert.
+Die EU sieht hier dementsprechend  ein enormes Potenzial zur Energieeinsparung.
+Um die Energieeffizienz von Gebäuden zu steigern und so den Energiebedarf und die CO ₂ -Emissionen der
+Mitgliedsländer zu senken sowie ihre Abhängigkeit von Energieimporten zu reduzieren, hat die Union die
+EU-Richtlinie über die Gesamtenergieeffizienz von Gebäuden oder kurz EU-Gebäuderichtlinie (englisch:
+Energy Performance of Buildings Directive – EPBD) erlassen. Die neueste Fassung stammt von 2018.
+EU-Gebäuderichtlinie 2002/91/EG von 2002
+Mit der Gebäuderichtlinie von 2002 wurden die Mitgliedsländer der EU aufgefordert:
+Eine Berechnungsmethode für die Energiebilanz von Gebäuden einzuführen.
+Energetische Mindestanforderungen für Neubauten festzulegen.
+Energetische Mindestanforderungen für Bestandsgebäude festzulegen, die eine Gesamtnutzfläche von
+über 1.000 Quadratmeter besitzen und umfangreich renoviert werden.
+Energieausweise für Gebäude einzuführen.
+Regelmäßige Überprüfungen der Effizienz von Heizungs- und Klimaanlagen durchzuführen.
+Deutschland hat die Vorschriften mit den Energieeinsparverordnungen (EnEV) 2002, 2004 und 2007
+umgesetzt.
+EU-Gebäuderichtlinie 2010/31/EU von 2010
+Im Jahr 2010 verschärfte die EU die Anforderungen der EU-Gebäuderichtlinie.
+Wichtigste Neuerungen:
+Einführung eines Niedrigstenergie-Gebäudes (Fast-Nullenergie-Gebäude) als Standard für alle
+Neubauten ab 2021, für behördliche Bauten bereits ab 2019. Der verbleibende, sehr geringe
+Energiebedarf soll zu einem ganz wesentlichen Teil durch erneuerbare Energien gedeckt werden.
+Die Mindestanforderungen für die Sanierung von Bestandsgebäuden gelten für alle Gebäude, statt wie
+bisher nur bei Gebäuden mit einer Gesamtnutzfläche von über 1.000 Quadratmetern.
+Bei der Vermietung oder dem Verkauf einer Immobilie ist vom Vermieter oder Verkäufer unaufgefordert
+ein Energieausweis vorzulegen. Die Kennwerte des Energieausweises müssen auch in gewerblichen
+Verkaufs- oder Vermietungsanzeigen angegeben werden.
+Qualifizierte Fachleute für die Ausstellung von Energieausweisen müssen in öffentlich zugänglichen
+Listen bekannt gemacht werden.
+Die Aushangpflicht für Energieausweise wird auf alle öffentlichen und privaten Gebäude erweitert, in
+denen eine Fläche von mehr als 500 Quadratmeter starkem Publikumsverkehr ausgesetzt ist. Dieser
+Schwellenwert wurde im Juli 2015 auf 250 Quadratmeter abgesenkt.
+Einführung eines unabhängigen Kontrollsystems für Energieausweise in Form von Stichproben.
+2
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 2 ---
+Deutschland hat die Vorschriften mit der Energieeinsparverordnung (EnEV) 2014 teilweise umgesetzt. Die
+komplette Umsetzung soll mit dem neuen Gebäudeenergiegesetz (GEG) erfolgen, das noch nicht
+verabschiedet wurde.
+EU-Gebäuderichtlinie 2018/844/EU von 2018
+2018 wurde die EU-Gebäuderichtlinie erneut mit einer Änderungsrichtlinie fortgeschrieben.
+Wichtigste Neuerungen:
+Die Mitgliedsstaaten müssen bis 2020 eine detaillierte Sanierungsstrategie für Bestandsgebäude
+vorlegen. Ziel ist es, den kosteneffizienten Umbau bestehender Gebäude in Niedrigstenergiegebäude zu
+erleichtern, um bis zum Jahr 2050 einen energieeffizienten und dekarbonisierten Gebäudebestand zu
+erreichen.
+Um einen effizienten Gebäudebetrieb sicherzustellen, sollen verstärkt Informations- und
+Kommunikationstechnologien (IKT) und intelligente Technologien, wie Gebäudeautomatisierungs- und
+Steuerungssysteme zum Einsatz kommen.
+Einführung eines „Intelligenzfähigkeitsindikators“ als zusätzliche Information für Mieter oder Käufer. Er
+soll die Fähigkeit von Gebäuden messen, sich durch neue Technologien und elektronische Systeme an
+den Bedarf der Bewohner anzupassen, den Betrieb zu optimieren und mit dem Netz zu interagieren
+(Lastmanagement).
+Aufbau einer Infrastruktur für Elektrofahrzeuge auf Gebäudeparkplätzen.
+Die regelmäßige Inspektionspflicht für Heizungen besteht künftig erst ab einer Nennleistung über 70 kW
+(bisher 20 kW), für Klimaanlagen ebenfalls erst ab einer Nennleistung über 70 kW (bisher 12 kW).
+Heizungs- und Klimaanlagen, die mit Lüftungsanlagen kombiniert sind, werden künftig in die
+Inspektionspflicht miteinbezogen.
+Deutschland muss den Großteil der neuen Vorschriften zum 10. März 2020 in nationales Recht umsetzen.
+Voraussichtlich wird das mit dem neuen Gebäudeenergiegesetz (GEG) geschehen.
+FACHWISSEN ZUM THEMA
+SURFTIPPS
+https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32018L0844
+-
+-
+-
+-
+-
+Erneuerbare Energien
+Erneuerbare Energien in der Gebäudetechnik
+Planungsgrundlagen
+Planung der Gebäudetechnik nach GEG
+→
+
+=== DOKUMENT ENDE ===

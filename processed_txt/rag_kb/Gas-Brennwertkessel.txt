@@ -1,0 +1,35 @@
+=== DOKUMENT START: Gas-Brennwertkessel.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Gas-Brennwertkessel
+GUTE GESAMTWIRTSCHAFTLICHKEIT
+Bild: Buderus, Wetzlar
+ Bild: Buderus, Wetzlar
+Gas-Brennwertkessel nutzen den Brennwert, der bei Gas um etwa 11 bis 12% über dem Heizwert liegt,
+vollständig aus und erreichen damit einen hohen Wirkungsgrad. Sie eignen sich in erster Linie für
+Gasfeuerungen und sind insbesondere im mittleren und größeren Leistungsbereich wirtschaftlich. Gas-
+Brennwertkessel werden überwiegend zur Raumheizung und Trinkwassererwärmung in
+Mehrfamilienhäusern, kommunalen und gewerblichen Gebäuden sowie zum indirekten Beheizen von
+Schwimmbädern genutzt. Man unterscheidet:
+Gas-Brennwertkessel mit integriertem Brennwert-Wärmetauscherteil und
+Gas-Brennwertkessel mit externem Brennwert-Wärmetauscherteil
+Um den vollen Brennwert des Gases auszunutzen, sind möglichst niedrige Rücklauftemperaturen
+anzustreben, da hier die weitestgehende Kondensation erreicht wird.
+Zur Herstellung werden meist Aluminium-Silizium-Legierungen oder Edelstahl eingesetzt. Die kompakte
+Bauweise ermöglicht heute Geräte, die an der Wand montiert sind und raumluftabhängig oder -unabhängig
+konzipiert sind. Sie können z.B. in Küchen, Fluren, Nischen oder Schränken eingebaut werden.
+FACHWISSEN ZUM THEMA
+-
+-
+HeizkesselBrennwertkessel
+HeizkesselÖl-Brennwertkessel
+
+--- PDF SEITE 2 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+
+=== DOKUMENT ENDE ===

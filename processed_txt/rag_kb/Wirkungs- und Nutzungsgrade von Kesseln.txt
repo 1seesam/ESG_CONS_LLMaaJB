@@ -1,0 +1,38 @@
+=== DOKUMENT START: Wirkungs- und Nutzungsgrade von Kesseln.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Wirkungs- und Nutzungsgradevon Kesseln
+NIEDERTEMPERATUR- UND BRENNWERTKESSEL
+Der Wirkungsgrad eines Kessels ist allgemein definiert als die abgegebene Heizleistung des Kessels
+bezogen auf die ihm zugeführte Brennstoffenergie. Die im Brennstoff enthaltene Energie, die bei der
+Abkühlung der Verbrennungsabgase maximal nutzbar gemacht werden kann, ist allerdings abhängig von
+der Definition der Randbedingung, insbesondere in Bezug auf den vorhandenen Wasserdampf im Abgas.
+Wird dieser Wirkungsgrad über einen längeren Zeitraum gewichtet, um alle möglichen Betriebssituationen
+zu erfassen, spricht man vom Nutzungsgrad oder vom Norm-Nutzungsgrad. Es führt allerdings zu
+erheblichen Missverhältnissen, wenn man den Norm-Nutzungsgrad auf den Heizwert bezieht. So weisen
+moderne Öl- und Gas-Niedertemperaturheizkessel Norm-Nutzungsgrade von etwa 94% auf, was als ein sehr
+guter Wert gelten kann. Nimmt man aber statt des Heizwertes den Brennwert als Bezugsgröße oder
+Energiemaßstab, ergeben sich nur etwa 84% für den Gaskessel und 88% für den Ölkessel.
+Niedertemperaturkessel nutzen somit das mit dem Heizwert gegebene Potenzial optimal aus, aber nicht
+das mit dem Brennwert gegebene Potenzial. Dank sehr niedriger Abgastemperaturen gelingt dies den
+Brennwertkesseln. Sie nutzen den Brennwert zu etwa 96%. Bezogen auf den Heizwert erscheint dies bei
+Gas mit kuriosen 110% und bei Öl mit ebenfalls kuriosen 105%. Kurios deshalb, weil Nutzungsgrade über
+100% physikalisch unmöglich sind. Diese Aussage ist verwirrend und die Interpretation ist falsch, da ein
+optimaler Kessel nicht mehr als die gesamte Wärme zu Heizzwecken nutzbar machen kann. Bei einem
+sinnvollen Bezug der Leistung eines Brennwertkessels haben beide Kessel einen maximalen Wirkungsgrad
+von 100%.
+FACHWISSEN ZUM THEMA
+Heizkessel
+Brennwertkessel
+Heizkessel
+Niedertemperaturkessel
+
+--- PDF SEITE 2 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+
+=== DOKUMENT ENDE ===

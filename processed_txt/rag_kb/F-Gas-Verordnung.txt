@@ -1,0 +1,39 @@
+=== DOKUMENT START: F-Gas-Verordnung.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Gebäudetechnik
+F-Gas-Verordnung
+In vielen Wärmepumpen, Klima- und Kälteanlagen werden Kältemittel eingesetzt, die die Umwelt schädigen.
+Als Beitrag zum internationalen Klimaschutz will die EU auf Kältemittel mit sehr hohem Treibhauspotenzial
+in Zukunft weitestgehend verzichten. Davon betroffen sind Produkte, die aus teilhalogenierten
+Fluorkohlenwasserstoffen (HFKW) bestehen, wie beispielsweise R410A, R404A oder R507A.
+2014 hat die EU die novellierte F-Gas-Verordnung (Verordnung EU Nr. 517/2014 über fluorierte
+Treibhausgase) erlassen, die 2015 in Kraft trat. Die Verordnung sieht kein Verbot für HFKW vor, sondern
+eine schrittweise, künstliche Verknappung der auf der Markt erhältlichen Mengen an HFKW (sogenanntes
+Phase-Down-Szenario). Im Jahr 2030 sollen nur noch 21 Prozent der Ausgangsmengen von 2015 verfügbar
+sein. Bauherren, die eine Anlage einbauen, die mit den reglementierten Kältemitteln arbeitet, müssen damit
+rechnen, dass ihr Gerät vorzeitig ausgetauscht werden muss, da die Betriebsmittel zur Nachfüllung zu teuer
+oder nicht mehr erhältlich sind.
+Die Kälte-, Klima- und Heizungsbranche spürt die Auswirkungen der Verordnung in Form eines drastischen
+Preisanstiegs bereits deutlich. Schon in der ersten Phase der Verknappung von 2016 bis 2017 verteuerten
+sich die betroffenen Kältemittel um bis zu 500 Prozent.
+Neben der Verknappung von HFKW enthält die F-Gas-Verordnung auch Verwendungs- und
+Inverkehrbringungsverbote für viele Produkte, die mit HFKW arbeiten. So gilt beispielsweise für Split-Geräte
+mit bis zu drei Kilogramm Kältemittel-Füllmenge ab dem 1. Januar 2025 ein Verbot für die Verwendung von
+HFKW mit einem Treibhauspotenzial (Global Warming Potenzial – GWP) von über 750.
+Alternativen zu HFKW sind natürliche Kältemittel wie Propan oder Kohlendioxid. Darüber hinaus lässt sich
+durch bauliche Maßnahmen der Bedarf an Kältemitteln reduzieren, beispielsweise durch die Nutzung von
+aktivierbaren Speichermassen des Gebäudes sowie durch angemessene Fensterflächen und Anlagen zur
+Verschattung.
+FACHWISSEN ZUM THEMA
+
+--- PDF SEITE 2 ---
+SURFTIPPS
+https://www.umweltbundesamt.de/themen/wirtschaft-konsum/produkte/fluorierte-treibhausgase-
+fckw/rechtliche-regelungen/eu-verordnung-ueber-fluorierte-treibhausgase
+Kühlen/ KlimatisierenArten von Klimaanlagen
+Publikationen/ PlanungshilfenKostenfalle Kältemittel
+→
+
+=== DOKUMENT ENDE ===

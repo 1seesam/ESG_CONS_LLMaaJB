@@ -1,0 +1,11 @@
+AUFGABE
+Beantworte die FRAGE.
+
+OUTPUT Format der ATOMIC FACTS inkl. Sicherheitslevel (verpflichtend):
+- Formuliere einzelne, überprüfbare Aussagen
+- Jeder Fact enthält genau eine Informationseinheit
+- Kennzeichne jeden Fact mit einem Sicherheitslevel in diesem Format ( #0 = sicher korrekt (durch Kontext gedeckt), #1 = geringe Unsicherheit / implizite Annahme, #2 = unsicher / unvollständige Datengrundlage, #3 = kritisch unsicher / potenziell falsch )
+- Falls erforderlich: Beschreibe Inkonsistenzen oder Fehler in den Fragen
+- Nutze das Trennzeichen ";" zur Trennung der Fakten
+
+FRAGE: {question}

@@ -1,0 +1,53 @@
+=== DOKUMENT START: Gebäudeautomation.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Gebäudetechnik
+Gebäudeautomation
+GEBÄUDETECHNISCHE ANLAGEN STEUERN, REGELN, ERFASSEN UND
+ÜBERWACHEN
+Unter dem Begriff Gebäudeautomation (GA) sind alle Einrichtungen zur automatischen Steuerung,
+Regelung und Überwachung von komplexen gebäudetechnischen Anlagen sowie zur Erfassung von
+Betriebsdaten in einem oder mehreren Gebäuden zusammengefasst. Dazu gehören u.a. Schaltschränke
+und Kabelnetze für die Mess-, Steuer-, Regelungstechnik (MSR-Technik) und die Informationsübertragung.
+Die digitale Gebäudeautomation umfasst auch die übergeordnete Technik für die Betriebsführung. Nicht zur
+Gebäudeautomation gehören die Gefahrenmeldeanlagen (Brand, Einbruch, Überfall), Systeme der
+Zugangskontrolle und die Überwachungsanlagen. Diese Systeme können jedoch mit der
+Gebäudeautomation gekoppelt sein.
+Ziele der Gebäudeautomation
+Einen hohen Komfort für den Nutzer des Gebäudes zu erzielen ist neben der Sicherheit und der
+Energieeinsparung eines der Hauptziele der Gebäudeautomation. Voraussetzung für einen hohen Komfort
+ist der Einsatz eines leistungsfähigen Raumautomationssystems, z.B. des KNX- oder LON-Bussystems. Ein
+hoher Komfort ist dann erreicht, wenn sich das GA-System automatisch auf die vorgegebenen Ziele der
+Nutzer einstellt und manuelle Eingriffe im Normalfall nicht erforderlich werden. So wird z.B. die
+Beleuchtung über die Helligkeit und die Anwesenheit von Personen im Raum, die Jalousien je nach
+Sonneneinfall und die Heizung über die jeweilige Nutzung der Räume gesteuert.
+Abgrenzung zur Gebäudesystemtechnik
+„Gebäudeautomation“ wird oftmals mit den Begriffen „Gebäudesystemtechnik“ bzw. „Bustechnik“
+verwechselt bzw. diesen gleichgestellt. Die Gebäudesystemtechnik/Bustechnik ist als Teil der
+Gebäudeautomation zu betrachten, die die Aufgaben innerhalb der Räume ausführt – z.B. alle technischen
+Geräte und Funktionen miteinander vernetzt, überwacht und steuert. Der Begriff der Gebäudeautomation
+entstand, um den Unterschied zur konventionellen Elektroinstallation zu verdeutlichen. Was früher durch
+Installation einzelner Komponenten realisiert wurde, wird heute von der Systemtechnik (dem Bussystem)
+erledigt.
+Gebäudeautomation in drei Ebenen
+Gebäudeautomations-Systeme sind in drei Ebenen unterteilt: Die Feld-, Automations- und
+Managementebene. In der untersten Feldebene werden die unterschiedlichen technischen Anlagen des
+Gebäudes mithilfe der Feldgeräte, den Sensoren und Aktoren, betrieben. Die Automationsebene übernimmt
+die Aufgabe, die gebäudetechnischen Anlagen auf der Basis der von der Feldebene gelieferten Daten sowie
+über die aus der Managementebene kommenden Vorgaben zu steuern und zu regeln. Auf der
+Managementebene erfolgen das übergeordnete Bedienen und Beobachten der Prozesse und die
+Alarmierung bei Störungen. Informationen der Gebäudeautomation werden hier gesammelt und z.B. am
+
+--- PDF SEITE 2 ---
+Bildschirm-Arbeitsplatz ausgewertet und am Protokolldrucker ausgedruckt. Die einzelnen Ebenen werden je
+nach Größe und Komplexität des Objekts bzw. der zu automatisierenden Liegenschaften ausgeprägt.
+FACHWISSEN ZUM THEMA
+SURFTIPPS
+http://www.baunetzwissen.de/index/Elektro-Gebaeudeautomation_33381.html
+ElektroKlassische und zeitgemäße Elektroinstallation
+ElektroSmart Home, Smart Grids und Smart Metering
+PlanungsgrundlagenSteuerung und Vernetzung mit Gebäudeautomation
+→
+
+=== DOKUMENT ENDE ===

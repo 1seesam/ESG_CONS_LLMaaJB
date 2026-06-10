@@ -1,0 +1,72 @@
+=== DOKUMENT START: Energiebedarf versus Energieverbrauch.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Energiebedarf versusEnergieverbrauch
+REBOUND- UND PREBOUND-EFFEKTE
+Häufig entstehen Missverständnisse bei der Definition der Energiemenge, die für die Beheizung eines
+Gebäudes benötigt wird. Als Gebäudeenergiebedarf bezeichnet man die Energiemenge, die über einen
+bestimmten Zeitraum (etwa ein Jahr) benötigt wird, um eine angenehme Innenraumtemperatur
+aufrechtzuerhalten, angegeben in Kilowattstunden pro Jahr (kWh/a); oder bezogen auf die Nettonutz- und
+Nettowohnfläche, in Kilowattstunden pro Quadratmeter und Jahr (kWh/(m²a)). Somit ermöglicht der
+Energiebedarf eine objektive Vergleichbarkeit zwischen verschiedenen Gebäuden, unabhängig von den
+subjektiven Gewohnheiten und persönlichen Vorlieben der Nutzerinnen und Nutzer. Demgegenüber zeigt
+der Gebäudeenergieverbrauch die Energiemenge an, die sich auf Basis der tatsächlich verbrauchten
+Energiemengen ergibt. Somit ist der Energieverbrauch stark abhängig vom individuellen Nutzungsverhalten,
+außerdem von der Witterung sowie von der Effizienz der Anlagentechnik im realen Betrieb.
+Bild: Baunetz, Berlin
+ Bild: Buderus, Wetzlar
+PREBOUND- UND REBOUND-EFFEKTE
+Ein möglichst genaues Berechnen des Energiebedarfs während der Planungsphase ist entscheidend für
+den effizienten Betrieb eines Gebäudes. Doch zwischen dem berechneten Energiebedarf und dem
+tatsächlichen Energieverbrauch im Betrieb kann es bei aller Sorgfalt zu einer mitunter deutlichen
+Diskrepanz kommen, deren Ursache meist im Nutzungsverhalten zu finden ist. Man unterscheidet hierbei
+zwischen dem Prebound- und dem Rebound-Effekt:
+Der Prebound-Effekt tritt in der Regel vor einer energetischen Sanierung der Gebäudesubstanz auf bzw. bei
+Nutzung einer ineffizienten (veralteten) Heizungsanlage. Dabei ist der tatsächliche Energieverbrauch
+deutlich niedriger als der berechnete Bedarf. Die Nutzerinnen und Nutzer verhalten sich dann im Wissen um
+ihre energetisch schlechte Dämmung oder Heizung oft sehr sparsam und heizen weniger, als für die
+Bedarfsrechnung angenommen wurde (etwa 19 statt 22 °C Raumtemperatur), um Verbrauch und Kosten zu
+senken. Auf dieser Grundlage überschätzen Berechnungen für den künftigen Energiebedarf nach einer
+energetischen Sanierung oft das Energiesparpotenzial. Denn um dieses auszuschöpfen, müssten die
+
+--- PDF SEITE 2 ---
+Nutzerinnen und Nutzer theoretisch (und auf Basis durchschnittlicher Standardwerte) unter den
+energetisch schlechteren Bedingungen deutlich mehr verbrauchen, als sie es praktisch tun.  
+Der Rebound-Effekt tritt vornehmlich nach einer Effizienzsteigerung auf, wenn etwa eine neue Heizung
+eingebaut wurde. Dabei wird die theoretisch mögliche Einsparung nicht vollständig erreicht; der reale
+Verbrauch nach der Modernisierung fällt also höher aus als erwartet. Dem liegen zwei Phänomene
+zugrunde: Beim „direkten“ Rebound heizen die Nutzerinnen und Nutzer jetzt großzügiger (also etwa 22 statt
+bisher 19 °C). Die eigentlich geringeren Kosten führen dann zu einem Anstieg des tatsächlichen
+Verbrauchs. Beim „indirekten“ Rebound wird das gesparte Geld für etwas Neues und bisher nicht
+Benötigtes ausgegeben, das wiederum zusätzliche Energie (bei Herstellung oder Nutzung) benötigt. In der
+Summe wurde so weder Geld noch Energie gespart.
+DER FAKTOR MENSCH
+Während also der Prebound-Effekt zeigt, dass sich Menschen in ineffizienten Systemen oft sparsamer
+verhalten als die Theorie glaubt, zeigt der Rebound-Effekt, dass sie wiederum dazu neigen, technische
+Effizienzgewinne durch bequemeres oder gesteigertes Konsumverhalten zu kompensieren. Die
+Abweichung zwischen berechnetem Bedarf und tatsächlichem Verbrauch ist somit maßgeblich vom
+Verhalten der Nutzerinnen und Nutzer abhängig, einschließlich Faktoren wie der eingestellten
+Raumtemperatur, dem Lüftungsverhalten, dem Ausmaß der Teilbeheizung von Räumen, den tatsächlichen
+internen Wärmequellen und dem Warmwasserverbrauch. 
+Die beschriebenen Effekte verdeutlichen, dass selbst eine präzise Berechnung des Energiebedarfs keine
+Garantie dafür ist, wie der tatsächliche Energieverbrauch in einem Gebäude ausfällt. Bei der Diskussion um
+die Energieeffizienz spielt also die soziotechnische Dimension, die über rein technische Parameter
+hinausgeht und die Bedeutung des menschlichen Faktors in der Energiebilanz einbezieht, eine wichtige
+Rolle. Für Energieberater*innen ist dieses Verständnis von großer praktischer Relevanz, um realistische
+Erwartungen zu erzeugen und effektive Strategien zu entwickeln.
+FACHWISSEN ZUM THEMA
+SanierungsgründeEnergieeffizienz und Kostensenkung
+Verordnungen/ GesetzeGebäudeenergiegesetz GEG
+WärmebedarfHeizlast und Energiebedarf
+
+--- PDF SEITE 3 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+Heizung/ LüftungHydraulischer Abgleich von Heizungsanlagen
+EnergieeinsparungMöglichkeiten zur Energieeinsparung
+
+=== DOKUMENT ENDE ===

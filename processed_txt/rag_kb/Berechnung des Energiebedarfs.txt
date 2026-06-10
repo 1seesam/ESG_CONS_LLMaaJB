@@ -1,0 +1,166 @@
+=== DOKUMENT START: Berechnung des Energiebedarfs.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Berechnung des Energiebedarfs
+BERECHNUNG NACH DIN V 18599 UNTER BERÜCKSICHTIGUNG DES GEG
+Der Energiebedarf eines Gebäudes ist besonders für die Einschätzung der energetischen Qualität eines
+Gebäudes ein zentraler Wert. Im Gegensatz zur Heizlast, die als Darstellung der Spitzenleistung für den
+Kältefall eine wichtige Grundlage für die Anlagenplanung ist, stellt der Gebäudeenergiebedarf die
+Energiemenge dar, die über einen gewissen Zeitraum (in der Regel ein Jahr) benötigt wird, um eine
+angenehme Innenraumtemperatur aufrechtzuerhalten. Die Angabe des Gebäudeenergiebedarfs erfolgt in
+Kilowattstunden pro Jahr (kWh/a) und wird häufig auf die Quadratmeter Nettonutz- und Nettowohnfläche
+bezogen, dargestellt in kWh/(m²a). Der Energiebedarf ermöglicht somit eine objektive Vergleichbarkeit
+zwischen verschiedenen Gebäuden.
+Bild: Yvonne Kavermann
+ Bild: Saint-Gobain Glass, Aachen
+Ein zentraler Aspekt bei der Ermittlung des Gebäudeenergiebedarfs ist seine Unabhängigkeit von den
+subjektiven Gewohnheiten und persönlichen Vorlieben der Nutzerinnen und Nutzer. Damit bildet er eine
+gute und verpflichtende Grundlage für den Energieausweis, der detaillierte Informationen über die
+Energieeffizienzklasse (von A+ bis H) des Gebäudes liefert und deshalb potenziellen Käufer*innen und
+Mieter*innen vorgelegt werden muss. Die objektive Vergleichbarkeit des Gebäudeenergiebedarfs erlaubt
+außerdem eine Einschätzung der energetischen Qualität eines Gebäudes, weshalb er relevant für die
+Beantragung von Förderprogrammen ist.
+BERECHNUNG DES GEBÄUDEENERGIEBEDARFS 
+Die Berechnung des Gebäudeenergiebedarfs erfolgt nach der umfassenden Normenreihe DIN V 18599:
+Energetische Bewertung von Gebäuden und ist ein differenziertes, modular aufgebautes Verfahren. Die
+Norm bilanziert nicht nur den Energiebedarf für die Heizung, sondern auch für Kühlung, Lüftung,
+Trinkwarmwasser und Beleuchtung – dabei bezieht sie jeweils den Nutz-, End- und Primärenergiebedarf
+ein. Ein wesentliches Merkmal der DIN V 18599 ist die Berücksichtigung der gegenseitigen Beeinflussung
+von Energieströmen aus Gebäude- und Anlagentechnik, was eine ganzheitliche Betrachtung ermöglicht.
+Seit dem 01.01.2023 gilt die DIN V 18599 verbindlich für Effizienzhaus-Berechnungen im Rahmen der
+Bundesförderung für effiziente Gebäude (BEG). Ab 2024 ist ihre Anwendung für alle Wohn- und
+Nichtwohngebäude verpflichtend, womit sie die zuvor wahlweise nutzbaren Normen DIN V 4108-6 und DIN
+
+--- PDF SEITE 2 ---
+V 4701-10 vollständig ersetzt. Im Gebäudeenergiegesetz (GEG) werden die Normenversionen der DIN V
+18599 explizit genannt, was deren Bedeutung hervorhebt.
+Die DIN V 18599 berücksichtigt das Zusammenspiel der Gebäudehülle (Wärmeschutz) und der
+Anlagentechnik (Heizung, Lüftung, etc.) in monatlichen oder stündlichen Bilanzzeiträumen. Da sie aus
+insgesamt 13 Teilen und mehreren Beiblättern besteht, ist die Berechnung sehr komplex und wird in der
+Praxis ausschließlich mit spezieller Software durchgeführt. Dies ist für einen offiziellen Nachweis nach GEG
+und DIN letztlich auch vorgesehen.
+BERECHNUNGSSCHRITTE
+Vereinfacht dargestellt erfolgt die Berechnung in folgenden grundlegenden Schritten:
+1. Gebäudegliederung und Zonierung (DIN V 18599-1):
+Gebäudegeometrie und Hüllfläche: Erfassung aller Maße und Orientierungen des Gebäudes.
+Zonierung: Das Gebäude wird in Zonen mit gleichen Nutzungsrandbedingungen (z. B. gleicher
+Innentemperatur oder Betriebszeiten) unterteilt. Dies ist besonders wichtig bei Nichtwohngebäuden (z.
+B. Büros, Lagerhallen, Flure). 
+Bauteile: Detaillierte Erfassung der thermischen Eigenschaften (z. B. U-Werte) von Außenwänden, Dach,
+Boden, Fenstern und Türen.
+2. Nutzenergiebedarf (DIN V 18599-2, -3, -4): Dieser Schritt ermittelt die theoretisch benötigte
+Energiemenge an der Bilanzgrenze des Gebäudes.
+Heizen und Kühlen (DIN V 18599-2): Berechnung der Transmissionswärmeverluste (durch Bauteile) und
+Lüftungswärmeverluste.
+Ermittlung der internen (Personen, Geräte) und solaren (Sonneneinstrahlung durch Fenster)
+Wärmegewinne.
+Bilanzierung, um den Nutzwärmebedarf (Heizen und Warmwasser) oder Nutz-Kältebedarf (zum Kühlen)
+zu bestimmen.
+Lüftung (DIN V 18599-3): Berechnung des Bedarfs für die Luftbehandlung (z. B. Vorerwärmung,
+Befeuchtung).
+Beleuchtung (DIN V 18599-4): Berechnung des Nutzenergiebedarfs für die Beleuchtung, wobei die
+Nutzung von Tageslicht berücksichtigt wird.
+3. Endenergiebedarf der Anlagentechnik (DIN V 18599-5 bis -9): Hier wird der Energiebedarf der
+technischen Anlagen zur Deckung des Nutzenergiebedarfs bestimmt. Dabei werden die Verluste der
+Anlagen berücksichtigt.
+Heizsysteme (DIN V 18599-5): Berücksichtigung von Verlusten durch Erzeugung (Kessel), Verteilung,
+Speicherung und Übergabe der Wärme.
+Lüftungsanlagen (DIN V 18599-6, -7): Ermittlung des Energiebedarfs für Ventilatoren und Pumpen,
+inklusive der Bewertung von Wärmerückgewinnung.
+Warmwasser (DIN V 18599-8): Berechnung des Nutz- und Endenergiebedarfs für die
+Trinkwarmwasserbereitung.
+4. Primärenergiebedarf und Gesamtbilanz (DIN V 18599-1):
+Endenergie: Die Summe der Endenergien für alle Gewerke.
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 3 ---
+Primärenergie: Die Endenergie wird mit den spezifischen Primärenergiefaktoren des verwendeten
+Energieträgers multipliziert, um den Gesamt-Primärenergiebedarf des Gebäudes zu erhalten.
+BERECHNUNGSFAKTOREN
+Bei der Berechnung werden verschiedene Faktoren berücksichtigt, die zu einer möglichst realitätsnahen
+Abbildung des Jahresenergiebedarfs führen sollen:
+Standardisierte Nutzungsprofile: Um eine objektive Vergleichbarkeit zu gewährleisten, werden
+Annahmen zum Nutzerverhalten (z. B. Raumtemperaturen, Lüftungsverhalten, Warmwasserverbrauch)
+und zu den Betriebszeiten getroffen. 
+Klimadaten: Es werden standortspezifische Klimadaten in die Berechnung einbezogen.
+Innere Wärmegewinne: Im Gegensatz zur Heizlastberechnung nach DIN EN 12831: Energetische
+Bewertung von Gebäuden - Verfahren zur Berechnung der Norm-Heizlast werden bei der DIN V 18599
+standardisierte innere Wärmegewinne durch Personen, Geräte und Sonneneinstrahlung explizit
+berücksichtigt. Diese Berücksichtigung trägt wesentlich zu einer realistischeren Jahresbilanz bei.
+Anlagentechnik: Die Effizienz der gesamten technischen Gebäudeausrüstung, einschließlich Heiz-, Kühl-,
+Lüftungs- und Warmwassersystemen, wird detailliert bilanziert.
+Die explizite Einbeziehung innerer Wärmegewinne und die Verwendung standardisierter Nutzungsprofile in
+der DIN V 18599 stellen einen entscheidenden Unterschied zur DIN EN 12831 (Norm-Heizlastberechnung)
+dar. Es handelt sich nicht um zwei alternative Berechnungsmethode, sondern um einen gänzlich anderen
+Ansatz: Während die Heizlast die maximale Leistung im Extremfall angibt, zielt die
+Energiebedarfsberechnung auf eine realistische Jahresenergiebilanz ab. Dies erklärt, warum die DIN V
+18599 besser für Energieausweise und die umfassende Bewertung der Gebäudeenergieeffizienz geeignet
+ist, da sie das Zusammenspiel aller Energieflüsse im Gebäude über das ganze Jahr hinweg abbildet.
+WICHTIGE FORMELN UND PARAMETER
+Heizwärmebedarf (Q):
+Q = (H + H ) ⋅  ( θ - θ ) ⋅  t - η ⋅ Q
+H: Transmissionswärmeverluste
+H: Lüftungswärmeverluste
+θ : Innentemperatur
+θ: Außentemperatur
+t: Zeit
+η : Ausnutzungsgrad der solaren/internen Gewinne
+Q: Solare/Interne Wärmegewinne
+Primärenergiebedarf (Qp):
+Q = ∑ (Q ⋅  f)
+f : Primärenergiefaktor des Energieträgers
+DIN V 18599 IM EINZELNEN
+Die Normenreihe DIN V 18599 besteht aus 13 Teilen, die jeweils spezifische Aspekte der
+Energiebilanzierung detailliert behandeln:
+Teil 1: Allgemeine Bilanzierungsverfahren, Zonierung und Bewertung der Energieträger
+Teil 2: Nutzenergiebedarf für Heizen und Kühlen von Gebäudezonen
+Teil 3: Nutzenergiebedarf für die energetische Luftaufbereitung
+Teil 4: Nutz- und Endenergiebedarf für Beleuchtung
+Teil 5: Endenergiebedarf von Heizsystemen
+Teil 6: Endenergiebedarf von Wohnungslüftungsanlagen und Kühlsystemen für den Wohnungsbau
+Teil 7: Endenergiebedarf von Raumlufttechnik- und Klimakältesystemen für den Nichtwohnungsbau
+-
+-
+-
+-
+-
+h
+h T V int  e s
+T
+V
+int
+e
+s
+p Endenergie  p
+p
+
+--- PDF SEITE 4 ---
+Teil 8: Nutz- und Endenergiebedarf von Warmwasserbereitungsanlagen
+Teil 9: End- und Primärenergiebedarf von stromproduzierenden Anlagen (z. B. KWK, PV)
+Teil 10: Nutzungsrandbedingungen, Klimadaten
+Teil 11: GebäudeautomationTeil 12: Tabellenverfahren für Wohngebäude (als Technische Spezifikation/TS)
+Teil 13: Tabellenverfahren für Nichtwohngebäude (als Technische Spezifikation/TS)
+FACHWISSEN ZUM THEMA
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+EinführungEnergiebilanz
+EinführungEnergieverbrauch und Baustandards
+Verordnungen/ GesetzeEU-Gebäuderichtlinie EPBD 2024
+Verordnungen/ GesetzeGebäudeenergiegesetz GEG
+WärmebedarfHeizlast und Energiebedarf
+PlanungsgrundlagenPlanung der Gebäudetechnik nach GEG
+
+=== DOKUMENT ENDE ===

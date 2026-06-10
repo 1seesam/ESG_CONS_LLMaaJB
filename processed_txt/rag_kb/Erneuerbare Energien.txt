@@ -1,0 +1,132 @@
+=== DOKUMENT START: Erneuerbare Energien.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Erneuerbare Energien
+Seit Beginn der Industrialisierung nimmt der Energiebedarf weltweit immer weiter zu. Ein zuverlässiger
+Energielieferant waren bisher stets fossile Brennstoffe wie Erdöl, Erdgas und Kohle, die zur Produktion von
+Wärme und Strom genutzt wurden und werden. Doch beim Verbrennen dieser Rohstoffe entstehen auch
+umwelt- und klimaschädliche Emissionen, die in die Atmosphäre gelangen und so zur globalen
+Erderwärmung und zum Klimawandel beitragen – und damit ein großes Problem darstellen. Doch es gibt
+heutzutage alternative Methoden der Gewinnung von Wärme und Strom, die zumeist keine Emissionen
+verursachen: die sogenannten erneuerbaren Energien. Ihr Vorteil besteht zudem auch darin, dass sie im
+Gegensatz zu fossilen Brennstoffen in unerschöpflicher Menge zur Verfügung stehen. Zu den erneuerbaren
+bzw. regenerativen Energiequellen gehören etwa Sonne, Wind, Wasser und das Erdreich.
+Bild: Agentur für Erneuerbare Energien (AEE),
+Berlin
+Bild: Michaela Boguhn
+ Bild: Yvonne Kavermann
+Experten auf der ganzen Welt haben längst erkannt, dass ein Wandel in der Energiewirtschaft notwendig ist,
+um den Klimawandel und die Folgen daraus einzudämmen oder gar zu stoppen. So hat etwa das
+sogenannte Klimaschutzgesetz der deutschen Bundesregierung das Ziel der Treibhausgasneutralität bis
+2045. Laut des 2019 vorgestellten Konzept des European Deals will die Europäische Union als erster
+Kontinent bis 2050 klimaneutral sein. Ein wichtiger Hebel bei diesem Vorhaben ist der Bausektor, denn bei
+der Errichtung von Gebäuden sowie deren Betrieb werden große Mengen an Energie benötigt. Fast 40
+Prozent der weltweiten Treibhausgasemissionen werden durch die Baubranche verursacht. Umso wichtiger
+wird es künftig sein, diese Energie möglichst klimaneutral zu produzieren. Dass dies möglich ist, zeigen die
+vielen Technologien, die dafür mittlerweile zur Verfügung stehen.
+GEWINNUNG VON ERNEUERBAREN ENERGIEN
+Energie steckt praktisch in allem. Die Frage ist also lediglich, ob und in welchen Mengen sie für weitere
+Zwecke genutzt werden kann. Die wichtigsten Ausgangsprodukte der heutigen Zeit sind Wärme und Strom.
+Sie können universell und für viele verschiedene Funktionen genutzt werden. Zu den erneuerbaren und
+regenerativen Energien, mit denen Wärme und Strom in ausreichenden Mengen gewonnen werden kann,
+zählen:
+
+--- PDF SEITE 2 ---
+SONNE
+Die in den Sonnenstrahlen vorhandene Energie kann mittels zweier grundsätzlicher Methoden gewonnen
+werden:
+Photovoltaikmodule (Solarzellen) wandeln die Sonnenenergie in Strom um, der anschließend im
+Gebäude vielfältig genutzt werden kann. Auch Wärmepumpen können mit dem Strom aus einer
+Photovoltaikanlage betrieben werden. Überschüssiger Strom kann in Akkus bzw. Batterien gespeichert
+oder ins öffentliche Stromnetz eingespeist werden.
+Solarthermieanlagen nutzen die in den Sonnenstrahlen vorhandene Wärmeenergie, mit der in
+entsprechenden Modulen Wärme gewonnen wird. Diese lässt sich für die Warmwasserbereitung oder
+zur Heizungsunterstützung nutzen. Die Speicherung der Wärme ist einfach und erfolgt in sogenannten
+Pufferspeichern, im Grunde große Behälter, in denen sich Wasser als Speichermedium befindet.
+In PVT-Kollektoren sind beide Technologien miteinander kombiniert. Dadurch benötigt man weniger
+Fläche und erreicht so eine höhere Gesamteffizienz im Vergleich zu separaten Anlagen.
+Luft
+Auch in der Luft befindet sich Wärmeenergie, solange sie wärmer als der absolute Nullpunkt (0 Kelvin oder
+-273,15 °C) ist. Diese Wärme nutzen etwa Luft/Wasser- oder Luft/Luft-Wärmepumpen, wobei in der
+Außeneinheit das Trägermedium verdampft wird. Moderne Wärmepumpen liefern Wärme für Heizung und
+Warmwasser bis zu einer (Außen-)Lufttemperatur von rund -20 °C.
+WIND
+Ein effektives Mittel zur Gewinnung von Energie sind Windkraftanlagen (Windturbinen), meist große, einzeln
+aufgestellte Windräder. Sie wandeln die Kraft des Winds in eine Drehbewegung um, die dann einen
+Generator zur Stromerzeugung antreibt.
+WASSER
+Eine bewährte und Jahrhunderte alte Methode zur Gewinnung großer Mengen Energie ist die Wasserkraft.
+In Wasserkraftwerken wird die Kraft des fließenden, von der Erdanziehungskraft stets nach unten
+strömenden Wassers genutzt, um Wasserturbinen anzutreiben. Diese Turbinen treiben dann einen
+Generator an, der wiederum Strom erzeugt. Wasserkraft kann aus Flüssen oder Stauseen gewonnen
+werden. Auch zur Speicherung von Energie eignet sich die Wasserkraft, indem überschüssige Energie
+genutzt wird, um Wasser in einen höhergelegenen See zu pumpen, von wo aus es wieder zum Antrieb eines
+Generators eingesetzt werden kann. Einige Konzepte arbeiten auch mit den Gezeiten oder den Wellen, in
+denen ebenfalls regenerative Energie steckt.
+GEOTHERMIE
+Eine im Grunde unerschöpfliche Wärmequelle ist die Erde. Ab einer Tiefe von einem Meter bleibt hier die
+Temperatur in der Regel konstant über dem Frostpunkt. Sie kann deshalb gut genutzt werden, besonders in
+Verbindung mit Wärmepumpen:
+Sole/Wasser-Wärmepumpen gewinnen die Umweltenergie über Erdwärmesonden (Tiefenbohrung) oder
+über Erdwärmekollektoren (Flächenkollektoren). Der Vorteil gegenüber der Luft ist, dass die gewonnene
+Umweltwärme immer im frostfreien Bereich, je nach System auch deutlich darüber liegt und die
+Wärmepumpe deshalb effizienter arbeiten kann.
+Wasser/Wasser-Wärmepumpen (Grundwasserbrunnen) nutzen indirekt auch die Energie, die in der Erde
+steckt, jedoch gewinnen sie sie aus dem Grundwasser. Es wird zu diesem Zweck an einer Stelle
+hinaufgepumpt und nach dem Entzug der Wärmeenergie an einer anderen Stelle wieder in den Boden
+geleitet.
+-
+-
+-
+-
+-
+
+--- PDF SEITE 3 ---
+Beide Systeme können auch zur Gebäudekühlung genutzt werden.
+Biomasse
+Unter Biomasse versteht man alle biologischen Abfälle, die (durch Verbrennung) zur Wärmeproduktion
+verwendet werden können, etwa Holzpellets, Hackschnitzel, Scheitholz oder Pflanzenöl. Diese Rohstoffe
+haben während ihres Wachstums Kohlenstoffdioxid aus der Luft gebunden und geben genau dieselbe
+Menge beim Verbrennungsvorgang wieder an die Atmosphäre ab. Genau hier liegt auch der Nachteil von
+Biomasse: In der Regel wurde das Kohlendioxid über einen langen Zeitraum zum Wachstum genutzt und
+wird beim Verbrennen innerhalb kürzester Zeit wieder freigesetzt. Die dabei entstehenden Emissionen sind
+dann wieder umwelt- und klimaschädlich.
+BIOGAS
+Biogas ist ein brennbares Gas, das durch die Vergärung verschiedener Arten von Biomasse entsteht. In
+Biogasanlagen wird es sowohl aus Abfällen (Pflanzenresten, Lebensmittelabfällen oder tierischen
+Exkrementen) als auch nachwachsenden Rohstoffen gewonnen. Die Produktion von Biogas aus eigens
+angebauten Pflanzen wie dem „Energiemais“ ist allerdings kritisch zu sehen. Biogas besteht hauptsächlich
+aus Methan (50 bis 70 Prozent) und Kohlendioxid (30 bis 50 Prozent) und kann zur Energiegewinnung in
+Form von Wärme, Strom oder als Kraftstoff genutzt werden. Der Methananteil von Erdgas beträgt 70 bis 90
+Prozent, weshalb es energiedichter ist. Das bedeutet aus der gleichen Menge Erdgas kann mehr Energie
+gewonnen werden.
+SPEICHERUNG VON ERNEUERBAREN ENERGIEN
+Während erneuerbare Energien wie Biomasse, Geothermie, Wasser und Luft immer zur Verfügung stehen,
+sind Sonne und Wind volatil. Deshalb ist es wichtig, die daraus gewonnene Energie speichern zu können.
+Die Speicherung von Wärmeenergie ist heute längst kein Problem mehr. Auch Strom kann in Batterien gut
+gespeichert werden. Die Batterieforschung macht außerdem große Fortschritte, nicht zuletzt auch wegen
+des Bedarfs in der E-Mobilität. Ebenso stehen Strom- und Wärmenetzwerke zur Weiterleitung
+überschüssiger Energien zur Verfügung. Eine weitere Möglichkeit ist die Umwandlung von Strom oder
+Wärme in einen anderen, sektorenübergreifend nutzbaren Energieträger, etwa Wasserstoff (Power-to-X-
+Technologie). Die Annahme, dass erneuerbare Energien wegen Speicherproblemen nur zur
+Grundlastabdeckung eingesetzt werden können, gilt heute jedenfalls als überholt.
+FACHWISSEN ZUM THEMA
+-
+Erneuerbare EnergienErneuerbare Energien in der Gebäudetechnik
+Brennstoffe/ EnergieträgerBiomasse
+Brennstoffe/ EnergieträgerHolz – Stückholz, Hackschnitzel, Pellets
+
+--- PDF SEITE 4 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+Erneuerbare EnergienPower-to-X-Technologien
+SpeicherPufferspeicher
+Wärmepumpen und SolarenergiePVT-Kollektoren
+Wärmepumpen und SolarenergieSolarthermie
+Wärmepumpen und SolarenergieWärmepumpen: Wärmequellen und Arten
+
+=== DOKUMENT ENDE ===

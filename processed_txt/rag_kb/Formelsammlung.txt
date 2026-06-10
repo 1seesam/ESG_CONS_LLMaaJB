@@ -1,0 +1,12 @@
+=== DOKUMENT START: Formelsammlung.pdf ===
+
+--- PDF SEITE 1 ---
+Formelsammlung: 
+Anleitung zur Berechnung der Energie- und CO2-Intensität:  
+Energieintensität: = Energieverbrauch [kWh oder MWh] / Gebäudefläche [m²]  
+Emissionsintensität = Emissionen [kg oder tonnen] / Gebäudefläche [m²] 
+ 
+Abschätzung der Heizlast 
+Heizlast [kW] = Jahreswärmeverbrauch [kWh] / 1800 [h] Volllaststunden
+
+=== DOKUMENT ENDE ===

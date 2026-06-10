@@ -1,0 +1,98 @@
+=== DOKUMENT START: Erneuerbare-Energien-Gesetz (EEG).pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Gebäudetechnik
+Erneuerbare-Energien-Gesetz(EEG)
+Das Erneuerbare-Energien-Gesetz (EEG) wurde im Jahr 2000 von der Bundesregierung mit dem Ziel
+verabschiedet, den Anteil erneuerbarer Energien an der Stromversorgung in Deutschland deutlich zu
+erhöhen und so den Ausstoß klimaschädlicher Treibhausgasemissionen zu senken.
+Bild: Baunetz (kt), Berlin
+ Bild: Baunetz (yk), Berlin
+ Bild: Baunetz (kt), Berlin
+Geplanter Anteil erneuerbarer Energien an der Stromproduktion:
+Jahr 2020: 35 Prozent
+Jahr 2025: zwischen 40 und 45 Prozent
+Jahr 2030: mindestens 50 Prozent
+Jahr 2035: zwischen 55 und 60 Prozent
+Jahr 2040: mindestens 65 Prozent
+Jahr 2050: mindestens 80 Prozent.
+Um diese Ziele zu erreichen, erhält Strom aus erneuerbaren Quellen bei der Einspeisung ins Netz Vorrang
+gegenüber Strom, der mit fossilen Brennstoffen wie Steinkohle, Braunkohle oder Erdgas produziert wurde.
+Vergütung
+Die Netzbetreiber sind verpflichtet, Anlagen, die Strom aus Wind, Sonne oder Biomasse erzeugen, ans Netz
+anzuschließen, den erzeugten Strom vorrangig abzunehmen und entsprechend zu vergüten. Die
+Anlagenbetreiber erhalten für einen festen Zeitraum von 20 Jahren nach der Inbetriebnahme eine
+garantierte Einspeisevergütung für jede eingespeiste Kilowattstunde beziehungsweise eine Marktprämie.
+EEG-Umlage und Ausgleichsregelung
+Die an die Anlagenbetreiber gezahlten Vergütungen sind höher als die Erlöse, die die Netzbetreiber mit dem
+Verkauf des erzeugten EEG-Stroms auf dem Markt erzielen. Die Differenz wird mithilfe der EEG-Umlage
+ausgeglichen. Sie wird von den Stromkunden über den Strompreis bezahlt. Die EEG-Umlage ist nicht für alle
+Verbraucher gleich hoch. Für stromintensive Unternehmen, die im internationalen Wettbewerb mit anderen
+Firmen stehen, gilt die „Besondere Ausgleichsregelung“. Sie zahlen nur eine reduzierte EEG-Umlage. Der
+durch die Befreiung fehlende Anteil wird von den Privathaushalten und den nicht privilegierten
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 2 ---
+Unternehmen mitbezahlt.
+EEG-Novellen
+Seit das EEG in Kraft getreten ist, wurde es mehrmals überarbeitet und die Höhe der Vergütung für die
+Einspeisung von EEG-Strom an die jeweilige Marktentwicklung angepasst. Novelliert wurde das EEG in den
+Jahren 2004, 2009, 2012, 2014 und zuletzt 2017.
+EEG-Novelle 2014
+Bereits ab 2009 führte der starke Anstieg von erneuerbar produziertem Strom zu fallenden
+Börsenstrompreisen. Zugleich wuchs die Zahl der von der EEG-Umlage befreiten Industriebetriebe. Beides
+ließ die EEG-Umlage massiv ansteigen – von 1,12 Cent/Kilowattstunde im Jahr 2008 auf 6,24
+Cent/Kilowattstunde in 2014. Zudem stellte der wachsende Anteil von Strom aus fluktuierenden
+Energiequellen wie Wind und Sonne die Stromnetze in puncto Stabilität und Versorgungssicherheit
+zunehmend vor Herausforderungen.
+Um die EEG-Umlage zu stabilisieren und den Zubau von Erneuerbare-Energien-Anlagen besser zu steuern,
+wurde das EEG im Jahr 2014 grundlegend reformiert. Für Solarenergie, Windenergie und Biomasse wurden
+konkrete Mengenziele – sogenannte Ausbaukorridore – für den jährlichen Zubau festgelegt. Die Steuerung
+erfolgt über einen „atmenden Deckel“: Werden mehr Anlagen in Betrieb genommen als nach dem
+Ausbaukorridor vorgesehen, sinken automatisch die Fördersätze für die weiteren Anlagen.
+Betreiber von größeren Neuanlagen zur Stromproduktion sind verpflichtet, den erzeugten Strom direkt zu
+vermarkten. Dies gilt ab 1. Januar 2016 für alle Neuanlagen ab einer Leistung von 100 Kilowatt. Eine
+staatlich festgelegte Einspeisevergütung gibt es für diese Anlagen nicht mehr, dafür aber eine Marktprämie
+zusätzlich zum erzielten Erlös im Rahmen der Direktvermarktung.
+Für Anlagen zur Eigenstromerzeugung, die neu errichtet werden, muss erstmals die EEG-Umlage bezahlt
+werden. Ausgenommen sind Kleinanlagen mit einer Leistung von maximal zehn Kilowatt bei einem
+jährlichen Eigenstromverbrauch unter zehn Megawattstunden. Das betrifft zum Beispiel private
+Stromerzeuger mit Photovoltaik-Anlagen auf dem Hausdach. Eigenverbraucher von Strom aus
+Photovoltaik-Anlagen, deren installierte Leistung zehn Kilowatt übersteigt, bezahlen ab 2017 40 Prozent der
+EEG-Umlage.
+EEG-Novelle 2017
+Das EEG 2017 brachte einen Paradigmenwechsel: Seit 2017 wird die Höhe der Vergütung, die Erzeuger von
+erneuerbarem Strom erhalten, nicht mehr staatlich festgelegt, sondern durch Ausschreibungen am Markt
+ermittelt. Den Zuschlag bekommt, wer die geringste Vergütung verlangt.
+Bei der Photovoltaik gilt dies erst für größere Anlagen ab einer installierten Leistung von 750 Kilowatt.
+Photovoltaik-Anlagen mit geringerer Leistung, wie sie zum Beispiel bei Ein- und Mehrfamilienhäusern
+installiert sind, haben je nach Technologie und Größe der Anlage weiterhin einen gesetzlich festgelegten
+Förderanspruch für den eingespeisten Strom. Betreiber von Anlagen über 100 Kilowatt Leistung müssen
+wie bereits im EEG 2014 vorgesehen, den Strom direkt vermarkten und erhalten zusätzlich eine
+Marktprämie. Anlagen mit einer installierten Leistung bis 100 Kilowatt erhalten nach wie vor eine feste
+Einspeisevergütung. Auch die Regeln des EEG 2014 zur EEG-Umlage bei der Eigenstromerzeugung gelten
+weiter.
+Als weitere Neuerung verknüpft das EEG 2017 die Stromerzeugung stärker mit dem Ausbau der
+Stromnetze. Beispielsweise wird in Gebieten mit Netzengpässen der Ausbau der Windkraft an Land
+beschränkt.
+FACHWISSEN ZUM THEMA
+
+--- PDF SEITE 3 ---
+SURFTIPPS
+http://www.erneuerbare-energien.de/EE/Navigation/DE/Recht-Politik/Das_EEG/das_eeg.html
+http://www.bmwi.de/Redaktion/DE/Artikel/Energie/eeg-2017-start-in-die-naechste-phase-der-
+energiewende.html
+http://www.clearingstelle-eeg-kwkg.de/eeg2017
+Erneuerbare EnergienErneuerbare Energien in der Gebäudetechnik
+Erneuerbare EnergienPhotovoltaik
+→
+→
+→
+
+=== DOKUMENT ENDE ===

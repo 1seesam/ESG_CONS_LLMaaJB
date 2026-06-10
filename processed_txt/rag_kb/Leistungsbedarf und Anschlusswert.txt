@@ -1,0 +1,53 @@
+=== DOKUMENT START: Leistungsbedarf und Anschlusswert.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Elektro
+Leistungsbedarf undAnschlusswert
+Unter dem Anschlusswert versteht man die Addition aller Leistungen (in kW) der anzuschließenden
+Elektrogeräte und -anlagen. Der Leistungsbedarf einer Verbraucheranlage, z.B. einer Wohnung, ist die
+Summe der gleichzeitig in Anspruch genommenen elektrischen Leistung. Um die Elektroinstallation planen
+zu können, muss die elektrische Leistung aller in der Wohnung vorhandenen Geräte und Installationen
+bekannt sein. Die Anzahl der Räume einer Wohnung ist kein geeigneter Maßstab.
+Der Leistungsbedarf wird ermittelt aus der Summe der installierten Leistung, der Anschlusswerte und
+einem Gleichzeitigkeitsfaktor (g = 0 ...1), der berücksichtigt, dass im Allgemeinen zu keinem Zeitpunkt alle
+Verbrauchmittel gleichzeitig eingeschaltet sind. Beim Festlegen des Leistungsbedarfs ist ferner zu
+berücksichtigen, dass in den Haushalten jährlich weitere Elektrogeräte angeschafft werden.
+Der Leistungsbedarf wird vom Elektroinstallateur in die Anschluss-Anmeldung an das
+Niederspannungsnetz beim zuständigen Elektrizitätsversorgungsunternehmen eingetragen. Auf Grund des
+vergleichsweise hohen Leistungsbedarfs werden die Anschlusswerte für Elektroheizung und elektrische
+Warmwasserbereitung, die ohnehin meist mit gesonderten Leitungen versorgt werden, gesondert
+eingetragen.
+Beispiel für den Leistungsbedarf einer durchschnittlichen Wohnung mit vier Personen:
+Lebensmittelzubereitung 22 kW
+Geschirrspülen 3 kW
+Körperpflege 2 kW
+Wäschepflege 12 kW
+Individualbereiche 3 kW
+Gemeinschaftsbereiche 3 kW
+SUMME: 45 kW
+Der Leistungsbedarf von Wohnungen in Mehrfamilienhäusern ist in Abhängigkeit von der Zahl der
+Wohnungen in DIN 18015 Elektrische Anlagen in Wohngebäuden festgelegt.
+FACHWISSEN ZUM THEMA
+-
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 2 ---
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Elektro sponsored by:
+Jung | Kontakt 02355 / 806-0 | mail.info@jung.de
+Elektroinstallation in Gebäuden
+Elektroinstallation in Großbauten
+Gebäudesystemtechnik
+Funk-Bussysteme
+Grundinstallationen
+Hauptstromversorgungssystem
+Grundinstallationen
+Niederspannungsnetz: Anschluss und Anmeldung
+
+=== DOKUMENT ENDE ===

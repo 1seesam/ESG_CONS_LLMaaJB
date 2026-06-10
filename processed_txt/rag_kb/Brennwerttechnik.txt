@@ -1,0 +1,51 @@
+=== DOKUMENT START: Brennwerttechnik.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Brennwerttechnik
+UMWELTFREUNDLICHE HEIZTECHNIK VON HEUTE
+Während in den 80er Jahren die Deutschen vorwiegend mit Niedertemperaturkesseln (NT-Kesseln) heizten,
+nutzten die Holländer schon eine effizientere Heiztechnik – die Brennwerttechnik. Diese Weiterentwicklung
+des Niedertemperatur-Kessels weist eine noch geringere Schadstoffemission und eine bessere
+Energieausbeute (um 10-15%) auf. Das wird durch die zusätzliche Nutzung der Abgaswärme des Kessels
+für den Heizwasserkreislauf erreicht. Voraussetzung dafür sind niedrige Temperaturen im
+Heizungsrücklauf. Eine Brennwertheizung arbeitet deshalb mit großen Heizflächen insbesondere mit
+Fußboden- oder Wandheizungen am effektivsten. Mit dem Siegeszug der Brennwerttechnik Mitte der 80er
+Jahren ging deshalb der vermehrte Einbau von Fußbodenheizungen einher.
+Bild: Buderus, Wetzlar
+1983 geht der erste Gasbrennwert-Gussheizkessel von Buderus in Serie. Durchgesetzt hat sich die Gas-
+Brennwerttechnik dann Anfang der 90er Jahre. 1989 führt Junkers, heute Mitglied der BBT Thermotechnik
+GmbH wie Buderus, als erster Anbieter in Deutschland eine wandhängende Gas-Brennwert-Kesseltherme
+ein. Thermen besitzen einen geringen Wasserinhalt als Heizkessel und erwärmen das Heizungswasser im
+Durchlaufverfahren. Die kleinen Brennwert-Umlaufwasserheizer sind bis heute die Spitzenreiter beim
+Verkauf von Brennwerttechnik.
+Weil die Gebäude durch die fortgeschriebenen Energiespargesetze gut wärmegedämmt sind, schaffen
+Thermen mit geringerer Heizleistung als die Kesselvorgänger die Häuser zu beheizen oder im Kombisystem
+das Warmwasser aufzubereiten. Die neuen Brennwertgeräte können nicht nur im Keller sondern auch im
+Wohnraum aufgestellt werden und brauchen keinen gemauerten Schonstein mehr. Eine einfache
+Abgasleitung aus PP-Rohr genügt, um die Abgase abzuleiten.
+Buderus brachte 1992 ein wandhängendes Gas-Brennwertgerät auf den Markt. (Das war möglich, weil das
+Unternehmen ein Jahr zuvor den holländischen Marktführer Nefit erworben hatte.) Ende der Neunziger
+steigen fast alle deutschen Heizkesselproduzenten in den Markt für wandhängende Brennwertthermen ein.
+Oft werden die Thermen im Ausland gefertigt, um beim Preiskampf mitzuhalten. Für den Heizungskunden
+
+--- PDF SEITE 2 ---
+ist die Brennwerttechnik nicht nur umweltfreundlicher als herkömmliche Heiztechnik, auch der geringere
+Anschaffungspreis ist ein ausschlaggebendes Kaufargument.
+1993 wurden 44.000 Erdgas-Brennwertgeräte in Deutschland verkauft, 2004 waren es 350.000. Neben der
+Gas-Brennwerttechnik werden heute vermehrt Öl-Brennwertgeräte angeboten. Heute wird Brennwerttechnik
+oft mit Solarwärmeanlagen kombiniert.
+FACHWISSEN ZUM THEMA
+SURFTIPPS
+http://www.baunetzwissen.de/index/Solar-Foerdermittel_37043.html
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+HeizkesselBrennwertkessel
+Entwicklung der HeizungDampfheizung
+Entwicklung der HeizungNiedertemperaturheizung
+→
+
+=== DOKUMENT ENDE ===

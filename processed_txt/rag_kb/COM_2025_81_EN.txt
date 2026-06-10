@@ -1,0 +1,2340 @@
+=== DOKUMENT START: COM_2025_81_EN.pdf ===
+
+--- PDF SEITE 1 ---
+EN   EN 
+ 
+ 
+ 
+EUROPEAN 
+COMMISSION  
+Brussels, 26.2.2025  
+COM(2025) 81 final 
+2025/0045 (COD) 
+ 
+Proposal for a 
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+amending Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 2024/1760 as 
+regards certain corporate sustainability reporting and due diligence requirements 
+(Text with EEA relevance) 
+{SWD(2025) 80}
+
+--- PDF SEITE 2 ---
+EN 1  EN 
+EXPLANATORY MEMORANDUM 
+1. CONTEXT OF THE PROPOSAL 
+• Reasons for and objectives of the proposal 
+General context and objectives 
+In his report on ‘The Future of European Competitiveness’, Mario Draghi emphasised the 
+need for Europe to create a regulatory landscape which facilitates competitiveness and 
+resilience, drawing attention to burden and compliance costs created by the C orporate 
+Sustainability Reporting Directive (CSRD) and the C orporate Sustainability Due Diligence 
+Directive (CSDDD).1 In the Budapest Declaration on the New European Competitiveness 
+Deal, EU Heads of State and Government called for ‘a simplification revolution, ensuring a 
+clear, simple and smart regu latory framework for businesses and drastically reducing 
+administrative, regulatory and reporting burdens, in particular for SMEs’. 2 They called on the 
+Commission to make concrete proposals to reduce reporting requirements by at least 25 % in 
+the first half of 2025.  
+In its Communication on the Competitive Compass for the EU, the Commission confirmed 
+that it would propose a first ‘Simplification Omnibus package’ which would include far -
+reaching simplification in the fields of sustainable finance reporting,  sustainability due 
+diligence and taxonomy. 3 In its Communication entitled ‘A simpler and faster Europe: 
+Communication on implementation and simplification’, the Commission set out an 
+implementation and simplification agenda that delivers fast and visible  improvements for 
+people and business on the ground, requiring more than an incremental approach and 
+underlining the need for bold action to streamline and simplify EU, national and regional 
+rules.4 
+The CSRD entered into force  on 5 January 2023.5 It strengthened and modernised corporate 
+sustainability reporting requirements through modifications to the Accounting Directive, the 
+Transparency Directive, the Audit Directive and the Audit Regulation. 6 The CSRD is an 
+important element of the European Green Deal and of the Sustainable Finance Action Plan.7 It 
+aims to ensure that investors have  the information they need to understand and manage the 
+risks to which investee companies are exposed from climate change and other sustainability 
+issues. It also aims to ensure that investors and other stakeholders have the information they 
+ 
+1 “The future of European competitiveness”, September 2024.  
+2 Budapest Declaration on the New European Competitiveness Deal, 8 November 2024 . 
+3 Communication from the  Commission to the European Parliament, the European council, the Council, 
+the European Economic and Social Committee and the Committee of the Regions, COM (2025) 30 final: A 
+Competitiveness Compass for the EU. 
+4 Communication from the Commission to the European Parliament, the Council, the European 
+Economic and Social Committee and the Committee of the Regions, COM (2025) 47 final: A simpler and faster 
+Europe: Communication on implementation and simplification. 
+5 Directive (EU) 2022/2464 of the European Parliament and of the  Council of 14 December 2022 
+(Corporate Sustainability Reporting Directive). 
+6 Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 (Accounting 
+Directive). Directive 2004/109/EC of the European Parliament and of the Council of  15 December 2004 
+(Transparency Directive). Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 
+(Audit Directive). Regulation (EU) No 537/2014 of the European Parliament and of the Council of 16 April 
+2014 (Audit Regulation). 
+7 Communication from the Commission, ‘The European Green Deal , COM(2019) 640 final. 
+Communication from the Commission ‘Action Plan: Financing Sustainable Growth’, COM/2018/097 final.
+
+--- PDF SEITE 3 ---
+EN 2  EN 
+need about the impacts of companies on people and the environment. It thereby contributes to 
+financial stability and environmental integrity.  This is a necessary condition for financial 
+resources to flow to companies that pursue sustainability goals and creates more 
+accountability and transparency towards all stakeholders regarding companies’ sustainability 
+performance.  
+The CSDDD entered into force on 25 July  20248. It aims to ensure that  companies operating 
+in the EU single market contribute to attaining the European Union’s broader ambition to 
+transition towards a sustainable and climate -neutral economy  putting in place adequate 
+governance and management systems and taking appropriate measures to identify and address 
+adverse human rights and environmental impacts in their own operations, as well as in the 
+operations of their subsidiaries and their global value chains. In addition, it aims to ensure that 
+companies adopt and put into effect a transition plan for climate change mitigation.  
+The CSRD and the CSDDD are now being implemented in a new and difficult context. 
+Russia’s war of aggression against  Ukraine has driven up energy prices for EU undertakings. 
+Trade tensions are rising as the geopolitical landscape continues to shift.  The different 
+approach undertaken by  some other major jurisdictions regarding the regulation of corporate 
+sustainability reporting and due diligence  raises questions about the effects of these laws on 
+the competitive positioning of EU companies. The ability of the Union to preserve and protect 
+its values depends amongst other things on the capacity of its economy to adapt and compete 
+in an unstable and sometimes hostile geopolitical context. 
+This proposal therefore contains provisions to simplify and streamline the regulatory 
+framework with a view to reduce the burden on undertakings resulting from the CSRD and 
+the CSDDD without undermining the policy objectives of either p iece of legislation and to 
+ensure more cost -effective delivery of the overall ambition of the European Green Deal  
+related to the green and just transition.  
+The proposal include s several important simplifications and flexibilities, which may 
+encourage undertakings to voluntarily apply sustainability and taxonomy reporting at a bigger 
+scale. Companies with strong sustainab ility profiles could benefit from this as differentiator, 
+potentially gaining an edge in attracting investments into their businesses. Companies in 
+transition can benefit from voluntary reporting since these undertakings can decide how to 
+communicate their transition strategies without the pressure of mandatory dis closures, while 
+also attracting investments. 
+In parallel to this proposal , the Commission is submitting a separate legislative proposal to 
+postpone the entry into application of the CSDDD and of certain provisions of the CSRD.   
+Specific context and objectives of this proposal regarding the CSRD 
+The CSRD is currently scheduled to apply to large undertakings, SMEs with securities listed 
+on the EU regulated markets, parent undertakings of large groups, as well as to issuers that 
+belong to these categori es of undertakings. The entry into application of the reporting 
+requirements introduced by the CSRD is phased in according to different categories of 
+undertakings. In the first wave, large public interest entities with more than 500 employees 
+ 
+8 Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 (Corporate 
+Sustainability Due Diligence Directive).
+
+--- PDF SEITE 4 ---
+EN 3  EN 
+must report for the first time in 2025 for financial year 2024. 9 In the second wave, other large 
+undertakings must  report in 2026 for financial year 2025. 10 In the third wave, SMEs with 
+securities listed in EU regulated markets must report in 2027 for financial year 2026, although 
+they have a possibility to opt out of reporting for financial years 2026 and 2027. 11 In the 
+fourth wave, certain non -EU undertakings that have business in the territory of the Union 
+above certain thresholds must report in 2029 for financial year 2028.12  
+The CSRD requires undertakings in scope to report sustainability information according to 
+mandatory European Sustainability Reporting Standards (ESRS) and requires the Commission 
+to adopt such standards through delegated acts. In July 2023 t he Commission adopted a first 
+set of ESRS which are sector-agnostic, meaning they are to be applied by all  undertakings in 
+scope independently of the sector of the economy in which the undertaking operates .13 The 
+CSRD also requires the Commission to adopt sector-specific reporting standards, with a first 
+set of such standards to be adopted by June 2026 . The CSRD allows listed SMEs to report 
+using a separate and lighter, proportionate set of standards instead of the full set of ESRS.  
+At the request of the Commission, EFRAG has submitted a sustainability reporting standard 
+for voluntary use by SMEs that are not in scope of the reporting requirements  (VSME 
+standard).14 The objective of the VSME standard is to provide SMEs with a simple, widely 
+recognised tool through which they can provide sustainability information to banks, large 
+companies and other stakeholders that may demand such information. 
+Other important aspects of the CSRD are the provisions on assurance and on reporting value-
+chain information. Undertakings must publish their sustainability information together with 
+the opinion of a  statutory auditor or, if the Member States allows, an independent assurance 
+service provider. The current requirement is for limited assurance and the CSRD provides that 
+this could in the future bec ome a requirement for reasonable assurance under certain 
+conditions.15 The CSRD also requires the Commission to a dopt standards for  sustainability 
+assurance by means of delegated acts.  
+ 
+9 As well as public -interest entities that are parent undertakings of a large group with more than 500 
+employees, for consolidated sustainability reporting.  “Public-Interest Entities” are defined by Article 2 point (1) 
+of the Accounting Directive as undertakings that are: (a) governed by the law of a Member State and whose 
+transferable securities are admitted to trading on an EU regulated market ; (b) credit institutions ; (c) insurance 
+undertakings; or (d) designated by Member States as public-interest entities. “Large undertakings” are defined by 
+Article 3(4) of the Accounting Directive as undertakings which on their bala nce sheet dates exceed at least two 
+of the three following criteria: (a) balance sheet total: EUR 25 000 000; (b) net turnover: EUR 50 000 000; (c) 
+average number of employees during the financial year: 250. 
+10 As well as the other parent undertakings of large groups, for consolidated sustainability reporting. 
+11 Small and non-complex credit institutions, and captive insurance and reinsurance undertakings,  are also 
+part of the third wave, although they may only use the additional two-year opt-out if they are listed SMEs.  
+12 According to article 40a of the Accounting Directive, as amended by the CSRD, an undertaking  not 
+established in the EU must report sustainability information at the group level  if it a) generates over EUR 150 
+million in the Union  and b) has either a subsidiary in the EU that is subject to the sustainability reporting 
+requirements introduced by the CSRD or has an EU branch that generate d over EUR 40 million. In this case, the 
+legal obligation to publish the report falls on the EU subsidiary or branch.    
+13 Commission Delegated Regulation (EU) 2023/2772 of 31 July 2023 supplementing Directive 
+2013/34/EU of the European Parliament and of the Council as regards sustainability reporting standards.  
+14 EFRAG was previously called the European Financial Reporting Advisory Group but its official name 
+is now just EFRAG. It is an independent private multistakeholder body, majority funded by the EU.  
+15 The amount of work for a limited assurance engagement is significantly less than for a rea sonable 
+assurance engagement. The conclusion of a limited assurance engagement is usually provided in a negative form 
+of expression by stating that no matter has been identified by the assurance provider to conclude that the subject
+
+--- PDF SEITE 5 ---
+EN 4  EN 
+The CSRD requires undertakings to report value-chain information to the extent necessary for 
+understanding their sustainability -related impacts, risks and opportunities. The CSRD 
+establishes a so -called value -chain cap, which states that ESRS may not contain reporting 
+requirements that would require undertakings to  obtain from SMEs in their value chain 
+information that exceeds the information to be disclosed under the proportionate standard for 
+listed SMEs.  
+This proposal aims to reduce the reporting burden and to limit the trickle down of obligations 
+on smaller companies . Firstly, this current proposal aims to  simplify the framework and 
+reduce burden in the following ways: 
+– The number of undertakings subject to mandatory sustainability reporting 
+requirements would be reduced by about 80%, taking out of scope large undertakings 
+with up to 1000 employees (i.e. some of the undertakings from the second wave and 
+some of the undert akings from the first wave ) and listed SMEs (i.e. all undertakings 
+in the third wave) . The reporting requirements would only apply to large 
+undertakings with more than 1000 employees (i.e . undertakings that have more than 
+1000 employees and either a turnov er above EUR 50 million or a balance sheet 
+above EUR 25 million). This revised threshold would align the CSRD more closely 
+with the CSDDD.16 
+– For undertakings not subject to mandatory sustainability reporting requirements, the 
+Commission proposes a proportionate standard for voluntary use  which would be 
+based on the VSME standard developed by EFRAG.  According to this proposal, the 
+Commission would adopt this voluntary standard as a delegated act. In the meantime, 
+to address market demand, the Commiss ion intends to issue a recommendation on 
+voluntary sustainability reporting as soon as possible, based on the VSME standard 
+developed by EFRAG.  
+– The value-chain cap would be extended and strengthened. It would apply directly to 
+the reporting company instead of being only a limit on what ESRS can specify. It 
+would protect all undertakings with up to 1000 employees rather than just SMEs as is 
+currently the case. And the limit would be defined by the voluntary standard adopted 
+by the Commission as a delegated act , based on the VSME standard developed by 
+EFRAG. This will substantially reduce the trickle-down effect.  
+– There would be no sector-specific reporting standards, so avoiding an increase in the 
+number of prescribed datapoints that undertakings should report.   
+– The possibility of moving from a requirement for limited assurance to a requirement 
+for reasonable assurance would be removed. This will provide clarity that there will 
+be no future increase in costs of assurance for undertakings in scope.   
+ 
+matter is materially mi sstated. The conclusion of a reasonable assurance engagement is usually provided in a 
+positive form of expression and results in providing an opinion on the measurement of the subject matter against 
+previously defined criteria. 
+16 In addition and for reason s of consistency, in Article 40a of the Accounting Directive , the net turnover 
+threshold for an undertaking not established in the EU to be subject to the reporting requirements a t the group 
+level would be raised from EUR 150 million generated in the Union  to EUR 450 million. Furthermore, for 
+reasons of consistency, the threshold for the EU branch under article 40a is raised from EUR 40 million to EUR 
+50 million and the threshold for the EU subsidiary is limited to large undertakings as define d in the Accounting 
+Directive. The key thresholds of the CSDDD are 1000 employees and EUR 450 million turnover.
+
+--- PDF SEITE 6 ---
+EN 5  EN 
+– Instead of an obligation for the Commission to adopt standards for sustainability 
+assurance by 2026, the Commission will issue targeted assurance guidelines by 2026. 
+This will allow the Commission to address emerging issues more quickly in the field 
+of sustainability assurance that may be generating unnecessary burden on 
+undertakings that are subject to the reporting requirements.   
+– The proposal introduces an “opt-in” regime where large undertakings with more than 
+1000 employees and with a net turnover not exceeding EUR 450 million which claim 
+that their activities are aligned or partially aligned with the EU Taxonomy shall 
+disclose their turnover and CapEx KPIs and may choose to disclose their OpEx KPI. 
+This “opt -in” approach will eliminate entirely the cost of compliance with the 
+Taxonomy reporting rules for large undertakings with more than 1000 employees 
+and with a net turnover not exceeding EUR 450 million which do not claim that their 
+activities are associated with economic activities that qualify as environmentally 
+sustainable under the Taxonomy Regulation. In addition, this proposal provides more 
+flexibility by allowing these undertakings to report on activities that meet certain 
+Taxonomy technical screening criteria without meeting all of them. Such reporting 
+on partial alignment c an foster a gradual environmental transition of activities 
+overtime, in line with the aim to scale up transition finance. 
+Secondly, the Commission intends to adopt a delegated act to revise the first set of ESRS. To 
+deliver swiftly on the simplification an d streamlining of the ESRS, and to provide clarity and 
+legal certainty to undertakings, the Commission aims to adopt the ne cessary delegated act as 
+soon as possible, and at the latest six months after the entry into force of th is proposal. The 
+revision of the delegated act will substantially reduce the number of mandatory ESRS 
+datapoints by  (i) removing those deemed least important for general purpose sustainability 
+reporting, (ii)  prioritising quantitative datapoints over narrative text  and (iii) further  
+distinguishing between mandatory and voluntary datapoints , without undermining 
+interoperability with global reporting standards  and without prejudice to the materiality 
+assessment of each undertaking. The revision will clarify provisions that are deemed unclear. 
+It will improve consistency with other pieces of EU legislation. It will provide clearer 
+instructions on how to apply the materiality principle, to ensure that undertakings only report 
+material information and to reduce the risk that assura nce service providers inadvertently 
+encourage undertakings to report information that is not necessary or dedicate excessive 
+resources to the materiality assessment process. It will simplify the structure and presentation 
+of the standards. It will further enhance the already very high degree of interoperability with 
+global sustainability reporting standards. It will also make any other modifications that may 
+be considered necessary considering the experience of the first application of ESRS.  
+Thirdly, the s eparate proposal made by the Commission in parallel to this proposal would 
+postpone by two years the entry into application of the reporting requirements for the second 
+wave (large undertakings that are not public interest entities and that have  more than 500 
+employees, as well as large undertakings with up to  500 employees 17) and the third wave 
+(listed SMEs , small and non -complex credit institutions, and captive insurance and 
+reinsurance undertakings). The objective of the postponement is to avoid a situat ion in which 
+certain undertakings are required to report for financial year 2025 (second wave) or 2026 
+(third wave) and are then subsequently relieved of this requirement. Such a situation would 
+mean that the undertakings in question incur unnecessary and avoidable costs. 
+ 
+17 As well as undertakings that are not public -interest entities and that are parent of large groups with more than 
+500 employees, and undertakings that are parents of large groups up to 500 employees.
+
+--- PDF SEITE 7 ---
+EN 6  EN 
+The Commission invites co-legislators to reach rapid agreement on th at postponement, in 
+particular to provide the necessary legal clarity for undertakings in the second wave that are 
+currently required to report for the first time in 2026 for financial year 2025.  
+Specific context and objectives of this proposal regarding the CSDDD 
+According to the current rules, Member States should transpose the CSDD Directive by 
+26 July 2026. Entry into application is envisaged in three waves: as from July 2027, the rules 
+would start applying only to the largest EU companies, i.e. those that have more than 5000 
+employees and report a net annual (worldwide) turnover of more than 1.5 b illion euro, as well 
+as to non -EU companies that generate more than EUR 1.5 billion net turnover in the EU. In 
+the second wave, EU companies with more than 3000 employees and more than EUR 
+900 million net turnover, as well as non -EU companies generating su ch net turnover in the 
+EU would need to comply with the new framework as from July 2028. Last, in July 2029, all 
+other companies falling under the general scope would have to start applying the (national 
+rules transposing the) Directive. As from this date,  the CSDDD is estimated to apply to 
+approximately 6000 large EU companies, and some 900 non -EU companies. The personal 
+scope and phased -in application take into account that companies of different size have 
+different capacities to implement the new mandato ry framework and, as such, is a key 
+element in ensuring a proportional approach.  
+As regards large companies , the Directive adopts a risk -based approach, allowing them to 
+prioritise addressing those impacts first which are most likely or most severe. Also,  the 
+Directive requires the company to take “appropriate measures” that are reasonably available 
+to it, taking into account the circumstances of the specific case.  
+The Directive also enables cost sharing opportunities through joint industry initiatives and 
+multi-stakeholder initiatives.  
+As regards p reventing the shifting of the compliance burden on SME business partners, the 
+Directive requires large companies under the scope to use responsible contractual clauses , 
+investments, support, and improved purchasing practices.  
+Despite all these elements, the Directive is perceived as imposing significant regulatory 
+burden, in particular, when value chains are very complex and extensive and therefore 
+business associations have called for further simplifications and burden reduction, including 
+regarding SMEs which may allegedly still experience unwanted trickle -down effects. 
+Furthermore, business associations have pointed to uncertainties linked to a possible increase 
+in liability risks.   
+While the CSDDD already  incorporates a number of mechanisms to ensure proportionality 
+and to ensure that companies in scope obtain the reputational and resilience benefits of more 
+sustainable value-chain management, taking into account companies’ feedback, this proposal 
+aims to clarify and simplify the framework, and to reduce the burden of companies, including 
+one-off and recurring compliance costs, already in the short -term. In particular, the following 
+changes are introduced to this end:  
+– tailoring the obligations with respect to indirect business partners in the chain of 
+activities to cases of circumvention or when there is information pointing to likely or 
+actual adverse impacts, 
+– reducing the required frequency of the periodic monitoring exercises, and
+
+--- PDF SEITE 8 ---
+EN 7  EN 
+– clarifying and targeting the scope of stakeholder engagement. 
+The proposal also includes several other elements that aim to increase legal certainty and 
+create a level playing field in the EU, contributing to burden reduction and improved 
+international competitiveness. 
+In parallel with this proposal, the Commission has also adopted a proposal that would 
+postpone by one year the transposition deadline and remove the first wave for the entry into 
+application. By advancing the deadline set out in the Directive for adopting the general 
+guidelines by the Commission (Article 19(3)), the overall result is that in -scope companies 
+will have two years to prepare for the entry into application  allowing them to take fully into 
+account the best practices provided in these guidelines. 
+• Consistency with existing policy provisions in the policy area 
+Corporate Sustainability Reporting Directive 
+By removing the distinction between listed and non -listed undertakings this proposal is 
+consistent with the goal of the Capital Markets Union to make EU regulated markets more 
+attractive as a source of financing. 
+The reporting requirements set out in the CSRD and ESRS aim to ensure, amongst other 
+things, that financial market participants, credit institutions and benchmark administrators 
+have access to the sustainability information that they need from undertakings to meet their 
+own reporting obligatio ns under the Sustainable Finance Disclosure Regulation, the Capital 
+Requirements Regulation and the Benchmarks Regulation. Undertakings that would no longer 
+be subject to the CSRD reporting requirements according to this proposal may still provide 
+information to financial market participants, credit institutions and benchmark administrators 
+on a voluntary basis. Where appropriate they may do this using the voluntary reporting 
+standards that, according to this proposal, the Commission would adopt as delegated acts.  
+According to this  proposal, to be in scope of the sustainability reporting requirements 
+undertakings must have more than 1000 employees. Since the 1000 employee threshold is one 
+of the main criteria used to define which undertakings are subject to the CSDDD , this 
+proposal promotes closer alignment between the CSRD and CSDDD. 
+Undertakings subject to both the CSRD and the CSDDD are not required by the CSDDD to 
+report any information additional to what they are required to report under the C SRD. The 
+proposed modifications will not take out of the CSRD scope any undertakings that are subject 
+to the CSDDD, meaning that this consistency between the two pieces of legislation is 
+maintained.     
+Consistency with other pieces of EU legislation will be enhanced through modifications to the 
+ESRS delegated act where modifications to ESRS are the most appropriate means of 
+achieving that goal. 
+Corporate Sustainability Due Diligence Directive 
+Under the CSRD/ESRS, reporting on adverse impacts is not limited to direct value chain 
+partners. Consistency with the CSRD is maintained as t he propos ed changes to CSDDD 
+limiting due diligence , in the first place,  to direct value chain partners  are complemented by 
+requirements for companies in scope to assess indirect business par tners in case of plausible 
+information suggesting actual or potential impacts at their level . The CSRD complements the
+
+--- PDF SEITE 9 ---
+EN 8  EN 
+CSDDD regarding due diligence reporting and the scope of both legal acts is now proposed to 
+be aligned.  The provision on climate transition plans will be better aligned to the language of 
+the CSRD, while continuing to complement CSRD with a clear obligation to adopt such a 
+plan. 
+• Consistency with other Union policies 
+This proposal is consistent with EU policy to enhance competit iveness, to simplify the 
+regulatory framework and to reduce burden on business  while still achieving the policy goals 
+of the CSRD and CSDDD . This includes preserving the Green Deal as mid - to long -term 
+competitiveness depends on companies sufficiently integrating sustainability considerations 
+into their operations. 
+With regard to the CSDDD, the proposal would simplify and streamline the sustainability due 
+diligence requirements for in -scope companies, thereby reducing administrative burdens, in 
+line with the objectives set out in the Competitiveness Compass, namely the 25% and 35% 
+(for SMEs) burden reduction targets.  
+At the same time, by reducing impacts on business partners, many of which will be SMEs  or 
+small mid-caps, the proposal also contributes to the objective of supporting SMEs and small 
+mid-caps and relieving them from unnecessary burdens that might negatively affect their 
+prosperity and growth. Exte nding the scope of provisions subject to maximum harmonisation 
+to cover the core due diligence duties also contributes to the objective of the Single Market by 
+avoiding fragmentation through different national rules (‘gold -plating’) and ensuring a level 
+playing field across the European Union. While removing the uniform rules on civil liability 
+reduces harmonisation, it ensures respect for existing, national liability regimes  – with which 
+companies in scope are familiar - in line with the subsidiarity princ iple and ensures greater 
+legal certainty on liability risks under a new type of risk-based corporate obligations. 
+2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY 
+• Legal basis 
+The proposal’s legal basis rests on Articles 50 and 114 of the Treaty on the Functioning of the 
+European Union (TFEU). Article 50 of the TFEU is the legal basis for adopting EU measures 
+aimed at attaining the right of establishment in the single market in com pany law , and it 
+mandates the European Parliament and the Council to act by means of Directives.  Article 50 
+of the TFEU is  the legal basis for Directives 2006/43/EC and 2013/34/EU, as well as part of 
+the legal basis for Directive (EU) 2022/2464 and Directi ve (EU) 202 4/1760. Article 114 of 
+the TFEU is a general legal basis with the objective of establishing or ensuring the 
+functioning of the single market – in this case, the free movement of capital  and the freedom 
+of establishment . Article 114 of the TFEU i s part of  the legal basis for Directive (EU) 
+2022/2464 and Directive (EU) 2024/1760. 
+• Subsidiarity (for non-exclusive competence)  
+Corporate Sustainability Reporting Directive 
+The Accounting Directive, as amended by the CSRD, already regulates the disclosure of 
+sustainability information in the EU. Common rules on sustainability reporting and its 
+assurance ensure a level playing field for companies established in the different Memb er 
+States. Significant differences in requirements for sustainability reporting and assurance 
+between Member States would create additional costs and complexity for companies
+
+--- PDF SEITE 10 ---
+EN 9  EN 
+operating across borders , which would be  detrimental to the single market. Member States 
+acting alone are not able to modify existing EU laws to reduce the burden on companies.   
+Corporate Sustainability Due Diligence Directive 
+The CSDDD ensures a level playing field across the European Union by harmonising the 
+rules on corporate sustainability due diligence against the background of diverging existing 
+due diligence legislation at Member State level. In this light, the objective of simplifying and 
+streamlining the due diligence requirements and related provisions on public and private 
+enforcement cannot be achieved by the Member States alone. Therefore, action at the EU 
+level is necessary.  
+• Proportionality 
+Corporate Sustainability Reporting Directive 
+This proposal sets out a simple and proportionate framework for sustainability reporting that 
+would treat undertakings according to their size: 
+– Large undertakings with more than 1000 employees (i.e. undertakings that have more 
+than 1000 employees and either a turnover above EUR 50 million or a balance sheet 
+above EUR 25 million) 18: subject to mandatory reporting requirements and must 
+report against the full set of ESRS, which will itself be revised and simplified. 
+– Out-of-scope undertakings (undertakings with up to 1000 employees) : not subject to 
+mandatory reporting requirements , may use the proportionate voluntary standard to 
+be adopted by the Commission as a delegated act , based on the VSME standard 
+developed by EFRAG  and are protected by the value -chain cap from excessive 
+information requests from larger companies within scope.  
+This framework is a more proportionate means of achieving the policy obje ctives of the 
+CSRD.  
+Corporate Sustainability Due Diligence Directive 
+With the proposed amendments the CSDDD becomes more proportionate as the changes aim 
+to simplify and streamline sustainability due diligence obligations of companies without 
+undermining the objectives of the Directive and the EU’s sustainability framework. The 
+underlying policy objective of this proposal  is precisely to further strengthen the 
+proportionality of the Directive with a view to increase its effici ency in achieving its goals, 
+reflecting on calls from some stakeholders who consider that the CSDDD as currently in 
+force, would have placed excessive burden on businesses. Targeting the obligations with 
+respect to indirect business partners in the value chain, reducing the required frequency of the 
+periodic monitoring exercises, as well as streamlining the definition of stakeholders and better 
+targeting engagement to relevant stakeholders and limiting the due diligence steps when 
+engagement is required are all examples for the proposed elements that are designed to make 
+the Directive more proportionate.  
+ 
+18 As well as parent undertakings of groups with more than 1000 employees on average on a consolidated 
+basis, for consolidated sustainability reporting.
+
+--- PDF SEITE 11 ---
+EN 10  EN 
+• Choice of the instrument 
+This proposal is compos ed of a Directive that amends provisions of the A udit Directive, 
+Accounting Directive, Corporate Sustainability Reporting Directive ( CSRD) and Corporate 
+Sustainability Due Diligence Directive ( CSDDD). These directives set out complementary 
+reporting and behavioural duties in the area of sustainability , and an Omnibus Directive is the 
+most appropriate legal instrument to amend such existing inter-linked Directives with the 
+common objective as regards simplification and burden reduction.   
+3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER 
+CONSULTATIONS AND IMPACT ASSESSMENTS 
+• Ex-post evaluations/fitness checks of existing legislation 
+The CSDDD has not yet been transposed or applied by companies. The CSRD has been 
+applied by a first set of companies who are publishing their first sustainability statement s 
+mainly in the first half of 2025. It has therefore not been possible to undertake an ex-post 
+evaluation or fitness check of either piece of legislation.   
+• Stakeholder consultations 
+The following consultation activities have helped to shape the content of this proposal.  
+– European Commission ‘Call for evidence on the rationalisation of reporting 
+requirements’, from October to December 2023.19  
+– European Commission meetings with companies and other stakeholders  in early 
+February 2025. 
+– The European Commission has also held separate st akeholder activities including 
+two large hybrid stakeholder forums on the CSRD in May and November 2024 with 
+the participation of approximately 400 people in person and more than 3000 people 
+virtually. 
+– The European Commission received a very significant number of letters and detailed 
+analyses from all types of stakeholders (from companies to investors, banks, civil 
+society, Non -Governmental Organisations, chambers of commerce and Member 
+States’ national administrations). 
+Corporate Sustainability Reporting Directive 
+The European Commission’s Call for Evidence on the Rationalisation of Reporting 
+Requirements sought evidence and views regarding regulations which are perceived to 
+produce administrative burden. Almost 200 stakeholders responded, and primarily called for a 
+simplification of sustainability reporting, due diligence and the EU Taxonomy.  
+In the European Commission’s meetings with  European industry , social partners  and civil 
+society in early  February 2025  – including, in particular, a two days -stakeholder event 
+(‘reality check’) that allowed the Commission to hear from practitioners  – stakeholders 
+expressed support for the overarching objectives of the CSRD  and CSDDD but highlighted a 
+need for simplification and harmonisation in their implementation. Many business 
+ 
+19 From 17 October to 1 December 2023, the Commission gathered feedback from 193 stakeholders on 
+possible rationalization measures for reporting requirements : https://ec.europa.eu/info/law/better-
+regulation/have-your-say/initiatives/13990-Administrative-burden-rationalisation-of-reporting-requirements_en.
+
+--- PDF SEITE 12 ---
+EN 11  EN 
+representatives stated that some of the sustainability disclosure requirements in the ESRS are 
+overly complex and numerous, and called for a revision of the ESRS to reduce the number 
+and complexity of the disclosure requireme nts. They recommended to further consider 
+interoperability of European standards with international ones, as well as to limit value chain 
+reporting requirements.  
+Some stakeholders have argued for a reduction in scope of the CSRD to relieve listed SMEs 
+and smaller large companies from sustainability reporting requirements. Some advocated for 
+achieving simplification by means of keeping smaller large companies within the scope of the 
+CSRD but allowing them to apply proportionate reporting standards instead o f applying the 
+first set of ESRS. SME stakeholders highlighted the need to address the trickle-down effect on 
+SMEs in the value chain from sustainability reporting requirements and pointed out that the 
+lighter reporting regime for them should not be underm ined by more extensive information 
+requests along the supply chain or by financial institutions.  
+While some stakeholders suggested pausing the application of existing legislation to focus on 
+simplification, others saw strong merits in maintaining the rule s and a rgued for the 
+importance of  legal certainty and regulatory stability for companies , as well as for 
+maintaining the objectives of the European Green Deal and the Sustainable Finance Action 
+Plan. They also argued that implementation guidelines should be used to clarify and simplify 
+certain parts of the sustainability reporting framework , instead of an extensive change to the 
+existing rules. Representatives of civil society argued that progressive companies should not 
+be treated less f avourably than others . They highlighted the demand for sustainability 
+information from financial markets and end-investors.  
+Many stakeholders noted that the assurance requirements are  creating a situation of over -
+compliance. In this context, certain stake holders called for a postponement of the limited 
+assurance requirement or urged the Commission to quickly adopt guidelines for limited 
+assurance in order to clarify the requirements.  
+Many business and industry stakeholders called for either a further post ponement of the 
+sector-specific sustainability reporting standards or requested that the requirement for sector -
+specific standards be removed completely from the CSRD. Companies highlighted the need to 
+correctly implement and become accustomed to reporting  under the first set of ESRS and 
+argued that introducing sector -specific disclosure standards on top of th e first set of ESRS  
+would further complicate the sustainability reporting process.  
+Stakeholders also called for clear guidance as regards the double materiality assessment under 
+ESRS. Many called for increased consistency of requirements and harmonised definitions 
+across different pieces of legislation, such as CSRD, CSDDD, Taxonomy, SFDR, etc.  
+The need for simplification has also been echoed by many other reports, recommendations, 
+and stakeholder views from both financial and non -financial sector undertakings, many of 
+which underscore the importance of reducing complexity and administrative burdens and 
+which have informed the burden reduction measures described in this proposal.   
+Corporate Sustainability Due Diligence Directive 
+Consultations with various stakeholders, including businesses, trade associations, and civil 
+society organizations, as well as other contacts with and inputs received from stakeholders 
+have informed the proposal. This includes, in particular, a two days-stakeholder event (‘reality 
+check’) that allowed the Commission to hear from practitioners about which  challenges they
+
+--- PDF SEITE 13 ---
+EN 12  EN 
+see with the current legislative framework and what could be possible solutions to address 
+them. While some stakeholders called for far -reaching changes and postponements, others 
+emphasized the need for regulatory certainty and opposed reo pening the Directive, instead 
+focusing on implementation. This proposal aims to balance these perspectives by maintaining 
+the integrity of the CSDDD while introducing changes to simplify and streamline the 
+Directive. 
+• Collection and use of expertise 
+To prepare this proposal t he Commission has taken account of analyses produced by 
+stakeholders and experts  on the actual and future implementation of  the Corporate 
+Sustainability Reporting Directive and the Corporate Sustainability Due Diligence Directive. 
+In addition, t he proposal has been informed by input from relevant stakeholders, including 
+companies’ sustainability officers.   
+• Impact assessment 
+The issue of competitiveness is of critical urgency as it directly influences the European 
+Union's ability to achieve sustainable economic growth and maintain its position in the global 
+market. Competitiveness, tied closely to innovation, efficiency, and sustainability, is essential 
+for fostering economic resilience and ensuring that EU  businesses can thrive in a rapidly 
+evolving global landscape. The current economic environment, characterized by rapid 
+technological advancements, shifting consumer demands, and increased global competition, 
+necessitates swift action to safeguard the EU's  competitive edge.  Given this urgency, the 
+proposal does not allow for an impact assessment.  
+However, it is important to note that this initiative involves amendments to existing legal act s, 
+which have already undergone comprehensive impact assessments. The insights and evidence 
+gathered from th ose previous assessment s, together with input from stakeholders and 
+discussions with practitioners, have helped to shape the current proposal.  For that reason, and 
+given the importance and urgency of th is initiative, a derogation was granted under the 
+Commission’s Better Regulation Guidelines. Accordingly, no full -fledged impact assessment 
+has been prepared but the proposal is accompanied by a Commission Staff Working 
+Document that includes  an analysis of the impacts of the proposed measures, including a 
+qualitative analysis and, where possible, estimations of costs savings  as well as supporting 
+evidence. 
+• Regulatory fitness and simplification 
+Corporate Sustainability Reporting Directive 
+This proposal is expressly designed to achieve a major simplification of the sustainability 
+reporting regime.  
+Corporate Sustainability Due Diligence Directive 
+The proposal contributes to regulatory fitness by reducing burdens and ensuring a more 
+coherent and simpler regulatory environment, while respecting the EU's sustainability 
+objectives.
+
+--- PDF SEITE 14 ---
+EN 13  EN 
+• Fundamental rights 
+Corporate Sustainability Reporting Directive 
+The proposal respects the fundamental rights enshrined, and adheres to the principles stated, 
+in the Charter of Fundamental Rights of the European Union. The Corporate Sustainability 
+Reporting Directive has  an indirect positive impact on fundamental rights , given that 
+sustainability reporting requirements can influence corporate behaviour for the better. It 
+serves to make companies more aware of fundamental rights and positively influence how 
+they identify and manage actual and potential adverse impacts on fundamental rights. The 
+proposed modifications may partially  diminish these positive impacts  with regard to 
+companies that would no longer be subject to mandatory reporting requirements , but th e 
+reduction of administrative burden on such companies  should lead to other societal gains in 
+terms of wealth creation, employment and innovation, including innovation for sustainability.  
+Corporate Sustainability Due Diligence Directive 
+The proposal respects the fundamental rights enshrined, and adheres to the principles stated, 
+in the Charter of Fundamental Rights of the European Union. One of the CSDDD’s main 
+objective was to improve human rights protection th rough companies addressing their human 
+rights impacts in their chains of activities. The targeting of obligations regarding the chain of 
+activities, which requires action  beyond direct business partners  whenever the company in 
+scope of the Directive has plausible information pointing to such adverse impacts , is a 
+recognition of the fact  that adverse human rights impacts often arise in indirect business 
+relationships. While their obligations to pro-actively identify such impacts will be reduce d to 
+avoid burdens from systematically addressing all parts of often complex value chain s, 
+companies will continue to  have a responsibility to respect human rights along their value 
+chains in the future when they have such information.      
+4. BUDGETARY IMPLICATIONS 
+The proposal does not have any new implications on the Union budget.  
+5. OTHER ELEMENTS 
+• Implementation plans and monitoring, evaluation and reporting arrangements 
+To monitor progress towards achieving the proposal’s specific objectives, the Commission 
+will explore the possibility of organising exchanges with stakeholders in different formats as 
+well as periodic surveys of users of sustainability information and of undertakings that report 
+such information, depending on the availability of financial resources. Article 6 of the CSRD 
+requires the Commission to present a report on the  implementation of the Directive by April 
+2029. The implementation of the CSDD D as amended, and its effectiveness in reaching its 
+objectives, in particular in addressing adverse impacts, will also be subject to regular 
+evaluation according to Article 36 of that Directive. This pr oposal does not require an 
+implementation plan. 
+• Explanatory documents (for directives) 
+As the proposal introduces specific amendments to 4 existing directives, Member States 
+should either provide the Commission with the text of the specific amendments to national 
+provisions or, in the absence of such amendments, explain which specific national law 
+provision already implements the amendments provided in the proposal.
+
+--- PDF SEITE 15 ---
+EN 14  EN 
+• Detailed explanation of the specific provisions of the proposal 
+Corporate Sustainability Reporting Directive 
+Article 1 amends Directive 2006/43/EC (Audit Directive) as follows:  
+– paragraph (1) replaces Article 26a(3) of the Audit Directive to delete the time limits 
+for the Commission to adopt standards for limited assur ance and to delete  the 
+empowerment for the Commission to adopt standards for reasonable assurance  
+together with the related cross-references; 
+– paragraph (2) replaces Article 48a, second subparagraph,  of the Audit Directive to 
+correct an error in the cross-reference to the limited assurance standards.  
+Article 2 amends Directive 2013/34/EU (Accounting Directive) as follows:  
+– paragraph (1) modifies in Article 1(3) of the Accounting Directive the size for an 
+undertaking to be  in scope of sustainability reporting when th at undertaking is a  
+credit institution or an insurance undertaking, to reflect the change s made to the size 
+of undertakings in the  scope of Article 19a (i.e. large undertakings with more than 
+1000 employees on average during the financial year); 
+– paragraph (1) also specifies in Article 1(4) of the Accounting Directive that  the 
+European Financial Stability Facility (EFSF) established by the EFSF Framework 
+Agreement is not subject to sustainability reporting; 
+– paragraph (2) amends Article 19a of the Accounting Directive by: 
+• limiting the  undertakings required to prepare and pub lish individual 
+sustainability reporting to only large undertakings with more than 1000 
+employees on average during the financial year; 
+• introducing a requirement for Member States to ensure that, for the purposes of 
+reporting sustainability information as required by the Accounting Directive  -
+and with no prejudice to Union requirements to conduct a due diligence 
+process - undertakings do not seek to obtain from undertakings in their value 
+chain with not more than 1000 employees on average during the financial year 
+any information that goes beyond the information specified in the standards for 
+voluntary use  to be adopted under Article 29ca , except for additional 
+sustainability information that is commonly shared between undertakings in the 
+sector concerned.  Undertakings reporting on their value chain in accordance 
+with this requirement must be deemed to comply with sustainability reporting; 
+• deleting the option for listed SMEs to report based on a more proportionate set 
+of standards and deleti ng the 2-year opt out from sustainability reporting for 
+listed SMEs, to reflect the exclusion of these companies f rom the scope of 
+sustainability reporting; 
+– paragraph (3) inserts Article 19b to allow large undertakings with an average of more 
+than 1000 employees and a net turnover not exceeding EUR 450 000 000 during the 
+financial year to disclose information referred to in Article 8 of Regulation (EU) 
+2020/852 in a more flexible way;   
+– paragraph (4) amends Article 29a of the Accounting Directive by: 
+• limiting the undertakings required to prepare and publish consolidated 
+sustainability reporting to only parent undertakings of a large group with more
+
+--- PDF SEITE 16 ---
+EN 15  EN 
+than 1000 employees on average during the financial year on a consolidated  
+basis;  
+• introducing a requirement for Member States to ensure that, for the purposes of 
+reporting sustainability information as required by the Accounting Directive -
+and with no prejudice to Union requirements to conduct a due diligence 
+process - undertakings do not seek to obtain from undertakings in their value 
+chain with not more than 1000 employees on average during the financial year 
+any information that goes beyond the information specified in the standards for 
+voluntary use  to be adopted under Article 29ca , except for additional 
+sustainability information that is commonly shared between undertakings in the 
+sector concerned. Undertakings reporting on their value chain in accordance 
+with this requirement must be deemed to comply with sustainability reporting; 
+– paragraph ( 5) inserts Article 29aa to allow large undertakings with an average of 
+more than 1000 employees and a net turnover not exceeding EUR 450 000 000 , on a 
+consolidated basis,  during the financial year to disclose in formation referred to in 
+Article 8 of Regulation (EU) 2020/852 in a more flexible way;    
+– paragraph (6) amends Article 29b of the Accounting Directive by: 
+• deleting the empowerment for the Commission to adopt sector -specific 
+standards by way of delegated acts; 
+• specifying that the sustainability reporting standards must not specify 
+disclosures requiring undertakings to obtain from undertakings in their value 
+chain with not more than 1000 employees on average during the financial year 
+any information that goes beyond the information to be disclosed pursuant to 
+the sustainability reporting standards for voluntary use to be adopted under  
+Article 29ca; 
+– paragraph (7) deletes Article 29c of the Accounting Directive  on the Commission’s 
+empowerment to adopt a more proportionate set of standards for listed SMEs to 
+reflect the exclusion of these companies from the scope of sustainability reporting; 
+– paragraph (8) inserts the new  Article 29ca  in the Accounting Directive , w hich 
+empowers the Commission to adopt delegated act s to provide for sustainability 
+reporting standards for voluntary use by out-of-scope undertakings. These standards 
+must be proportionate and relevant to the capacities and the characteristics of the se 
+undertakings and to the scale and complexity of their activities. They must also 
+specify, where possible, the structure to be used to present that information; 
+– paragraph (9) replaces Article 29d of the Accounting Directive to specify that until a 
+Delegated Regulation for the marking up of sustainability reporting is adopted, 
+undertakings are not required to markup their sustainability reporting; 
+– paragraph (10) replaces Article 33(1) of the Accounting Directive to specify that the 
+collective responsibility of members of an undertaking’s administrative, management 
+and supervisory bodies as regards the digitalisation of  the management report is 
+limited to its publication in the single electronic format, including the digital marking 
+up;  
+– paragraph (11) amends Article 34 of the Accounting Directive by: 
+• deleting the reference to Article 29c  in Article 34(1)  to reflect the removal of 
+the sustainability reporting standards for listed SMEs;
+
+--- PDF SEITE 17 ---
+EN 16  EN 
+• adding paragraph 2a, which specifies that assurance providers prepare their 
+assurance opinion respecting  the obligation on undertakings not to seek to 
+obtain from undertaki ngs in their value chain with not more than 1000 
+employees on average during the financial year any information that goes  
+beyond the information specified in the standards for voluntary use; 
+– paragraph (12) amends Article 40a(1) of the Accounting Directive by: 
+• limiting the size for a  subsidiary undertaking to be in scope of Article 40a to 
+the criteria for large undertakings as defined in Article 3(4) of the Accounting 
+Directive; 
+• increasing the net turnover threshold for a branch to be in scope of Article 40a 
+from EUR 40 million to EUR 50 million, to align with the turnover threshold 
+for large undertakings; 
+• increasing the net turnover threshold for the third -country undertaking to be in 
+scope of Article 40a from EUR 150 million generated in the Union to EUR 450 
+million; 
+– paragraph (13) amends Article 49 of the Accounting Directive to empower the 
+Commission to set out rules supplementing the reporting regime for activities that are 
+only partially taxonomy aligned. 
+Article 3  amends Article 5(2) of Directive (EU) 2022/2464 (Corporate Sustainability 
+Reporting Directive “CSRD” ) to reflect the reduction of the undertakings in scope of 
+sustainability reporting under Articles 19a and 29a of the Accounting Directive. In particular: 
+– paragraph (1) point (a) deletes Article 5(2) subparagraph 1, point (a) of the CSRD  to 
+reflect the exclusion from scope of some of the undertakings in wave 1;  
+– paragraph (1) point (b) (i) replaces Article 5(2) subparagraph 1, point (b)(i) of the 
+CSRD specifying which  undertakings will be subject to individual sustainability 
+reporting in wave 2, i.e. large undertakings with more than  1000 employees on 
+average during the financial year;  
+– paragraph (1) point (b)(ii)) replaces Article 5(2) subparagraph 1, point (b)(ii) of the 
+CSRD specifying which undertakings will be subject to consolidated sustainability 
+reporting in wave 2, i.e. parent undertakings of large groups with more than  1000 
+employees on average, on a consolidated basis, during the financial year;  
+– paragraph (1) point (c) repeals Article 5(2) subparagraph 1, point (c)  of the CSRD to 
+reflect the exclusion from the scope of listed SMEs;  
+– paragraph (2) point (a) deletes Article 5(2) subparagraph 3, po int (a) of the CSRD  to 
+reflect the exclusion from scope of some of the issuers in wave 1;  
+– paragraph ( 2) point ( b)(i) replaces Article 5(2) subparagraph 3, point (b)(i) of the 
+CSRD specifying which issuers will be subject to individual sustainability reporting 
+in wave 2, i.e. issuers that are large undertakings with more than 1000 employees on 
+average during the financial year;  
+– paragraph (2) point (b)(ii) replaces Article 5(2) subparagraph 3, point (b)(ii) of the 
+CSRD specifying which issuers  will be subject to consolidated sustainability 
+reporting in wave 2, i.e. issuers that are parent undertakings of large groups with 
+more than 1000 employees on average, on a consolidated basis, during the financial 
+year;
+
+--- PDF SEITE 18 ---
+EN 17  EN 
+– paragraph (2) point (c) repeals Article 5(2) subparagraph 3, point (c) of the CSRD to 
+reflect the exclusion from the scope of issuers that are SMEs.  
+Article 4 amends Directive (EU ) 2024/1760 ( Corporate Sustainability Due Diligence 
+Directive ‘CSDDD’) on the following main points: extending the scope of maximum 
+harmonisation, targeting due diligence, as a general rule, to direct business partners, removing 
+the duty to terminate the business relationship as a measure of last resort, li miting the notion 
+of ‘stakeholder’ and further restricting the stages of the due diligence process that require 
+stakeholder engagement, extending the intervals in which companies need to regularly 
+monitor the adequacy and effectiveness of due diligence mea sures, clarifying the principles 
+regarding pecuniary penalties and removing the ‘minimum cap’ for fines, removing aspects of 
+the civil liability clause and the rules regarding representative actions, changing the provisions 
+on the implementation of the climate transition plans, deleting the review clause regarding 
+financial services, and bringing forward the adoption of the first set of (general) implementing 
+guidelines by the Commission. In particular:  
+– paragraph (1) replaces Article 1(1), point (c)  of the CSDDD to align the description 
+of the subject matter of the Directive with the changes proposed to Article 2 2(1) 
+regarding the implementation of the transition plans for climate change mitigation; 
+– paragraph ( 2) replaces Article 3(1), point (n) of the CSDDD on the definition of 
+‘stakeholders’ to reduce the scope of the ‘stakeholder’ notion by simplifying the 
+definition and limiting it to workers and their representatives, and to individuals and 
+communities whose rights or interests are (in case of actual adverse impacts) or could 
+be (in case of potential adverse impacts) “directly” affected by the products, services 
+and operations of the company, its subsidiaries and its business partners. This 
+includes, for instan ce, individuals or communities in the neighbourhood of plants 
+operated by business partners when they are directly affected by pollution (e.g., an 
+oil spill or harmful emissions), or indigenous people whose right to lands or 
+resources are directly affected  by how a business partner acquires, develops or 
+otherwise uses land, forests or waters;  
+– paragraph ( 3) replaces Article 4  of the CSDDD on the l evel of harmonisation  to 
+extend the scope of maximum harmonisation to several additional provisions of the 
+Directive that regulate the core aspects of the due diligence process. This includes in 
+particular the identification duty, the duties to address adverse impacts that have been 
+or should have been identified, and the duty to provide for a complaints and 
+notification mechanism. However, the proposal also recognises that there are legal 
+limits of what can be harmonised fully in a cross -sectoral framework directive 
+dealing with social and environmental protection and which essentially sets out a 
+general process to implement companies’ duty of care with regard to adverse impacts 
+linked to business activities. Extending maximum harmonisation beyond this scope 
+would risk undermining human – including labour – rights and environmental 
+standards, both existing or still t o be developed, for instance to address emerging 
+risks linked to new products or services, while the practical benefits would be very 
+limited. Where such risks are addressed by Member States, in particular in areas 
+where the Union has limited competences l ike for instance labour law, they should 
+not be prevented from doing so where they consider this necessary to regulate how 
+the duty of care applies in specific circumstances; 
+– paragraph (4) amends Article 8 of the CSDDD o n identifying and assessing actual 
+and potential adverse impacts  by replacing paragraph (2) , point (b) and paragraph 
+(4), and by adding new paragraphs (2a) and (5) concerning the chain of activities:
+
+--- PDF SEITE 19 ---
+EN 18  EN 
+• to limit due diligence measures, as a general rule, to the companies’ own 
+operations, those of their subsidiaries and , where related to their chains of 
+activities, those of their direct business partners. Consequently, when it comes 
+to business relationships, following a mapping of their value chains, companies 
+would be required to carry out an in-depth assessment only at the level of direct 
+business partners. At the same time, the proposal recognises that there can be 
+situations where companies have to look beyond their direct business partner, 
+namely where they have plausible information that suggests an adverse impact 
+at the level of an indirect business partner. This may, for instance, be the case 
+where the structure of the business relationship lacks economic rationale and 
+suggests that it was chosen to remove an otherwise direct supplier with harmful 
+activities from the purview of the company, where the company has received a 
+complaint or is aware of credible NGO or media  reports about harmful 
+activities at the level of an indirect supplier or is aware of past incidents 
+involving the supplier, or where the company through its business contacts 
+knows about problems at a certain location (e.g., conflict area). In these cases, 
+companies should be required to further assess the situation. Where the 
+assessment confirms the likelihood or existence of the adverse impact, it should 
+be deemed to have been identified. In addition, a company should seek to 
+ensure that its code of conduct – which is part of its due diligence policy and 
+sets out the expectations as to how to protect human, including labour, rights 
+and the environment in business operations – is followed throughout the chain 
+of activities (contractual cascading). This aligns with  the approach taken under 
+the German Supply Chain Act (Lieferkettensorgfaltspflicht -Gesetz) which 
+contains similar rules both as regards the focus on direct suppliers and the ways 
+in which due diligence should go beyond  in light of the available informatio n. 
+The company should also take into account SME support measures; and  
+• to further limit the trickle -down effect on companies with fewer than 500 
+employees (i.e. SMEs and small midcap companies), by limiting the amount of 
+the information that may be requested as part of the value chain mapping  by 
+large companies  to the information specified in the  VSME sustainability 
+reporting standard , un less additional information is necessary , for instance 
+because the standards do not cover a relevant i mpact, and where such 
+information cannot reasonably be obtained in any other way.  
+– paragraphs (5) and ( 6) replace Article 10(6) and Article 11(7) of the CSDDD , 
+respectively, as regards disengagement  in order to remove the duty to terminate the 
+business relationshi ps in the case of both actual and potential adverse impacts . 
+Companies may find themselves in situations where their production heavily relies 
+on inputs from one or several specific suppliers. At the same time, where the 
+business operat ions of such a supplier are linked to severe adverse impacts, for 
+instance child labour or significant environmental harm, and the company has 
+unsuccessfully exhausted all due diligence measures to address these impacts, the 
+company, as a last resort shoul d suspend the business relationship while continuing 
+to work with the supplier towards a solution, where possible using any increased 
+leverage resulting from the suspension.  
+– paragraph (7) amends Article 13 on meaningful engagement with stakeholders, by 
+amending paragraph ( 3), point (a), and deleting points (c) and (e) , to clarify that 
+companies are only required to engage with “relevant” stakeholders, thereby 
+underlining that companies do not have to consult ev ery possible stakeholder group
+
+--- PDF SEITE 20 ---
+EN 19  EN 
+but may limit themselves to those stakeholders that have a link to the specific stage 
+of the due diligence process being carried out (e.g., affected individuals when 
+designing a remediation measure). In addition, the proposed  amendments further 
+limit the stages of the due diligence process at which companies are required to 
+engage with stakeholders; 
+– paragraph (8) amends Article 15 of the CSDDD on monitoring to extend the intervals 
+in which companies need to regularly assess th e adequacy and effectiveness of due 
+diligence measures, from 1 year to five years. This will significantly reduce burdens 
+not just for in -scope companies but also for their business partners, often SMEs, 
+which risk being at the receiving end of (detailed) information requests as part of 
+these monitoring exercises. At the same time, the proposal recognises that business 
+relationships, and the risks and impacts arising from the activities covered by such 
+business relationships, may evolve over time, sometimes  even within short time  
+frames. Also, measures taken to address potential or actual impacts might turn out to 
+be inadequate or ineffective, based on experience gained with implementing them, 
+and indications for this may arise before the date for the next r egular assessment. 
+Therefore, the company should carry out ad hoc assessments in these situations; 
+– paragraph ( 9) amends Article 19(3) of the CSDDD to require the Commission to 
+make available its general guidelines with practical guidance and best practices on 
+how to conduct due diligence in accordance with the Directive by half a year; 
+– paragraph ( 10) amends Article 22(1) concerning companies’ transition plans for 
+climate change mitigation  with a view to ensuring more leg al clarity and alignment 
+of the CSDDD with the sustainability reporting regime  of the CSRD . More 
+particularly, the proposal introduces a modification regarding the  requirement to put 
+into effect the transition plan  for climate change mitigation . The propos al makes 
+clear that  the plan should include implementation actions planned and taken. The 
+adoption of the plan and its initial and updated design remains subject to 
+administrative supervision; 
+– paragraph (11) replaces Article 27(4) as regards the imposition of pecuniary penalties 
+as part of public enforcement . The current text of Article 27 already clarifies that 
+“[i]n deciding whether to impose penalties and, if such penalties are imposed, in 
+determining their nature and appropriate level”, due account shall be taken of a series 
+of factors that determine the gravity of the infringement (in particular the nature, 
+gravity and duration of the infringement, and the severity of the impacts resulting 
+from that infringement) and whether there are attenuat ing (e.g., investments made 
+and any targeted support provided) or aggravating circumstances (e.g., recidivism). 
+In addition, the provision stipulates that any penalties imposed shall be “effective, 
+proportionate and dissuasive”. This aligns with similar pr ovisions in other pieces of 
+EU legislation, for instance the General Data Protection Regulation. While the 
+Directive does not require Member States to set a maximum amount of any fines 
+(i.e., a ‘cap’ or ‘ceiling’), it stipulates that, in case Member States  nevertheless 
+decide to do so, such a cap “shall be not less than 5 % of the net worldwide turnover 
+of the company”. The purpose for introducing this provision was to ensure a level 
+playing field in the Union, by avoiding that Member States set a cap at a level that 
+would undermine the effectiveness and dissuasiveness of any fines imposed on 
+companies under their jurisdiction. However, this provision has led to confusion. In 
+particular, while such a cap says nothing about the actual fines imposed in a speci fic 
+case, it has sometimes been misunderstood as a minimum fines amount. To clarify 
+the situation, the proposed amendments address the issue of the level playing field
+
+--- PDF SEITE 21 ---
+EN 20  EN 
+differently, namely by tasking the Commission with developing fining guidelines (an 
+instrument that also exists in other areas, e.g., competition law and data protection) in 
+collaboration with the Member States and by prohibiting Member States from setting 
+a fines cap that would prevent supervisory authorities from imposing penalties in 
+accordance with the factors and principles set out in Article 27(1) and (2). 
+Furthermore, the proposal deletes the requirement for the fine to be commensurate to 
+the company’s net worldwide turnover;  
+– paragraph (12) amends Article 29 of the CSDDD as regards civil liability by deleting 
+paragraph (1), paragraph (3), point (d)  and paragraph (7), and changing paragraphs 
+(2), (4) and (5):  
+• to remove the specific, EU -wide liability regime in the Directive. At the same 
+time, in line with the core objective of the Direc tive to ensure the protection of 
+victims against human rights violations and environmental harm resulting from 
+business operations, the proposed amendments maintain the requirements for 
+effective access to justice, including the right to full compensation in case a 
+company is held liable for a failure to comply with the due diligence 
+requirements under this Directive in accordance with national law  and where 
+such failure caused damage , while also protecting companies from over -
+compensation;  
+• in view of the different rules and traditions that exist at national level when it 
+comes to allowing representative action, to delete the specific requirement set 
+out in the CSDDD in this regard; and 
+•  for the same reason , by deleting the requirement for Member States to ensure 
+that the liability rules are of overriding mandatory application in cases where 
+the law applicable to claims to that effect is not the national law of the Member 
+State; and 
+– paragraph (13) removes Article 36(1) of the CSDDD, deleting the first review clause 
+of the Directive that would require the Commission to submit “no later than 26 July 
+2026” a report to the European Parliament and to the Council on the necessity of 
+laying down additional sustainability due diligence requirements tailored to regulated 
+financial undertakings with respect to the provision of financial services and 
+investment activities, and the options for such due diligence requirements as well as 
+their impacts. It is proposed to delete this review clause as it does not lea ve any time 
+to take into account the experience with the newly established, general due diligence 
+framework. 
+Article 5 requires Member States to transpose this Directive by [12 months after into force] at 
+the latest, and to communicate to the Commission the text of their transposing measures.  
+Article 6 specifies that this Directive enters into force 20 days after its publication in the 
+Official Journal of the European Union.
+
+--- PDF SEITE 22 ---
+EN 21  EN 
+2025/0045 (COD) 
+Proposal for a 
+DIRECTIVE OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL 
+amending Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 2024/1760 as 
+regards certain corporate sustainability reporting and due diligence requirements 
+(Text with EEA relevance) 
+THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, 
+Having regard to the Treaty on the Functioning of the European Union, and in particular 
+Articles 50 and 114 thereof, 
+Having regard to the proposal from the European Commission, 
+After transmission of the draft legislative act to the national parliaments, 
+Having regard to the opinion of the European Economic and Social Committee20,  
+Acting in accordance with the ordinary legislative procedure, 
+Whereas: 
+(1) In its  Communication of 11 February 2025  entitled ‘A simpler and faster Europe: 
+Communication on implementation and simplification’, 21 the European Commission 
+set out a vision for an implementation and simplification ag enda that delivers fast and 
+visible improvements for people and business on the ground. This requires more than 
+an incremental approach and the Union must take bold action to achieve this goal. The 
+Commission, the European Parliament, the Council, Member S tates’ authorities at all 
+levels and stakeholders need to work together to streamline and simplify EU, national 
+and regional rules and implement policies more effectively. 
+(2) In the context of the Commission’s commitment to reduce reporting burdens and 
+enhance competitiveness, it is necessary to amend  Directives 2006/43/EC22,  
+2013/34/EU23, (EU) 2022/246424 and (EU) 2024/1760 of the European Parliament and 
+ 
+20 OJ C […], […], p. […]. 
+21 Communication from the Commission to the European Parliament, the Council, the European Economic and Social 
+Committee and the Committee of the Regions of 11 February 2025, ‘A simpler and faster Europe: Communication 
+on implementation and simplification’, COM/2025/47 final. 
+22 Directive 2006/43/EC of the European Parliament and of the Council of 17 May 2006 on statutory 
+audits of annual accounts and consolidated  accounts, amending Council Directives 78/660/EEC and 
+83/349/EEC and repealing Council Directive 84/253/EEC (OJ L 157, 9.6.2006, p. 87, 
+ELI: http://data.europa.eu/eli/dir/2006/43/oj). 
+23 Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual 
+financial statements, consolidated financial statements and related reports of certain types of 
+undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and 
+repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19, ELI: 
+http://data.europa.eu/eli/dir/2013/34/oj). 
+24 Directive (EU) 2022/2464 of the European Parliament and of the Council of 14 December 2022 
+amending Regulation (EU) No 537/2014, Directive 2004/109/EC, Directive 2006/43/EC and Directive
+
+--- PDF SEITE 23 ---
+EN 22  EN 
+of the Council 25, whilst maintaining the policy objectives of the European Green 
+Deal26, and the Sustainable Finance Action Plan27.  
+(3) Article 26a(1) of Directive 2006/43/E C requires Member States to ensure that 
+statutory auditors and audit firms carry out the assurance of sustainability reporting in 
+compliance with limited assurance standards to be adopted by the Commission. Article 
+26a(3) of that Directive requires the Commission to adopt those standards by 1 
+October 2026. Undertakings have raised c oncerns on the work carried out  by the 
+assurance providers and have expressed the need for flexibility in addressing specific 
+risks and critical issues identified in th e areas of sustainability assurance . To enable 
+the Commission to take account of those concerns, it should be given more flexibility 
+in adopting those standards. In any case, the Commission wil l issue targeted assurance 
+guidelines by 2026 that clarify the necessary procedures that assurance providers are 
+to perform as part of their limited assurance engagement  before adopting the standards 
+by delegated act. 
+(4) Article 26a(3), second subparagraph, of Directive 2006/43/E C empowers the 
+Commission to adopt standards for reasonable assurance by 1 October 2028, following 
+an assessment of feasibility . To avoid an increas e in costs of assurance for 
+undertakings, the requirement to adopt such standards for reasonable assurance  should 
+be removed.  
+(5) Article 19a (1) of Directive 2013/34/EU requires large undertakings and small and 
+medium-sized undertakings with securities admitt ed to trading on an EU regulated 
+market, excluding micro -undertakings, to prepare and publish a  sustainability 
+statement at individual level. To reduce the reporting burden on undertakings, the 
+obligation to prepare and publish a sustainability statement a t individual level should 
+be reduced to large undertakings with an average of more than 1000 employees during 
+the financial year. Considering that for an undertaking to be large it has to exceed two 
+out of the three criteria in Article 3(4) of Directive 2013/34/EU, this means that to be 
+subject toto the reporting requirements an undertakings must have an average of more 
+than 1000 employees during the financial year and either a net turnover above EUR 50 
+million or a balance sheet total above EUR 25 million.  
+(6) A balance ne eds to be found between the objectives of data generation and reduction 
+of administrative burden. Sustainability rep orting, including the information referred 
+to in Article 8 of Regulation (EU) 2020/852  of the European Parliament and of the 
+Council28, of large undertakings with an average of more than 1000 employees  during 
+the financial year  is indispensable to understa nd the transition to a climate -neutral 
+ 
+2013/34/EU, as regards corporate sustainability reporting (OJ L 322, 16.12.2022, p. 15, ELI: 
+http://data.europa.eu/eli/dir/2022/2464/oj). 
+25 Directive (EU) 2024/1760 of the European Parliament and of the Council of 13 June 2024 on corporate 
+sustainability due diligence and amending Directive (EU) 2019/1937 and Regulation (EU) 2023/2859 
+(OJ L, 2024/1760, 5.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1760/oj). 
+26 Communication from the Commission to the European Parliament, the European Council, the Council, 
+the European Economic and Social Committee and the Committee of the Regions of 11 December 
+2019, ‘The European Green Deal’, COM/2019/640 final. 
+27 Communication from the Commission to the European Parliament, the European Council, the Council, 
+the European Central Bank, the European Economic and Social Committee and the Committee of the 
+Regions of 8 March 2018, ‘Action Plan: Financing Sustainable Growth’, COM/2018/097 final. 
+28 Regulation (EU) 2020/852  of the European Parliament and of the Council of 18 June 2020 on the 
+establishment of a framework to facilitate sustainable investment, and amending Reg ulation (EU) 
+2019/2088 (OJ L 198, 22.6.2020, p. 13, ELI: http://data.europa.eu/eli/reg/2020/852/oj).
+
+--- PDF SEITE 24 ---
+EN 23  EN 
+economy. In the light of the balance to be found between the objectives of data 
+generation and reduction of administrative burden, large undertakings within the new 
+scope for sustainability reporting that have a net turnover not exceeding EUR 450 000 
+000 during the financial year should be able to disclose information referred to in 
+Article 8 of Regulation (EU) 2020/852 in a more flexible way . The Commission 
+should be empowered to set out rules supplementing the reporting regime for those 
+undertakings. It should in particular be clarified that the Commission is empowered to 
+specify the reporting regime for activities that are only partially taxonomy aligned. 
+(7) Article 1(3) of Directive 2013/34/EU specifies that  credit institutions and insurance 
+undertakings that are large undertakings or small and medium -size undertakings – 
+excluding micro-undertakings – with securities admitted to trading on an EU regulated 
+market are subject to the sustainability reporting requirements set out in that Directive, 
+regardless of their legal form. Considering that the scope of individual sustainability 
+reporting should be reduced to large undertakings with an average of more than 1000 
+employees during the financial year, that reduction in scope should also apply to credit 
+institutions and insurance undertakings.  
+(8) The European Financial Stability Facility (EFSF) established by the EFSF Framework 
+Agreement is subject to the sustainability reporting requirements set out in Directive 
+2013/34/EU, although it is  exempted from the sustainability reporting regime set out 
+in Directive 2004/109/EC of the European Parliament and of the Council 29 pursuant to 
+Article 8 of that Directive. Despite it being a large undertaking incorporated in a legal 
+form listed in Annex I to Directive 2013/34/EU, the EFSF  has a mandate - i.e. to 
+safeguard financial stability in the Union by providing temporary financial assistance 
+to Member States whose currency is the euro – that is largely similar to the one of the 
+European Stability Mechanism (ESM ), which is not subject to sustainability reporting 
+requirements. For the EFSF to benefit from the same treatment as the ESM as regards 
+sustainability reporting, and for consistency with the exemption regime provided by 
+Directive 2004/109/EC, the EFSF should be exempted from the regime on 
+sustainability reporting provided by Directive 2013/34/EU.  
+(9) Article 19a(3) of Directive 2013/34/EU requires undertakings to report information 
+about the undertaking’s own operations and about its value chain . It is necessary t o 
+reduce the reporting burden for undertakings in the value chain that are not required to 
+report on their sustainability . The reporting undertaking, for the purposes of reporting 
+sustainability information  at individual or at consolidated level, as required by 
+Directive 2013/34/EU, and without prejudice to Union requirements to conduct a due 
+diligence process, should therefore not seek to obtain from undertakings established in 
+or outside of the Union in its value chain that have up to 1000 employees on average 
+during the financial year any information that goes beyond the information specified in 
+the standards for voluntary use  by undertakings that are not required to report on their 
+sustainability. The reporting undertaking should , however, be allowed to collect from 
+such undertakings in its value chain  any additional sustainability information that is 
+commonly shared between undertakings in the sector concerned. Undertakings 
+reporting on their value chain in accordance with those limitations should be deemed 
+to comply with the obligation to report on their sustainability. Assurance providers 
+ 
+29 Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the 
+harmonization of transparency requirements in relation to information about issuers whose securities are 
+admitted to trading on a regulated market and amending Directive 2001/34/EC (OJ L 39, 31.12.2004, p. 
+38, ELI: http://data.europa.eu/eli/dir/2004/109/oj).
+
+--- PDF SEITE 25 ---
+EN 24  EN 
+should prepare their assurance opinion respecting the obligation on undertakings not to 
+seek to obtain from undertaki ngs in their value chain that have up to 1000 employees 
+on average during the financial year any information that goes beyond the information 
+specified in the standards for voluntary use  by undertakings that are not required to 
+report on their sustainability. For that purpose, the Commission should be empowered 
+to adopt a delegated act to provide for sustainability reporting standards for voluntary 
+use by undertakings that are not required to report on their sustainability . Th ose 
+standards shoul d be proportionate to, and relevant  for, the capacities and the 
+characteristics of those undertakings and to the scale and complexity of their activities. 
+Those standards should also specify, where possible, the structure to be used to present 
+that information.  
+(10) Article 29c(1) of Directive 2013/34/EU allows small and medium -sized undertakings 
+with securities admitted to trading on an EU regulated market, small and non -complex 
+institutions and captive re(insurance) undertakings, to report sustainability information 
+in accordance with the limited set of standards to be adopted by the Commission.  
+Considering that small and medium -sized undertakings with securities admitted to 
+trading on an EU regulated market should be excluded from sustainability reporting, 
+the empowerment for the Commission to adopt delegated acts to provide for 
+sustainability reporting standards for those small and medium -sized undertakings 
+should be removed.  
+(11) Article 19a(7) of Directive 2013/34/EU allows small and medium -sized undertakings 
+with securities admitted to trading on an EU regulated market  to opt out from 
+sustainability reporting for the first two years of application  of th ose requirements . 
+Considering that small and medium -sized undertakings should be excluded from t he 
+sustainability reporting, the provision allowing for the two -year opt out s hould be 
+removed. 
+(12) Article 29a(1) of Directive 2013/34/EU requires parent undertakings of large groups to 
+prepare and publish a sustainability statement at consolidated level. To reduce the 
+reporting burden on those parent undertakings, the scope of that obligation should be 
+reduced to parent undertakings of large groups with an average of more than 1000 
+employees, on a consolidated basis, during the financial year.  
+(13) Article 29b(1), third subparagraph, Directive 2013/34/EU empowers the Commission 
+to adopt sector-specific reporting standards by way of delegated acts, with a first set of 
+such standards to be adopted by 30 June 2026. To avoid an increase in the number of 
+prescribed datapoints that undertakings should report, that empowerment should be 
+removed.   
+(14) Article 29b(4) of Directive 2013/34/EU requires sustainability reporting standards to 
+not specify disclosures requiring undertakings to obtain from small and medium-sized 
+undertakings in their value chain any information that goes beyond the information to 
+be disclosed pursuant to the sustainability reporting standards for small and medium -
+sized undertakings  with securities admitted to trading on an EU regulated mar ket. 
+Considering that small and medium -sized undertakings with securities admitted to 
+trading on an EU regulated market should be excluded from sustainability reporting, 
+and in order to reduce the reporting burden for undertakings in the value chain that are 
+not required to report on their sustainability , the  sustainability reporting standards 
+should not specify disclosures requiring undertakings to obtain from undertakings in 
+their value chain that have up to 1000 employees on average during the financial year 
+any information that goes beyond the information to be disclosed pursuant to the
+
+--- PDF SEITE 26 ---
+EN 25  EN 
+sustainability reporting standards for voluntary use by undertakings that are not 
+required to report on their sustainability.  
+(15) Article 29d of Directive 2013/34/EU requires undertakings subject to the requirements 
+in Articles 19a and 29a of that Directive to prepare their management report , or 
+consolidated management report, where applicable,  in the electronic reporting format 
+specified in Article 3 of Commission Delegated Regulation (EU) 2019/815 30 and to 
+mark up their sustainability reporting, including the disclosures provided for in Article 
+8 of Regulation (EU) 2020/852  of the European Parliament and of the Council 31, in 
+accordance with the electronic reporting format to be specified in that Delegated 
+Regulation. To provide clarity to undertakings, it should be specified that u ntil such 
+rules on the marking up are adopted by way of that a Delegated Regulation , for the 
+marking up of sustainability reporting is adopted , undertakings are should not be 
+required to mark-up their sustainability reporting. 
+(16) Article 33 (1) of Directive 2013/34/EU specifies that the members of the 
+administrative, management and supervisory bodies of an under taking have collective 
+responsibility for ensuring that the following documents are drawn up and published in 
+accordance with the requirements of th at Directive. To provide flexibility do for 
+undertakings and reduce their reporting burden, it should be specified that the 
+collective responsibility of the members of the administrative, management and 
+supervisory bodies of an undertaking for compliance  with the requirements of Article 
+29d of that Directive as regards the digitalisation of the management report is limited 
+to its publication in the single electronic format, including t he marking up of the 
+sustainability reporting therein.  
+(17) Pursuant to Article 40a(1), fourth and fifth subparagraph of Directive 2013/34/EU, a 
+subsidiary in the Union of a third -county undertaking that generates a net turnover of 
+more than EUR 150 million in the Union, or, in the absence of such subsidiary, a 
+branch in the Union that generates a net turnover of more than EUR 40 million, is to 
+publish and make accessible sustainability information at the group level of the third -
+country parent undertaking. To reach closer alignment with the criteria used to define 
+which undertakings are in the scope of Directive (EU) 2024/1760, the net turnover 
+threshold for the third-country undertaking should be raised from EUR 150  000 000 to 
+EUR 450  000 000. For reasons of consistency  and burden reduction , the size for a 
+subsidiary undertaking and a branch to be in scope of Article 40a  should be adjusted. 
+The size of the subsidiary undertaking should be that of a large undertaking, whilst the 
+net turnover criteria for the b ranch should be raised from EUR 40  000 000 to EUR 
+50 000 000, to align with the net turnover threshold for large undertakings.  
+(18) Article 5(2) , first s ubparagraph, of Directive (EU) 2022/2464 specifies the dates by 
+which the Member States are to apply  the sustainability reporting requirements set out 
+in Directive 2013/34/EU, with different dates depending on the size of the undertaking 
+concerned. Considering th at the scope of  the individual sustainability reporting 
+requirements should be reduced to include only large undertakings with more than 
+ 
+30 Commission Delegated Regulation (EU) 2018/815 of 17 December 2018 supplementing Directive 
+2004/109/EC of the European Parliament and of the Council with regard to regulatory technical 
+standards on the specification of a single electronic reporting format  (OJ L 143, 29.5.2019, p. 1 , ELI: 
+http://data.europa.eu/eli/reg_del/2019/815/oj). 
+31 Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the 
+establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 
+2019/2088 (OJ L 198, 22.6.2020, p. 13, ELI: http://data.europa.eu/eli/reg/2020/852/oj).
+
+--- PDF SEITE 27 ---
+EN 26  EN 
+1000 employees on average during the financial year , and that the scope of the 
+consolidated sustainability reporting requirements should be reduced accordingly, the 
+criteria for determining the dates of application  should be adjusted , and the reference 
+to small and medium-sized undertakings with securities admitted to trading on an EU 
+regulated market should be removed.  
+(19) Article 5(2), third subparagraph, of Directive (EU) 2022/2464 specifies the dates by 
+which the Member States are to apply the sustainability reporting requirements set out 
+in Directive  2004/109/EC, with different dates depending on the size of the issuer  
+concerned. Considering that the scope of the individual sustainability reporting 
+requirements should be reduced to include only large undertakings with more than 
+1000 employees on average during the financial year, and that the scope of the 
+consolidated sustainability reporting requirements should be reduced accordingly, the 
+criteria for determining the dates of application  should be adjusted, and the reference 
+to small and medium-sized undertakings should be removed.  
+(20) Article 4(1) of Directive (EU) 2024/1760 prohibits Member States from introducing, 
+in their national law, provisions within the field covered by the Directive laying down 
+human rights and environmental due diligence obligations diverging  from those laid 
+down in Article 8(1) and (2), and Article 10(1)  of that Directive . To ensure that 
+Member States do not go beyond th at Directive and to avoid the creation of a 
+fragmented regulatory landscape resulting in legal uncertainty and unnecessary 
+burden, the full harmonisation provisions of Directive (EU) 2024/1760  should be 
+expanded to additional provisions regulating the core aspects of the due diligence 
+process. Th at includes, in particular, the identification duty, the duties to address 
+adverse impacts that have been or should have been identified, the duties to engage 
+with stakeholders in certain cases , and the duty to provide for a complaints and 
+notification mechanism. At the same time, Member States should be allowed to 
+introduce more stringe nt or more specific p rovisions on other aspects, including  to 
+address emerging risks linked to new products or services.  
+(21) Article 5 of Directive (EU) 2024/1760 obliges Member States to ensure that  large 
+companies above a certain size conduct risk -based human rights and environmental 
+due diligence. To reduce burdens on companies that have to comply with that 
+obligation, the required due diligence should, as a general rule, be limited to the 
+company’s own operations, those of its subsidi aries and those of its direct business 
+partners (‘tier 1’). Consequently, when it comes to business relationships, companies 
+should, after having mapped their chains of activities, be required to carry out in-depth 
+assessments as regards direct business pa rtners only. Companies should , however,  
+look beyond their direct business relationships where they have plausible information 
+that suggests an adverse impact at the level of an indirect business partner. Plausible 
+information means information of an object ive character that allows the company to 
+conclude that there is a reasonable likelihood that the information is true.  This may be 
+the case where the company concerned has received a complaint or is in the possession 
+of information, for example through credible media or NGO reports, reports of recent  
+incidents, or through recurring problems at cert ain locations  about likely or actual 
+harmful activities at the level of an indirect  business partner.  Where the company has 
+such information, it should car ry out an in -depth assessment. Companies should also 
+carry out in -depth ass essments with respect to adverse impacts  arising beyond their 
+direct business partner where the structure of this business relationship lacks economic 
+rationale and suggests that it  was chosen to remove an otherwise direct supplier with 
+harmful activities from the purview of the company . Where the in-depth assessment
+
+--- PDF SEITE 28 ---
+EN 27  EN 
+confirms the likelihood or existence of the adverse impact, it should then be deemed to 
+be identified. In addition, companies should seek to ensure that their code of conduct – 
+which is part of their due diligence policy and sets out the expectations as to how to 
+protect human, including labour, rights and the environment in business operations – is 
+followed throughout th e chain of activities in accordance with contractual cascading 
+and SME support.  
+(22) To limit the trickle-down effect on small and medium -sized undertakings and small 
+midcap companies when it comes to mapping the value chain   to identify adverse 
+impacts, large companies should limit information requests to the information 
+specified in the standards for voluntary use referred to in Article 29a of Directive (EU) 
+2013/34/EU, unless they need additional information to carry out the ma pping and 
+they cannot obtain that information in any other reasonable way.  
+(23) Companies may find themselves in situations where their production heavily relies on 
+inputs from one or several specific suppliers. At the same time, where the business 
+operations of such a supplier are linked to severe adverse impacts,   including child 
+labour or significant environmental harm, and the company has unsuccessfully  
+exhausted all due diligence measures to address th ose impacts, the company, as a last 
+resort should susp end the business relationship while continuing to work with the 
+supplier towards a solution, where possible using any increased leverage resulting 
+from the suspension.   
+(24) To reduce burden s on companies  and make stakeholder engagement more 
+proportionate, companies should only have to engage with workers, their 
+representatives including trade unions, and individuals and communities whose rights 
+or interests are or could be directly affected by the products, services and operations of 
+the company, its subsidiaries and its business partners, and that have a link to the 
+specific stage of the due diligence process being carried out. That includes individuals 
+or communities in the neighbourhood of plants operat ed by business partners whe re 
+those individuals or communities  are directly affected by pollution, or indigenous 
+people whose right to lands or resources are directly affected by how a business 
+partner acquires, develops or otherwise uses land, forests or waters. Moreover, 
+stakeholder engagement should only be required for certain parts of the due diligence 
+process, namely at the identification stage, for the development of (enhanced) action 
+plans and when designing remediation measures. 
+(25) To reduce administrative burden s on companies,  the Commission’s deadline for the 
+adoption of general due diligence guidelines should be advanced  to 26 July 2026. In 
+parallel, the application deadline for Directive (EU) 2024/1760 for the fir st group of 
+companies should be deferred to 26 July 2028  in accor dance with Directive (EU) 
+XXX/XXX32. Th at two-year interval will should provide companies with sufficient 
+time to take into account the  practical guidance and best practice s included in the 
+Commission’s guidelines when implementing due diligence measures.  
+(26) To ensure better alignment of Directive (EU) 2024/1760 with the sustainability 
+reporting regime laid down in Directive (EU) 2022/2464 , the requirement to put into 
+effect the transition plan for climate change mit igation should be replaced by a  
+clarification that the obligation of companies to adopt a transition plan includes 
+outlining implementing actions, planned and taken . The obligation to adopt the plan 
+and its initial and updated design remains subject to administrative supervision.  
+ 
+32 Directive (EU) 2025/XX of ……….
+
+--- PDF SEITE 29 ---
+EN 28  EN 
+(27) Article 27(1) of Directive EU 2024/1760  requires Member States to lay down 
+penalties that are to be “effective, proportionate and dissuasive ”. Article 27(2) of that 
+Directive requires Member States, when  deciding whether to impose penalties and, if 
+so, when determining their nature and appropriate level, to take due account of a series 
+of factors that determine the gravity of the infringement and attenuating or aggravating 
+circumstances. Article 27(4) of that Directive requires Member States to base any 
+imposed pecuniary penalties on the net worldwide turnover of the company concerned. 
+However, given the fact that Member States already have to take into account the 
+series of factors laid down in Article 27(2) of that directive, the need to base pecuniary 
+penalties on the net worldwide tur nover of the company concerned is superfluous.  
+However, to ensure a level playing field across the Union, Member States should be 
+prohibited from introducing in their nati onal law a ceiling or cap for any pecuniary 
+penalties imposed on companies under their jurisdiction that would prevent 
+supervisory authorities from imposing penalties in accordance with the factors laid 
+down in Article 27(2) . Moreover, to harmonise enforce ment practices across the 
+Union, the Commission, in collaboration with the Member States, should develop 
+guidelines to assist supervisory authorities in determining the level of penalties.  
+(28) To limit possible litigation risks  linked to the harmonised civil liability regime of 
+Directive (EU) 2024/1760 , the specific, Union-wide liability regime currently 
+provided for in Article 29(1) of that Directive should be removed. At the same time, as 
+a matter of both international and Union law, Member States should be  required to 
+ensure that victims of adverse impacts have effective access to justice and to guarantee 
+their right to an effective remedy, as enshrined in Article 2(3) of the International 
+Covenant on Civil and Political Rights, Article 8 of the Universal Declaration of 
+Human Rights, Article 9(3) of the Convention on Access to Information, Public 
+Participation in  Decision-making and Access to Justice in Environmental Matters 
+(Aarhus Convention) and Article 47 of the EU Charter of Fundamental Rights. 
+Member States  should therefore ensure that, in case a company is held liable for a 
+failure to comply with the due di ligence requirements laid down in  Directive (EU) 
+2024/1760, and that where such failure caused damage, victims are able to receive full 
+compensation, which should be granted in accordance with the principles of 
+effectiveness and equivalence, while balancing this through safeguards should prevent 
+against overcompensation . In view of the different rules and traditions that exist at 
+national level when it comes to allowing representative actions, the specific 
+requirement in th at regard in Directive (EU) 2024/1 760 should be deleted.  Such 
+deletion is without prejudice to any provision of the applicable national law allowing a 
+trade union, non-governmental human rights or environmental organisation, other non-
+governmental organisation or  a national human rights in stitution to bring actions to 
+enforce the rights of the alleged injured party , or to support such actions brought 
+directly by such party. Furthermore, for the same reason, the requirement for Member 
+States to ensure that the liability rules are of overriding mandatory application in cases 
+where the law applicable to claims to that effect is not the national law of the Member 
+State should be deleted. That deletion does not restrict the possibility for Member 
+States to provide that the provisions of national law transposing Article 29 of Directive 
+EU 2024/1760 are of overriding mandatory application in accordance with Art icle 16 
+of Regulation (EC) No 864/2007, in cases where the law applicable to claims to that 
+effect is not the national law of a Member State. 
+(29) Article 36(1) of  Directive (EU) 2024/1760 requires the Commission to submit by no 
+later than 26 July 2026 a report to the European Parliament and to the Council on the 
+necessity of laying down additional sustainability due diligence requirements tailored
+
+--- PDF SEITE 30 ---
+EN 29  EN 
+to regulated financial undertakings with respect to the provision of financial s ervices 
+and investment activities, and the options for such due diligence requirements a nd 
+their impacts. As th at review clause does not leave any time to take into account the 
+experience with the newly established, general due diligence framework, it shou ld be 
+removed. 
+(30) Since the objectives of this Directive cannot be sufficiently achieved by the Member 
+States but can rather, by reason of the scale or effects of the action, be better achieved 
+at Union level, the Union may adopt measures, in accordance with the principle of 
+subsidiarity as set out in Article 5 of the Treaty on European Union. In accordance 
+with the principle of proportionality as set out in that Article, this Directive does not 
+go beyond what is necessary in order to achieve those objectives. 
+(31) Directive 2006/43/EC, Directive 2013/34/EU, Directive (EU) 2022/2464 and Directive 
+(EU) 2024/1760 should therefore be amended accordingly, 
+HAVE ADOPTED THIS DIRECTIVE: 
+Article 1 
+Amendments to Directive 2006/43/EC 
+Directive 2006/43/EC is amended as follows: 
+(1) in Article 26a, paragraph 3 is replaced by the following: 
+‘3. The Commission shall be empowered to adopt delegated acts in accordance 
+with Article 48a in order to supplement this Directive in order to provide for  limited 
+assurance standards setting out t he procedures that the auditor(s) and the audit 
+firm(s) shall perform in order to draw his, her or its conclusions on the assurance of 
+sustainability reporting, including engagement planning, risk consideration and 
+response to risks and type of conclusions  to be included in the assurance report on 
+sustainability reporting, or, where relevant, in the audit report. 
+The Commission may adopt the assurance standards referred to in the first 
+subparagraph only where those standards: 
+(a) have been developed with proper due process, public oversight and 
+transparency; 
+(b) contribute a high level of credibility and quality to the annual or consolidated 
+sustainability reporting; and 
+(c) are conducive to the Union public good.’; 
+(2) in Article 48a(2), the second subparagraph is replaced by the following: 
+‘The power to adopt delegated acts referred to in Article 26a( 3) shall be conferred on 
+the Commission for an indeterminate period of time.’. 
+Article 2 
+Amendments to Directive 2013/34/EU 
+Directive 2013/34/EU is amended as follows: 
+(1) Article 1 is amended as follows:
+
+--- PDF SEITE 31 ---
+EN 30  EN 
+(a) in paragraph 3, the introductory wording is replaced by the following: 
+‘The coordination measures prescribed by Articles 19a, 19b, 29a, 29aa, 29d, 30 
+and 33, Article 34(1) , second subparagraph, point (aa) , Article 34(2) and (3) , 
+and Article 51 of this Directive shall also apply to the laws, regulations and 
+administrative provisions of the Member States relating to the following 
+undertakings regardless of their legal form, provided that those undertakings 
+are large undertakings which, on their balance sheet dat es, exceed the average 
+number of 1000 employees  during the financial year:’; 
+(b) paragraph 4 is replaced by the following: 
+‘4. The coordination measures prescribed by Articles 19a, 29a and 29d 
+shall not apply to the European Financial Stability Facility (EFSF) established 
+by the EFSF Framework Agreement nor to financial products listed in Article 
+2, point (12) , (b) and (f) of Regulation (EU) 2019/2088 of the European 
+Parliament and of the Council*. 
+_____________________________________________ 
+* Regulation (EU) 2019/2088 of the European Parliament and of the Council of 
+27 November 2019 on sustainability -related disclosures in the financial 
+services sector (OJ L 317, 9.12.2019, p. 1, ELI: 
+http://data.europa.eu/eli/reg/2019/2088/oj).’; 
+(2) Article 19a is amended as follows: 
+(a) in paragraph 1, the first subparagraph is replaced by the following: 
+‘Large undertakings which, on their balance sheet dates, exceed the average 
+number of 1000 employees during the financial year shall include in the ir 
+management report information necessary to understand the undertaking’s 
+impacts on sustainability matters, and information necessary to understand how 
+sustainability matters  affect the undertaking’s development, performance and 
+position.’; 
+(b) paragraph 3 is amended as follows: 
+(i) the first subparagraph is replaced by the following: 
+‘Where applicable, the information referred to in paragraphs 1 and 2 shall 
+contain information about the undertaking’s own operations and about its 
+value chain, including its products and services, its business relationships 
+and its supply chain. Member States shall ensure that, for the reporting of 
+sustainability information as required by this Directive, undertakings do 
+not seek to obtain from undertakings in their value chain which, on their 
+balance sheet dates, do not exceed the average numbe r of 1000 
+employees during the financial year  any  information that exceeds the 
+information specified in the standards for voluntary use referred to in 
+Article 29ca, except  for additional sustainability information that is 
+commonly shared between undertaki ngs in the sector concerned. 
+Undertakings that report the necessary value chain information without 
+reporting from undertakings in their value chain which, on their balance 
+sheet dates, do not exceed the average number of  1000 employees during 
+the financial year  any information that exceeds the information specified 
+in the standards for voluntary use referred to in Article 29ca, except for 
+additional sustainability information that is commonly shared between
+
+--- PDF SEITE 32 ---
+EN 31  EN 
+undertakings in the sector concerned, shall be d eemed to have complied 
+with the obligation to report value chain information set out in this 
+paragraph.’;  
+(ii) the following subparagraph is added: 
+‘The first subparagraph is without prejudice to Union requirements on 
+undertakings to conduct a due diligence process.’; 
+(c) paragraphs 6 and 7 are deleted; 
+(3) the following Article 19b is inserted: 
+‘Article 19b 
+Optional taxonomy reporting for certain undertakings 
+1. Member States shall ensure that, b y way of derogation from Article 8 of 
+Regulation (EU) 2020/852 , undertakings as referred to in Article 19a(1) of this 
+Directive which, on their balance sheet dates, do not exceed a net turnover of EUR 
+450 000 000 during the financial year shall apply the paragraphs 2, 3 and 4 of this 
+Directive. 
+2. An undertaking as referred to in paragraph 1 that claims that its activities are 
+associated with economic activities that qualify as environmentally sustainable under 
+Articles 3 and 9 of Regulation (EU) 2020/852 or with economic activities that  fulfil 
+only certain requirements of that provision shall include in its management report 
+information on how and to what extent its activities are associated with those 
+economic activities.  
+3. In particular, a non -financial undertaking that claims that its activities are 
+associated with economic activities that qualify as environmentally sustainable under 
+Articles 3 and 9 of Regulation (EU) 2020/852 shall disclose the following indicators:  
+(a) the proportion of its turnover derived from products or services associated with 
+economic activities that qualify as environmentally sustainable under Articles 3 
+and 9 of that Regulation;  
+(b) the proportion of its capital expenditure related to assets or processes 
+associated with economic activities that qualify as environmentally sustainable 
+under Articles 3 and 9 of that Regulation. 
+A non -financial undertaking that discloses the indicators referred to in the first 
+subparagraph may disclose the proportion of its operating expenditure  related to 
+assets or processes associated with economic activities that qualify as 
+environmentally sustainable under Articles 3 and 9 of Regulation (EU) 2020/852. 
+4. In particular, a non -financial undertaking that claims that its activities are 
+associated with economic activities that fulfil only certain requirements of Article  3 
+of Regulation (EU) 2020/852 shall disclose the following indicators: 
+(a) the proportion of its turnover derived from products or services associated with 
+economic activities fulfi lling only certain requirements of Article 3 of that 
+Regulation; 
+(b) the proportion of its capital expenditure related to assets or processes 
+associated with economic activities that fulfil only certain requirements of 
+Article 3 of that Regulation;
+
+--- PDF SEITE 33 ---
+EN 32  EN 
+A non -financial undertaking that discloses the indicators referred to in the first 
+subparagraph may disclose the proportion of its operating expenditure related to 
+assets or processes associated with economic activities that fulfil only certain 
+requirements of Article 3 of Regulation (EU) 2020/852. 
+5. The Commission shall adopt a delegated act in accordance with Article 49 of 
+this Directive to supplement paragraphs 1, 2, 3 and 4 of this  Article to specify the 
+content and presentation of the information to be disclosed pursuant to those 
+paragraphs, including the content of the information concerning economic activities 
+that fulfil only certain of the criteria set out in Article 3 of Regul ation (EU) 
+2020/852, and the methodology to be used in order to comply with them, taking into 
+account the specificities of both financial and non -financial undertakings and the 
+technical screening criteria established pursuant to that Regulation.’; 
+(4) Article 29a is amended as follows: 
+(a) in paragraph 1, the first subparagraph is replaced by the following: 
+‘Parent undertakings of a large group which, on their balance sheet dates, 
+exceed the average number of 1000 employees, on a consolidated basis, during 
+the fin ancial year, shall include in the consolidated management report 
+information necessary to understand the group’s impacts on sustainability 
+matters, and information necessary to understand how sustainability matters 
+affect the group’s development, performance and position.’; 
+(b) paragraph 3 is amended as follows: 
+(i) the first subparagraph is replaced by the following: 
+‘Where applicable, the information referred to in paragraphs 1 and 2 shall 
+contain information about the group’s own operations and about its value 
+chain, including its products and services, its business relationships and 
+its supply chain. Member States sh all ensure that, for the reporting of 
+sustainability information as required by this Directive, undertakings do 
+not seek to obtain from undertakings in their value chain which, on their 
+balance sheet dates, do not exceed the average number of   1000 
+employees during the financial year any information that exceeds the 
+information specified in the standards for voluntary use referred to in 
+Article 29ca, except for additional sustainability information that is 
+commonly shared between undertakings in the sector concerned. 
+Undertakings that report the necessary value chain information without 
+reporting from undertakings in their value chain which, on their balance 
+sheet dates, do not exceed the average number of  1000 employees during 
+the financial year any information that exceeds the information specified 
+in the standards for voluntary use referred to in Article 29ca, except for  
+additional sustainability information that is commonly shared between 
+undertakings in the sector concerned, shall be deemed to have compl ied 
+with the obligation to report value chain information set out in this 
+paragraph.’; 
+(ii) the following subparagraph is added: 
+‘The first subparagraph is without prejudice to Union requirements on 
+undertakings to conduct a due diligence process.’; 
+(5) the following Article 29aa is inserted:
+
+--- PDF SEITE 34 ---
+EN 33  EN 
+‘Article 29aa 
+Optional taxonomy reporting for certain parent undertakings 
+1. Member States shall ensure that, by way of derogation from Article 8 of 
+Regulation (EU) 2020/852,  parent undertakings as referred to in Article 29a(1)  of 
+this Directive which, on their balance sheet dates , do not exceed a net turnover of 
+EUR 450 000 000 , on a consolidated basis,  during the financial year shall apply the 
+paragraphs 2, 3 and 4 of this Directive. 
+2. A parent undertaking as referred to in paragraph 1 that claims that its activities 
+are associated with economic activities that qualify as environmentally sustainable 
+under Articles 3 and 9 of Regulation (EU) 2020/852 or with economic activitie s that 
+fulfil only certain requirements of that provision shall include in its management 
+report information on how and to what extent its activities are associated with those 
+economic activities.  
+3. In particular, a non -financial parent undertaking that claims that its activities 
+are associated with economic activities that qualify as environmentally sustainable 
+under Article s 3 and 9  of Regulation (EU) 2020/852 shall disclose the following 
+indicators:  
+(a) the proportion of its turnover derived from products or services associated with 
+economic activities that qualify as environmentally sustainable under Articles 3 
+and 9 of that Regulation;  
+(b) the proportion of its capital expenditure related to assets or processes 
+associated with economic activitie s that qualify as environmentally sustainable 
+under Articles 3 and 9 of that Regulation. 
+A non-financial parent undertaking that discloses the indicators referred to in the first 
+subparagraph may disclose the proportion of its operating expenditure related  to 
+assets or processes associated with economic activities that qualify as 
+environmentally sustainable under Articles 3 and 9 of that Regulation. 
+4. In particular, a non -financial parent undertaking that claims that its activities 
+are associated with economic activities that fulfil only certain requirements of Article 
+3 of Regulation (EU) 2020/852 shall disclose the following indicators: 
+(a) the proportion of its turnover derived from products or services associated with 
+economic activities fulfilling only  certain requirements of Article 3 of that 
+Regulation; 
+(b) the proportion of its capital expenditure related to assets or processes 
+associated with economic activities that fulfil only certain requirements of 
+Article 3 of that Regulation; 
+A non-financial parent undertaking that discloses the indicators referred to in the first 
+subparagraph may disclose the proportion of its operating expenditure related to 
+assets or processes associated with economic activities that fulfil only certain 
+requirements of Article 3 of that Regulation. 
+5. The Commission shall adopt a delegated act in accordance with Article 49 of 
+this Directive to supplement paragraphs 1, 2, 3 and 4 of this Article to specify the 
+content and presentation of the information to be disclosed pursuan t to those 
+paragraphs, including the content of the information concerning economic activities 
+that fulfil only certain of the criteria set out in Article 3 of Regulation (EU)
+
+--- PDF SEITE 35 ---
+EN 34  EN 
+2020/852, and the methodology to be used in order to comply with them, taking in to 
+account the specificities of both financial and non -financial undertakings and the 
+technical screening criteria established pursuant to this Regulation.’; 
+(6) Article 29b is amended as follows: 
+(a) in paragraph 1, the third and fourth subparagraphs are deleted; 
+(b) in paragraph 4, first subparagraph, the last sentence is replaced by the 
+following: 
+‘Sustainability reporting standards shall not specify disclosures that would 
+require undertakings to obtain from undertakings in their value chain which, on 
+their balance sheet dates, do not exceed the average number of 1000 employees 
+during the financial year any information that exceeds the information to be 
+disclosed pursuant to the sustainability reporting standards for voluntary use 
+referred to in Article 29ca.’; 
+(7) Article 29c is deleted; 
+(8) the following Article 29ca is inserted: 
+‘Article 29ca 
+Sustainability reporting standards for voluntary use 
+1. To facilitate voluntary reporting of sustainability information by undertakings 
+other than those referred to in Articles 19a(1) and 29a(1), the Commission shall 
+adopt a delegated act by [ 4 months after entry into force of this Directive ] in 
+accordance with Article 49 supplementing this Directive to provide for sustainability 
+reporting standards for voluntary use by such undertakings. 
+2. The sustainability reporting standards referred to in paragraph 1  shall be 
+proportionate to and relevant for the capacitie s and the characteristics of the 
+undertakings for which they are designed and to the scale and complexity of their 
+activities. They shall also, to the extent possible, specify the structure to be used to 
+present such sustainability information.’; 
+(9) Article 29d is replaced by the following:  
+‘Article 29d 
+Single electronic reporting format 
+1. Undertakings subject to the requirements of Article 19a of this Directive shall 
+prepare their management report in the electronic reporting format specified in 
+Article 3 of Commission Delegated Regulation (EU) 2019/815 * and shall mark up 
+their sustainability reporting, including the disclosures provided for in Article 8 of 
+Regulation (EU) 20 20/852, in accordance with the electronic reporting format to be 
+specified in that Delegated Regulation. Until such rules on the marking up are 
+adopted by way of that  Delegated Regulation, undertakings shall not be required to 
+markup their sustainability reporting. 
+2. Parent undertakings subject to the requirements of Article 29a shall prepare 
+their consolidated management report in the electronic reporting format specified in 
+Article 3 of Delegated Regulation (EU) 2019/815 and shall mark up their
+
+--- PDF SEITE 36 ---
+EN 35  EN 
+sustainability reporting, including the disclosures provided for in Article 8 of 
+Regulation (EU) 2020/852, in accordance with the electronic reporting format to be 
+specified in that Delegated Regulation. Until such rules on the marking up are 
+adopted by way of that Delegated Regulation, parent undertakings shall not be 
+required to markup their sustainability reporting.; 
+_____________________________________________ 
+* Commission Delegated Regulation (EU) 2018/815 of 17 December 2018 
+supplementing Directive 2004/109/EC of the European Parliament and of the 
+Council with regard to regulatory technical standards on the specification of a single 
+electronic reporting format (OJ L 143, 29.5.2019, p. 1, ELI: 
+http://data.europa.eu/eli/reg_del/2019/815/oj).’;  
+(10) in Article 33, paragraph 1 is replaced by the following: 
+‘1. Member States shall ensure that the members of th e administrative, 
+management and supervisory bodies of an undertaking, acting within the 
+competences assigned to them by national law, have collective responsibility for 
+ensuring that the following documents are drawn up and published in accordance 
+with the requirements of this Directive and, where applicable, with the international 
+accounting standards adopted pursuant to Regulation (EC) No 1606/2002, with 
+Delegated Regulation (EU) 2019/815, with the sustainability reporting standards 
+referred to in Articl e 29b of this Directive , and with the requirements of Article 29d 
+of this Directive: 
+(a) the annual financial statements, the management report and the corporate 
+governance statement when provided separately; and 
+(b) the consolidated financial statements, the consolidated management reports and 
+the consolidated corporate governance statement when provided separately. 
+By way of derogation from subparagraph 1, Member States shall ensure that the 
+members of the administrative, management and supervisory bodies  of an 
+undertaking, acting within the competences assigned to them by national law, do not 
+have collective responsibility for ensuring that the management report , or 
+consolidated management report, where applicable,  is prepared in accordance with 
+Article 29d.’;  
+(11) Article 34 is amended as follows: 
+(a) paragraph 1, second subparagraph, point (aa), is replaced by the following: 
+‘(aa) where applicable, express an opinion based on a limited assurance 
+engagement as regards the compliance of the sustainability reporting with 
+the requirements of this Directive, including the compliance of the 
+sustainability reporting with the sustainability reporting standards 
+adopted pursuant to Article 29b, the process carried out by the 
+undertaking to ident ify the information reported pursuant to those 
+sustainability reporting standards, and the compliance with the 
+requirement to mark up sustainability reporting in accordance with 
+Article 29d, and as regards the compliance with the reporting 
+requirements provided for in Article 8 of Regulation (EU) 2020/852;’; 
+(b)  the following paragraph 2a is inserted:
+
+--- PDF SEITE 37 ---
+EN 36  EN 
+‘2a. Member States shall ensure that the opinion referred to in paragraph 1, 
+second subparagraph, point (aa), is prepared in full respect of the obligation on 
+undertakings not to seek to obtain from undertakings in their value chain 
+which, on their balance sheet dates, do not exceed the average number of  1000 
+employees during the financial year any information that exceeds the 
+information specified in the standards for voluntary use referred to in Article 
+29ca, except for additional sustainability information that is commonly shared 
+between undertakings in the sector concerned.’;  
+(12) in Article 40a, paragraph 1 is amended as follows: 
+(a) the second subparagraph is replaced by the following: 
+‘The first subparagraph shall only apply to  large subsidiary undertakings  as 
+defined in Article 3(4) of this Directive’; 
+(b) the fourth and fifth subparagraphs are replaced by the following: 
+‘The rule referred to in the third subparagraph shall only apply to a branch 
+where the third-country undertaking does not have a subsidiary undertaking as 
+referred to in the first subparagraph, and where the branch generated a net 
+turnover exceeding the thr eshold referred to in Article 3(4) point (b) of this 
+Directive in the preceding financial year. 
+The first and third subparagraphs shall only apply to the subsidiary 
+undertakings or branches referred to in those subparagraphs where the third -
+country undertaking, at its group level, or, if not applicable, the individual 
+level, generated a net turnover in the Union exceeding EUR 450 000 000 for 
+each of the last two consecutive financial years.’; 
+(13) Article 49 is amended as follows: 
+(a) the following paragraphs 3c to 3e are inserted: 
+‘3c. The power to adopt delegated acts referred to in Articles 19b(5) ,  
+29aa(5) and 29ca shall be conferred on the Commission for an indeterminate 
+period from [date of entry into force of amending Directive]. 
+3d. The delegations of powers referred to in Articles 19b(5) , 29aa(5) and 
+29ca may be revoked at any time by the European Parliament or by the 
+Council. A decision to revoke shall put an end to the delegation of the power 
+specified in that decision. It shall take effect the day following the publication 
+of the decision in the  Official Journal of the European Union  or at a later date 
+specified therein. It shall not affect the validity of any delegated acts already in 
+force. 
+3e. The Commission shall gather all necessary expertise, prior to the 
+adoption and during the development of dele gated acts  pursuant to Articles 
+19b(5) and 29aa(5) , including through the consultation of the experts of the 
+Member State Expert Group on Sustainable Finance referred to in Article 24 of 
+Regulation (EU) 2020/852.’; 
+(b) paragraph 5 is replaced by the following: 
+‘5. A delegated act adopted pursuant to Article  1(2), Article 3(13), Article 
+19b, Article 29aa, Articles 29b, 29c a or 40b, or Article  46(2) shall enter into 
+force only if no objection has been expressed either by the European 
+Parliament or the Council wit hin a period of two months of notification of that
+
+--- PDF SEITE 38 ---
+EN 37  EN 
+act to the European Parliament and the Council or if, before the expiry of that 
+period, the European Parliament and the Council have both informed the 
+Commission that they will not object. That period shal l be extended by two 
+months at the initiative of the European Parliament or the Council.’. 
+Article 3 
+Amendments to Directive (EU) 2022/2464  
+In Directive (EU) 2022/2464, Article 5(2) is amended as follows: 
+(1) the first subparagraph is amended as follows:  
+(a) point (a) is deleted; 
+(b) point (b) is amended as follows: 
+(i) point (i) is replaced by the following: 
+‘(i) to large undertakings which, on their balance sheet dates, exceed 
+the average number of 1000 employees during the financial year;’; 
+(ii) point (ii) is replaced by the following: 
+‘(ii) to parent undertakings of a large group which, on their balance 
+sheet dates, exceed the average number of  1000 employees , on a 
+consolidated basis, during the financial year;’; 
+(c) point (c) is deleted; 
+(2) the third subparagraph is amended as follows: 
+(a) point (a) is deleted;  
+(b) point (b) is amended as follows: 
+(i) point (i) is replaced by the following: 
+‘(i) to issuers as defined in Article 2(1) , point (d ) of Directive 
+2004/109/EC which are large undertakings within  the meaning of 
+Article 3(4) of Directive 2013/34/EU which, on their balance sheet 
+dates, exceed the average number of  1000 employees during the 
+financial year;’; 
+(ii) point (ii) is replaced by the following: 
+‘(ii) to issuers as defined in Article 2(1) , point (d ) of Directive 
+2004/109/EC which are parent undertakings of a large group 
+which, on its balance sheet dates, exceed the average number of  
+1000 employees , on a consolidated basis , during the financial 
+year;’; 
+(c) point (c) is deleted. 
+Article 4 
+Amendments to Directive (EU) 2024/1760 
+Directive (EU) 2024/1760 is amended as follows:
+
+--- PDF SEITE 39 ---
+EN 38  EN 
+(1) in Article 1(1), point (c) is replaced by the following: 
+‘(c) the obligation for companies to adopt a transition plan for climate change 
+mitigation, including implementing actions which aim to ensure, through best 
+efforts, compatibility of the business model and of the strategy of the company 
+with the transition to a sustainable economy and with the limiting of global 
+warming to 1,5 oC in line with the Paris Agreement.’; 
+(2) in Article 3(1), point (n) is replaced by the following: 
+‘(n) ‘stakeholders’ means the company’s employees, the employees of its 
+subsidiaries and of its business partners, and their trade unions and workers’ 
+representatives, and individuals or communities whose rights or interests are or 
+could be directly affected by the products, services and operations of the 
+company, its subsidiaries and its business partners and the legitimate 
+representatives of those individuals or communities;’; 
+(3) Article 4 is replaced by the following: 
+‘Article 4 
+Level of harmonisation 
+1. Without prejudice to Article 1(2) and (3), Member States shall not introduce, 
+in their national law, provisions within the field covered by this Directive laying 
+down human rights and environmental due diligence obligations diverging from 
+those laid down in Article s 6 and 8, Article 10(1) to (5), Article 11(1) to (6 ) and 
+Article 14. 
+2. Notwithstanding paragraph 1, this Directive shall not preclude Member States 
+from introduci ng, in their national law, more stringent provisions diverging from 
+those laid down in provisions other than Article s 6 and, 8, Article 10(1) to (5), 
+Article 11(1) to (6 ) and Article 14 , or provisions that are more specific in terms of 
+the objective or the field covered,  including by regulating specific products, services 
+or situations , in order to achieve a different level of protection of human, 
+employment and social rights, the environment or the climate.’;  
+(4) Article 8 is amended as follows: 
+(a) in paragraph 2, point (b) is replaced by the following: 
+‘(b) based on the results of the mapping as referred to in point (a), carry out 
+and in -depth assessment of their own opera tions, those of their 
+subsidiaries and, where related to their chains of ac tivities, those of their 
+direct business partners, in the areas where adverse impacts were 
+identified to be most likely to occur and most severe.’;  
+(b) the following paragraph 2a is inserted: 
+‘2a. Where a company has plausible information that suggests that adverse 
+impacts at the level of the operations of an indirect business partner have arisen 
+or may arise , it shall carry out an in -depth assessment. The company shall 
+always carry out such an assessment where the indirect, rat her than  direct, 
+nature of the relationship with the business partner is the result of an artificial 
+arrangement that does not reflect economic reality but points to a 
+circumvention of paragraph 2 , point (b) . Where the assessment confirms the
+
+--- PDF SEITE 40 ---
+EN 39  EN 
+likelihood or  existence of the adverse impact, it is deemed to have been 
+identified.  
+The first subparagraph  is without prejudice to the company considering 
+available information about indirect business partners and whether those 
+business partners can follow the rules and principles set out in the company’s 
+code of conduct when selecting a direct business partner.  
+Notwithstanding the first subparagraph, irrespective of whether plausible 
+information is available about indirect business partners, a company shall seek 
+contractual assurances from a direct business partner that that business partner 
+will ensure compliance with the company’s code of conduct by establishing 
+corresponding contractual assurances from its business partners . Article 10(2), 
+points (b) and (e) shall apply accordingly.’; 
+(c) paragraph 4 is replaced by the following:  
+‘4. Where information necessary for the in -depth assessment provided for 
+in paragraph 2, point (b), and in paragraph 2a can be obtained from different 
+business partners, the company shall prioritise requesting such information, 
+where reasonable, directly from the business partner or partners where the 
+adverse impacts are most likely to occur.’; 
+(d) the following paragraph 5 is added:  
+‘5.  Member States shall ensure that, for the mapping provided for in 
+paragraph 2, point (a), companies do not seek to obtain information from direct 
+business partners with fewer than 500 employees that exceeds the information 
+specified in the standards for voluntary use referred to in Article 29a  of 
+Directive 2013/34/EU. 
+By way of derogation to the first sub-paragraph, where additional information 
+is necessary for the mapping provided for in paragraph 2, point (a), in light of 
+indications of  likely adverse impacts  or because the standards do not cover 
+relevant impacts, and where such additional information cannot reasonably be 
+obtained by other means , the company may seek such information from that 
+business partner.’; 
+(5) in Article 10, paragraph 6 is replaced by the following: 
+‘6.  As regards potential adverse impacts as referred to in paragraph 1 that could 
+not be prevented or adequately mitigated by the measures set out in paragraphs 2, 4 
+and 5, the company shall, as a last resort: 
+(a) refrain from entering into new , or extending existing, relations with a business 
+partner in connection with which, or in the chain of activities of which, the 
+impact has arisen,  
+(b) where the law governing its relation with the business partner concerned so 
+entitles it, adopt and implement an enhanced prevention action plan for the 
+specific adverse impact  without undue delay, provided that there is a 
+reasonable expectation that those efforts will succeed, and  
+(c) use or increase its leverage through the suspension of the business relationship 
+with respect to the activities concerned.
+
+--- PDF SEITE 41 ---
+EN 40  EN 
+As long as there is a reasonable expectation that the enhanced prevention action plan 
+will succeed, the mere fact of continuing to engage with the business partner shall 
+not trigger the company’s liability. 
+Prior to suspending a business relationship, the company shall assess whether the 
+adverse impacts from doing so can be reasonably expected to be manifestly more 
+severe than the adverse impact that could not be prevented or adequately mitigated. 
+Should that be th e case, the company shall not be required to suspend the business 
+relationship and shall be in a position to report to the competent supervisory 
+authority about the duly justified reasons for such decision. 
+Member States shall provide for an option to susp end the business relationship in 
+contracts governed by their laws in accordance with the first subparagraph, except 
+for contracts where the parties are obliged by law to enter into them. 
+Where the company decides to suspend the business relationship, it sh all take steps 
+to prevent, mitigate or bring to an end the impacts of the suspension, shall provide 
+reasonable notice to the business partner concerned and shall keep that decision 
+under review. 
+Where the company decides not to suspend the business relatio nship pursuant to this 
+Article, it shall monitor the potential adverse impact and periodically assess its 
+decision and whether further appropriate measures are available.’; 
+(6) in Article 11, paragraph 7 is replaced by the following: 
+‘7. As regards  actual adverse impacts as referred to in paragraph 1 that could not 
+be prevented or adequately mitigated by the measures set out in paragraphs 3, 5 and 
+6, the company shall, as a last resort:  
+(a) refrain from entering into new , or extending existing, relations with a business 
+partner in connection with which, or in the chain of activities of which, the 
+impact has arisen,  
+(b) where the law governing its relation with the business partner concerned so 
+entitles it, adopt and implement an enhanced  prevention action plan for the 
+specific adverse impact  without undue delay, provided that there is a 
+reasonable expectation that those efforts will succeed, and  
+(c) use or increase its leverage through the suspension of the business relationship 
+with respect to the activities concerned.  
+As long as there is a reasonable expectation that the enhanced prevention action plan 
+will succeed, the mere fact of continuing to engage with the business partner shall 
+not trigger the company’s liability. 
+Prior to suspe nding a business relationship, the company shall assess whether the 
+adverse impacts from doing so can be reasonably expected to be manifestly more 
+severe than the adverse impact that could not be prevented or adequately mitigated. 
+Should that be the case, the company shall not be required to suspend the business 
+relationship and shall be in a position to report to the competent supervisory 
+authority about the duly justified reasons for such decision. 
+Member States shall provide for an option to suspend the business relationship in 
+contracts governed by their laws in accordance with the first subparagraph, except 
+for contracts where the parties are obliged by law to enter into them.
+
+--- PDF SEITE 42 ---
+EN 41  EN 
+Where the company decides to suspend the business relationship, it shall take  steps 
+to prevent, mitigate or bring to an end the impacts of the suspension, shall provide 
+reasonable notice to the business partner concerned and shall keep that decision 
+under review. 
+Where the company decides not to suspend the business relationship pu rsuant to this 
+Article, it shall monitor the potential adverse impact and periodically assess its 
+decision and whether further appropriate measures are available.’; 
+(7) in Article 13, paragraph 3 is amended as follows: 
+(a) the introductory wording is replaced by the following:  
+‘Consultation of relevant stakeholders shall take place at the following stages 
+of the due diligence process:’; 
+(b) points (c) and (e) are deleted; 
+(8) in Article 15, the second sentence is replaced by the following: 
+‘Such assessments shall be based, where appropriate, on qualitative and quantitative 
+indicators and be carried out without undue delay after a significant change occurs, 
+but at least every 5 years and whenever there are reasonable grounds to belie ve that 
+the measures are no longer adequate or effective or that new risks of the occurrence 
+of those adverse impacts may arise.’; 
+(9) in Article 19, paragraph 3 is replaced by the following: 
+‘3. The guidelines referred to in paragraph 2, point (a) , shall be made available by 
+26 July 2026, those referred to in paragraph 2, points (d) and (e), by 26 January 
+2027, and those referred to in paragraph 2, points (b), (f) and (g), by 26 July 2027.’; 
+(10) in Article 22(1), the first subparagraph is replaced by the following: 
+‘Member States shall ensure that companies referred to in Article 2(1), points (a), (b) 
+and (c), and Article 2(2), points (a), (b) and (c), adopt a transition plan for climate 
+change mitigation , including implementing actions,  which aim to ensure, through 
+best efforts, that the business model and strategy of the company are compatible with 
+the transition to a sustainable economy and with the limiting of global warming to 
+1.5°C in line with the Paris Agreement and the objective of achieving climate 
+neutrality as established in Regulation (EU) 2021/1119, including its intermediate 
+and 2050 climate neutrality targets, and where relevant, the exposure of the company 
+to coal-, oil- and gas-related activities.’; 
+(11) in Article 27, paragraph 4 is replaced by the following: 
+‘4. The Commission, in collaboration with Member States, shall issue guidance to 
+assist supervisory authorities in determining the level of penalties in accordance with 
+this Article. Member States shall not set a maximum limit of pecuniary penalties in 
+their national law transposing this Directive that would prevent supervisory 
+authorities from imposing penalties in accordance with the principles and factors set 
+out in paragraphs 1 and 2.’; 
+(12)  Article 29 is amended as follows: 
+(a) paragraph 1 is deleted; 
+(b) paragraph 2 is replaced by the following:
+
+--- PDF SEITE 43 ---
+EN 42  EN 
+‘2. Where a company is held liable pursuant to national law for damage 
+caused to a natural or legal person by a failure to comply with the due diligence 
+requirements under this Directive, Member States shall ensure that those 
+persons have a right to full compensation. Full compensation shall not lead to 
+overcompensation, whether by means of punitive, multiple or other types of 
+damages.’;  
+(c) in paragraph 3, point (d) is deleted; 
+(d) paragraph 4 is replaced by the following:  
+‘4. Companies that have participated in industry or multi -stakeholder 
+initiatives, or used independent third-party verification or contractual clauses to 
+support the implementation of due diligence obligations may nevertheless be 
+held liable in accordance with national law.’; 
+(e) in paragraph 5, the first subparagraph is replaced by the following: 
+‘The civil liability of a company for damages as referred to in this Article shall 
+be without prejudice to the civil liability of its subsidiaries or of any direct and 
+indirect business partners in the chain of activities of the company.’; 
+(f) paragraph 7 is deleted;  
+(13) in Article 36, paragraph 1 is deleted.  
+ 
+Article 5 
+Transposition 
+1. Member States shall bring into force the laws, regulations and administrative 
+provisions necessary to comply with this Directive by [12 months after entry into force] at the 
+latest. They shall forthwith communicate to the Commission the text of those provisions. 
+When Member States adopt those provisions, they shall contain a reference to this Directive 
+or be accompanied by such a reference on the occasion of their offi cial publication. Member 
+States shall determine how such reference is to be made. 
+2. Member States shall communicate to the Commission the text of the main provisions 
+of national law which they adopt in the field covered by this Directive. 
+Article 6 
+Entry into force 
+This Directive shall enter into force on the  twentieth day following that of its publication in 
+the Official Journal of the European Union.
+
+--- PDF SEITE 44 ---
+EN 43  EN 
+Article 7 
+Addressees 
+This Directive is addressed to the Member States. 
+Done at Brussels, 
+For the European Parliament For the Council 
+The President The President
+
+--- PDF SEITE 45 ---
+EN 1  EN 
+LEGISLATIVE FINANCIAL AND DIGITAL STATEMENT 
+ 
+1. CONTEXT OF THE PROPOSAL ............................................................................... 1 
+• Reasons for and objectives of the proposal .................................................................. 1 
+• Consistency with existing policy provisions in the policy area ................................... 7 
+• Consistency with other Union policies ........................................................................ 8 
+2. LEGAL BASIS, SUBSIDIARITY AND PROPORTIONALITY ............................... 9 
+• Legal basis .................................................................................................................... 9 
+• Subsidiarity (for non-exclusive competence)............................................................... 9 
+• Proportionality ............................................................................................................. 9 
+• Choice of the instrument ............................................................................................ 10 
+3. RESULTS OF EX-POST EVALUATIONS, STAKEHOLDER CONSULTATIONS 
+AND IMPACT ASSESSMENTS .............................................................................. 10 
+• Ex-post evaluations/fitness checks of existing legislation ......................................... 10 
+• Stakeholder consultations .......................................................................................... 10 
+• Collection and use of expertise .................................................................................. 12 
+• Impact assessment ...................................................................................................... 12 
+• Regulatory fitness and simplification ........................................................................ 13 
+• Fundamental rights ..................................................................................................... 13 
+4. BUDGETARY IMPLICATIONS .............................................................................. 14 
+5. OTHER ELEMENTS ................................................................................................ 14 
+• Implementation plans and monitoring, evaluation and reporting arrangements ........ 14 
+• Explanatory documents (for directives) ..................................................................... 14 
+• Detailed explanation of the specific provisions of the proposal ................................ 14 
+1. FRAMEWORK OF THE PROPOSAL/INITIATIVE ................................................. 3 
+1.1. Title of the proposal/initiative ...................................................................................... 3 
+1.2. Policy area(s) concerned .............................................................................................. 3 
+1.3. Objective(s) .................................................................................................................. 3 
+1.3.1. General objective(s) ..................................................................................................... 3 
+1.3.2. Specific objective(s) ..................................................................................................... 3 
+1.3.3. Expected result(s) and impact ...................................................................................... 4 
+1.3.4. Indicators of performance ............................................................................................ 4 
+1.4. The proposal/initiative relates to: ................................................................................. 5 
+1.5. Grounds for the proposal/initiative .............................................................................. 5 
+1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for 
+roll-out of the implementation of the initiative ............................................................ 5
+
+--- PDF SEITE 46 ---
+EN 2  EN 
+1.5.2. Added value of EU involvement (it may result from different factors, e.g. 
+coordination gains, legal certainty, greater effectiveness or complementarities). For 
+the purposes of this section 'added value of EU involvement' is the value resulting 
+from EU action, that is additional to the value that would have been otherwise 
+created by Member States alone. ................................................................................. 6 
+1.5.3. Lessons learned from similar experiences in the past .................................................. 6 
+1.5.4. Compatibility with the multiannual financial framework and possible synergies with 
+other appropriate instruments ....................................................................................... 6 
+1.5.5. Assessment of the different available financing options, including scope for 
+redeployment ................................................................................................................ 6 
+3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE .............. 7 
+3.1. Heading(s) of the multiannual financial framework and expenditure budget line(s) 
+affected ......................................................................................................................... 7 
+4. DIGITAL DIMENSIONS ............................................................................................ 7 
+4.1. Requirements of digital relevance ................................................................................ 7 
+4.2. Data .............................................................................................................................. 8 
+4.3. Digital solutions ........................................................................................................... 8 
+4.4. Interoperability assessment .......................................................................................... 8 
+4.5. Measures to support digital implementation ................................................................ 8
+
+--- PDF SEITE 47 ---
+EN 3  EN 
+1. FRAMEWORK OF THE PROPOSAL/INITIATIVE  
+1.1. Title of the proposal/initiative 
+Proposal for a Directive of the European Parliament and of the Council amending 
+Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 2024/1760 as 
+regards certain corporate sustainability reporting and due diligence  requirements for 
+undertakings.  
+1.2. Policy area(s) concerned  
+Capital Markets Union, Savings and Investment Union, European Green Deal, 
+Sustainable Finance Strategy, Company law and corporate governance. 
+1.3. Objective(s) 
+1.3.1. General objective(s) 
+The general objectives pursued by this legislative proposal are to simplify and reduce 
+certain elements of Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464 and (EU) 
+2024/1760 in order to alleviate the reporting and due diligence burden on companies 
+in scope of the requirements. 
+By reducing the administrative burden associated with reporting requirements  and 
+the compliance costs of  sustainability due diligence stemming from the above 
+legislation, this proposal intends to enhance the proportionality of the framework and 
+the competitiveness of European companies, while also maintaining the objectives of 
+the European Green Deal.  
+1.3.2. Specific objective(s) 
+The specific objectives of the proposed amendments  to Directive 2013/34/EU  
+included in this proposal aim to achieve the following results:  
+– Reduce the number of companies which fall within the scope of the 
+sustainability reporting requirements to large companies with more than 1000 
+employees.  
+– Reduce trickle -down effects on SMEs and smaller large companies by 
+imposing the voluntary sustainabil ity reporting standard for SMEs (VSME) as 
+the value chain cap for all companies not subject to sustainability reporting 
+requirements.  
+– Provide for a proportionate standard for voluntary use by companies which are 
+not subject to sustainability reporting requirements.  
+– Remove the empowerment for the Commission to adopt sector -specific 
+sustainability reporting standards.  
+The specific objectives of the proposed amendments to Directive 2006/43/EC 
+included in this proposal aim to achieve the following results:  
+– Delete the obligation for the Commission to adopt standards for sustainability 
+assurance by October 2026. The Commission will issue targeted assurance 
+guidelines by 2026. 
+The specific objectives of the proposed amend ments to Directive (EU) 2022/2464 
+included in this proposal aim to achieve the following results:
+
+--- PDF SEITE 48 ---
+EN 4  EN 
+– Reflect the reduction of the undertakings in scope of sustainability reporting 
+under Articles 19a and 29a of the Accounting Directive in the relevant 
+provision specifying the application dates for sustainability reporting rules.  
+The specific objectives of the proposed amendments to Directive (EU) 2024/1760 
+included in this proposal aim to achieve the following results:  
+– Simplify selected due diligence require ments in order to avoid unnecessary 
+complexities and costs for the large companies under the scope. 
+– Reduce further the trickle-down effects on SMEs and small midcap companies 
+(SMCs) in the value chains of large companies in scope by limiting 
+information requests. 
+1.3.3. Expected result(s) and impact 
+Specify the effects which the proposal/initiative should have on the beneficiaries/groups targeted.  
+The expected results and impact of the proposed amendments are to simplify 
+sustainability reporting requirements and as a result reduce the administrative burden 
+on companies in this regard, whilst maintaining the objectives of the European Green 
+Deal and the Sustainable Finance Action Plan . The proposed amendments are also 
+expected to result in significant cost savings for companies in scope when carrying 
+out sustainability reporting. In the same vein, the amendments to the human rights 
+and environmental due diligence re quirements are expecte d to simplify related 
+corporate processes and procedures  as compared to the Directive as in force (which 
+is not yet transposed or applied). 
+1.3.4. Indicators of performance 
+Specify the indicators for monitoring progress and achievements. 
+The CSRD has been applied by a first set of companies who are publishing their first 
+sustainability statements mainly in the first half of 2025. It has therefore not been 
+possible to undertake an ex -post evaluation or fitness check of either piece of 
+legislation.   
+To monitor progress towards achieving the proposal’s specific objectives, the 
+Commission will explore the possibility of organising exchanges with stakeholders 
+in different formats as well as periodic surveys of users of sustainability information 
+and of u ndertakings that report such information, depending on the availability of 
+financial resources. Article 6 of the CSRD requires the Commission to present a 
+report on the implementation of the Directive by April 2029.  
+In this proposal, the Commission also c ommits to revising the first set of ESRS. 
+Under Directive 2013/34/EU, the Commission is required to review those 
+sustainability reporting standards, including the sustainability reporting standards for 
+small and medium -sized undertakings, every three years  to take account of relevant 
+developments, including the development of international standards. 
+The implementation of the CSDDD as amended, and its effectiveness in reaching its 
+objectives, in particular in addressing adverse impacts, will also be subject to regular 
+evaluation according to Article 36 of that Directive.  
+A number of indicators will be used to monitor the progress of these proposals, such 
+as the effectiveness and timeliness of the actions proposed, the efficiency of 
+processes for collecting and processing data in accordance with the sustainability
+
+--- PDF SEITE 49 ---
+EN 5  EN 
+reporting requirements, and the objective to limit administrative burden and avoid 
+unnecessary or duplicative reporting requirements. 
+Under Article 36 of the CSDDD, the Commission will submit, by 26 July 2030, a 
+report to the European Parliament and to the Council on the implementation of this 
+Directive and its effectiveness in reaching its objectives, in particular in addressing 
+adverse impacts. It will cover, among others, the impacts of this Directive on SMEs, 
+the scope of this Directive in terms of the companies covered, the definition of th e 
+term ‘chain of activities’;  the Annex, including whether it should be extended to 
+cover additional adverse impacts;  the rules on combatting climate change;  the 
+effectiveness of the enforcement mechanisms , penalties and the rules on civil 
+liability; the level of harmonisation , including convergence and divergence between 
+provisions of national law transposing this Directive. 
+1.4. The proposal/initiative relates to:  
+ a new action  
+ a new action following a pilot project / preparatory action33  
+ the extension of an existing action  
+ a merger or redirection of one or more actions towards another/a new action 
+1.5. Grounds for the proposal/initiative  
+1.5.1. Requirement(s) to be met in the short or long term including a detailed timeline for 
+roll-out of the implementation of the initiative 
+With this proposal, the Commission proposes a Directive amending a  number of 
+provisions of  Directives 2006/43/EC, 2013/34/EU, (EU) 2022/2464, and (EU) 
+2024/1760. Once the co-legislators have reached an agreement on the contents of the 
+proposal, the Member States will have a certain period of time to transpose the 
+amendments introduced by this Directive into their national law.  
+In a separate legislative proposal, the Commission proposes to postpone the 
+application of the sustainability reporting requirements in Directive 2013/34/EU for a 
+period of two years  for all large companies and listed SMEs – including non-EU 
+issuers that meet these size thresholds - currently in scope and required to comply 
+with sustainability reporting rules from financial year 2025 onwards . In the same 
+proposal, the Commission also proposes to delay, by one year, the transposition 
+deadline (to 26 July 2027) and the first wave of application (26 July 2028) of the 
+sustainability due diligence rules set out in Directive 2024/1760. 
+The Commission also proposes to revise Commission Delegated Regulation (EU) 
+2023/2772 (European Sustainability Reporting Standards) . The Commission will 
+adopt the revised ESRS delegated act in time for those undertakings in the second 
+wave that would be required to start reporting under the CSRD  in 2028 for financial 
+year 2027 to apply the revised standards.  
+To monitor progress towards achieving the proposal’s specific objectives, the 
+Commission will explore the possibility of organising exchanges with stakeholders 
+in different formats as well a s periodic surveys of users of sustainability information 
+and of undertakings that report such information, depending on the availability of 
+ 
+33 As referred to in Article 58(2), point (a) or (b) of the Financial Regulation.
+
+--- PDF SEITE 50 ---
+EN 6  EN 
+financial resources. Article 6 of the CSRD requires the Commission to present a 
+report on the implementation if the  Directive by April 2029. The implementation of 
+the CSDDD as amended, and its effectiveness in reaching its objectives, in particular 
+in addressing adverse impacts, will also be subject to regular evaluation according to 
+Article 36 of that Directive. This proposal does not require an implementation plan. 
+1.5.2. Added value of EU involvement (it may result from different factors, e.g. 
+coordination gains, legal certainty, greater effectiveness or complementarities). For 
+the purposes of this section 'added val ue of EU involvement' is the value resulting 
+from EU action, that is additional to the value that would have been otherwise 
+created by Member States alone. 
+The Accounting Directive, as amended by the CSRD, already regulates the 
+disclosure of sustainability information in the EU. Common rules on sustainability 
+reporting and its assurance ensure a level playing field for companies established in 
+the different M ember States. Significant differences in requirements for 
+sustainability reporting and assurance between Member States would create 
+additional costs and complexity for companies operating across borders, which 
+would be detrimental to the single market. Member States acting alone are not able to 
+modify existing EU laws to reduce the burden on companies.   
+Similarly, the CSDDD already sets out a harmonised regulatory framework for 
+corporate sustain ability due diligence , and also covers certain third -country 
+companies active in the EU market, ensuring level playing field in this policy area.  
+1.5.3. Lessons learned from similar experiences in the past 
+N/A 
+1.5.4. Compatibility with the multiannual financial framework and possible synergies with 
+other appropriate instruments 
+N/A 
+1.5.5. Assessment of the different available financing options, including scope for 
+redeployment 
+N/A
+
+--- PDF SEITE 51 ---
+EN 7  EN 
+3. ESTIMATED FINANCIAL IMPACT OF THE PROPOSAL/INITIATIVE  
+3.1. Heading(s) of the multiannual financial framework and expenditure budget 
+line(s) affected  
+4. DIGITAL DIMENSIONS 
+4.1. Requirements of digital relevance 
+The reporting requirements introduced by Directive 2013/34/EU require companies  to 
+collect and report data concerning their impacts, risks and opportunities as regards material 
+sustainability matters. This exercise entails significant data identification, collection, 
+processing, verification and publication. In order to collect the relevant data, u ndertakings 
+often use digital data collection and data sharing platforms . Additionally, in order to store 
+and process the data for the purposes of sustainability reporting companies also often utilise 
+digital data management tools.  
+Users of sustainability information increasingly expect such information to be accessible, 
+comparable and machine -readable in digital formats. Member States must require that 
+undertakings subject to the sustainability reporting requirements of Directive 20 13/34/EU 
+make their management reports available on their websites, free of charge to the public. 
+Digitalisation creates opportunities to exploit information more efficiently and holds the 
+potential for significant cost savings for both users and undertaki ngs. Digitalisation also 
+enables the centralisation at Union and Member State level of data in an open and 
+accessible format that facilitates reading and allows for the comparison of data.  These 
+requirements also complement the creation of a European singl e access point (ESAP) for 
+public corporate information.  
+As regards specific requirements within the Directive which are of digital relevance , please 
+see below.  
+Directive 2013/34/EU requires undertakings subject to sustainability reporting to prepare 
+their management report in the electronic reporting format specified in Article 3 of 
+Commission Delegated Regulation (EU) 2019/815  (ESEF Delegated Regulation) . It als o 
+requires these undertakings to mark up their sustainability reporting, including the 
+disclosures required by Article 8 of Regulation (EU) 2020/852, in accordance with the 
+digital taxonomy to be adopted by the Commission by way of an amendment to  the ESEF 
+Delegated Regulation. 
+A digital taxonomy for the Union sustainability reporting standards will allow sustainability 
+reporting to be tagged and to be machine -readable. Until the adoption of this digital 
+taxonomy, undertakings are not required to mark -up t heir sustainability statements. 
+Considering that the sustainability statement will become machine -readable only once it is 
+both included in an XHTML document and marked -up with a digital taxonomy, pending 
+the adoption of the digital taxonomy undertakings a re also not required to prepare the 
+management report in XHTML. 
+Stakeholders affected by these requirements include undertakings required to prepare and 
+publish a sustainability statement which has been digitally tagged and provided in an 
+XHTML format, as well as assurance providers who  must verify that the sustainability 
+statement meets the necessary requirements. 
+N/A
+
+--- PDF SEITE 52 ---
+EN 8  EN 
+The current proposal does not modify the existing digital tagging or format rules introduced 
+by the CSRD, which will enhance digital reporting and enable the use of artificial 
+intelligence in utilising the information that undertakings report.  
+As regards the CSDDD, digital tools and technologies, such as those used for tracking, 
+surveillance or tracing raw materials, goods and products throughout value chains, for 
+instance satellites, drones, radars, or platform-based solutions, could support and reduce the 
+cost of data gathering for value chain management, including the identification and 
+assessment of adve rse impacts, prevention and mitigation, and monitoring of the 
+effectiveness of due diligence measures.  
+4.2. Data 
+See section above.  
+4.3. Digital solutions 
+4.4. Interoperability assessment 
+4.5. Measures to support digital implementation 
+ 
+See section above.  
+N/A 
+To facilitate the smooth implementation of the requirements of digital relevance identified 
+in Section 4.1., the Commission is involved in a number of initiatives.  
+Firstly, a digital taxonomy for the Union sustainability reporting standards will be 
+necessary to allow the reported information to be tagged in accordance with those 
+sustainability reporting standards. The Commission will adopt a digital taxonomy for the 
+tagging of sustainability information via a Delegated Act, after having received technical 
+advice from ESMA.  
+Secondly, i n the framework of the 2025 Technical Support Instrument round, the 
+Commission intends to launch a flagship multi -country project entit led "Improving 
+Sustainability Reporting for Businesses." This initiative aims to enhance the capacity of 
+Member States to support companies, particularly SMEs, in implementing CSRD and EU 
+Taxonomy reporting requirements. The support under this initiative w ill take into account 
+the evolution of the reporting requirements, and it will also be relevant for non -listed SMEs 
+that are not subject to mandatory reporting but face growing demands for sustainability 
+information from their financial and value chain partners. 
+Thirdly, EFRAG has launched an SME forum in which they bring together relevant 
+stakeholders of the SME community to discuss the implementation of the sustainability 
+reporting requirements and how digital solutions and tools can be used to facilitate  
+sustainability reporting for SMEs.  
+As regards the CSDDD, in order to help companies fulfil their due diligence obligations 
+along their value chain, the Directive encourages the use of digital tools and technologies 
+and requires the Commission to issue gu idelines with useful information and references to 
+appropriate resources. When using digital tools and technologies, companies should take 
+into account and appropriately address possible risks associated therewith, and put in place 
+mechanisms to verify the appropriateness of the information obtained.
+
+=== DOKUMENT ENDE ===

@@ -1,0 +1,1075 @@
+=== DOKUMENT START: GRI_T.pdf ===
+
+--- PDF SEITE 1 ---
+With support from:
+The GRI Standards
+A GUIDE FOR  
+POLICY MAKERS
+
+--- PDF SEITE 2 ---
+The importance of transparency and 
+accountability
+The global sustainability reporting 
+landscape
+The reliability of sustainability reports
+Public sector reporting and 
+accountability
+How does GRI support policy 
+makers?
+Promoting transparency through 
+public policy
+The GRI Standards
+The Global Reporting Initiative (GRI)
+Table of contents
+1
+2
+3
+4
+5
+6
+7
+8
+2
+
+--- PDF SEITE 3 ---
+The importance of 
+transparency  
+and accountability
+Transparency on the sustainability 
+impacts of a business is essential for 
+continuous improvement as well as 
+for stakeholder relationships. Without 
+transparency, there is no trust – and 
+without trust it is very complex to do 
+business, markets do not function 
+efficiently, and institutions lose their 
+legitimacy. 
+Corporate accountability is such 
+an important factor in the efforts to 
+achieve the Sustainable Development 
+Goals (SDGs) that it has been 
+included as one of the 169 goals. 
+Goal 12.6 states that the United 
+Nations member states should 
+“encourage businesses, especially 
+large corporations, to adopt 
+sustainable practices and integrate 
+sustainability information into their 
+reporting cycle.” This target aims 
+for the private sector’s contribution 
+to sustainable development to 
+be accounted for with the same 
+frequency, thoroughness, and 
+importance as an organization’s 
+financial performance. 
+Sustainability reporting began in 
+the 1990s and is relatively recent 
+compared to the mandatory 
+financial reporting that has been in 
+place since the Great Depression. 
+However, reporting on sustainability 
+information is increasingly becoming 
+a legal requirement and less of a 
+voluntary practice. Governments, 
+stock exchanges, market regulators, 
+investors, civil society and other 
+stakeholders are demanding 
+more and better information on 
+organizations’ sustainability impacts. 
+In a rapidly changing environment, 
+corporate accountability becomes 
+imperative. That is why it is important 
+that measuring and reporting are 
+done according to internationally 
+recognized standards such as the GRI 
+Sustainability Reporting Standards 
+(GRI Standards). This ensures 
+data quality and comparability, and 
+contributes to better decision making 
+by allowing access to information that 
+promotes better decisions. 
+Companies are 
+increasingly being 
+called on to show 
+that they operate and 
+make decisions in a 
+responsible way.
+12.6
+GOAL
+SDGs
+1
+3
+
+--- PDF SEITE 4 ---
+In sustainability reporting there are 
+different types of actors and initiatives 
+that guide organizations. Each one 
+has a different nature and a specific 
+role in the corporate sustainability 
+landscape. 
+Organizations can use the GRI 
+Standards in combination with other 
+reporting frameworks, including the 
+International Integrated Reporting 
+Framework, the CDP climate change 
+and water questionnaires, and the 
+SASB industry standards. 
+GRI continually works together with 
+other reporting frameworks to avoid 
+duplication of disclosure effort.
+Sustainability information is defined, 
+standardized, reported, issued, and 
+used through different links:
+The global sustainability 
+reporting landscape
+2
+REPORT
+ISSUERS
+STANDARDS 
+AND 
+FRAMEWORKS
+DATA 
+AGGREGATORS
+ANALYSTS
+AND
+RATINGS
+1 2 3 4
+DATA 
+CONSUMERS
+5
+4
+
+--- PDF SEITE 5 ---
+Sustainability Management
+Practices for a more 
+responsible and 
+sustainable operation
+Management
+principles Reporting guide
+Management
+standards
+Reporting framework
+Management
+acknowledgements
+Reporting standard
+A set of guidelines, 
+directives, or rules 
+governing the 
+management of an 
+organization. They refer 
+to what is expected 
+in terms of sustainable 
+management. 
+Guidelines, directives or 
+good practices to define 
+how an organization
+prepares a sustainability
+report.
+Principles or standards for 
+preparing the report, to ensure 
+the information disclosed and 
+presented is high quality, 
+reliable and balanced.
+These determine the data
+to report and are composed of a
+set of specific and detailed 
+requirements about the type of 
+information to be disclosed, 
+ensuring it is comparable, accurate 
+and verifiable.
+Specific, measurable and
+verifiable requirements for
+elements of an organization’s 
+sustainability management.
+Certifications, awards and 
+distinctions that recognize an 
+organization's  implementation 
+of good management 
+practices.
+Sustainability Reporting
+Measurement and information 
+disclosure practices for 
+sustainable management
+CORPORATE SUSTAINABILITY 
+INSTRUMENTS
+5
+
+--- PDF SEITE 6 ---
+The Global Reporting 
+Initiative (GRI)
+GRI is the independent, international 
+organization that helps businesses and 
+other organizations take responsibility 
+for their impacts, by providing them 
+with the global common language 
+to communicate those impacts. It 
+provides the world’s most widely 
+used standards for sustainability 
+reporting – the GRI Standards, which 
+are available as a free public good. 
+Since 1997, the GRI Standards have 
+been continuously developed to 
+represent the world’s best practice for 
+reporting on economic, environmental, 
+and social impacts. In addition to 
+developing the GRI Standards, 
+GRI also supports their use and 
+implementation among different types 
+of business actors, civil society, and 
+policy makers.
+GRI is a non-profit organization, 
+backed by a wide range of partners 
+who support the organization’s 
+work around the world to advance 
+sustainable development through 
+greater transparency and 
+accountability.
+GRI has a global presence through 
+Regional Hubs in Johannesburg 
+(Africa), Singapore (ASEAN), São 
+Paulo (Brazil), Hong Kong (Greater 
+China Region), Bogota (Hispanic 
+America), New York (North America), 
+and New Delhi (South Asia). All 
+other regions (including Europe) 
+are supported from GRI’s global 
+Secretariat in Amsterdam (The 
+Netherlands).
+3
+GRI is a non-profit 
+organization, backed 
+by a wide range of 
+partners who support 
+the organization’s work 
+around the world to 
+advance sustainable 
+development through 
+greater transparency 
+and accountability.
+For more information 
+on GRI, visit the website 
+globalreporting.org
+6
+
+--- PDF SEITE 7 ---
+4
+73% of the world’s 
+250 largest 
+companies prepare 
+their sustainability 
+reports using the GRI 
+Standards*
+The GRI Standards
+By better understanding, managing and disclosing their 
+impacts, companies can enhance strategic decision-making, 
+reduce risks, identify business opportunities and strengthen 
+stakeholder relationships.
+The GRI Standards help organizations 
+increase their transparency and 
+communicate both their positive and 
+negative impacts on sustainable 
+development. The GRI Standards 
+enable consistent and high quality 
+sustainability reporting, which helps 
+organizations meet the needs of their 
+stakeholders for comparable and 
+reliable data. They are the most widely 
+used standards in the world and are 
+explicitly referenced in 168 reporting 
+requirements in 67 countries.1
+The GRI Standards are a free public 
+good. Any organization, large or small, 
+private or public, regardless of sector, 
+location, and reporting experience, 
+can use the GRI Standards to report 
+on its impacts in a standardized and 
+comparable way. 
+Each organization reports on topics 
+that reflect the organization’s significant 
+economic, environmental, and social 
+impacts and that are important to its 
+stakeholders. With the GRI Standards, 
+these are the “material topics” that 
+the organization reports on. An 
+organization’s material topics are 
+determined based on the organization’s 
+activities and business relationships. 
+Data privacy, for instance, might be 
+material for a telecommunications 
+company to report on, while child 
+labor might be material for a garment 
+company with extensive supply chains. 
+The GRI Standards define a set of 
+principles for organizations to define the 
+content of their reports.
+*  Source: The KPMG Survey of 
+Sustainability Reporting 2020 
+1  Carrots & Sticks Report (2020)
+Download the GRI 
+Standards on GRI’s 
+website globalreporting.
+org/standards/download-
+the-standards/
+7
+
+--- PDF SEITE 8 ---
+The GRI Standards 
+development process
+The GRI Standards are issued by the 
+Global Sustainability Standards Board 
+(GSSB), an independent operating 
+entity of GRI. They are developed 
+according to a formally defined due 
+process overseen by the Due Process 
+Oversight Committee (DPOC). 
+Experts from different stakeholder 
+groups across the world are 
+involved in developing the GRI 
+Standards using a consensus-
+seeking approach that builds on their 
+diverse backgrounds and expertise. 
+The GSSB also routinely conducts 
+public comment periods to gather 
+stakeholder feedback on draft 
+Standards. 
+Transparency lies at the heart of the 
+GSSB’s work. All meetings of the 
+GSSB and the documents discussed 
+at these meetings, including drafts of 
+Standards, are publicly accessible via 
+the GRI website. 
+The GSSB receives independent 
+funding from GRI, sourced from 
+grants, corporate programs, and 
+revenues from GRI’s support 
+services. Additionally, launched in 
+2020, the Global Standards Fund 
+(GSF) provides for the independent, 
+multi-stakeholder development of 
+the GRI Standards as a free public 
+good available to all organizations 
+and is an opportunity for foundations, 
+governments, private sector 
+organizations and individuals 
+to participate in a coalition of 
+likeminded funders who want to see 
+companies integrate transparency 
+and sustainability at the core of their 
+operations.
+All of this helps ensure that the 
+GRI Standards serve the public 
+interest and can be applied by any 
+organization worldwide.
+Alignment of the 
+GRI Standards with 
+intergovernmental 
+instruments
+The GRI Standards are aligned 
+with widely recognized international 
+instruments for responsible business 
+behavior. These include instruments 
+such as the UN Guiding Principles 
+on Business and Human Rights, 
+the ILO conventions, and the 
+OECD Guidelines for Multinational 
+Enterprises. Using the GRI Standards, 
+organizations can be transparent about 
+how they apply these instruments.
+Organizations can also use the 
+Standards to report on their impacts 
+and progress on the SDGs. Since 
+the adoption of the 2030 Agenda for 
+Sustainable Development, GRI has 
+developed guidance for companies to 
+integrate these Goals into reporting 
+practice, with the GRI Standards at the 
+core.
+1. Analysis of the goals and targets 
+– a handbook of indicators and 
+business actions to make reporting 
+on the SDGs straightforward and 
+simple to execute. 
+2. Integrating the SDGs in 
+corporate reporting: A practical 
+guide – a three-step guide to 
+embed the SDGs in existing 
+business and reporting processes. 
+3. Mapping the SDGs against 
+the GRI Standards – a linkage 
+document to show which GRI 
+Standards can be used to report on 
+specific SDGs.
+For more information 
+on the GSF: 
+globalreporting.org/
+about-gri/how-we-
+are-funded/global-
+standards-fund/
+All SDG tools are 
+available on the GRI 
+website: globalreporting.
+org/public-policy-
+partnerships/sustainable-
+development/
+integrating-sdgs-into-
+sustainability-reporting/
+8
+
+--- PDF SEITE 9 ---
+The GRI Standards provide 
+a flexible framework for 
+reporting
+The GRI Standards offer 
+disclosures on a wide range of 
+sustainability topics. From anti-
+corruption to water, biodiversity 
+to occupational health and safety, 
+the Standards cover relevant 
+topics across the economic, 
+environmental and social 
+dimensions. Organizations select 
+from among these to report on 
+their significant impacts.
+The GRI Standards are frequently 
+revised to update existing topics 
+as they evolve and to include new 
+topics.
+The GRI Standards are 
+structured as a set of interrelated 
+standards. There are three 
+universal Standards that apply 
+to every organization preparing 
+a sustainability report. An 
+organization then selects from the 
+set of topic-specific GRI Standards 
+for reporting on its material topics. 
+The topic-specific GRI Standards 
+are organized into three series: 
+200 (Economic topics), 300 
+(Environmental topics), and 400 
+(Social topics).
+100 series
+Universal Standards 
+The universal Standards support 
+the organization in identifying 
+its material topics, and lay out 
+important principles to use 
+when preparing a report. They 
+also contain disclosures on the 
+organization’s specific context, 
+such as its size, activities, 
+governance, and stakeholder 
+engagement, all of which help to 
+better understand its approach 
+towards the different topics it 
+reports on. 
+200 series
+Economic
+In the context of the GRI Standards, 
+the economic dimension of 
+sustainability concerns an 
+organization’s impacts on the 
+economic conditions of its 
+stakeholders, and on economic 
+systems at local, national, and global 
+levels. It does not focus on the 
+financial condition of an organization. 
+300 series 
+Environmental
+In the context of the GRI 
+Standards, the environmental 
+dimension of sustainability 
+concerns an organization’s 
+impacts on living and non-living 
+natural systems, including land, 
+air, water and ecosystems.
+400 series
+Social
+In the context of the GRI 
+Standards, the social dimension 
+of sustainability concerns an 
+organization’s impacts on the 
+social systems within which it 
+operates.
+Sector Standards 
+ 
+A comprehensive Sector Program 
+is being implemented to complete 
+the set of GRI Standards. The 
+purpose of the GRI Sector 
+Program is to develop Sector 
+Standards that will provide 
+authoritative information on the 
+topics that constitute a sector’s 
+most significant impacts from 
+a sustainable development 
+perspective, reflecting stakeholder 
+expectations for a sector’s 
+sustainability reporting and 
+focusing reporting on the impacts 
+that matter most. 
+Used in conjunction with the 
+existing suite of GRI Standards, 
+Sector Standards aim to enhance 
+transparency and accountability, 
+as well as support organizational 
+and stakeholder decision-making, 
+by helping organizations prepare 
+and report information on their 
+material topics and increase 
+consistency of reporting within a 
+sector.
+Priority Group 1  
+Basic materials and needs
+Priority Group 2
+Industrial
+ 
+Priority Group 3
+Transport, infrastructure and 
+tourism
+Priority Group 4
+Other services and light 
+manufacturing
+9
+
+--- PDF SEITE 10 ---
+Structure and content  
+of the Standards
+UNIVERSAL
+STANDARDS
+Foundation
+GRI 
+101
+General 
+Disclosures 
+GRI 
+102
+Management
+Approach
+GRI 
+103
+Economic
+GRI 
+200
+Social
+GRI 
+400
+Environmental
+GRI 
+300
+TOPIC-SPECIFIC
+STANDARDS
+SECTOR
+STANDARDS
+Basic materials
+and needs
+Transport, insfrastructure
+and tourism
+Other services and
+light manufacturing
+Industrial
+Priority Group 1 Priority Group 2
+Priority Group 3 Priority Group 4
+10
+
+--- PDF SEITE 11 ---
+GRI 
+200
+ 
+GRI 
+400
+ 
+GRI 
+300
+Economic Environmental
+TOPICS
+Social
+Economic 
+Performance
+Market 
+Presence
+Indirect 
+Economic 
+Impacts
+Procurement
+Practices
+Anti-corruption
+Anti-competitive
+Behavior
+Tax
+Materials
+Energy
+Water & 
+Effluents
+Biodiversity
+Emissions
+WasteEnvironmental
+Compliance 
+Supplier
+Environmental
+Assessment
+Employment Labor/Management
+Relations
+Occupational
+Health & Safety
+Training & 
+Education
+Diversity & Equal
+Opportunity
+Non-discrimination
+Freedom of Association
+ & Collective 
+Bargaining
+Child Labor Forced or Compulsory 
+Labor
+Security Practices Rights of Indigenous
+Peoples
+Human Rights
+Assessment
+Local Communities Supplier Social 
+Assessment
+Public Policy, Customer 
+Health & Safety
+Marketing & 
+Labeling
+Customer Privacy Socioeconomic
+Compliance
+11
+
+--- PDF SEITE 12 ---
+Organizations report on their 
+sustainability impacts in response to 
+stakeholder information requirements. 
+The use of the GRI Standards is 
+self-declarative, meaning that each 
+organization must indicate whether 
+the report has been prepared in 
+accordance with the GRI Standards 
+following the criteria stipulated in GRI 
+101: Foundation. 
+Reporting organizations are required to 
+comply with the Reporting Principles for 
+defining report quality contained in GRI 
+101: Foundation on reporting reliable 
+and quality information.
+They can use a variety of approaches 
+to enhance the credibility of the report.
+The use of external assurance for 
+sustainability reports is advised in 
+addition to any internal resources, but 
+it is not required in order to make a 
+claim that a report has been prepared 
+in accordance with the GRI Standards. 
+Many organizations engage in this 
+process to make their report more 
+legitimate and credible, or to respond 
+to a specific requirement by their 
+stakeholders in this regard. If the 
+report has been externally assured, 
+the assurance report must be included, 
+stating the information that has been 
+assured, as stipulated in GRI 102-56.
+To maintain its neutrality and 
+impartiality as a standard setter, GRI 
+does not verify or certify the content of 
+a report. However, it does offer services 
+to review a report’s alignment with the 
+GRI Standards and with frameworks 
+such as the SDGs. 
+ 
+The reliability of 
+sustainability reports
+5
+For more information 
+on GRI’s services: 
+globalreporting.org/
+reporting-support/
+services/
+12
+
+--- PDF SEITE 13 ---
+6
+The GRI Standards can be used by 
+any type of organization to publicly 
+report on its sustainability impacts. 
+This also includes organizations 
+from the public sector as they, due to 
+the nature of their function, must be 
+transparent, must maintain constant 
+and open communication and can be 
+held accountable.
+Public entities can use one of 
+two approaches to report on their 
+sustainability impacts:
+1. From the mission perspective: 
+How have the sustainable 
+development objectives assigned 
+to the entity been fulfilled?
+2. From the organizational 
+perspective: Are its operations 
+carried out in a way that considers 
+its impact on sustainable 
+development, and how? 
+Public sector reporting and 
+accountability
+Leading by example
+13
+
+--- PDF SEITE 14 ---
+*Note: These are some examples of public entities 
+that perform sustainability reporting using the 
+GRI Standards in an illustrative manner. It does 
+not in any way constitute an exhaustive list or 
+an acknowledgement or validation of the reports 
+produced by these organizations.
+Public entities complete 
+sustainability reports for 
+several reasons:
+Examples of public entities 
+that have produced GRI 
+sustainability reports: 
+CHANGES IN 
+THE SOCIAL 
+LANDSCAPE
+NEED FOR
+ALIGNMENT
+VALUE OF
+INTEGRATED
+THINKING
+ROLE OF 
+PUBLIC 
+ENTITIES
+LEADING BY 
+EXAMPLE
+REDUCING THE
+COMPLEXITY OF 
+ACCOUNTABILITY
+1
+2
+3
+4
+5
+6
+1. Public entities are facing 
+increasingly informed 
+stakeholders, with more 
+immediate access to information 
+and with increasingly greater 
+expectations and requirements.
+2. The responsibility to manage 
+public goods and resources 
+results in an obligation of 
+accountability and transparent 
+management.
+3. Promoting sustainable 
+development by providing an 
+example of a sustainable and 
+responsible reporting process.
+4. Measuring and reporting on the 
+management of organizations 
+based on international standards 
+helps stay aligned with the 
+national agenda and allows 
+to compare how each entity is 
+working to reach the objectives 
+set.
+5. Measuring and reporting on 
+sustainability performance 
+allows access to information, 
+creating a more complete and 
+comprehensive image of an 
+entity’s sustainability impacts.
+6. The purpose is not to make the 
+list of information the entity must 
+report longer, but rather to make 
+more holistic connections on what 
+the entity should report on and to 
+whom.
+ h Gobierno de la Provincia de 
+Córdoba, Argentina 
+ h DevelopmentWA, Australia 
+ h Canada Post, Canada 
+ h Autoridad Nacional de Licencias 
+Ambientales, Colombia 
+ h Bremenports GmbH & Co. KG, 
+Germany 
+ h Maritime And Port Authority Of 
+Singapore, Singapore 
+ h Auditor General of South Africa, 
+South Africa  
+ h European Union Intellectual 
+Property Office (EUIPO), Spain 
+ h State-owned companies, Sweden
+ h Bureau Of Labor Funds, Ministry 
+Of Labor, Taiwan 
+ h Dubai Customs, United Arab 
+Emirates 
+ h CalSTRS, United States of 
+America 
+14
+
+--- PDF SEITE 15 ---
+In the last decade, regulations and 
+policies on corporate reporting and 
+accountability have evolved very 
+rapidly, recognizing the central 
+role of transparency in advancing 
+the adoption of more responsible 
+business conduct, improving 
+competitiveness and building greater 
+market trust. 
+The field of sustainability reporting 
+has expanded not only in quantity 
+but also in the type of information 
+required. According to the 2020 
+edition of the Carrots & Sticks 
+report, by 2020 there were over 600 
+sustainability reporting instruments in 
+87 countries worldwide.
+Promoting transparency  
+through public policy
+Number of global sustainability reporting instruments (cumulative)2
+0
+Before 
+2000
+2000
+25
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+100
+200
+300
+400
+500
+700
+600
+26 34 40 51 62 69 86 101 119 132
+163 190
+237 269
+325
+390
+474
+536
+577
+608
+2  Carrots & Sticks Report (2020)
+7
+15
+
+--- PDF SEITE 16 ---
+Voluntary vs mandatory instruments by region (2020)3
+Referencing the GRI Standards within 
+reporting instruments allows for the 
+standardization of the information that 
+companies report, aligning it with best 
+reporting practice. It also reduces 
+any reporting burden by aligning the 
+different information requirements to 
+stakeholder needs.
+There are different ways to reference 
+the GRI Standards in public policy:
+A. Request accountability 
+from State-owned companies
+The State as a shareholder of State-
+owned companies (or companies 
+with State participation) may ask 
+those companies to report on their 
+sustainability impacts using the GRI 
+Standards. The State has the ability to 
+directly influence a more sustainable 
+and transparent management of 
+these companies and make them 
+a reference for other companies to 
+adopt more sustainable practices and 
+more accountability.
+0
+Africa and
+Middle East
+Asia Pacific Europe North America South America
+50
+100
+150
+200
+250
+300
+Mandatory
+Voluntary
+40
+33
+75
+16
+31
+37
+35
+99
+141
+104
+3  Carrots & Sticks Report (2020)
+GRI strongly supports mandatory 
+disclosure requirements for reporting 
+information on material topics. In 
+many countries, early voluntary 
+efforts by companies to report on 
+their sustainability impacts have 
+been followed by the introduction of 
+mandated disclosure requirements. 
+Mandating specific reporting 
+requirements helps address the 
+concerns from companies on 
+confusion about what to report and 
+reporting burden. Mandates help 
+standardize and professionalize non-
+financial reporting thus improving 
+access and comparability of the 
+underlying data. Despite these 
+benefits, there is still no consensus on 
+whether these instruments should be 
+binding, and the regulatory landscape 
+reflects a combination of both 
+mandatory and voluntary instruments.
+16
+
+--- PDF SEITE 17 ---
+For more information 
+on the global regulatory 
+landscape, see the 
+Carrots & Sticks 2020 
+report:  
+carrotsandsticks.net
+B. Request full sustainability 
+reporting
+Many policy instruments seek to 
+generate a culture of reporting and 
+accountability where organizations are 
+transparent about their sustainability 
+impacts. In these cases, regulation 
+may require organizations to use 
+the GRI Standards for sustainability 
+reporting.
+C. Request reporting on 
+specific topics
+For some public entities, it is 
+important to request information on 
+specific topics, depending on the 
+economic sector and the priority of the 
+topics. In these cases, policy makers 
+have two options:
+1) Require organizations to use 
+the GRI Standards by selecting 
+disclosures that allow them to 
+measure and report on their impacts 
+on a particular topic. 
+2) Require organizations to use 
+specific GRI Standards, indicating 
+the disclosures that the organization 
+should use to report on its impacts on 
+a particular topic. 
+Sometimes organization are required 
+to report specific information, and 
+the GRI Standards are used as a 
+reference for designing the questions 
+and indicators that they must disclose. 
+In this case, the GRI Standards 
+can be referenced in policy, rules, 
+and regulations to build instruments 
+tailored to informational needs. This 
+ensures that a company provides 
+an accurate report of the required 
+information, framed in the language 
+and logic of business measurement 
+and reporting. 
+For example, in Colombia, the 
+national government (National 
+Planning Department) in collaboration 
+with GRI and the UNDP created the 
+SDG Corporate Tracker initiative 
+to measure the business sector’s 
+contribution to the SDGs. The GRI 
+Standards were used as a reference 
+for developing a questionnaire 
+for companies based on national 
+indicators and measurements of the 
+SDGs. 
+17
+
+--- PDF SEITE 18 ---
+How does GRI support 
+policy makers?
+GRI supports policy makers in 
+their work to promote trust and 
+transparency through corporate 
+accountability, which allows for 
+more informed policy decisions. 
+To this end, GRI works to:
+ h Raise awareness among 
+policy makers about the 
+value of transparency and 
+accountability;
+ h Build capacity on reporting 
+and accountability so that 
+public entities can prepare 
+their own report or develop 
+regulations and reporting 
+requirements for other 
+organizations;
+ h Advise on the use and 
+referencing of the GRI 
+Standards;
+ h Support, strengthen, 
+and comment on the 
+development of global 
+policies and regulations 
+regarding transparency and 
+sustainability reporting. 
+GRI has a global policy team as 
+well as local teams in the regions 
+that work to support policy 
+makers to enable smart policy.
+In addition, in 2008, GRI 
+established a Governmental 
+Advisory Group which provides 
+high-level advice and feedback 
+to GRI’s Board and Executive 
+Management, as well as a direct 
+source for strategic governmental 
+relationship building. It allows 
+members to stay up to date on 
+the latest developments around 
+sustainability reporting, to provide 
+insights to the development of 
+GRI’s activities and Standards, 
+and to engage with other policy 
+makers to further drive their 
+agenda on responsible business 
+conduct in a collaborative 
+manner. For more than 10 years, 
+this group has championed the 
+role of governments in advancing 
+transparency. It is instrumental 
+to GRI’s leadership and strategic 
+direction on policy and regulation 
+on sustainability reporting, 
+the development of the GRI 
+Standards, and thematic work 
+such as the SDGs.
+8
+18
+
+--- PDF SEITE 19 ---
+For more information:
+info@globalreporting.org
+Barbara Strozzilaan 336 
+1083 HN  Amsterdam 
+The Netherlands 
+www.globalreporting.org 
+Disclaimer: This material has been funded 
+by the Swedish International Development 
+Cooperation Agency (Sida) within the 
+framework of GRI’s work with policy makers. 
+Sida does not necessarily share the views 
+and interpretations expressed in this 
+document.
+Acknowledgment: GRI greatly appreciates 
+the support received from the Government 
+of Sweden.
+
+=== DOKUMENT ENDE ===

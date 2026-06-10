@@ -1,0 +1,55 @@
+=== DOKUMENT START: EU-Energielabel Pflicht für Einzelraumheizgeräte.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+EU-Energielabel Pflicht fürEinzelraumheizgeräte
+ENERGIEVERBRAUCH VON HEIZGERÄTEN SOLL TRANSPARENTER WERDEN
+Seit dem 1. Januar 2018 dürfen neue industriell gefertigte Einzelraumheizgeräte mit einer
+Nennwärmeleistung bis 50 Kilowatt nur noch mit einem EU-Energielabel in den Handel gebracht werden.
+Darunter fallen Heizgeräte, die gasförmige, flüssige oder feste Brennstoffe nutzen, wie zum Beispiel luft-
+und wassergeführte Pelletöfen, Scheitholzkaminöfen und Heizkamine. Elektrisch betriebene Öfen sind
+ausgenommen.
+Bild: Europäische Kommission, Brüssel
+Das EU-Label bewertet die Energieeffizienz eines Heizgeräts durch die Einstufung in eine Effizienzklasse.
+Die Skala reicht von A++ (sehr gut) bis G (mangelhaft). Auf dem Label sind die neun
+Energieeffizienzklassen von grün bis rot farblich gekennzeichnet. Ein schwarzer Pfeil verdeutlicht, in welche
+Klasse das jeweilige Gerät eingestuft ist. Die Kennzeichnung gibt außerdem Auskunft über die
+Nennwärmeleistung des Geräts in Kilowatt (direkte Wärmeleistung). Bei wasserführenden Pellet- und
+Kaminöfen zeigt eine zweite Zahl, wie viel Wärmeenergie an das Heizwasser abgegeben wird (indirekte
+Wärmeleistung).Zweck des EU-Energielabels ist es, den Energieverbrauch von Geräten transparent zu
+machen und Käufern die Auswahl energieeffizienter Produkte zu erleichtern. Für die Hersteller ist das Label
+ein Anreiz, verstärkt Geräte mit geringerem Energieverbrauch auf den Markt bringen.
+Die Vergabe des EU-Labels wird durch die EU-Rahmenverordnung zur Energieverbrauchskennzeichnung
+Verordnung (EU) 2017/1369 allgemein geregelt. Sie trat im August 2017 in Kraft und hat die bis dahin
+geltende Energieverbrauchskennzeichnungs-Richtlinie 2010/30/EU abgelöst. Details für einzelne
+Produktgruppen sind in weiteren EU-Verordnungen festgelegt. Für Einzelraumheizgeräten ist das zum
+Beispiel die Delegierte Verordnung (EU) 2015/1186. Für Festbrennstoffkessel mit einer Nennwärmeleistung
+bis 70 Kilowatt ist das EU-Label bereits seit April 2017 vorgeschrieben. Neue Öl- und Gasheizungen,
+Wärmepumpen, Warmwasserbereiter und -speicher müssen das Label seit dem 26. September 2015
+tragen.
+
+--- PDF SEITE 2 ---
+Informationen auf dem EU-Energielabel für Einzelraumheizgeräte:
+Name oder Warenzeichen des Lieferanten
+Geräte-Modellkennung des Lieferanten
+Energieeffizienzklasse als schwarzer Pfeil
+direkte Wärmeleistung als Symbol und in Kilowatt
+indirekte Wärmeleistung als Symbol und in Kilowatt (bei wasserführenden Öfen)
+FACHWISSEN ZUM THEMA
+SURFTIPPS
+http://netzwerke.bam.de/Netzwerke/Navigation/DE/Evpg/EVPG-Produkte/Heizen-Lueften-Kuehlen/evpg-
+heizen.html
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+-
+-
+-
+-
+-
+HeizungsanlagenEinzelheizungen
+→
+
+=== DOKUMENT ENDE ===

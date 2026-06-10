@@ -1,0 +1,81 @@
+=== DOKUMENT START: Stromerzeugung am Gebäude_PV.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Elektro
+Stromerzeugung am Gebäude:Photovoltaik (PV)
+DEZENTRALE, GEBÄUDENAHE STROMGEWINNUNG AUS SONNENENERGIE
+Elektrische Energie, also Strom, wird im Allgemeinen in Kraftwerken unterschiedlicher Art zentral erzeugt
+(z.B. Kohle- und Kernkraftwerke, Wasser- und Windkraftanlagen u.v.m.) und über mehrere
+Zwischenstationen (Umspannwerke) von den Energieversorgern bzw. Stadtwerken meist über Erdkabel,
+gelegentlich noch über Freileitungen, ins Gebäude geliefert. Das ist die klassische Methode der
+Stromversorgung.
+Bild: Yvonne Kavermann, Berlin
+ Bild: Sulafa Isa, Berlin
+ Bild: BSW-Solar, Berlin
+Doch dezentrale Systeme zur Strom- und Wärmeproduktion haben viele Vorteile und lassen sich gut mit
+alternativen, regenerativen Energiequellen betreiben. Für die Stromerzeugung unmittelbar am Gebäude
+haben sich im Wesentlichen zwei Technologien, die Photovoltaik (PV) und die Kraft-Wärme-Kopplung
+(KWK) durchgesetzt. Sie sind heute weit verbreitet, werden stetig weiterentwickelt und technisch immer
+leistungsfähiger.
+PHOTOVOLTAIK (PV)
+Unter Photovoltaik versteht man die direkte Umwandlung von Sonnenlicht in elektrischen Strom mithilfe
+von Solarzellen. Physikalische Grundlage ist der sogenannte photovoltaische Effekt, der auf dem inneren
+photoelektrischen Effekt basiert. Durch Lichteinstrahlung in einem Halbleitermaterial (Solarzelle) werden
+positive und negative Ladungsträger freigesetzt, sodass in einem geschlossenen Stromkreis ein Stromfluss
+generiert wird (Gleichstrom). 
+SOLARZELLEN
+Es gibt verschiedene Solarzellen, die sich nach Material und Technologie unterscheiden. Die meisten
+Solarzellen, die derzeit an Gebäuden zum Einsatz kommen, sind monokristalline Dickschichtzellen aus dem
+
+--- PDF SEITE 2 ---
+Halbleitermaterial Silizium (Stand 2025). Sie bestehen aus Scheiben, die aus Siliziumblöcken gesägt
+wurden und eine Dicke von wenigen Mikrometern aufweisen. Monokristalline Siliziumzellen haben eine
+lange Lebensdauer und mit etwa 20 bis 25 Prozent einen höheren Wirkungsgrad als andere herkömmliche
+Solarzelltypen. Andere übliche PV-Zellen sind zum Beispiel polykristalline Dickschichtzellen und
+Dünnschichtzellen aus Silizium. Bei Dünnschichtzellen wird das Halbleitermaterial sehr dünn auf eine
+Trägerschicht wie Glas oder Folie gedampft. Sie sind u.a. wegen ihrer Flexibilität, Semitransparenz und
+ihres geringen Gewichts besonders für die Gebäudeintegration beliebt. 
+Viele andere Technologien wie Tandem-Solarzellen, CIGS-Dünnschichtzellen und Hybrid-Solarzellen sind
+bisher weniger verbreitet, teilweise noch im Entwicklungsstadium oder besetzen Nischenanwendungen,
+versprechen aber ebenfalls sehr hohe Wirkungsgrade bei gleichzeitig sehr dünnen oder flexiblen
+Materialien. 
+WIRKUNGSGRAD
+Der Wirkungsgrad definiert, wie viel der Sonnenenergie, die auf eine Zelle einstrahlt, zu Strom umgewandelt
+werden kann. Gemessen wird er unter den immer gleichen, idealen Bedingungen von Strahlungsintensität,
+Zelltemperatur und Luftmasse. Das ermöglicht eine Vergleichbarkeit der Zellen. Unter realen Bedingungen,
+z.B. bei verschatteter Lage oder bei überhitzten Oberflächen, kann der tatsächliche Wirkungsgrad niedriger
+ausfallen. 
+SOLARMODUL
+Für ein Solarmodul werden mehrere Solarzellen zusammengeschaltet. Am Gebäude können Solarmodule
+auf Dächern oder an Balkonen nach Süden oder für eine gleichmäßigere Stromausbeute in Ost-West-
+Richtung montiert werden. Sie lassen sich auch in die Fassade von Gebäuden integrieren. Alle Solarmodule
+(PV-Module) werden miteinander verbunden und bilden den Solargenerator (PV-Generator). Da der
+entstehende Gleichstrom im Haushalt nicht unmittelbar verwendet werden kann, muss er durch einen
+Wechselrichter zuerst in Wechselstrom – üblicherweise 230 V / 50 Hz – umgewandelt werden.
+NUTZUNG DES STROMS AUS PV-ANLAGEN
+Der so gewonnene und umgewandelte Strom kann direkt im Haus verbraucht werden. Aber der
+Eigenverbrauch stößt an Grenzen, weil Sonnenenergie und damit der Stromertrag nicht kontinuierlich in
+gleichbleibender Menge zur Verfügung steht. Sie unterliegt tageszeitlichen und wetterbedingten
+(Bewölkung etc.) Schwankungen. Deshalb kann der Strom entweder gespeichert oder ins Stromnetz
+eingespeist werden. Für die Speicherung im Haus kommen z.B. Lithium-Ionen-Batterien infrage, sodass der
+Strom jederzeit im Haushalt oder für ein Elektroauto genutzt werden kann. Bei der Einspeisung wird der
+gewonnene Strom über einen Einspeisezähler vom netzgeführten Wechselrichter ins öffentliche, lokale
+Stromnetz eingespeist. Bei diesen netzgekoppelten Systemen kauft der zuständige Netzbetreiber den
+eingespeisten Strom dem Betreibenden der PV-Anlage ab. Die Höhe der Vergütung ist gesetzlich festgelegt
+und richtet sich u. a. nach den aktuellen, sich jährlich ändernden Fördersätzen. Dabei kann entweder der
+gesamte Stromgewinn oder nur der nicht selbst verbrauchte Strom-Überschuss eingespeist werden. Der
+noch benötigte Haushaltsstrom wird dann herkömmlich aus dem öffentlichen Stromnetz bezogen. Ergänzt
+werden PV-Anlagen durch Abschalt- und Schutzvorrichtungen z.B. gegen Blitzschlag etc. 
+FACHWISSEN ZUM THEMA
+
+--- PDF SEITE 3 ---
+BAUWERKE ZUM THEMA
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Elektro sponsored by:
+Jung | Kontakt 02355 / 806-0 | mail.info@jung.de
+PlanungsgrundlagenStrombezug: Woher kommt der Strom?
+WohnenHouse W in Nakafurano
+WohnenWohn- und Geschäftshaus Bundesallee 215 in Berlin
+
+=== DOKUMENT ENDE ===

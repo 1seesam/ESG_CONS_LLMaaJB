@@ -1,0 +1,19 @@
+﻿{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Benchmark (One Click)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/benchmark.py",
+      "args": [
+        "--auto-convert",
+        "--catalog-excel",
+        "./eval_data/Fragenkatalog_MA.xlsx"
+      ],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
+

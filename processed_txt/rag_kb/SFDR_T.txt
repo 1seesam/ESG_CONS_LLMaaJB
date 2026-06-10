@@ -1,0 +1,832 @@
+=== DOKUMENT START: SFDR_T.pdf ===
+
+--- PDF SEITE 1 ---
+I 
+(Legislativ e acts) 
+REGUL A TIONS 
+REGUL A TION (EU) 2019/2088 OF THE EUR OPEAN P ARLIAMENT AND OF THE C OUNCIL 
+of 27 No v ember 2019 
+on sust ainability‐related disclosures in the f inancial ser vices sector 
+(T ext with EEA relevance) 
+THE EUR OPEAN P ARLIAMENT AND THE COUNCIL OF THE EUR OPEAN UNION, 
+Havi ng regar d to the T reaty on the Functioning of the European U nion, and in par ticular Ar ticle 114 thereof, 
+Havi ng regar d to the proposal from the European Commission, 
+Af ter transmission of the draf t legislative act to the national parliaments, 
+Havi ng regar d to the opinion of the European Economic and Social Committee (
+1
+), 
+A cting in accordance with the ordinar y legislative procedure (
+2
+), 
+Whereas: 
+(1) On 25 Sept ember 2015, the UN General Assembly adopt ed a new g lobal sustainable development framew ork: 
+the 2030 Agen da f or Sustainable Development (the ‘2030 Agen da’), whic h has at its core the Sustainable 
+Development Goals (SDGs). The Commission Communication of 22 No vember 2016 on the next ste ps f or a 
+sustainable European future link s the SDGs to the Union policy framewor k to ensure that all Union actions and 
+policy initiatives, both within the U nion and g lobally , tak e the SDGs on board at the outset. In its conclusions 
+of 20 June 2017, the Council conf ir med the commitment of the U nion and its Member State s to the 
+imp lementation of the 2030 Age nda in a full, coherent, compre hensive, inte grated and eff ective manner , and in 
+close cooperation with par tners and other stak eholders. 
+(2) The transition to a low‐carbon, more sustainable, resource‐effi cient and circular econom y in line with the SDGs is 
+ke y to ensur ing long‐ter m competitiveness of the economy of the U nion. The P ar is Agreement adopt ed under the 
+U nited Nations Framew ork Convention on Climate Change (the ‘Paris Agreement’), whic h was appro ved by the 
+U nion on 5 October 2016 (
+3
+) and whic h entered into f orce on 4 November 2016, seeks to strengthen the response 
+to climat e c hange by , inter alia, making finance f lows consistent with a pathwa y to wards lo w greenhouse gas 
+emissions and climat e‐resilient development. 
+(3) In order to reach the objectives of the P ar is Agreement and significantly reduce the r isks and im pacts of climate 
+c hange, the g lobal target is to hold the increase in the g lobal ave rage tem perature to well below 2 °C abov e pre‐ 
+industr ial levels and to pursue eff or ts to limit the tem perature increase to 1,5 °C above pre‐industr ial levels. 
+(
+1
+) OJ C 62, 15.2.2019, p. 97. 
+(
+2
+) P osition of the European P arliament of 18 Apr il 2019 (not yet published in the Official Jour nal) and decision of the Council of 
+8 November 2019. 
+(
+3
+) Council Decision (EU) 2016/1841 of 5 Octo ber 2016 on the conclusion, on behalf of the European Union, of the Pa r is Agreement 
+adopt ed under the Unit ed Nations Framewo rk Convention on Climate Change (OJ L 282, 19.10.2016, p. 1). 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                           L 317/1
+
+--- PDF SEITE 2 ---
+(4) Directives 2009/65/EC (
+4
+), 2009/138/EC (
+5
+), 2011/61/EU (
+6
+), 2013/36/EU (
+7
+), 2014/65/EU (
+8
+), (EU) 2016/97 (
+9
+), 
+(EU) 2016/2341 (
+10
+) of the European P arliament and of the Council, and Regulations (EU) No 345/2013 (
+11
+), 
+(EU) No 346/2013 (
+12
+), (EU) 2015/760 (
+13
+) and (EU) 2019/1238 (
+14
+) of the European P arliament and of the Council 
+share the common objective of fa cilitating the uptak e and pursuit of the activities of under takings f or collective 
+inve stment in transfe rable secur ities (UCITS), credit institutions, altern ative investment fund managers (AIFMs) 
+which manage or mark et altern ative investment funds, including European long‐t er m inv estment funds (EL TIFs), 
+insurance under takings, inv estment fir ms, insurance interm ediar ies, institutions f or occupational retirement 
+provision (IORPs), manage rs of qualifying venture capital funds (EuVEC A managers), manag ers of qualifying social 
+entrepreneurship funds (EuSEF manag ers) and provid ers of pan‐European personal pension products (PEPPs). Those 
+Directives and Regulations ensure the more unif or m protection of end inv estors and make it easier f or them to 
+benefit from a wide range of fi nancial products, while at the same time pro viding r ules that enable end inve stors to 
+make inf or med inv estment decisions. 
+(5) Disclosures to end invest ors on the integration of sustainability r isks , on the consideration of adverse sustainability 
+imp acts, on sustainable inv estment objectives, or on the promotion of en vironmental or social c haract er istics, in 
+inve stment decision‐making and in advisor y processes, are insuffi ciently developed because such disclosures are not 
+ye t subject to har monised requirements. 
+(6) The exem pti on from this Regulation f or financial advisers whic h emplo y f ewer than three persons should be without 
+prejudice to the application of the provisions of national la w transposing Directives 2014/65/EU and (EU) 2016/97, 
+in par ticular the r ules on inve stment and insurance advice. Theref ore, although such advisers are not required to 
+provid e inf or mation in accordance with this Regulation, they are required to consider and fact or in sustainability 
+r isks in their advisor y processes. 
+(7) Entities co vered by this Regulation, depending on the nature of their activities, should compl y with the r ules on 
+fi nancial mark et par ticipants where they manufacture financial products and should compl y with the r ules on 
+fi nancial advisers where the y provid e inv estment advice or insurance advice. Theref ore, where such entities car r y 
+out activities of both fi nancial market par ticipants and fi nancial advisers concur rently , such entities should be 
+deemed to be financial market par ticipants where they act in the capacity of manufacturers of fi nancial products, 
+including por tf olio manage ment, and should be deemed to be financial advisers where they pro vide inv estment or 
+insurance advice. 
+(8) As the Union is increasing ly faced with the catastrophic and unpredictable consequences of climat e c hange, resource 
+depletion and other sustainability‐related issues, urg ent action is needed to mobilise capital not only through public 
+policies but also by the fi nancial ser vices sector . Theref ore, fi nancial mark et par ticipants and fi nancial advisers 
+should be required to disclose specifi c inf or mation regarding their approaches to the integration of sustainability 
+r isks and the consideration of adverse sustainability imp acts. 
+(
+4
+) Directive 2009/65/EC of the European P arliament and of the Council of 13 July 2009 on the coordination of laws, regulations and 
+administrative provisions relating to under takings f or collective investment in transferable secur ities (UCITS) (OJ L 302, 17.11.2009, 
+p. 32). 
+(
+5
+) Directive 2009/138/EC of the European P arliament and of the Council of 25 November 2009 on the taking-up and pursuit of the 
+business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1). 
+(
+6
+) Directive 2011/61/EU of the European P arliament and of the Council of 8 June 2011 on Alternative Invest ment Fund Managers (OJ 
+L 174, 1.7.2011, p. 1). 
+(
+7
+) Directive 2013/36/EU of the European P arliament and of the Council of 26 June 2013 on access to the activity of credit institutions 
+and the pr udential super vision of credit institutions and investment f ir ms, amending Directive 2002/87/EC and repealing Directives 
+2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338). 
+(
+8
+) Directive 2014/65/EU of the European Parliament and of the Council of 15 Ma y 2014 on markets in financial instr uments and 
+amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349). 
+(
+9
+) Directive (EU) 2016/97 of the European P arliament and of the Council of 20 Januar y 2016 on insurance distr ibution (OJ L 26, 
+2.2.2016, p. 19). 
+(
+10
+) Directive (EU) 2016/2341 of the European Parliament and of the Council of 14 December 2016 on the activities and super vision of 
+institutions f or occupational retirement provisi on (IORPs) (OJ L 354, 23.12.2016, p. 37). 
+(
+11
+) Regulation (EU) No 345/2013 of the European P arliament and of the Council of 17 Apr il 2013 on European venture capital funds (OJ 
+L 115, 25.4.2013, p. 1). 
+(
+12
+) Regulation (EU) No 346/2013 of the European P arliament and of the Council of 17 Apr il 2013 on European social entrepreneurship 
+funds (OJ L 115, 25.4.2013, p. 18). 
+(
+13
+) Regulation (EU) 2015/760 of the European P arliament and of the Council of 29 Apr il 2015 on European long-t er m inv estment funds 
+(OJ L 123, 19.5.2015, p.98). 
+(
+14
+) Regulation (EU) 2019/1238 of the European P arliament and of the Council of 20 June 2019 on a P an-European Personal Pension 
+Product (PEPP) (OJ L 198, 25.7.2019, p. 1). 
+EN Offi cial Jour nal of the European Uni on L 317/2                                                                                                                                           9.12.2019
+
+--- PDF SEITE 3 ---
+(9) In the absence of har monised Union r ules on sustainability‐related disclosures to end inv estors, it is likely that 
+diverging measures will continue to be adopt ed at national level and differ ent approaches in diffe rent financia l 
+ser vices sectors might persist. Such diverg ent measures and approach es would continue to cause signif icant 
+distor tions of competiti on because of significant differences in disclosure standards. In addition, the parallel 
+development of market‐based practices that are based on commercially‐dr iven pr ior ities that produce diverg ent 
+results cur rently causes fur ther mark et fragmentation and might even fur ther exacerbate inefficiencies in the 
+functioning of the internal mark et in the future. Diverg ent disclosure standards and mark et‐based practices make it 
+ver y diff icult to compare differ ent financia l products, creat e an uneven pla ying fi eld f or such products and f or 
+distr ibution c hannels, and erect additional bar r iers within the inte r nal market. Such diverg ences could also be 
+confusing f or end inv estor s and could distor t their inve stment decisions. In ensur ing compliance with the P ar is 
+Agreement, there is a r isk that Member State s adopt diverg ent national measures which could creat e obstacles to the 
+smooth functioning of the intern al mark et and be detr imental to financial mark et par ticipants and financial advisers. 
+Fur ther more, the lack of har monised r ules relating to transparency mak es it difficult f or end inv estors to effectively 
+compare differ ent financia l products in diffe rent Member State s with respect to their en vironmental, social and 
+governance r isks and sustainable investment objectives. It is theref ore necessar y to address existing obstacles to the 
+functioning of the inte r nal mark et and to enhance the compar ability of financial products in order to av oid lik ely 
+future obstacles. 
+(10) This Regulation aims to reduce inf or mation asymmetr ies in pr incipal‐agent relationships with regar d to the 
+integration of sustainability r isks , the consideration of adverse sustainability impa cts, the promotion of 
+en vironmental or social charact er istics, and sustainable inv estment, by requir ing financial mark et par ticipants and 
+fi nancial advisers to make pre‐contractual and ongoing disclosures to end inve stors when the y act as agents of those 
+end invest ors (pr incipals). 
+(11) This Regulation supplements the disclosure requirements laid down in Directives 2009/65/EC, 2009/138/EC, 
+2011/61/EU, 2014/65/EU, (EU) 2016/97, (EU) 2016/2341, and Regulations (EU) No 345/2013, (EU) 
+No 346/2013, (EU) 2015/760 and (EU) 2019/1238 as well as in national la w governing personal and individual 
+pension products. T o ensure the orderly and eff ective monitori ng of compl iance with this Regulation, 
+Member States should rely on the compet ent author ities already designat ed under those r ules. 
+(12) This Regulation maintains the requirements f or fi nancial mark et par ticipants and fi nancial advisers to act in the best 
+inter est of end inve stors, including but not limited to, the requirement of conducting adequate due dilig ence pr ior to 
+making inve stments, pro vided f or in Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/65/ 
+EU, (EU) 2016/97, (EU) 2016/2341, and Regulations (EU) No 345/2013 and (EU) No 346/2013, as well as in 
+national la w govern ing personal and individual pension products. In order to compl y with their duties under those 
+r ules, fi nancial mark et par ticipants and fi nancial advisers should integrat e in their processes, including in their due 
+dilig ence processes, and should assess on a continuous basis not only all relevant financia l r isks but also including 
+all relevant sustainability r isks that might hav e a relevant mater ial negative imp act on the fi nancial retur n of an 
+inve stment or advice. Theref ore, fi nancial mark et par ticipants and fi nancial advisers should specify in their policies 
+how the y integrat e those r isks and publish those policies. 
+(13) This Regulation requires fi nancial mark et par ticipants and fi nancial advisers whic h provid e inv estment advice or 
+insurance advice with regard to insurance‐based inv estment products (IBIPs), regar dless of the design of the 
+fi nancial product and the target mark et, to publish wr itten policies on the inte gration of sustainability r isks and 
+ensure the transparency of such integration. 
+(14) A sustainability r isk means an envi ronmental, social or governance event or condition that, if it occurs, could cause a 
+negativ e mater ial im pact on the value of the investment, as specifi ed in sect oral legislation, in par ticular in 
+Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/65/EU, (EU) 2016/97, (EU) 2016/2341, or 
+delegat ed acts and regulatory tec hnical standards adopt ed pursuant to them. 
+(15) This Regulation should be without prejudice to the r ules on the r isk integration under Directives 2009/65/EC, 
+2009/138/EC, 2011/61/EU, 2013/36/EU, (EU) 2016/97, (EU) 2016/2341, and Regulations (EU) No 345/2013 and 
+(EU) No 346/2013 and as well as under national la w govern ing personal and individual pension products, including 
+but not limited to the relevant applicable propor tionality cr iter ia such as size, inte r nal org anisation and the nature, 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                           L 317/3
+
+--- PDF SEITE 4 ---
+scope and compl exity of the activities in question. This Regulation seeks to achi eve more transparency regarding 
+how financia l mark et par ticipants and financial advisers inte grate sustainability r isks into their inv estment decisions 
+and investment or insurance advice. Where the sustainability r isk assessment leads to the conclusion that there are 
+no sustainability r isks deemed to be relevant to the financial product, the reasons theref or should be explained. 
+Where the assessment leads to the conclusion that those r isks are relevant, the exte nt to which those sustainability 
+r isks might im pact the performa nce of the financia l product should be disclosed either in qualitative or quantitative 
+term s. The sustainability r isk assessments and relat ed pre‐contractual disclosures by financial mark et par ticipants 
+should f eed into pre‐contractual disclosures by fi nancial advisers. Financial advisers should disclose how the y take 
+sustainability r isks into account in the selection process of the financia l product that is present ed to the end 
+inve stors bef ore provid ing the advice, rega rdless of the sustainability preferences of the end invest ors. This should 
+be without prejudice to the application of provisions of national law transposing Directives 2014/65/EU and 
+(EU) 2016/97, in par ticular the oblig ations on financia l market par ticipants and financial advisers as regar ds 
+product governance, assessments of suitability and appropr iat eness, and the demands‐and‐needs test. 
+(16) Inv estment decisions and advice might cause, contr ibute to or be directly linked to eff ects on sustainability f actors 
+that are negat ive, mater ial or likely to be mater ial. 
+(17) T o ensure the coherent and consistent application of this Regulation, it is necessar y to la y down a har monised 
+definit ion of ‘sustainable inv estment’ which provid es that the inv estee companies f ollow good go ver nance practices 
+and the precautionar y pr inciple of ‘do no significant har m’ is ensured, so that neither the environmental nor the 
+social objective is signif icantly har med. 
+(18) Where financial mark et par ticipants, taking due account of their size, the nature and scale of their activities and the 
+types of financial products they make available, consider pr incipal adverse im pacts, whether mater ial or lik ely to be 
+mater ial, of inv estment decisions on sustainability fact ors, they should integra te in their processes, including in their 
+due diligence processes, the procedures f or consider ing the pr incipal adverse im pacts alongside the relevant fi nancial 
+r isks and relevant sustainability r isks. The inf or mation on such procedures might descr ibe how fi nancial mark et 
+par ticipants disc harge their sustainability‐related stewardsh ip responsibilities or other shareholder engag ements. 
+Financial market par ticipants should include on their websites inf or mation on those procedures and descr ipt ions of 
+the pr incipal adverse im pacts. In that respect, the Joint Committ ee of the European Banking Author ity established by 
+Regulation (EU) No 1093/2010 of the European P arliament and of the Council (
+15
+) (EBA), the European Insurance 
+and Occupational P ensions A uthor ity established by Regulation (EU) No 1094/2010 of the European P arliament 
+and of the Council (
+16
+) (EIOP A) and the European Secur ities and Marke ts Author ity established by Regulation (EU) 
+No 1095/2010 of the European Parliament and of the Council (
+17
+) (ESMA) (the ‘Joint Committ ee’ ), and financia l 
+mark et par ticipants and fi nancial advisers should consider the due dilig ence guidance f or responsible business 
+conduct developed by the Organisation f or Economic Co‐operation and Development (OECD) and the U nited 
+Nations‐suppor te d Pr inciples f or Responsible Investment. 
+(19) The consideration of sustainability fa ctors in the inve stment decision‐making and advisor y processes can realise 
+benefits bey ond financial markets. It can increase the resilience of the real economy and the stability of the fi nancial 
+system. In so doing, it can ultimat ely im pact on the r isk‐retur n of financial products. It is theref ore essential that 
+fi nancial mark et par ticipants and fi nancial advisers provide the inf or mation necessar y to enable end inv estors to 
+make inf or med inv estment decisions. 
+(
+15
+) Regulation (EU) No 1093/2010 of the European Pa rliament and of the Council of 24 Novem ber 2010 establishing a European 
+Super visor y Authority (European Banking Au thor ity), amending Decision No 716/2009/EC and repealing Commission Decision 
+2009/78/EC (OJ L 331, 15.12.2010, p. 12). 
+(
+16
+) Regulation (EU) No 1094/2010 of the European Pa rliament and of the Council of 24 Novem ber 2010 establishing a European 
+Super visor y Au thor ity (European Insurance and Occupational P ensions Au thor ity), amending Decision No 716/2009/EC and 
+repealing Commission Decision 2009/79/EC (OJ L 331, 15.12.2010, p. 48). 
+(
+17
+) Regulation (EU) No 1095/2010 of the European Pa rliament and of the Council of 24 Novem ber 2010 establishing a European 
+Super visor y Authority (European Secur ities and Markets Authority) , amending Decision No 716/2009/EC and repealing Commission 
+Decision 2009/77/EC (OJ L 331, 15.12.2010, p. 84). 
+EN Offi cial Jour nal of the European Uni on L 317/4                                                                                                                                           9.12.2019
+
+--- PDF SEITE 5 ---
+(20) Financial market par ticipants which consider the pr incipal adverse impacts of inv estment decisions on sustainability 
+fa ctors should disclose in the pre‐contractual inf or mation f or each financial product, concisely in qualitative or 
+quantitative te r ms, how such im pacts are considered as well as a state ment that inf or mation on the pr incipal 
+adverse im pacts on sustainability f actors is av ailable in the ongoing repor ting. Pr incipal adverse im pacts should be 
+underst ood as those im pacts of inv estment decisions and advice that result in neg ative eff ects on sustainability 
+fa ctors. 
+(21) Sustainable products with var ious degrees of ambition hav e been developed to dat e. Theref ore, f or the pur poses of 
+pre‐contractual disclosures and disclosures in per iodical repor ts, it is necessar y to distinguish between the 
+requirements f or fi nancial products which promote en vironmental or social charact er istics and those f or financial 
+products which have as an objective a positive impact on the en vironment and society . As a consequence, as regards 
+the financia l products with environmental or social c haracter istics, fi nancial mark et par ticipants should disclose 
+whether and how the designat ed index, sustainability index or mainstream index, is aligned with those 
+c haracter istics and where no benc hmark is used, inf or mation on how the sustainability charact er istics of the 
+fi nancial products are met. As regar ds fi nancial products whic h hav e as an objective a positive im pact on the 
+en vironment and society , financial mark et par ticipants should disclose which sustainable benchmark they use to 
+measure the sustainable performa nce and where no benchmark is used, explain how the sustainable objective is 
+met. Those disclosures by means of per iodic repor ts should be car r ied out annually . 
+(22) This Regulation is without prejudice to the r ules on remuneration or the assessment of the performa nce of staff of 
+fi nancial mark et par ticipants and fi nancial advisers under Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 
+2013/36/EU, 2014/65/EU, (EU) 2016/97, (EU) 2016/2341, and Regulations (EU) No 345/2013 and 
+(EU) No 346/2013, or to im plementing acts and national law govern ing personal and individual pension products, 
+including but not limited to the relevant applicable propor tionality cr it er ia such as size, inte r nal org anisation and 
+the nature, scope and compl exity of the activities in question. It is, however , appropr iat e to achieve more 
+transparency , in qualitative or quantitative term s, on the remuneration policies of fi nancial market par ticipants and 
+fi nancial advisers, with respect to their investment or insurance advice, that promote sound and effe ctive r isk 
+manage ment with respect to sustainability r isks whereas the str ucture of remuneration does not encourage 
+excessiv e r isk‐taking with respect to sustainability r isks and is linked to r isk‐adjusted performa nce. 
+(23) T o enhance transparency and inf or m end inve stors, access to inf or mation on how fi nancial mark et par ticipants and 
+fi nancial advisers integrat e relevant sustainability r isks , whether mater ial or lik ely to be mater ial, in their investment 
+decision making processes, including the orga nisational, r isk manage ment and govern ance aspects of such 
+processes, and in their advisor y processes, respectively , should be regulated by requir ing those entities to maintain 
+concise inf or mation about those policies on their website s. 
+(24) The cur rent disclosure requirements set out in Uni on law do not require the disclosure of all the inf or mation 
+necessar y to properly inf or m end inv estor s about the sustainability‐related impact of their inv estments in financial 
+products with en vironmental or social c haracter istics or financial products which pursue sustainability objectives. 
+Theref ore, it is appropr iat e to set out more specific and standardised disclosure requirements with regard to such 
+inve stments. For instance, the o verall sustainability‐related im pact of f inancial products should be repor ted 
+regularly by means of indicator s relevant f or measur ing the c hosen sustainable inve stment objective. Where an 
+appropr iat e index has been designate d as a referen ce benc hmark , that inf or mation should also be provid ed f or the 
+designate d index as well as f or a broad mark et index to allow f or compari son. Where EuSEF managers make 
+av ailable inf or mation on the positive social im pact that is the objective of a given fund, on the o verall social 
+outcome achieved and on the relat ed methods used in accordance with Regulation (EU) No 346/2013, they might, 
+where appropr iate, use such inf or mation f or the pur poses of the disclosures under this Regulation. 
+(25) Directive 2013/34/EU of the European Parliament and of the Council (
+18
+) im poses transparency obligations as 
+regards environmental, social and cor porate go ver nance matt ers in non‐fi nancial repor ting. Ho wever , the f or m and 
+presentation required by that Directive is not, alwa ys suitable f or direct use by fi nancial mark et par ticipants and 
+fi nancial advisers when dealing with end inv estor s. Financial mark et par ticipants and f inancial advisers should hav e 
+the op tion to use inf or mation in management repor ts and non‐financial statements f or the pur poses of this 
+Regulation in accordance with that Directive, where appropr iate. 
+(
+18
+) Directive 2013/34/EU of the European P arliament and of the Council of 26 June 2013 on the annual financial statements, 
+consolidated f inancial statements and related repor ts of cer tain types of under takings, amending Directive 2006/43/EC of the 
+European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19). 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                           L 317/5
+
+--- PDF SEITE 6 ---
+(26) T o ensure the reliability of inf or mation published on the website s of fi nancial market par ticipants and financia l 
+advisers, such inf or mation should be kep t up to date, and any revisions or c hanges to such inf or mation should be 
+clearly explained. 
+(27) Even though this Regulation does not co ver national social secur ity schem es co vered by Regulations 
+(EC) No 883/2004 and (EC) No 987/2009, in view of the fact that Member State s increasing ly open up par ts of the 
+manage ment of compul sor y pension sche mes within their social secur ity system s to fi nancial mark et par ticipants 
+or other entities under pr ivate law , and as such sche mes are exposed to sustainability r isks and might consider 
+adverse sustainability impacts, promot e en vironmental or social c haract er istics or pursue sustainable inve stment, 
+Member Stat es should hav e the option to apply this Regulation with regar d to such schemes in order to mitig ate 
+inf or mation asymmetr ies. 
+(28) This Regulation should not prevent a Member Stat e from adopt ing or maintaining in f orce more str ing ent provi sions 
+on the publication of climat e c hange adaptation policies and on additional disclosures to end inv estors regar ding 
+sustainability r isks provided that the aff ected fi nancial mark et par ticipants and financia l advisers, hav e their head 
+office s in its terr it or y . Ho wever , such provis ions should not impede the eff ective application of this Regulation or 
+the achi evement of its objectives. 
+(29) U nder Directive (EU) 2016/2341, IORPs are already required to apply go ver nance and r isk‐manage ment r ules to 
+their investment decisions and r isk assessments in order to ensure continuity and regular ity . Investment decisions 
+and the assessment of relevant r isks , including en vironmental, social and go ver nance r isks , should be made in such 
+a manner as to ensure compl iance with the inte rests of members and beneficiar ies of IORPs. EIOP A should issue 
+guidelines specifying how inv estment decisions and r isk assessments by IORPs are to take into account 
+en vironmental, social and govern ance r isks under that Directive. 
+(30) EBA , EIOP A and ESMA (collectively , the ‘ESAs’) should be mandate d, through the Joint Committee, to develop draf t 
+regulatory tec hnical standards to fur ther specify the conte nt, methodologies and presentation of inf or mation in 
+relation to sustainability indicators with regard to climat e and other en vironment‐related adverse im pacts, to social 
+and emplo y ee matters, to respect f or human r ights, and to anti‐cor r uption and anti‐br iber y matt ers, as well as to 
+specify the presentation and content of the inf or mation with regar d to the promotion of envi ronmental or social 
+c haracter istics and sustainable inv estment objectives to be disclosed in pre‐contractual documents, annual repor ts 
+and on websites of financia l mark et par ticipants in accordance with Ar ticles 10 to 14 of Regulations 
+(EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010. The Commission should be em powered to 
+adopt those regulatory tec hnical standards by means of delegat ed acts pursuant to Ar ticle 290 of the T reaty on the 
+Functioning of the European U nion (TFEU) and in accordance with Ar ticles 10 to 14 of Regulations 
+(EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010. 
+(31) The ESAs should be mandated, through the Joint Committ ee, to develop draf t implementing tec hnical standards to 
+det er mine the standard presentation of inf or mation on the promotion of environmental or social c haract er istics 
+and sustainable inv estments in marketing communications. The Commission should be em powered to adopt those 
+imp lementing tec hnical standards by means of an im plementing act pursuant to Ar ticle 291 TFEU and in 
+accordance with Ar ticle 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010. 
+(32) Since annual repor ts in pr inciple summar ise business results f or complet e calendar y ears, the provisions of this 
+Regulation regar ding the transparency requirements f or such repor ts should not apply until 1 Januar y 2022. 
+(33) The disclosure r ules contained in this Regulation should supplement the provisions of Directives 2009/65/EC, 
+2009/138/EC, 2011/61/EU, 2014/65/EU, (EU) 2016/97 and (EU) 2016/2341, and Regulations (EU) No 345/2013, 
+(EU) No 346/2013, (EU) 2015/760 and (EU) 2019/1238. 
+(34) This Regulation respects fundamental r ights and obser ves the pr inciples recognised in par ticular by the Char ter of 
+the Fundamental Rights of the European Union. 
+(35) Since the objectives of this Regulation, namely to strengthen prot ection f or end inv estor s and im prove disclosures to 
+them, including in cases of cross‐border purch ases by end invest ors, cannot be suffi ciently achi eved by the 
+Member States but can rather , by reason of the need to la y down unif or m disclosure requirements, be bett er 
+achi eved at U nion level, the U nion ma y adopt measures, in accordance with the pr inciple of subsidiar ity as set out 
+in Ar ticle 5 of the T reaty on European U nion. In accordance with the pr inciple of propor tionality , as set out in that 
+Ar ticle, this Regulation does not go bey ond what is necessar y in order to achieve those objectives, 
+EN Offi cial Jour nal of the European Uni on L 317/6                                                                                                                                           9.12.2019
+
+--- PDF SEITE 7 ---
+HA VE ADOPTED THIS REGUL A TION: 
+Ar ticle 1 
+Subject matter 
+This Regulation la ys down har monised r ules f or financial market par ticipants and fi nancial advisers on transparency with 
+regard to the integrat ion of sustainability r isks and the consideration of adverse sustainability im pacts in their processes 
+and the pro vision of sustainability‐related inf or mation with respect to fi nancial products. 
+Ar ticle 2 
+Def initions 
+For the pur poses of this Regulation, the f ollowi ng definitions apply: 
+(1) ‘finan cial mark et par ticipant ’ means: 
+(a) an insurance under taking which makes available an insurance‐based inv estment product (IBIP); 
+(b) an inve stment fi r m whic h provi des por tf olio management; 
+(c) an institution f or occupational retirement provi sion (IORP); 
+(d) a manuf acturer of a pension product ; 
+(e) an altern ative investment fund manag er (AIFM); 
+(f) a pan‐European personal pension product (PEPP) provid er; 
+(g) a manager of a qualifying venture capital fund registered in accordance with Ar ticle 14 of Regulation 
+(EU) No 345/2013; 
+(h) a manager of a qualifying social entrepreneurship fund registered in accordance with Ar ticle 15 of Regulation 
+(EU) No 346/2013; 
+(i) a management compan y of an under taking f or collective inve stment in transferable secur ities (UCITS 
+management compan y); or 
+(j) a credit institution which provides por tf olio manag ement ; 
+(2) ‘insurance under taking’ means an insurance under taking author ised in accordance with Ar ticle 18 of 
+Directive 2009/138/EC; 
+(3) ‘insurance‐based inv estment product’ or ‘IBIP’ means: 
+(a) an insurance‐based inve stment product as defined in point (2) of Ar ticle 4 of Regulation (EU) No 1286/2014 of 
+the European P arliament and of the Council (
+19
+); or 
+(b) an insurance product which is made ava ilable to a profess ional inv estor and which offe rs a matur ity or sur render 
+value that is wholly or par tially exposed, directly or indirectly , to market f luctuations; 
+(4) ‘alt er native investment fund manage r ’ or ‘ AIFM’ means an AIFM as defined in point (b) of Ar ticle 4(1) of 
+Directive 2011/61/EU; 
+(5) ‘inves tment fir m’ means an investment fir m as def ined in point (1) of Ar ticle 4(1) of Directive 2014/65/EU; 
+(6) ‘por tf olio management’ means por tf olio management as defined in in point (8) of Ar ticle 4(1) of 
+Directive 2014/65/EU; 
+(7) ‘institution f or occupational retirement provision’ or ‘IORP’ means an institution f or occupational retirement 
+provis ion author ised or register ed in accordance with Ar ticle 9 of Directive (EU) 2016/2341 excep t an institution in 
+respect of which a Member Stat e has c hosen to apply Ar ticle 5 of that Directive or an institution that operat es 
+pension sch emes which tog ether have less than 15 members in total; 
+(
+19
+) Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on ke y inf or mation documents 
+f or packag ed retail and insurance-based investment products (PRIIPs) (OJ L 352, 9.12.2014, p. 1). 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                           L 317/7
+
+--- PDF SEITE 8 ---
+(8) ‘pension product’ means: 
+(a) a pension product as refe r red to in point (e) of Ar ticle 2(2) of Regulation (EU) No 1286/2014; or 
+(b) an individual pension product as refer red to in point (g) of Ar ticle 2(2) of Regulation (EU) No 1286/2014; 
+(9) ‘pan‐European P ersonal P ension Product’ or ‘PEPP’ means a product as refe r red to in point (2) of Ar ticle 2 of 
+Regulation (EU) 2019/1238; 
+(10) ‘UCITS managemen t compan y’ means: 
+(a) a manag ement compan y as defined in point (b) of Ar ticle 2(1) of Directive 2009/65/EC; or 
+(b) an inv estment compan y author ised in accordance with Directive 2009/65/EC which has not designat ed a 
+management compan y author ised under that Directive f or its manage ment ; 
+(11) ‘finan cial adviser ’ means: 
+(a) an insurance interm ediar y whic h provid es insurance advice with regard to IBIPs; 
+(b) an insurance under taking whic h pro vides insurance advice with regar d to IBIPs; 
+(c) a credit institution which provides inv estment advice; 
+(d) an inve stment fir m whic h provid es investment advice; 
+(e) an AIFM which provides inv estment advice in accordance with point (b)(i) of Ar ticle 6(4) of 
+Directive 2011/61/EU; or 
+(f) a UCITS management compan y which provid es inv estment advice in accordance with point (b)(i) of Ar ticle 6(3) 
+of Directive 2009/65/EC; 
+(12) ‘finan cial product’ means: 
+(a) a por tf olio manag ed in accordance with point (6) of this Ar ticle; 
+(b) an altern ative inv estment fund (AIF); 
+(c) an IBIP; 
+(d) a pension product ; 
+(e) a pension scheme; 
+(f) a UCITS; or 
+(g) a PEPP; 
+(13) ‘alt er native inv estment funds’ or ‘ AIFs ’ means AIFs as defined in point (a) of Ar ticle 4(1) of Directive 2011/61/EU; 
+(14) ‘pension schem e ’ means a pension scheme as defined in point (2) of Ar ticle 6 of Directive (EU) 2016/2341; 
+(15) ‘under taking f or collective inv estment in transferable secur ities ’ or ‘UCITS’ means an under taking author ised in 
+accordance with Ar ticle 5 of Directive 2009/65/EC; 
+(16) ‘inves tment advice’ means inve stment advice as defined in point (4) of Ar ticle 4(1) of Directive 2014/65/EU; 
+(17) ‘sustainable investment’ means an inv estment in an economic activity that contr ibutes to an environmental objective, 
+as measured, f or exam ple, by ke y resource effi ciency indicators on the use of energy , renewable energy , raw mater ials, 
+water and land, on the production of waste, and greenhouse gas emissions, or on its im pact on biodiversity and the 
+circular econom y , or an inv estment in an economic activity that contr ibutes to a social objective, in par ticular an 
+inv estment that contr ibutes to tackli ng inequality or that f osters social cohesion, social inte gration and labour 
+relations, or an inv estment in human capital or economically or socially disadvantaged communities, provid ed that 
+such inv estments do not signif icantly har m any of those objectives and that the inv estee companies f ollo w good 
+governance practices, in par ticular with respect to sound management str uctures, emplo yee relations, remuneration 
+of staff and tax compl iance; 
+(18) ‘prof essional inv estor ’ means a client who meets the cr iter ia laid down in Annex II to Directive 2014/65/EU; 
+(19) ‘retail inv estor ’ means an inve stor who is not a profess ional inve stor; 
+(20) ‘insurance interm ediar y’ means an insurance intermediar y as def ined in point (3) of Ar ticle 2(1) of Directive 
+(EU) 2016/97; 
+EN Offi cial Jour nal of the European Uni on L 317/8                                                                                                                                           9.12.2019
+
+--- PDF SEITE 9 ---
+(21) ‘insurance advice’ means advice as defined in point (15) of Ar ticle 2(1) of Directive (EU) 2016/97; 
+(22) ‘sustainability r isk’ means an en vironmental, social or go ver nance event or condition that, if it occurs, could cause an 
+actual or a potential mat er ial negative impact on the value of the inv estment ; 
+(23) ‘European long‐term investment fund’ or ‘EL TIF’ means a fund author ised in accordance with Ar ticle 6 of Regulation 
+(EU) 2015/760; 
+(24) ‘sustainability f actors’ mean en vironmental, social and emp lo yee matters, respect f or human r ights, anti‐cor r upti on 
+and anti‐br iber y matt ers. 
+Ar ticle 3 
+T ransparency of sust ainability r isk policies 
+1. Financial mark et par ticipants shall publish on their websites inf or mation about their policies on the inte gration of 
+sustainability r isks in their inv estment decision‐making process. 
+2. Financial advisers shall publish on their websites inf or mation about their policies on the inte gration of sustainability 
+r isks in their inv estment advice or insurance advice. 
+Ar ticle 4 
+T ransparency of adv erse sust ainability impacts at entity lev el 
+1. Financial market par ticipants shall publish and maintain on their websites: 
+(a) where the y consider pr incipal adverse im pacts of inve stment decisions on sustainability fact ors, a statemen t on due 
+diligence policies with respect to those impacts, taking due account of their size, the nature and scale of their activities 
+and the types of fi nancial products they make ava ilable; or 
+(b) where the y do not consider adverse impact s of inve stment decisions on sustainability f actors, clear reasons f or why 
+they do not do so, including, where relevant, inf or mation as to whether and when they intend to consider such 
+adverse im pacts. 
+2. Financial mark et par ticipants shall include in the inf or mation provid ed in accordance with point (a) of paragraph 1 at 
+least the f ollowi ng: 
+(a) inf or mation about their policies on the identif ication and pr ior itisation of pr incipal adverse sustainability impacts and 
+indicators; 
+(b) a descr ipt ion of the pr incipal adverse sustainability impa cts and of an y actions in relation thereto tak en or , where 
+relevant, planned; 
+(c) br ief summar ies of engag ement policies in accordance with Ar ticle 3g of Directive 2007/36/EC, where applicable; 
+(d) a ref erence to their adherence to responsible business conduct codes and intern ationally recognised standards f or due 
+diligence and repor ting and, where relevant, the degree of their alignment with the objectives of the Par is Agreement. 
+3. By wa y of derogation from paragraph 1, from 30 June 2021, financial mark et par ticipants excee ding on their balance 
+sheet dat es the cr it er ion of the av erage number of 500 emplo y ees dur ing the fi nancial y ear shall publish and maintain on 
+their websites a state ment on their due dilig ence policies with respect to the pr incipal adverse im pacts of inv estment 
+decisions on sustainability fact ors. That statement shall at least include the inf or mation refer red to in paragraph 2. 
+4. By wa y of derogation from paragraph 1 of this Ar ticle, from 30 June 2021, fi nancial mark et par ticipants whic h are 
+parent under takings of a larg e group as refer red to in Ar ticle 3(7) of Directive 2013/34/EU exceed ing on the balance sheet 
+date of the group, on a consolidated basis, the cr ite r ion of the ave rage number of 500 em plo ye es dur ing the financial ye ar 
+shall publish and maintain on their website s a state ment on their due diligence policies with respect to the pr incipal adverse 
+imp acts of inv estment decisions on sustainability f actors. That stat ement shall at least include the inf or mation refe r red to in 
+of paragraph 2. 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                           L 317/9
+
+--- PDF SEITE 10 ---
+5. Financial advisers shall publish and maintain on their websites: 
+(a) inf or mation as to whether , taking due account of their size, the nature and scale of their activities and the types of 
+fi nancial products the y advise on, they consider in their inv estment advice or insurance advice the pr incipal adverse 
+impacts on sustainability fact ors; or 
+(b) inf or mation as to why the y do not to consider adverse impacts of inv estment decisions on sustainability fact ors in their 
+investment advice or insurance advice, and, where relevant, including inf or mation as to whether and when they intend 
+to consider such adverse im pacts. 
+6. By 30 December 2020, the ESAs shall develop, through the Joint Committ ee, draf t regulator y te chnical standards in 
+accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 on 
+the content, methodologies and presentation of inf or mation refe r red to in paragraphs 1 to 5 of this Ar ticle in respect of 
+the sustainability indicators in relation to adverse im pacts on the climat e and other en vironment‐related adverse impa cts. 
+The ESAs shall, where relevant, seek input from the European Environment Agen cy and the Joint Research Centre of the 
+European Commission. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+7. By 30 December 2021, the ESAs shall develop, through the Joint Committ ee, draf t regulator y te chnical standards in 
+accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010 on 
+the content, methodologies and presentation of inf or mation refe r red to in paragraphs 1 to 5 of this Ar ticle in respect of 
+sustainability indicators in relation to adverse impa cts in the fi eld of social and em plo ye e matters, respect f or human 
+r ights, anti‐cor r uption and anti‐br iber y matters. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 5 
+T ransparency of remuneration policies in relation to the integ ration of sust ainability r isks 
+1. Financial market par ticipants and fi nancial advisers shall include in their remuneration policies inf or mation on how 
+those policies are consist ent with the integration of sustainability r isks , and shall publish that inf or mation on their website s. 
+2. The inf or mation refe r red to in paragraph 1 shall be included in remuneration policies that financia l mark et 
+par ticipants and financia l advisers are required to establish and maintain in accordance with sect oral legislation, in 
+par ticular Directives 2009/65/EC, 2009/138/EC, 2011/61/EU, 2013/36/EU, 2014/65/EU, (EU) 2016/97 and 
+(EU) 2016/2341. 
+Ar ticle 6 
+T ransparency of the integ ration of sust ainability r isks 
+1. Financial market par ticipants shall include descr iptions of the f ollowing in pre‐contractual disclosures: 
+(a) the manner in which sustainability r isks are integrat ed into their inv estment decisions; and 
+(b) the results of the assessment of the likely im pacts of sustainability r isks on the retur ns of the fi nancial products they 
+make available. 
+Where financia l market par ticipants deem sustainability r isks not to be relevant, the descr iptions refer red to in the fi rst 
+subparagraph shall include a clear and concise explanation of the reasons theref or . 
+2. Financial advisers shall include descr iptions of the f ollo wing in pre‐contractual disclosures: 
+(a) the manner in which sustainability r isks are integrat ed into their inv estment or insurance advice; and 
+(b) the result of the assessment of the lik ely im pacts of sustainability r isks on the retur ns of the financial products the y 
+advise on. 
+Where fi nancial advisers deem sustainability r isks not to be relevant, the descr iptions refe r red to in the fi rst subparagraph 
+shall include a clear and concise explanation of the reasons theref or . 
+EN Offi cial Jour nal of the European Uni on L 317/10                                                                                                                                         9.12.2019
+
+--- PDF SEITE 11 ---
+3. The inf or mation refer red to in paragraphs 1 and 2 of this Ar ticle shall be disclosed in the f ollowing manner : 
+(a) f or AIFMs, in the disclosures to invest ors refe r red to in Ar ticle 23(1) of Directive 2011/61/EU; 
+(b) f or insurance under takings, in the provision of inf or mation refe r red to in Ar ticle 185(2) of Directive 2009/138/EC or , 
+where relevant, in accordance with Ar ticle 29(1) of Directive (EU) 2016/97; 
+(c) f or IORPs, in the provision of inf or mation refer red to in Ar ticle 41 of Directive (EU) 2016/2341; 
+(d) f or manag ers of qualifying venture capital funds, in the provision of inf or mation ref er red to in Ar ticle 13(1) of 
+Regulation (EU) No 345/2013; 
+(e) f or managers of qualifying social entrepreneurship funds, in the provi sion of inf or mation ref er red to in Ar ticle 14(1) of 
+Regulation (EU) No 346/2013; 
+(f) f or manufacturers of pension products, in wr iting in good time bef ore a retail inve stor is bound by a contract relating to 
+a pension product ; 
+(g) f or UCITS manage ment compan ies, in the prospectus refe r red to in Ar ticle 69 of Directive 2009/65/EC; 
+(h) f or inv estment fir ms whic h provide por tf olio manag ement or provide inv estment advice, in accordance with Ar ticle 24 
+(4) of Directive 2014/65/EU; 
+(i) f or credit institutions which provide por tf olio management or pro vide investment advice, in accordance with 
+Ar ticle 24(4) of Directive 2014/65/EU; 
+(j) f or insurance interm ediar ies and insurance under takings which provi de insurance advice with regard to IBIPs and f or 
+insurance interm ediar ies whic h provide insurance advice with regar d to pension products exposed to mark et 
+f luctuations, in accordance with Ar ticle 29(1) of Directive (EU) 2016/97; 
+(k) f or AIFMs of EL TIFs, in the prospectus refe r red to in Ar ticle 23 of Regulation (EU) 2015/760; 
+(l) f or PEPP provid ers, in the PEPP ke y inf or mation document refe r red to in Ar ticle 26 of Regulation (EU) 2019/1238. 
+Ar ticle 7 
+T ransparency of adv erse sust ainability impacts at f inancial product lev el 
+1. By 30 December 2022, f or each financia l product where a fi nancial mark et par ticipant applies point (a) of Ar ticle 4 
+(1) or Ar ticle 4(3) or (4), the disclosures ref er red to in Ar ticle 6(3) shall include the f ollowing: 
+(a) a clear and reasoned explanation of whether , and, if so, how a financial product considers pr incipal adverse im pacts on 
+sustainability fact ors; 
+(b) a stat ement that inf or mation on pr incipal adverse impact s on sustainability fact ors is av ailable in the inf or mation to be 
+disclosed pursuant to Ar ticle 11(2). 
+Where inf or mation in Ar ticle 11(2) includes quantifi cations of pr incipal adverse impact s on sustainability f actors, that 
+inf or mation ma y rely on the provisions of the regulatory tec hnical standards adopt ed pursuant to Ar ticle 4(6) and (7). 
+2. Where a fi nancial mark et par ticipant applies point (b) of Ar ticle 4(1), the disclosures refer red to in Ar ticle 6(3) shall 
+include f or each fi nancial product a statement that the f inancial mark et par ticipant does not consider the adverse impacts 
+of inv estment decisions on sustainability f actors and the reasons theref or . 
+Ar ticle 8 
+T ransparency of the promotion of environmental or social character istics in pre‐contractual disclosures 
+1. Where a financia l product promot es, among other charact er istics, environmental or social c haracteri stics, or a 
+combination of those c haracter istics, provid ed that the compan ies in whic h the inv estments are made f ollo w good 
+governance practices, the inf or mation to be disclosed pursuant to Ar ticle 6(1) and (3) shall include the f ollowi ng: 
+(a) inf or mation on how those c haracter istics are met ; 
+(b) if an index has been designat ed as a referen ce benc hmark , inf or mation on whether and how this index is consistent 
+with those c haracteri stics. 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                         L 317/11
+
+--- PDF SEITE 12 ---
+2. Financial mark et par ticipants shall include in the inf or mation to be disclosed pursuant to Ar ticle 6(1) and (3) an 
+indication of where the methodology used f or the calculation of the index refer red to in paragraph 1 of this Ar ticle is to be 
+f ound. 
+3. The ESAs shall, through the Joint Committ ee, develop draf t regulatory tec hnical standards to specify the details of the 
+presentation and content of the inf or mation to be disclosed pursuant to this Ar ticle. 
+When developing the draf t regulatory tec hnical standards refer red to in the first subparagraph, the ES As shall tak e into 
+account the var ious types of fi nancial products, their c haracter istics and the differences between them, as well as the 
+objective that disclosures are to be accurate , f air , clear , not misleading, simple and concise. 
+The ESA s shall submit the draf t regulatory te chnical standards refer red to in the fi rst subparagraph to the Commission by 
+30 December 2020. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 9 
+T ransparency of sust ainable inv estments in pre‐contractual disclosures 
+1. Where a fi nancial product has sustainable inve stment as its objective and an index has been designate d as a refe rence 
+benc hmark , the inf or mation to be disclosed pursuant to Ar ticle 6(1) and (3) shall be accompan ied by the f ollo wing: 
+(a) inf or mation on how the designated index is aligned with that objective; 
+(b) an explanation as to why and how the designat ed index aligned with that objective diffe rs from a broad mark et index. 
+2. Where a financial product has sustainable inve stment as its objective and no index has been designat ed as a refe rence 
+benc hmark , the inf or mation to be disclosed pursuant to Ar ticle 6(1) and (3) shall include an explanation on how that 
+objective is to be attained. 
+3. Where a f inancial product has a reduction in carbon emissions as its objective, the inf or mation to be disclosed 
+pursuant to Ar ticle 6(1) and (3) shall include the objective of lo w carbon emission exposure in view of achieving the long‐ 
+term g lobal war ming objectives of the Par is Agreement. 
+By wa y of derog ation from paragraph 2 of this Ar ticle, where no EU Climate T ransition Benc hmark or EU Par is‐aligned 
+Benc hmark in accordance with Regulation (EU) 2016/1011 of the European P arliament and of the Council (
+20
+) is av ailable, 
+the inf or mation refer red to in Ar ticle 6 shall include a detailed explanation of how the continued eff or t of attaining the 
+objective of reducing carbon emissions is ensured in view of achi eving the long‐t er m g lobal war ming objectives of the 
+P ar is Agreement. 
+4. Financial mark et par ticipants shall include in the inf or mation to be disclosed pursuant to Ar ticle 6(1) and (3) an 
+indication of where the methodology used f or the calculation of the indices refer red to in paragraph 1 of this Ar ticle and 
+the benc hmark s refer red to in the second subparagraph of paragraph 3 of this Ar ticle are to be f ound. 
+5. The ESAs shall, through the Joint Committ ee, develop draf t regulatory tec hnical standards to specify the details of the 
+presentation and content of the inf or mation to be disclosed pursuant to this Ar ticle. 
+When developing the draf t regulatory tec hnical standards refe r red to in the fi rst subparagraph of this paragraph, the ESAs 
+shall take into account the var ious types of fi nancial products, their objectives as refer red to in paragraphs 1, 2 and 3 and 
+the diff erences between them as well as the objective that disclosures are to be accurate, f air , clear , not misleading, sim ple 
+and concise. 
+(
+20
+) Regulation (EU) 2016/1011 of the European P arliament and of the Council of 8 June 2016 on indices used as benchm ark s in financial 
+instr uments and financial contracts or t o measure the perf or mance of investment funds and amending Directives 2008/48/EC and 
+2014/17/EU and Regulation (EU) No 596/2014 (OJ L 171, 29.6.2016, p. 1). 
+EN Offi cial Jour nal of the European Uni on L 317/12                                                                                                                                         9.12.2019
+
+--- PDF SEITE 13 ---
+The ESA s shall submit the draf t regulatory te chnical standards refer red to in the fi rst subparagraph to the Commission by 
+30 December 2020. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 10 
+T ransparency of the promotion of environmenta l or social character ist ics and of sust ainable inv est ments on 
+w ebsites 
+1. Financial market par ticipants shall publish and maintain on their websites the f ollowi ng inf or mation f or each 
+fi nancial product refer red to in Ar ticle 8(1) and Ar ticle 9(1), (2) and (3): 
+(a) a descr iption of the en vironmental or social charact er istics or the sustainable inve stment objective; 
+(b) inf or mation on the methodologies used to assess, measure and monitor the environmental or social charact er istics or 
+the im pact of the sustainable inv estments selecte d f or the financial product, including its data sources, screening 
+cr it er ia f or the underlying assets and the relevant sustainability indicators used to measure the environmental or social 
+charact er istics or the o verall sustainable impa ct of the financial product ; 
+(c) the inf or mation refer red to in Ar ticles 8 and 9; 
+(d) the inf or mation refer red to in Ar ticle 11. 
+The inf or mation to be disclosed pursuant to the first subparagraph shall be clear , succinct and understandable to inv estor s. 
+It shall be published in a wa y that is accurate , f air , clear , not misleading, simple and concise and in a prominent easily 
+accessible area of the website . 
+2. The ESAs shall, through the Joint Committ ee, develop draf t regulatory tec hnical standards to specify the details of the 
+conte nt of the inf or mation ref er red to in points (a) and (b) of the fi rst subparagraph of paragraph 1, and the presentation 
+requirements refer red to in the second subparagraph of that paragraph. 
+When developing the draf t regulatory tec hnical standards refe r red to in the fi rst subparagraph of this paragraph, the ESAs 
+shall take into account the var ious types of financial products, their c haract er istics and objectives as refer red to in 
+paragraph 1 and the differ ences between them. The ESA s shall update the regulatory tec hnical standards in the light of 
+regulatory and tec hnological developments. 
+The ESA s shall submit the draf t regulatory te chnical standards refer red to in the fi rst subparagraph to the Commission by 
+30 December 2020. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 11 
+T ransparency of the promotion of environmental or social character istics and of sust ainable inv estments in 
+per iodic repor ts 
+1. Where financial mark et par ticipants make av ailable a financia l product as refe r red to in Ar ticle 8(1) or in Ar ticle 9(1), 
+(2) or (3), the y shall include a descr ip tion of the f ollowi ng in per iodic repor ts: 
+(a) f or a fi nancial product as refer red to in Ar ticle 8(1), the ext ent to which en vironmental or social c haract er istics are met ; 
+(b) f or a financia l product as ref er red to in Ar ticle 9(1), (2) or (3): 
+(i) the o verall sustainability‐relate d im pact of the fi nancial product by means of relevant sustainability indicators; or 
+(ii) where an index has been designat ed as a reference benc hmark , a comparison between the o verall sustainability‐ 
+relat ed imp act of the fi nancial product with the impacts of the designate d index and of a broad mark et index 
+through sustainability indicators. 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                         L 317/13
+
+--- PDF SEITE 14 ---
+2. The inf or mation refer red to in paragraph 1 of this Ar ticle shall be disclosed in the f ollowi ng manner : 
+(a) f or AIFMs, in the annual repor t refer red to in Ar ticle 22 of Directive 2011/61/EU; 
+(b) f or insurance under takings, annually in wr iting in accordance with Ar ticle 185(6) of Directive 2009/138/EC; 
+(c) f or IORPs, in the annual repor t ref er red to in Ar ticle 29 of Directive (EU) 2016/2341; 
+(d) f or managers of qualifying venture capital funds, in the annual repor t refer red to in Ar ticle 12 of Regulation 
+(EU) No 345/2013; 
+(e) f or manag ers of qualifying social entrepreneurship funds, in the annual repor t refe r red to in Ar ticle 13 of Regulation 
+(EU) No 346/2013; 
+(f) f or manuf acturers of pension products, in wr iting in the annual repor t or in a repor t in accordance with national la w ; 
+(g) f or UCITS manage ment compan ies, in the annual repor t refer red to in Ar ticle 69 of Directive 2009/65/EC; 
+(h) f or inv estment fi r ms which provid e por tf olio manag ement, in a per iodic repor t as refe r red to in Ar ticle 25(6) of 
+Directive 2014/65/EU; 
+(i) f or credit institutions which provi de por tf olio manage ment, in a per iodic repor t as refe r red to in Ar ticle 25(6) of 
+Directive 2014/65/EU; 
+(j) f or PEPP provid ers, in the PEPP Benefi t State ment refe r red to in Ar ticle 36 of Regulation (EU) 2019/1238. 
+3. For the pur poses of paragraph 1 of this Ar ticle, financia l market par ticipants ma y use the inf or mation in 
+manage ment repor ts in accordance with Ar ticle 19 of Directive 2013/34/EU or the inf or mation in non‐fi nancial 
+state ments in accordance with Ar ticle 19a of that Directive where appropr iate. 
+4. The ESAs shall, through the Joint Committ ee, develop draf t regulatory tec hnical standards to specify the details of the 
+conte nt and presentation of inf or mation refer red to in paragraph 1. 
+When developing the draf t regulatory tec hnical standards refer red to in the first subparagraph, the ES As shall tak e into 
+account the var ious types of financial products, their c haracter istics and objectives and the diffe rences between them. The 
+ESA s shall update the regulatory tec hnical standards in the light of regulatory and tec hnological developments. 
+The ESA s shall submit the draf t regulatory te chnical standards refer red to in the fi rst subparagraph to the Commission by 
+30 December 2020. 
+P o wer is delegat ed to the Commission to supplement this Regulation by adop ting the regulatory tec hnical standards 
+refer red to in the first subparagraph in accordance with Ar ticles 10 to 14 of Regulations (EU) No 1093/2010, 
+(EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 12 
+Review of disclosures 
+1. Financial market par ticipants shall ensure that any inf or mation published in accordance with Ar ticle 3, 5 or 10 is 
+kep t up to dat e. Where a fi nancial mark et par ticipant amends such inf or mation, a clear explanation of such amendment 
+shall be published on the same website. 
+2. P aragraph 1 shall apply mutatis mutandis to financial advisers with regard to any inf or mation published in accordance 
+with Ar ticles 3 and 5. 
+Ar ticle 13 
+Marketing communications 
+1. Without prejudice to str icte r sectora l legislation, in par ticular Directives 2009/65/EC, 2014/65/EU and (EU) 2016/97 
+and Regulation (EU) No 1286/2014, financial market par ticipants and financial advisers shall ensure that their marketing 
+communications do not contradict the inf or mation disclosed pursuant to this Regulation. 
+2. The ESAs ma y develop, through the Joint Committee, draf t im plementing tec hnical standards to deter mine the 
+standard presentation of inf or mation on the promotion of environmental or social c haracter istics and sustainable 
+inve stments. 
+EN Offi cial Jour nal of the European Uni on L 317/14                                                                                                                                         9.12.2019
+
+--- PDF SEITE 15 ---
+P o wer is delegat ed to the Commission to adopt the implemen ting te chnical standards refe r red to in the first subparagraph 
+in accordance with Ar ticle 15 of Regulations (EU) No 1093/2010, (EU) No 1094/2010 and (EU) No 1095/2010. 
+Ar ticle 14 
+Competent author ities 
+1. Member State s shall ensure that the compet ent author ities designate d in accordance with sectora l legislation, in 
+par ticular the sectora l legislation refe r red to in Ar ticle 6(3) of this Regulation, and in accordance with 
+Directive 2013/36/EU, monitor the compl iance of fi nancial mark et par ticipants and fi nancial advisers with the 
+requirements of this Regulation. The compet ent author ities shall hav e all the super visor y and inv estigat or y powers that are 
+necessar y f or the exer cise of their functions under this Regulation. 
+2. For the pur poses of this Regulation, the compet ent author ities shall cooperate with each other and shall provide each 
+other , without undue dela y , with such inf or mation as is relevant f or the pur poses of car r ying out their duties under this 
+Regulation. 
+Ar ticle 15 
+T ransparency by IORPs and insurance inter mediar ies 
+1. IORPs shall publish and maintain the inf or mation refe r red to in Ar ticles 3 to 7 and the fi rst subparagraph of 
+Ar ticle 10(1), of this Regulation in accordance with point (f) of Ar ticle 36(2) of Directive (EU) 2016/2341. 
+2. Insurance interm ediar ies shall communicate the inf or mation refe r red to in Ar ticle 3, Ar ticle 4(5), Ar ticle 5, Ar ticle 6 
+and the first subparagraph of Ar ticle 10(1), of this Regulation in accordance with Ar ticle 23 of Directive (EU) 2016/97. 
+Ar ticle 16 
+Pension products co v ered b y Regulations (EC) No 883/2004 and (EC) No 987/2009 
+1. Member Stat es ma y decide to apply this Regulation to manuf acturers of pension products operating national social 
+secur ity schem es which are co vered by Regulations (EC) No 883/2004 and (EC) No 987/2009. In such cases, 
+manufact urers of pension products as refer red to in point (1)(d) of Ar ticle 2 of this Regulation shall include manuf acturers 
+of pension products operating national social secur ity schem es and of pension products ref er red to in point (8) of Ar ticle 2 
+of this Regulation. In such case, the def inition of pension product in point (8) of Ar ticle 2 of this Regulation shall be 
+deemed to include the pension products refer red to in the fi rst sentence. 
+2. Member States shall notify the Commission and the ESA s of any decision take n pursuant to paragraph 1. 
+Ar ticle 17 
+Exemptions 
+1. This Regulation shall neither apply to insurance interm ediar ies which provide insurance advice with regar d to IBIPs 
+nor to inv estment fir ms which provide inv estment advice that are ent er pr ises ir respective of their legal f or m, including 
+natural persons and self‐emplo y ed persons, provid ed that they emplo y f ewer than three persons. 
+2. Member Stat es ma y decide to apply this Regulation to insurance interm ediar ies whic h provide insurance advice with 
+regard to IBIPs or inv estment fi r ms whic h provid e inv estment advice as refer red to in paragraph 1. 
+3. Member States shall notify the Commission and the ESA s of any decision take n pursuant to paragraph 2. 
+EN Offi cial Jour nal of the European Uni on 9.12.2019                                                                                                                                         L 317/15
+
+--- PDF SEITE 16 ---
+Ar ticle 18 
+Repor t 
+The ESA s shall tak e stoc k of the extent of volun tar y disclosures in accordance with point (a) of Ar ticle 4(1) and point (a) of 
+Ar ticle 7(1). By 10 Sept ember 2022 and ever y ye ar thereaf ter , the ESA s shall submit a repor t to the Commission on best 
+practices and make recommendations to wards voluntary repor ting standards. That annual repor t shall consider the 
+imp lications of due diligence practices on disclosures under this Regulation and shall provide guidance on this matter . 
+That repor t shall be made public and be transmitt ed to the European Parliament and to the Council. 
+Ar ticle 19 
+Evaluation 
+1. By 30 December 2022, the Commission shall evaluate the application of this Regulation and shall in par ticular 
+consider : 
+(a) whether the refe rence to the ave rage number of emplo y ees in Ar ticle 4(3) and (4) should be maintained, replaced or 
+accompanied by other cr it er ia, and shall consider the benefits and propor tionality of the relat ed administrative burden; 
+(b) whether the functioning of this Regulation is inhibit ed by the lack of data or their subopti mal quality , including 
+indicators on adverse impa cts on sustainability fa ctors by inv estee companies. 
+2. The evaluation refer red to in paragraph 1 shall be accompan ied, if appropr iat e, by a legislative proposal. 
+Ar ticle 20 
+Entr y int o f orce and application 
+1. This Regulation shall ent er into f orce on the twentieth da y f ollowing that of its publication in the Off icial Jour nal of the 
+Eur opean Union. 
+2. This Regulation shall apply from 10 Marc h 2021. 
+3. By wa y of derogation from paragraph 2 of this Ar ticle, Ar ticle 4(6) and (7), Ar ticle 8(3), Ar ticle 9(5), Ar ticle 10(2), 
+Ar ticle 11(4), and Ar ticle 13(2) shall apply from 29 December 2019 and Ar ticle 11(1) to (3) shall apply from 1 Januar y 
+2022. 
+This Regulation shall be binding in its entirety and directly applicable in all Member States. 
+Done at Strasbourg, 27 No vember 2019. 
+For the Europ ean P arliament 
+The Pr esident 
+D. M. SASSOLI 
+For the Council 
+The Pr esident 
+T . TUPPURAINEN     
+EN Offi cial Jour nal of the European Uni on L 317/16                                                                                                                                         9.12.2019
+
+=== DOKUMENT ENDE ===

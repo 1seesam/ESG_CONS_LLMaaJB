@@ -1,0 +1,121 @@
+=== DOKUMENT START: Berechnung der Heizlast.pdf ===
+
+--- PDF SEITE 1 ---
+BauNetz Wissen
+_Heizung
+Berechnung der Heizlast
+ALLES ZU BEGRIFFEN, RECHENWEG UND NOTWENDIGEN UNTERLAGEN
+Um den Wärmeerzeuger in einem Gebäude, das System zur Wärmeverteilung und die Heizflächen zur
+Übergabe der Wärme an den Raum korrekt dimensionieren zu können, muss in einer möglichst frühen
+Planungsphase die Heizlast berechnet werden. Sie orientiert sich an der Spitzenlast, also dem maximalen
+Wärmebedarf unter ungünstigsten Auslegungsbedingungen. Grundlage ist ein definierter Auslegungsfall,
+etwa eine Innentemperatur von 20 °C in Kombination mit der regional gültigen Norm-Außentemperatur. Die
+Ermittlung der Heizlast erfolgt nach dem standardisierten Berechnungsverfahren der DIN EN 12831:
+Energetische Bewertung von Gebäuden - Verfahren zur Berechnung der Norm-Heizlast, ergänzt durch den
+deutschen Nationalen Anhang DIN EN 12831 Teil 1.
+Bild: Buderus, Wetzlar
+ Bild: Stiebel Eltron, Holzminden
+Die Gesamt-Normheizlast eines Gebäudes setzt sich aus der Summe der Norm-Transmissionsheizlast ( Φ T)
+und der Norm-Lüftungsheizlast ( Φ V) zusammen, ergänzt durch einen Zuschlag für die
+Wiederaufheizleistung ( Φ RH) nach Heizpausen. Es ist üblich, bei der Berechnung zunächst einzelne Räume
+zu betrachten und am Ende die Summe ( Σ ) zu bilden. Wiedergegeben wird die Heizlast schließlich in
+Kilowatt (kW). In der Regel erfolgt die Berechnung mittels entsprechender Software.
+Formel Norm-Heizlast Φ  HL für ein Gebäude:
+Φ  HL = Σ  Φ  T + Σ  Φ V + Σ  Φ RH
+BEGRIFFLICHKEITEN
+Der Transmissionswärmeverlust ( Φ T) bezeichnet den Wärmeverlust, der durch die Gebäudehülle
+entsteht. Dazu zählen Außenwände, Dach, Fenster, Türen sowie Böden, die an das Erdreich oder
+unbeheizte Räume angrenzen. Ursache für diesen Verlust sind Temperaturunterschiede zwischen innen
+und außen sowie die Wärmedurchgangskoeffizienten (U-Werte) der Bauteile. Bei Neubauten lassen sich
+diese Verluste anhand der Planungsdaten der Konstruktion relativ genau berechnen. 
+Lüftungswärmeverluste ( Φ V) resultieren aus dem Luftaustausch im Gebäude, sei es durch natürliche
+Infiltration (Undichtigkeiten, Fensterlüftung) oder durch mechanische Lüftungsanlagen. Während bei
+-
+-
+
+--- PDF SEITE 2 ---
+mechanischen Lüftungsanlagen der Luftwechsel relativ gut vorhersehbar ist, sind die Unsicherheiten bei
+reiner Fensterlüftung deutlich größer, da das Verhalten der Bewohner hier eine entscheidende und stark
+variierende Rolle spielt.
+Der Wiederaufheizzuschlag ( Φ RH) ist eine zusätzliche Leistung, die berücksichtigt, dass nach einer
+Phase ohne Beheizung oder mit reduzierter Temperatur (z.B. Nachtabsenkung) die gewünschte
+Raumtemperatur in einer angemessenen Zeit wieder erreicht werden muss. Die Höhe dieses Zuschlags
+hängt von der thermischen Zeitkonstante und der Wärmespeicherfähigkeit des Gebäudes ab.
+BERECHNUNGSSCHRITTE
+1. Bestimmen der meteorologischen Daten (Norm-Außentemperatur)
+2. Festlegen der Räume (beheizt, unbeheizt; Norm-Annentemperatur nach DIN EN 12831)
+3.  Festlegen der Gebäudedaten (Abmessungen, wärmetechnische Eigenschaften)
+4. Bestimmen des Norm-Wärmedurchgangskoeffizienten (U-Wert) nach DIN EN ISO 6946: Bauteile -
+Wärmedurchlasswiderstand und Wärmedurchgangskoeffizient - Berechnungsverfahren
+5. Berechnung Norm-Transmissionswärmeverluste
+6. Berechnung Norm-Lüftungswärmeverluste
+7. Berechnung der Aufheizleistung (optional, wird nach aktuellem Beiblatt separat ausgewiesen)
+8. Norm-Heizlast als Summe aller Norm-Wärmeverluste in Kilowatt (kW)
+GEBÄUDESPEZIFISCHEN FAKTOREN
+Norm-Außentemperatur: Sie ist in der DIN EN 12831 festgelegt und ist abhängig vom geografischem
+Standort.
+Norm-Innentemperatur: Die Norm empfiehlt spezifische Innentemperaturen für jeden Raumtyp (z. B. 20
+°C für Wohnräume, 15 °C für Hauswirtschaftsräume).
+U-Werte: Der Wärmedurchgangskoeffizient (U-Wert) ist entscheidend für die Transmissionsverluste und
+gibt an, wie viel Wärme pro Quadratmeter Fläche bei einer Temperaturdifferenz von einem Grad
+entweicht.
+Luftwechselraten: Eine angenommene Luftwechselrate wird für die Ermittlung der Lüftungsverluste
+verwendet.
+Erdreichberechnung: Die Berechnung von Wärmeverlusten über das Erdreich erfolgt nach DIN EN ISO
+13370: Wärmetechnisches Verhalten von Gebäuden - Wärmetransfer über das Erdreich -
+Berechnungsverfahren und bietet Optionen für vereinfachte oder detaillierte Ansätze, einschließlich der
+Berücksichtigung horizontaler und vertikaler Randdämmungen.
+Wärmebrücken: Diese kritischen Punkte in der Gebäudehülle werden nach DIN V 18599-2: Energetische
+Bewertung von Gebäuden - Berechnung des Nutz-, End- und Primärenergiebedarfs für Heizung, Kühlung,
+Lüftung, Trinkwarmwasser und Beleuchtung - Teil 2: Nutzenergiebedarf für Heizen und Kühlen von
+Gebäudezonen berücksichtigt, für detaillierte Berechnungen kommt die DIN 4108 Beiblatt 2:
+Wärmeschutz und Energie-Einsparung in Gebäuden; Beiblatt 2: Wärmebrücken - Planungs- und
+Ausführungsbeispiele zur Anwendung.
+NOTWENDIGE UNTERLAGEN ZUR BERECHNUNG DERHEIZLAST
+Bei Neubau oder Bestandssanierung werden die Bauplanungsunterlagen vom Architekturbüro angefordert.
+Diese bestehen aus folgenden Unterlagen und Informationen:
+Lageplan mit Angaben der Himmelsrichtung, Höhe der Nachbargebäude und der geografischen Lage
+Gebäudeplan mit Geschossgrundrissen und Gebäudeschnitten mit einem Mindestmaßstab von 1:100,
+Geschossgrundrisse mit Baubemaßung einschließlich Fenster- und Türmaßen, die Räume mit
+Nutzungsangabe und Nummerierung der Räume
+Eintrag in den Bauplan eventuell geänderter Innenraumtemperaturen, die von den Norm-
+Innentemperaturen abweichen (Absprache mit der Bauherrschaft)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+
+--- PDF SEITE 3 ---
+Baubeschreibung mit Wand-, Decken- und Dachaufbau (Dichte, λ -Werte), Fenster mit Verglasungsart,
+Rahmenmaterial, Güteklassen, Türen mit Materialangabe und Verglasungsanteil
+Liegen keine Bauunterlagen vor, etwa weil das Gebäude zu alt ist, muss auf Fachliteratur für historische
+Baustoffe für das Bestimmen der U-Werte zurückgegriffen werden.
+RISIKEN DER UNTER- UND ÜBERDIMENSIONIERUNG
+Unterdimensionierung: Wird die benötigte Heizlast zu gering angesetzt, kommt es in Spitzenzeiten zu einer
+Unterversorgung des Gebäudes mit Wärme. An kalten Tagen kann somit die gewünschte Raumtemperatur
+nicht erreicht werden, was den Wohnkomfort erheblich beeinträchtigt. Außerdem steigt das Risiko für
+Feuchteschäden und Schimmel, da die Bausubstanz nicht ausreichend erwärmt und getrocknet wird.
+Überdimensionierung: Ein zu groß ausgelegter Wärmeerzeuger taktet häufiger, er schaltet sich also unnötig
+oft ein und aus, was zu einem erhöhten Energieverbrauch führt, da jeder Startvorgang zusätzliche Energie
+benötigt und der Betrieb außerhalb des optimalen Lastbereichs ineffizienter ist. Ein hohes Taktverhalten
+führt zudem zu einem verstärkten Verschleiß der Bauteile. Früher wurden häufig pauschale Annahmen wie
+„100 W pro Quadratmeter“ als Grundlage verwendet. Diese führten jedoch oft zu einer
+Überdimensionierung, die den heutigen Anforderungen an Energieeffizienz nicht mehr gerecht wird.
+FACHWISSEN ZUM THEMA
+Kontakt Redaktion Baunetz Wissen: wissen@baunetz.de
+Baunetz Wissen Heizung sponsored by:
+Buderus | Bosch Thermotechnik GmbH | Kontakt 06441 418 0 |
+www.buderus.de
+-
+Wärmeverlust-MinimierungWie und wo entsteht unkontrollierte Wärmeabgabe?
+HeizungsanlagenAnlagenplanung
+WärmebedarfHeizlast und Energiebedarf
+
+=== DOKUMENT ENDE ===
