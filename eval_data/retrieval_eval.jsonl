@@ -1,2 +1,0 @@
-{"id":"sample_1","query":"Welche gesetzlichen Vorgaben gelten fuer Ladeinfrastruktur in Wohngebaeuden?","expected_sources":["GEIG_T.txt"]}
-{"id":"sample_2","query":"Welche Anforderungen nennt die DIN 4108 zum Waermeschutz?","expected_sources":["DIN 4108 W?rmeschutz und Energie-Einsparung.txt"]}
